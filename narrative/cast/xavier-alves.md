@@ -1,0 +1,83 @@
+# 👤 Xavier Alves
+
+<figure><img src="../../.gitbook/assets/fitz.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+
+> "You’ll bring it to me. You’ll bring it to me because you love your brother and how he’s all one piece.” - Xavier
+
+## Chat
+
+{% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
+
+## Basics
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 29</p><p>Occupation: Gang leader</p><p>First Impression: Human storm cloud</p><p>Self-Image: Deserves the life stolen from him</p><p>True Self: Pain, bitterness and ambition<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2095</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: European, Argentinian</p><p>Born: Greater Toronto</p></td></tr></tbody></table>
+
+<figure><img src="../../.gitbook/assets/nomoney_long_shot_of_shady_guy_sitting_in_a_booth_in_a_neon_lit_4480c0d4-543f-40c3-baee-22e34c0ff165.png" alt="" width="563"><figcaption><p>Xavier receiving some bad news.</p></figcaption></figure>
+
+## Bio
+
+Born in Greater Toronto during the final years of the Reconstruction era. His mother was a teacher at the Garden School, and his father worked for the Local Authority. Xavier was a gifted youth with a bright future, but he was prone to getting into fights, and was encouraged by his father who had grown up in the harsh aftermath of the Dark Decade.
+
+After a particularly violent encounter with a group of older boys that was celebrated by his father, his parents had a pivotal argument. His announced she was leaving his father for good, and took young the Xavier with her to her friend's apartment. That night, Xavier's father drank heavily and took his own life. This tragedy shattered the young Xavier, and he spiraled into delinquency. He got swept up in dealing drugs at the age of 14, and began hanging around with a bad crowd, however continued to attend school and pass reasonably well without much effort.
+
+When he got his link implanted at 16, he proved to be intuitively adept at recognizing trails of data and residual imprints, and this led to a nearly-successful string of major heists that landed him in custody of the Local Authority. Without solid proof, and because of who his father was, he was released.&#x20;
+
+On the way home, he was jumped by thugs representing the gang he had stolen from, and was left very seriously injured and dying in the street. A young girl named Lulu discovered him in an alley while walking her little brother home from school and her intervention saved his life.&#x20;
+
+With his future in the higher academies forfeit now and his body severely broken, an embittered Xavier decided he would take control of his future. With single-minded determination, he set out to exact revenge and ten years later, the gang that had beaten him in the street are gone, and Xavier and his crew now stand in their place.
+
+Xavier's gang work with Wallrunners who smuggle legacy tech and Old World paraphernalia through the East End Gray Zone dockyards. Xavier also permits a number of other activities on his docks, from pleasure houses, to an Astral dormitory, and more. His favorite pet establishment is the underground arcade Palaizir, mainly due to a secret, distorted fondness for Lulu, now a sync jockey, who he has kept close tabs on over these years.
+
+## Motivations
+
+* Maintain his grip on the East End Gray Zone.
+* Don’t lose influence to Hundred Hands.
+* Keep a tight hold on Lulu.
+* Exploit Lulu's brother, Fitz, for his talents.
+* Find out who this Prince guy is.
+
+<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.run1nzN-EQf83k_establishing_shot_from_behi_595638a1-b74c-42d6-a098-47a8e9f07843.png" alt="" width="563"><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
+
+## Trivia
+
+*
+
+## **Personality & Quirks**
+
+* Single-minded.
+* Has a twisted sense of justice.
+
+## Secrets
+
+* He knows The Hundred Hands have started looking for something recently.
+
+## Skills
+
+*
+
+## Family & Associates
+
+Lulu (On-and-off Girlfriend)
+
+Fitz (Lulu's brother)
+
+## Comparative Stats
+
+| Attribute    | Stat |
+| ------------ | ---- |
+| Strength     | 7    |
+| Defense      | 7    |
+| Dexterity    | 8    |
+| Intelligence | 5    |
+| Wisdom       | 9    |
+| Charisma     | 7    |
+
+### Quotes
+
+> "Brave. Pointless, but brave." - Xavier
+
+> "You're going to regret that, little bird." - Xavier
+
+## Meta Self-Description
+
+This world is a rotten apple, so what if I'm the worm? I had nothing, and even that was taken from me, but I came back. I got my revenge on the gang that left me for dead. I took over. Now, I'm the boss. The docks belong to me now. And all I need is something big. Something big enough to get me leverage over the Hundred Hands before they push me out. I know I'm clever enough to take them on, and I'll do whatever I have to to win. Or die trying.
