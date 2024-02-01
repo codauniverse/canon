@@ -24,7 +24,7 @@ Recently studies of BODYSNATCHER have confirmed its long-suspected role in the o
 
 Researchers discovered that if one can successfully circumvent all of BODYSNATCHER’s modes of detecting if it is being watched, it is possible to “bodysnatch” BODYSNATCHER. Once overtaken, BODYSNATCHER can be compelled to self-annihilate.
 
-While it was originally hoped that this technique would produce a panacea for the virus, this discovery revealed a yet-unseen behavior from the virus. When BODYSNATCHER is forced to self destruct in this way, any connected infected machines also self-destruct, causing a critical cascade across an entire network. It is believed by some that this could be the mechanism that initiated The Crash, however the source and motivations behind its release remain unknown.
+While it was originally hoped that this technique would produce a panacea for the virus, this discovery revealed a yet-unseen behavior from the virus. When BODYSNATCHER is forced to self destruct in this way, any connected descendent infected machines also self-destruct, potentially causing a critical cascade across an entire network. It is believed by some that this could be the mechanism that initiated The Crash, however much remains unknown.
 
 ***
 
