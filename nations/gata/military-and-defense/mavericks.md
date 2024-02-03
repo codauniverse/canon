@@ -64,7 +64,7 @@ And darker rumors abound – some say ALTAR keeps retired UDAs in cryostasis, wh
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_character_in_bulky_armor_suit_sleek_angular_design_m_49ec6427-9f69-48c4-a0b2-fe4e36b9961c.png" alt=""><figcaption><p>A MAV surveilling the situation.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_character_in_bulky_armor_suit_sleek_angular_design_m_49ec6427-9f69-48c4-a0b2-fe4e36b9961c.png" alt="" width="563"><figcaption><p>A MAV surveilling the situation.</p></figcaption></figure>
 
 ## **MAVs: The Modern Guardians of GATA**
 
