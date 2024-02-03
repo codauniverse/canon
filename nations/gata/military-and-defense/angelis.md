@@ -30,6 +30,8 @@ Angelis was founded in the wake of The Reconstruction, as GATA fractured its nat
 
 Angelis strategy and intelligence. Watchers provide expert information gathering, border protection, personal protection, asset tracking, private communications, targeted downtime, and comprehensive strategic foresight. Having a Watcher on the line is an invaluable resource in a crisis.
 
+<figure><img src="../../../.gitbook/assets/14.png" alt="" width="563"><figcaption><p>An Angelis Watchtower in Low Earth Orbit.</p></figcaption></figure>
+
 ### **Watchtowers**
 
 Orbital stations and surveillance platforms where orbital Angelis personnel work. Watchtower staff includes Watchers and Guardians who work closely with their ground-based counterparts to ensure the security of Greater Atla.&#x20;
@@ -58,7 +60,7 @@ Guardians are identifiable by their blue Combat Gear.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/rapidresponse.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/rapidresponse.png" alt="" width="563"><figcaption><p>A Rapid Response unit prepares to disembark.</p></figcaption></figure>
 
 ## **Angelis Rapid Response**
 
@@ -66,10 +68,12 @@ Rapid Response are elite first responder units. They typically operate in teams 
 
 ***
 
+<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt="" width="563"><figcaption><p>Advanced Combat Gear designed for GATA's most elite operatives.</p></figcaption></figure>
+
 ## **Angelis Combat Gear**
 
 Angelis has the most advanced combat gear in the world. Angelis infantry uses more standard load outs, but Guardians, Rapid Response, and MAVs are trained to use highly advanced combat gear that can be tailored to their talents and each mission’s requirements.
 
-* Guardians: Blue Combat Gear / Large-to-mid-size / Heavy loadout
-* Rapid Response: Red Combat Gear / Mid-size / Less-lethal loadout
-* MAVs: White Combat Gear / Small / Form-Fitting / Minimal loadout
+* **Guardians:** Blue Combat Gear / Large-to-mid-size / Heavy loadout
+* **Rapid Response:** Red Combat Gear / Mid-size / Less-lethal loadout
+* **MAVs:** White Combat Gear / Small / Form-Fitting / Minimal loadout
