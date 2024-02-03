@@ -62,7 +62,7 @@ Guardians are identifiable by their blue Combat Gear.
 
 ## **Angelis Rapid Response**
 
-Rapid Response are elite first responder units. They typically operate in teams of 3-5 Guardians with complementary skills and are deployed from orbit in hard-landing pods called an Aegis, the same deployment method as Mavericks. New Mavericks are often recruited from the ranks of Rapid Response. Rapid Response is identifiable by their red Combat Gear.
+Rapid Response are elite first responder units. They typically operate in teams of 3-5 with complementary skills and are deployed from orbit in hard-landing pods called an Aegis, the same deployment method as Mavericks. New Mavericks are often recruited from the ranks of Rapid Response. Rapid Response is identifiable by their red Combat Gear.
 
 ***
 

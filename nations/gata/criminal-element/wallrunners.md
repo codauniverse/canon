@@ -32,6 +32,10 @@ Wallrunners are named for the most common breaching method; running really fast.
 
 Most wallrunners employ Sprint Gear, [wearable gear](../../../overview/science-and-tech/gear.md) or prosthetics that allow them to achieve superhuman speed and agility while also relying heavily on strategy, deception and misdirection. Sprint Gear can be augmented with other gear to allow for boosting, stealth, misdirection, and projectile defenses.
 
+One of the most important aspects of wallrunning is building and maintaining momentum. With more kinetic energy, and the right gear loadout, wallrunners can power through many deterrents, and more easily enter a flow state, where their attention and reflexes are more attuned.
+
+Boost Gear gives wallrunners the ability to quickly evade projectiles and avoid target lock. Boost gear allows wallrunners to boost in any direction, with some loadouts allowing a wallrunner to make their entire approach from the air.
+
 Outside of the district walls, wallrunners contend with the highly capable Gate Patrol, but once they breach the district interior, tracking them falls to the [Local Authority](../law-and-order/local-authority.md), who are typically far less capable to address skilled runners. The Local Authority are known to sometimes contract operator runners to chase down illegal wallrunners.
 
 <figure><img src="../../../.gitbook/assets/nomoney420_in-game_screenshot_3rd_person_camera_of_a_character__3d4d2013-821a-490b-956c-5abaeba3955b.png" alt="" width="563"><figcaption><p>A wallrunner under assault from Gate Patrol.</p></figcaption></figure>
