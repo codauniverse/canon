@@ -32,7 +32,7 @@ Wallrunners are named for the most common breaching method; running really fast.
 
 Most wallrunners employ Sprint Gear, [wearable gear](../../../overview/science-and-tech/gear.md) or prosthetics that allow them to achieve superhuman speed and agility while also relying heavily on strategy, deception and misdirection. Sprint Gear can be augmented with other gear to allow for boosting, stealth, misdirection, and projectile defenses.
 
-One of the most important aspects of wallrunning is building and maintaining momentum. With more kinetic energy, and the right gear loadout, wallrunners can power through many deterrents, and more easily enter a flow state, where their attention and reflexes are more attuned. With more momentum, runners can leap and slide greater distances, and increase the power available to their gear and equipment.
+One of the most important aspects of wallrunning is building and maintaining momentum. With more kinetic energy, and the right gear loadout, wallrunners can power through many deterrents, and more easily enter a flow state, where their attention and reflexes are more attuned. Momentum allows runners to leap and slide greater distances, and increases the power available to their gear and equipment.
 
 Boost Gear gives wallrunners the ability to quickly evade projectiles and avoid target lock. Boost gear allows wallrunners to boost in any direction, with some loadouts allowing a wallrunner to make their entire approach from the air.
 
