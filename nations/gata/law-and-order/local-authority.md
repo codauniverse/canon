@@ -30,9 +30,13 @@ When GATA incorporates new districts, the extant sources of law and order in tho
 
 ## Operation
 
-The decentralized nature of the Local Authority allows each district to tailor law enforcement strategies according to their unique societal and technological paradigms. Local Authorities overseen by the local government and equipped with ample resources by the Second Quorum.&#x20;
+The decentralized nature of the Local Authority allows each district to tailor law enforcement strategies according to their unique societal and technological paradigms. Local Authorities overseen by the local government and equipped with ample resources by the Second Quorum.
 
 Local Authorities can request limited access to certain advanced technologies if their District Representative can bend the ear of the AIC Liason for Gate Patrol or Collections resources, or rally the Second Quorum to sign an appeal to the First Quorum for Angelis support, a much rarer affordance.
+
+The Local Authority's jurisdiction ends at the district's Gate and Field Wall. Transgate crime requires coordination with Gate Patrol.&#x20;
+
+Some tension tends to exist between Gate Patrol and the Local Authority because of the special paradigm enjoyed by Gate Patrol, affording them access to more advanced technology and better intelligence via AIC-related keys.
 
 ### Cross-district Coordination
 
@@ -42,9 +46,9 @@ The Local Authority can use The System to coordinate operations and share inform
 
 ## Involvement in Gray Zones
 
-The Local Authority doesn’t have jurisdiction within Grey Zones inside their territory, however it is not uncommon for people inside Grey Zones to request assistance of authorities, which is typically provided without issue.
+The Local Authority doesn’t have jurisdiction within Grey Zones inside their territory, however it is not uncommon for people inside Grey Zones to request assistance of authorities, which is often provided without issue.
 
-In the event that crime in Grey Zones involves district citizens or breaches of NDA law, the Local Authority is fully authorized under GATA law to intervene, or they may choose to request the assistance of Angelis.
+In the event that crime in Grey Zones involves district citizens or breaches of NDA law, the Local Authority is not authorized under GATA law to intervene, however they may choose to request the assistance of Angelis.
 
 ***
 
