@@ -68,8 +68,8 @@ Iris (AIC Vice Chair) - Hand-picked Amelia for her assignment
 | Attribute    | Stat |
 | ------------ | ---- |
 | Strength     | 3    |
-| Defense      | 3    |
-| Dexterity    | 6    |
+| Defense      | 2    |
+| Dexterity    | 5    |
 | Intelligence | 10   |
 | Wisdom       | 3    |
 | Charisma     | 8    |

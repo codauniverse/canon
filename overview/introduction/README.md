@@ -18,7 +18,7 @@ layout:
 
 ## Earth, 2125.
 
-The [Greater Atlantic Territorial Alliance](../../nations/gata/) (GATA) stands as the indisputable world power, offering stability at the cost of strict regulation and control. Its influence radiates from its oceanic capitol, [Atla](../../nations/gata/key-locations/atla.md), a symbol of both progress and decadence. From its inception, GATA has drawn on an unlimited well of pride and goodwill for its role in lifting the world from the [Dark Decade](../history/the-dark-decade.md). And all the while, its new order took form.
+The [Greater Atlantic Territorial Alliance](../../nations/gata/) (GATA) stands as the indisputable world power, offering stability at the cost of strict regulation and control. Its influence radiates from its oceanic capitol, [Atla](../../nations/gata/key-locations/atla.md), a symbol of both progress and decadence. From its inception, GATA has drawn on an unlimited well of national pride and goodwill for its role in lifting the world from the [Dark Decade](../history/the-dark-decade.md). And all the while, its new order took form.
 
 <figure><img src="../../.gitbook/assets/system.png" alt="" width="563"><figcaption></figcaption></figure>
 
