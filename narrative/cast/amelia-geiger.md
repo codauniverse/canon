@@ -10,7 +10,7 @@
 
 ## Basics
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 21</p><p>Occupation: Programmer, AIC grantee</p><p>First Impression: Humorless, and uncomfortably present</p><p>Self-Image: Explorer seeking rare understanding</p><p>True Self: Repressed keener with something to prove<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2095</p><p>Location: Atla</p><p>Citizenship: GATA</p><p>Ethnicity: Irish</p><p>Born: Dublin, Ireland</p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 21</p><p>Occupation: Programmer, AIC grantee</p><p>First Impression: Humorless, and uncomfortably present</p><p>Self-Image: Explorer seeking rare understanding</p><p>True Self: Repressed keener with something to prove<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2095</p><p>Location: Atla</p><p>Citizenship: GATA</p><p>Ethnicity: Irish</p><p>Born: Dublin, Ireland</p></td></tr><tr><td>Appearance</td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/nomoney_long_shot_of_geeky_redhead_in_a_glass_and_metal_sci-fi__2b08a0ca-cb14-4ab2-bb63-311f8508503d.png" alt="" width="563"><figcaption><p>Amelia startled in the lab.</p></figcaption></figure>
 
