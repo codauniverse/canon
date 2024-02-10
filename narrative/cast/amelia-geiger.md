@@ -20,6 +20,7 @@
 * Hair style: Middle-length cut with curtain bangs concealing an undercut
 * Eye Color: Blue
 * Skin Type: Fair with freckles
+* Body Type: Average.
 * Accessories: Smart eye glasses with thin frames
 * Description: Naturally pretty but very unassuming. Has a little bit of a slouch from coding all day. Has a somewhat flatter affect that is hard to read. Intense eyes when thinking.
 
@@ -53,9 +54,16 @@ Her specialization in cog design developed into a whitepaper on cog safety proto
 
 ## **Personality & Quirks**
 
+* Obsessive about her work.
+* Absent-minded and always late.
+* Can be socially awkward.
+* Often says the wrong thing at the wrong time.
 * Addicted to praise.
 * Is easily goaded into proving her competence.
+* Can sound really harsh in her criticisms or descriptions without meaning to.
+* Is actually very sweet and optimistic.
 * Chews on her pens and pencils.
+* Clumsy.
 
 ## Secrets
 
