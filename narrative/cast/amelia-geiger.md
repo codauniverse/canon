@@ -17,7 +17,7 @@
 * Height: 5'5"
 * Weight: 120 lbs
 * Hair Color: Orange
-* Hair style: Middle-length cut with curtain bangs concealing an undercut
+* Hair style: Armpit-length hair with curtain bangs concealing an undercut
 * Eye Color: Blue
 * Skin Type: Fair with freckles
 * Body Type: Average.
