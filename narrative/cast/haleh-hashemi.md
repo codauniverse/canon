@@ -12,6 +12,18 @@
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 25</p><p>Occupation: Sync Jockey, Gardener</p><p>First Impression: Beautiful and quiet</p><p>Self-Image: Lost in time</p><p>True Self: Flower reaching for sunlight<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: July 11, 2099</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: Persian, Iranian</p><p>Born: Tehran, URSA</p></td></tr></tbody></table>
 
+## Appearance
+
+* Height: 5'4"
+* Weight: 120 lbs
+* Hair Color: Orange
+* Hair style: Armpit-length hair with curtain bangs concealing an undercut
+* Eye Color: Blue
+* Skin Type: Fair with freckles
+* Body Type: Average.
+* Accessories: Smart eye glasses with thin frames
+* Description: Naturally pretty but very unassuming. Has a little bit of a slouch from coding all day. Has a somewhat flatter affect that is hard to read. Intense eyes when thinking.
+
 <figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoulde_abc4afcb-6d48-4080-b891-dc355dc21594.png" alt="" width="563"><figcaption><p>Haleh under the neon lights of an arcade.</p></figcaption></figure>
 
 ## Bio

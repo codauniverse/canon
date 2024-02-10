@@ -14,7 +14,7 @@
 
 ## Appearance
 
-* Height: 5'5"
+* Height: 5'6"
 * Weight: 120 lbs
 * Hair Color: Orange
 * Hair style: Armpit-length hair with curtain bangs concealing an undercut
