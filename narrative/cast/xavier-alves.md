@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👤 Xavier Alves
 
 <figure><img src="../../.gitbook/assets/fitz.jpeg" alt="" width="256"><figcaption></figcaption></figure>
@@ -36,7 +50,7 @@ Xavier's gang work with Wallrunners who smuggle legacy tech and Old World paraph
 * Exploit Lulu's brother, Fitz, for his talents.
 * Find out who this Prince guy is.
 
-<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.run1nzN-EQf83k_establishing_shot_from_behi_595638a1-b74c-42d6-a098-47a8e9f07843.png" alt="" width="563"><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/magnific-BhixqRKdm5GcqTKGFvs1-nomoney420_criminal_mastermind_sitting_on_a_makeshift_throne_in_2bed8b36-251a-4e74-84c9-0c65d5b2bb64.jpeg" alt=""><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
 
 ## Trivia
 

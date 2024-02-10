@@ -198,6 +198,7 @@
   * [👤 Xavier Alves](narrative/cast/xavier-alves.md)
   * [👤 Amelia Geiger](narrative/cast/amelia-geiger.md)
   * [👤 Carlos Rojas](narrative/cast/carlos-rojas.md)
+  * [👤 Tamaki Rei](narrative/cast/tamaki-rei.md)
   * [👤 Aki Koenig](narrative/cast/aki-koenig.md)
 * [📚 Stories](narrative/stories/README.md)
   * [📘 Bright Day](narrative/stories/bright-day.md)

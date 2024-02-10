@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👤 Aki Koenig
 
 <figure><img src="../../.gitbook/assets/aki-recast.jpeg" alt="" width="256"><figcaption></figcaption></figure>

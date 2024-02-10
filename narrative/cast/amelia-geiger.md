@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👤 Amelia Geiger
 
 <figure><img src="../../.gitbook/assets/db4da8a3fda6145eb8c6cf51d350.jpeg" alt="" width="256"><figcaption></figcaption></figure>
@@ -20,7 +34,8 @@
 * Hair style: Armpit-length hair with curtain bangs concealing an undercut
 * Eye Color: Blue
 * Skin Type: Fair with freckles
-* Body Type: Average.
+* Face Shape: Oval
+* Body Type: Average
 * Accessories: Smart eye glasses with thin frames
 * Description: Naturally pretty but very unassuming. Has a little bit of a slouch from coding all day. Has a somewhat flatter affect that is hard to read. Intense eyes when thinking.
 
@@ -89,11 +104,11 @@ Iris (AIC Vice Chair) - Hand-picked Amelia for her assignment
 | Attribute    | Stat |
 | ------------ | ---- |
 | Strength     | 3    |
-| Defense      | 2    |
+| Defense      | 3    |
 | Dexterity    | 5    |
 | Intelligence | 10   |
-| Wisdom       | 3    |
-| Charisma     | 8    |
+| Wisdom       | 6    |
+| Charisma     | 5    |
 
 ### Quotes
 

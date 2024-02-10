@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👤 Haleh Hashemi
 
 <figure><img src="../../.gitbook/assets/artbreeder-portraits_sg2-2024-01-23T23_19_01.180Z.jpeg" alt="" width="256"><figcaption></figcaption></figure>
@@ -15,14 +29,15 @@
 ## Appearance
 
 * Height: 5'4"
-* Weight: 120 lbs
-* Hair Color: Orange
-* Hair style: Armpit-length hair with curtain bangs concealing an undercut
-* Eye Color: Blue
-* Skin Type: Fair with freckles
-* Body Type: Average.
-* Accessories: Smart eye glasses with thin frames
-* Description: Naturally pretty but very unassuming. Has a little bit of a slouch from coding all day. Has a somewhat flatter affect that is hard to read. Intense eyes when thinking.
+* Weight: 118 lbs
+* Hair Color: Blue
+* Hair style: Razor bob hairstyle with no bangs
+* Eye Color: Gray
+* Skin Type: Olive
+* Face Shape: Heart
+* Body Type: Average, but toned
+* Accessories: Small chrome sticker on her face
+* Description: Beautiful with an edge. Large eyes framed with bold eyebrows, and soft lips.&#x20;
 
 <figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoulde_abc4afcb-6d48-4080-b891-dc355dc21594.png" alt="" width="563"><figcaption><p>Haleh under the neon lights of an arcade.</p></figcaption></figure>
 

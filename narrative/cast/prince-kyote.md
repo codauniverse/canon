@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 👤 Prince Kyote
 
 <figure><img src="../../.gitbook/assets/4136fff679e77bbbee04b91862cc.jpeg" alt="" width="256"><figcaption></figcaption></figure>
@@ -22,11 +36,11 @@ His family moved to Atla when he was 2. His celebrity father and research obsess
 
 When he was 13, Prince was expelled from the Atlan Academy of the Arts due to repeated breaches of security. He moved to Greater Toronto, where his father was based. Spending more time with his father, Prince became fascinated with music and, during a trip to LA for a performance, glimpsed the emerging sync scene forming around the newly paradigmed tech. He also began to see how GATA used his father, and saw his father’s sympathy for the Free Territories. One day, Prince was jamming in his father’s studio when GATA’s visiting Councilor for the Arts noted Prince’s talent and suggested one day he might perform for GATA.
 
-After an argument with his father about moving to live with his mother, Prince sped into the night on his static Dart board where he discovered an underground arcade and, while spying from the roof, saw a young Haleh’s SOULJOURNER set. He would soon befriend her as they both attended the same school in Toronto. After learning about music and syncing from Haleh, Prince finally revealed to her that he was his father’s son. She already knew, but he could tell that she acted surprised for him. He told her that he had to move to live with his mother, putting a premature end to their budding crush.
+After an argument with his father about moving to live with his mother, Prince stormed off on his dart board and, while spying from a roof, he spotted a young girl driving a very complex system with her link in a secluded area, and he would soon befriend her, realizing they both attended the same school. After learning about music and syncing from Haleh, Prince finally revealed to her that he was his father’s son. She already knew, but he could tell that she acted surprised for him. Eventually he revealed that he had to move to live with his mother, putting a premature end to their budding crush.
 
 At the age of 15, Prince traveled with his father to meet his mother at his big Bright Mesa performance. The intention was that he would go home with his mother after the show. Tragically, there was a terrorist attack during the GATA-sponsored performance in Bright Mesa targeting Atlan dignitaries. His mother and father were killed. Prince was believed to have been killed in the attack.
 
-He turns up 10 years later with his mother’s keys.
+He turns up 10 years later.
 
 ## Motivations
 
@@ -86,12 +100,12 @@ Remi Tranche (Godfather)
 
 | Attribute    | Stat |
 | ------------ | ---- |
-| Strength     | 8    |
+| Strength     | 7    |
 | Defense      | 6    |
 | Dexterity    | 7    |
 | Intelligence | 9    |
-| Wisdom       | 5    |
-| Charisma     | 6    |
+| Wisdom       | 6    |
+| Charisma     | 4    |
 
 ### Quotes
 
