@@ -14,7 +14,7 @@ layout:
 
 # 👤 Xavier Alves
 
-<figure><img src="../../.gitbook/assets/fitz.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/35ee519d60e48e89244b558ba613.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 > "You’ll bring it to me. You’ll bring it to me because you love your brother and how he’s all one piece.” - Xavier
 
@@ -54,12 +54,23 @@ Xavier's gang work with Wallrunners who smuggle legacy tech and Old World paraph
 
 ## Trivia
 
-*
+* Can't feel his hands due to his injuries.
 
 ## **Personality & Quirks**
 
 * Single-minded.
 * Has a twisted sense of justice.
+* Keeps his communication terse, and pointed.
+* Never forgets a grudge.
+* Almost impossible to read.
+* Really good at lying.
+* Manipulative without remorse.
+* Believes the ends always justify the means.
+* Believes its a dog-eat-dog world.
+* He's educated but he speaks like the street boss that he is.
+* Not very patient.
+* Doesn't suffer fools.
+* When he's laughing, it's usually bad news for someone.
 
 ## Secrets
 

@@ -54,10 +54,10 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 
 ## Motivations
 
-* Indulge her every whim and desire
-* Loves a challenge
-* Always leave them before they leave you
-* Silence the haters
+* Indulge her every whim and desire.
+* Loves a challenge.
+* Always leave them before they leave you.
+* Silence the haters.
 
 ## Trivia
 
@@ -76,11 +76,18 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 * Unable to acknowledge her own flaws.
 * Nosey with a taste for all gossip.
 * Mischievous, and fond of crossing boundaries.
+* Not ambitious, but does have a chip on her shoulder from having her talent doubted by critics due to her profile and looks.
+* Doesn't talk politics.
+* Doesn't like to think about anything too deep, it makes her anxious and want to withdraw.
+* She tends to be curious about what people do for work, but really she's trying to figure out if they matter in some way.
+* She is always aware of who has the most status and tends to give them her attention over others.
+* She is not attracted to people who aren't fun, but she will still flirt a little with boring people who are also rich or powerful.
 * Sexually liberated.
 * Prone to walk around her apartment nude.
+* Likes to be objectified.
 * Bites her lip when she wants something.
 * Tends to play with her hair when she's lying, but tries to hide it.
-* Likes to gamble
+* Likes to gamble.
 * Adrenaline junky, but not very athletic.
 * Sometimes takes extreme risks just to feel alive.
 * Her off-stage fashion style is elegant but provocative.
@@ -94,12 +101,14 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 * She's seen things GATA officials have done that she can't talk about.
 * She knows a lot of sensitive details about powerful men.
 * How her music is made.
+* She likes it when people tell her what to do.
 
 ## Skills
 
 * A natural seductress.
 * A very capable singer and stage performer.
 * Excellent but expensive taste.
+* She knows what people want.
 
 ## Family & Associates
 
