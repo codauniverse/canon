@@ -14,18 +14,20 @@ layout:
 
 # The New Dawn Accords
 
-The New Dawn Accords (NDA) are a set of agreements and principles introduced by [GATA ](../)early in [The Reconstruction](../../../overview/history/the-reconstruction.md) following the successful implementation and remarkable results of "[The System](the-system.md)" within Atla, its founding [district](districts.md). The document was written by a working group from Atlan Information Control (AIC).
+<figure><img src="../../../.gitbook/assets/newdawnaccords.png" alt="" width="563"><figcaption><p>The New Dawn Accords being signed by a local government.</p></figcaption></figure>
 
-The NDA stipulates foundational principles for a stable, prosperous human civilization. These range from the more philosophical, to specific processes and restrictions. The purpose of the NDA is to outline a System that ensures all signatories maintain autonomy while being mutually compatible with GATA and each other.
+The New Dawn Accords (NDA) are a set of agreements and principles introduced by [GATA ](../)early in [The Reconstruction](../../../overview/history/the-reconstruction.md) following the successful implementation and remarkable results of "[The System](the-system.md)" within Atla, its founding [district](districts.md). The document was written by a special working group from [Atlan Information Control (AIC)](../institutions/atlan-information-control-aic.md), and is based on the [New Dawn Declaration](../history/the-new-dawn-declaration.md) that birthed Atla as a political entity.
 
-While in some ways the NDA and The System are permissive with how day-to-day life is conducted by local governments, it is extremely restrictive regarding the use of power, technology and information, and precisely describes how material support from The System will be throttled based on the jurisdiction's standing.
+The NDA stipulates foundational principles for a stable, prosperous human civilization. These range from the more philosophical, to specific processes and restrictions. The purpose of the NDA is to outline a System for key infrastructure that ensures all signatories maintain autonomy while being mutually compatible with GATA and each other.
+
+While in some ways the NDA and The System are permissive with how day-to-day life is conducted by local governments, it is extremely restrictive regarding the use of power, technology and information, and it precisely describes how material support from The System's other signatories will be throttled based on a jurisdiction's adherence to the accords.
 
 The ultimate stated goal of the document is the eventual unification of Earth into one domain, in order to set the stage for humanity spreading to other worlds by the end of the 22nd century.
 
 ### **Signatories**
 
 * Atla
-* GATA (Original Refugee Cities)
+* GATA (Current & pending districts)
 * Aryabat
 * African Union
 * New Imperial Japan

@@ -14,7 +14,7 @@ layout:
 
 # Governance
 
-## Overview
+<figure><img src="../../../.gitbook/assets/quorums.png" alt=""><figcaption><p>A politician making an appeal in the Second Quorum.</p></figcaption></figure>
 
 [GATA](../) employs a unique form of governance that can be defined as "Cybernetic Democracy." This model was instituted in 2061 and spans across regions including North America, South America, Western Europe, and North Africa.
 

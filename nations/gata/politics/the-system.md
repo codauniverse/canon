@@ -14,8 +14,6 @@ layout:
 
 # The System
 
-## Overview
-
 The System is a decentralized, [hard-coded](../../../overview/science-and-tech/hard-code.md) infrastructure that handles power, economic transactions, communication, and coordination within and between [districts](districts.md).
 
 After [GATA](../) began transitioning its districts to The System, there was a significant decrease in violence, political instability, mental and physical disease, and other social issues.
@@ -24,7 +22,7 @@ This transformation led to operational efficiencies that produced surpluses call
 
 The System’s concerns are sometimes referred to as the 3 R’s: Resources, Risk, and Rights.
 
-#### Technical Description
+### Technical Description
 
 Under the hood, The System is an advanced, distributed state machine operating on a network of [hardcode](../../../overview/science-and-tech/hard-code.md) nodes and clients designed by [Systema](../enterprise/systema.md) using the [Asimov-complete](../../../overview/science-and-tech/asimovian-architecture.md) programming language, [LMNL](../../../overview/science-and-tech/hard-code.md#lmnl). [System Nodes](the-system.md#system-nodes) are large, facility-sized computers that house extremely secure, purpose-built [COGs](../../../overview/science-and-tech/cogs.md), capable of managing and enforcing the operation of GATA.
 

@@ -68,7 +68,7 @@ Rapid Response are elite first responder units. They typically operate in teams 
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt="" width="563"><figcaption><p>Advanced Combat Gear designed for GATA's most elite operatives.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/angelis-maverick-armor_mj.png" alt="" width="563"><figcaption><p>Advanced Combat Gear designed for GATA's most elite operatives.</p></figcaption></figure>
 
 ## **Angelis Combat Gear**
 

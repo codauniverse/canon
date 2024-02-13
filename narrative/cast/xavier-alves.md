@@ -14,7 +14,7 @@ layout:
 
 # 👤 Xavier Alves
 
-<figure><img src="../../.gitbook/assets/35ee519d60e48e89244b558ba613.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xavier-StyleGAN.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 > "You’ll bring it to me. You’ll bring it to me because you love your brother and how he’s all one piece.” - Xavier
 
@@ -50,7 +50,7 @@ Xavier's gang work with Wallrunners who smuggle legacy tech and Old World paraph
 * Exploit Lulu's brother, Fitz, for his talents.
 * Find out who this Prince guy is.
 
-<figure><img src="../../.gitbook/assets/magnific-BhixqRKdm5GcqTKGFvs1-nomoney420_criminal_mastermind_sitting_on_a_makeshift_throne_in_2bed8b36-251a-4e74-84c9-0c65d5b2bb64.jpeg" alt=""><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xavier_hero_mj-magnific.jpeg" alt=""><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
 
 ## Trivia
 

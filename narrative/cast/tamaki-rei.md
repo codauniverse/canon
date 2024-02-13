@@ -14,7 +14,7 @@ layout:
 
 # 👤 Tamaki Rei
 
-<figure><img src="../../.gitbook/assets/f6f7e812bc545e8c0115b8b8dc6f.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tamaki-StyeGAN.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 > “You can't say no." - Tamaki
 
@@ -38,7 +38,7 @@ layout:
 * Description: Stunning. Mischievous smile. Moves with the flourishes of someone who knows she's being watched.
 *
 
-    <figure><img src="../../.gitbook/assets/magnific-r6uf28vcgV1R4SuBjMP7-nomoney420_photograph_of_extremely_attractive_half-japanese_hal_c56966a3-3647-402b-b6cd-16135a4b9ace.jpeg" alt="" width="563"><figcaption><p>Tamaki in one of her ad-hoc refuges.</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/tamaki_hero_mj-magnific" alt="" width="563"><figcaption><p>Tamaki in one of her ad-hoc refuges.</p></figcaption></figure>
 
 ## Bio
 
