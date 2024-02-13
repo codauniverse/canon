@@ -14,9 +14,7 @@ layout:
 
 # The Joint Atlantic Command (JAC)
 
-## History
-
-The Joint Atlantic command began as a flotilla of NATO ships and carriers that coalesced in the Atlantic Ocean during the first days of the Dark Decade. These ships were largely spared from the cyberattack that caused the Dark Decade due to their advanced networking infrastructure.
+The Joint Atlantic command began as a flotilla of NATO ships and carriers that coalesced in the Atlantic Ocean during the first days of the Dark Decade. These ships were largely spared from the cyberattack that caused the Dark Decade due to their recently-updated military-grade networking infrastructure.
 
 #### Early JAC Missions
 
@@ -26,7 +24,7 @@ The Joint Atlantic Command went on to launch some of the first major missions to
 
 Slowly, and trepidatiously over subsequent months, the flotilla grew into a sizeable patchwork fleet that included other surviving non-NATO military, research, and civilian vessels.
 
-During this period the JAC’s population grew from 40,900 to over 170,000 people, all living aboard ships and makeshift raft platforms in the middle of the East Atlantic.
+During this period the JAC’s population grew from 40,000 to over 170,000 people, all living aboard ships and makeshift raft platforms in the middle of the East Atlantic.
 
 #### The Big Talk
 
