@@ -14,9 +14,7 @@ layout:
 
 # Gray Zones
 
-<figure><img src="../../../.gitbook/assets/greyzone.png" alt="" width="563"><figcaption></figcaption></figure>
-
-## Overview
+<figure><img src="../../../.gitbook/assets/greyzone.png" alt="" width="563"><figcaption><p>A Gray Zone outside of a district's walls.</p></figcaption></figure>
 
 The term Gray Zone refers to any contiguous region inside of the territory of [Greater Atla](greater-atla.md) where [The System](../enterprise/systema.md) has not been adopted, or its requirements have not been met.&#x20;
 

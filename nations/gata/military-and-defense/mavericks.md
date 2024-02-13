@@ -14,7 +14,7 @@ layout:
 
 # MAVERICKS
 
-<figure><img src="../../../.gitbook/assets/angelis-maverick-armor_mj.png" alt="" width="563"><figcaption><p>Modern MAV Combat Gear.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt="" width="563"><figcaption><p>Modern MAV Combat Gear.</p></figcaption></figure>
 
 ## Overview
 
@@ -64,7 +64,7 @@ And darker rumors abound – some say ALTAR keeps retired UDAs in cryostasis, wh
 
 ***
 
-<figure><img src="../../../.gitbook/assets/angelis-maverick_mj_01.png" alt="" width="563"><figcaption><p>A MAV surveilling the situation.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_character_in_bulky_armor_suit_sleek_angular_design_m_49ec6427-9f69-48c4-a0b2-fe4e36b9961c.png" alt="" width="563"><figcaption><p>A MAV surveilling the situation.</p></figcaption></figure>
 
 ## **MAVs: The Modern Guardians of GATA**
 
@@ -102,6 +102,6 @@ Dante Newton, stands as a testament to the prowess of the original UDAs. With co
 
 Finneas Hughes of Angelis, one of the last of the UDA's, who died eliminating the infamous Butcher of Bright Mesa. His genetic blueprint forms the basis of Angelis' next-gen peacekeeper program.
 
-<figure><img src="../../../.gitbook/assets/angelis-maverick_phobos_mj.png" alt="" width="375"><figcaption><p>PHOBOS unchained.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_character_in_armored_combat_suit_sleek_angular_desig_bea394d5-1f24-4ded-96f0-cc9d39f49af1.png" alt="" width="375"><figcaption><p>PHOBOS unchained.</p></figcaption></figure>
 
 PHOBOS, known only by their call-sign, a much-mythologized Maverick, rumored to be the first current-generation MAV, successfully implanted with a COG relay in their brain stem.

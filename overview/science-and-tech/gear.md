@@ -10,7 +10,7 @@ In [Greater Atla](../../nations/gata/politics/greater-atla.md), beyond the safet
 
 ***
 
-<figure><img src="../../.gitbook/assets/angelis-rapid-response_01.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_character_standing_next_to_an_armored_combat_suit_sl_ca479467-ee05-4faa-9ed4-b20dced267bc.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Combat Gear**
 
@@ -22,7 +22,7 @@ The prevalence of [Link Jammers](links.md#link-jammers) on the combat field has 
 
 ***
 
-<figure><img src="../../.gitbook/assets/wallrunner-unknown-runner_01.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_extreme_closeup_of_a_man_with_advanced_leg_armor_in__084cdda1-095b-4f97-b40c-ff0da842acbb.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Sprint Gear
 
