@@ -16,15 +16,17 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/manna.png" alt="" width="563"><figcaption><p>Yellow and Blue Manna Flower specimens.</p></figcaption></figure>
 
-### **Origins and Significance**
+Engineered by Atlan scientists during the early years of the Dark Decade, the Manna flower is not just a marvel of genetic engineering, but also a symbol of hope. Seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal.
 
-Engineered by Atlan scientists during the early years of the Dark Decade, the Manna flower was not just a marvel of genetic engineering, but also a symbol of hope. The Manna flower was seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal. Designed to develop through three stages of maturity during which the plant can be induced to produce a myriad of compounds. These compounds formed the basis of medicines and materials that provided solace and healing to the people of the world throughout the challenging times of the Dark Decade and the subsequent Reconstruction era.
+Designed to develop through three stages of maturity during which the plant can be induced to produce a myriad of compounds. These compounds formed the basis of medicines and materials that provided solace and healing to the people of the world throughout the challenging times of the Dark Decade and the subsequent Reconstruction era.
 
-The Manna flower's significance extended beyond its medicinal attributes. As Atla's first real political emblem, it played a poignant role in uniting survivors. New ships wishing to join the growing Atlan fleet would fly a white flag as a sign of peace. Once accepted, these ships were given a Manna flower as a symbol of unity and were invited to adorn their flags with a blue depiction of the flower. This tradition of the blue Manna flower on a white backdrop persists and has become the enduring flag of Atla. Of note, GATA’s first flag featured the reverse - a white Manna flower on a blue field, before the more abstracted redesign that seen today.
+The Manna flower's significance extended beyond its medicinal attributes. As Atla's first real political emblem, it played a poignant role in uniting survivors. New ships wishing to join the growing Atlan fleet would fly a white flag as a sign of peace. Once accepted, these ships were given a Manna flower as a symbol of unity and were invited to adorn their flags with a blue depiction of the flower.
+
+This tradition of the blue Manna flower on a white backdrop persists and has become the enduring flag of Atla. Of note, GATA’s first flag featured the reverse - a white Manna flower on a blue field, before the more abstracted redesign that seen today.
 
 ***
 
-### **Variants and Uses**
+## **Variants and Uses**
 
 By inciting specific epigenetic changes at the correct time in its development cycle, the Manna flower can metamorphose into several variants:
 
@@ -38,7 +40,7 @@ By inciting specific epigenetic changes at the correct time in its development c
 
 ***
 
-### **Development Cycle**
+## **Development Cycle**
 
 #### **Primordial Phase**
 
@@ -54,7 +56,7 @@ The final phase before seed release. Different harvesting methods and precise ti
 
 ***
 
-### **Modern Context**
+## **Modern Context**
 
 While many still cherish the aesthetic variants of the Manna flower, its medical prominence has somewhat diminished in much of the world. Modern medical advances readily available across GATA and the other super-states have superseded most Manna-based treatments. As such, the Manna flower's role has receded into a more symbolic one.
 

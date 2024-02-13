@@ -22,9 +22,9 @@ The Joint Atlantic Command went on to launch some of the first major missions to
 
 #### Growth & Civilian Population
 
-Slowly, and trepidatiously over subsequent months, the flotilla grew into a sizeable patchwork fleet that included other surviving non-NATO military, research, and civilian vessels.
+Slowly, and trepidatiously over subsequent months and years, the flotilla grew into a sizeable patchwork fleet that included other surviving non-NATO military, research, and civilian vessels. By 2056, the JAC had become a quite sizeable presence in the Atlantic ocean, and its denizens had already taken to calling their home Atla, a nod to the lost city of Atlantis.
 
-During this period the JAC’s population grew from 40,000 to over 170,000 people, all living aboard ships and makeshift raft platforms in the middle of the East Atlantic.
+During this period the JAC’s population grew from 40,000 to over 270,000 people, all living aboard ships and makeshift raft platforms in the middle of the East Atlantic.
 
 #### The Big Talk
 
