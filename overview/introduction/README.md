@@ -30,7 +30,7 @@ Meanwhile, the scattered [Free Territories](../../nations/free-territories/) res
 
 <figure><img src="../../.gitbook/assets/67.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Across the world various cultural movements churn within the masses. The Eidetics eschew technology, seeing it as a channel for malevolent forces. The extremist group 'The CURE' takes this fear to its violent conclusion in their campaign to oppose technological advancement. Conversely, institutions like [ALTAR](../../nations/gata/institutions/altar.md), the Ministry of the Future, or the zealots of [private enterprise](../../nations/gata/enterprise/), forever pull at the threads of innovation seeking some yet-unrealized satisfaction.
+Across the world various cultural movements churn within the masses. The Eidetics eschew technology, seeing it as a channel for malevolent forces. The extremist group 'The CURE' takes this fear to its violent conclusion in their campaign to oppose technological advancement. Conversely, institutions like [ALTAR](../../nations/gata/institutions/altar.md), the Ministry of the Future, or the agents of [private enterprise](../../nations/gata/enterprise/), forever pull at the threads of innovation seeking some yet-unrealized satisfaction.
 
 <figure><img src="../../.gitbook/assets/criminalunderworld.png" alt="" width="563"><figcaption></figcaption></figure>
 
