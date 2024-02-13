@@ -36,9 +36,9 @@ layout:
 
 ### 🔵 [The Reconstruction Era](timeline-of-key-events.md#id-200a9tx7b0gw) (2062 - early 2100s) <a href="#id-200a9tx7b0gw" id="id-200a9tx7b0gw"></a>
 
-* The founding of GATA and the [New Dawn Declaration](../../nations/gata/history/the-new-dawn-declaration.md).
-* The [New Dawn Accords](../../nations/gata/politics/the-new-dawn-accords.md) drafted.
-* The first districts sign the [New Dawn Accords](../../nations/gata/politics/the-new-dawn-accords.md).
+* The founding of GATA and the [New Dawn Declaration](../../nations/gata/history/new-dawn-declaration.md).
+* The [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md) drafted.
+* The first districts sign the [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md).
 * The Flower Rebellion.
 * Rise of various sovereign states and entities in response to GATA's dominance.
 * Founding of the Texan Empire.
@@ -49,7 +49,7 @@ layout:
 * The rise of the Hundred Hands criminal [syndicate](../../nations/gata/criminal-element/syndicates.md).
 * The Quiet Rebellion, a failed revolt against URSA’s dominant kingdoms.
 * The Eden Initiative, a global ecological restoration program led by GATA.
-* 2073 - [The Morning Light Summit](../../nations/gata/politics/the-new-dawn-accords.md#the-morning-light-summit).
+* 2073 - [The Morning Light Summit](../../nations/gata/politics/new-dawn-accords.md#the-morning-light-summit).
 * [Aryabat](../../nations/aryabat/) signs the New Dawn Accords.
 * [The Broken Dawn revolt](../../nations/african-union/history/the-broken-dawn-revolt.md) in East Africa.
 * Construction of the first Weather Engine is completed.

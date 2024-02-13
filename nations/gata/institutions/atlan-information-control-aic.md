@@ -52,6 +52,6 @@ The highest courts of Atla fall under the jurisdiction of the AIC. Only the AIC 
 
 ## **Whole Privacy Protection Act**
 
-The Whole Privacy Protection Act (WPP) of 2064 was among the first pieces of major legislation drafted by the AIC and voted into law by the [First Quorum](../politics/governance.md#the-first-quorum). Jurisdictions that wanted to adopt the CRED currency had to comply with its restrictions, which makes it mandatory for all nations that sign the [New Dawn Accords](../politics/the-new-dawn-accords.md).
+The Whole Privacy Protection Act (WPP) of 2064 was among the first pieces of major legislation drafted by the AIC and voted into law by the [First Quorum](../politics/governance.md#the-first-quorum). Jurisdictions that wanted to adopt the CRED currency had to comply with its restrictions, which makes it mandatory for all nations that sign the [New Dawn Accords](../politics/new-dawn-accords.md).
 
 Under the WPP, sharing citizen data without consent is illegal. Data can be revoked by its owner. Combining disparate data into composite data sets for analysis or processing is heavily regulated. Behavior modification is illegal (all algorithms must “serve their user’s interests”). The regulatory friction in transmitting sensitive information combined with the presence of [criminal syndicates](../criminal-element/syndicates.md) hungry for valuable information has resulted in a shift toward massive, secure computational facilities that are completely local.

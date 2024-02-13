@@ -16,7 +16,7 @@ Anthro is short for anthropomorphic automata. Like all other automata, they do a
 
 ### **Bugs**
 
-Small robotic automata that perform basic status assessment and maintenance in public spaces. They can climb walls, slip between cracks and perform a variety of functions, but in order to be [NDA](../../nations/gata/politics/the-new-dawn-accords.md)-compliant their onboard computation capacity is very limited.
+Small robotic automata that perform basic status assessment and maintenance in public spaces. They can climb walls, slip between cracks and perform a variety of functions, but in order to be [NDA](../../nations/gata/politics/new-dawn-accords.md)-compliant their onboard computation capacity is very limited.
 
 ### Trajectoids
 

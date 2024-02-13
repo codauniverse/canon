@@ -22,7 +22,7 @@ The [Greater Atlantic Territorial Alliance](../../nations/gata/) (GATA) stands a
 
 <figure><img src="../../.gitbook/assets/system.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Today, A vast [hard-coded](../science-and-tech/hard-code.md) infrastructure called [The System](../../nations/gata/politics/the-system.md) governs GATA. Designed with ‘physical code’, The System’s architecture is predictable and incorruptible, but it is also inflexible. While some wait for change, others simply game The System. In this world, "[keys](../../nations/gata/politics/keys.md)" are the ultimate commodity, gateways to power, permissions, and privilege.
+Today, A vast [hard-coded](../science-and-tech/hard-code.md) infrastructure called [The System](../../nations/gata/politics/the-system.md) governs GATA. Designed with ‘physical functions’, The System’s architecture is predictable and incorruptible, but it is also inflexible, and change can often be slow. While the masses wait for System updates, others simply game The System. In this world, "[keys](../../nations/gata/politics/keys.md)" are the ultimate commodity, gateways to power, permissions, and privilege.
 
 <figure><img src="../../.gitbook/assets/free-territories-03243.png" alt="" width="563"><figcaption></figcaption></figure>
 

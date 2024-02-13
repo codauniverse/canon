@@ -18,7 +18,7 @@ A paradigm is a [district](districts.md)'s unique technological allowances. With
 
 The development of a district's paradigm is gradual and adaptive, designed by expert working groups at [the AIC](../institutions/atlan-information-control-aic.md) with input from district representatives from the [Second Quorum](governance.md#the-second-quorum), and approved by the [First Quorum](governance.md#the-first-quorum).
 
-A district's paradigm is directly informed by the districts activity recorded on [The System](the-system.md), its adherence to the [New Dawn Accords](the-new-dawn-accords.md)’ regulations, its enforcement of border security, and its internal political stability.
+A district's paradigm is directly informed by the districts activity recorded on [The System](the-system.md), its adherence to the [New Dawn Accords](new-dawn-accords.md)’ regulations, its enforcement of border security, and its internal political stability.
 
 For instance, a newly incorporated district might start with modest technological allowances while [Collections](../law-and-order/collections.md) works to clear the district of red tech.&#x20;
 
@@ -38,7 +38,7 @@ This non-linear development means two districts with similar standing and incorp
 
 ## **Paradigm Sanctions:**
 
-Though uncommon, there have been instances of GATA tightening paradigms, especially in response to emergencies and severe, systemic breaches of the [New Dawn Accords](the-new-dawn-accords.md).
+Though uncommon, there have been instances of GATA tightening paradigms, especially in response to emergencies and severe, systemic breaches of the [New Dawn Accords](new-dawn-accords.md).
 
 These sanctions are determined by the AIC and carried out by [Systema](../enterprise/systema.md), who can remotely update a district’s [System Node(s)](the-system.md#system-nodes) from its [Lunar](../key-locations/luna.md) headquarters.
 

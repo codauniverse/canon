@@ -34,7 +34,7 @@ Fabricated tech is often produced at standard LMNL module dimensions so that the
 
 ## **Unregulated Fabricated Tech**
 
-In [Free Territories](../../nations/free-territories/) and [Gray Zones](../../nations/gata/politics/gray-zones.md), fabricated tech doesn’t always comply with [NDA regulations](../../nations/gata/politics/the-new-dawn-accords.md) and might not use LMNL to integrate components. It isn’t uncommon to find fabs built instead using raw hardcode to integrate components. This means unregulated fabricated tech can be much smaller, but it is left vulnerable to the [Daemon virus](the-daemon-virus.md) and other threats. Generally, any fabricated tech not written in LMNL would be immediately confiscated under GATA regulations and the [Local Authority](../../nations/gata/law-and-order/local-authority.md)’s remit for discretion.
+In [Free Territories](../../nations/free-territories/) and [Gray Zones](../../nations/gata/politics/gray-zones.md), fabricated tech doesn’t always comply with [NDA regulations](../../nations/gata/politics/new-dawn-accords.md) and might not use LMNL to integrate components. It isn’t uncommon to find fabs built instead using raw hardcode to integrate components. This means unregulated fabricated tech can be much smaller, but it is left vulnerable to the [Daemon virus](the-daemon-virus.md) and other threats. Generally, any fabricated tech not written in LMNL would be immediately confiscated under GATA regulations and the [Local Authority](../../nations/gata/law-and-order/local-authority.md)’s remit for discretion.
 
 ***
 

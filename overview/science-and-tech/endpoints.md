@@ -20,7 +20,7 @@ Different modules can be attached to endpoints, including interfaces or other sy
 
 Technically a kind of endpoint, but with distinct characteristics. Relays are extensions attached to endpoints that relay connections to a ‘solid’ endpoint. Relays can feel a bit ‘slippery’ when attempting to connect for inexperienced [link](links.md) users because there isn’t a ‘live’ endpoint to sense.
 
-Relays make it possible for users to connect with remote systems, since wireless wavelengths are heavily regulated under both the [NDA](../../nations/gata/politics/the-new-dawn-accords.md) and [WPP](../../nations/gata/institutions/atlan-information-control-aic.md#whole-privacy-protection-act).
+Relays make it possible for users to connect with remote systems, since wireless wavelengths are heavily regulated under both the [NDA](../../nations/gata/politics/new-dawn-accords.md) and [WPP](../../nations/gata/institutions/atlan-information-control-aic.md#whole-privacy-protection-act).
 
 \
 \

@@ -16,7 +16,7 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/districts.png" alt="" width="563"><figcaption><p>A System Node facility in the heart of a district.</p></figcaption></figure>
 
-Districts are highly secure territories with strict borders and regulations. Districts are the future vision of [GATA](../)'s civilizational design, as articulated in the [New Dawn Accords](the-new-dawn-accords.md)–jurisdictions fully integrated with [The System](the-system.md) where new technologies and prosperous futures can be safely pursued.
+Districts are highly secure territories with strict borders and regulations. Districts are the future vision of [GATA](../)'s civilizational design, as articulated in the [New Dawn Accords](new-dawn-accords.md)–jurisdictions fully integrated with [The System](the-system.md) where new technologies and prosperous futures can be safely pursued.
 
 Districts have democratically elected local governments and [Second Quorum](governance.md#the-second-quorum) representatives, sometimes referred to as governors. Local government oversees the [Local Authority](../law-and-order/local-authority.md) in its upholding of GATA law. Local governments also oversee the distribution of the district’s [System Yield](yield.md).
 
@@ -58,7 +58,7 @@ It is nearly impossible to enter a district without being detected and intercept
 
 New districts are incorporated into GATA every year. The process to become a district is relatively straightforward, but very intensive. The minimum population for a new district is 1 million citizens and the maximum is 10 million, however these restrictions are only a guideline. Prospective districts must elect a provisional local government to represent their populace, who must then formally apply for districthood. If accepted by the [Second Quorum](governance.md#the-second-quorum), and approved by [the AIC](../institutions/atlan-information-control-aic.md), onboarding begins.
 
-A delegate is selected from the Second Quorum to advise on the ground in the prospective district, and they work together with the AIC, [Systema](../enterprise/systema.md) staff and the local government to ensure that the district is on the path to meet System Requirements for reporting and [NDA](the-new-dawn-accords.md) compliance.
+A delegate is selected from the Second Quorum to advise on the ground in the prospective district, and they work together with the AIC, [Systema](../enterprise/systema.md) staff and the local government to ensure that the district is on the path to meet System Requirements for reporting and [NDA](new-dawn-accords.md) compliance.
 
 This involves the installation of a [System Node](the-system.md#system-nodes), System [endpoints](../../../overview/science-and-tech/endpoints.md) and [terminals](the-system.md#system-terminals), the licensing of all legal [enterprises](../enterprise/), the establishment of a [Local Authority](../law-and-order/local-authority.md), and the collection of all [illegal technology](../../../overview/science-and-tech/legacy-tech.md) and other contraband. This process generally takes 2-5 years.
 
@@ -68,7 +68,7 @@ Prospective districts with land-locked [Gray Zones](gray-zones.md) inside their 
 
 ## **Bridge Districts**
 
-Beginning with the [Morning Light Summit](the-new-dawn-accords.md#the-morning-light-summit), other states were given the opportunity to sign the [New Dawn Accords](the-new-dawn-accords.md) and establish districts of their own that adhere to the NDA’s regulations.
+Beginning with the [Morning Light Summit](new-dawn-accords.md#the-morning-light-summit), other states were given the opportunity to sign the [New Dawn Accords](new-dawn-accords.md) and establish districts of their own that adhere to the NDA’s regulations.
 
 Further negotiations with the [African Union](../../african-union/) in the wake of the [Broken Dawn Revolt](../../african-union/history/the-broken-dawn-revolt.md) resulted in a compromise allowing these jurisdictions to optionally implement their own build of [The System](the-system.md) so long as its operation complies with the NDA.
 

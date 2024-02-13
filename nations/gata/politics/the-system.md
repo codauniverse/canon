@@ -14,6 +14,8 @@ layout:
 
 # The System
 
+<figure><img src="../../../.gitbook/assets/system.png" alt="" width="563"><figcaption><p>Control terminals inside of a System Node.</p></figcaption></figure>
+
 The System is a decentralized, [hard-coded](../../../overview/science-and-tech/hard-code.md) infrastructure that handles power, economic transactions, communication, and coordination within and between [districts](districts.md).
 
 After [GATA](../) began transitioning its districts to The System, there was a significant decrease in violence, political instability, mental and physical disease, and other social issues.
@@ -29,8 +31,6 @@ Under the hood, The System is an advanced, distributed state machine operating o
 Most interaction with The System is done through the [System Terminals](the-system.md#system-terminals) that can be found throughout GATA's [districts](districts.md).
 
 ***
-
-<figure><img src="../../../.gitbook/assets/system.png" alt="" width="563"><figcaption><p>Control terminals inside of a System Node.</p></figcaption></figure>
 
 ## System Terminals
 
@@ -50,11 +50,17 @@ System Nodes are heavily restricted COGs ([hard-coded](../../../overview/science
 
 Each district has at least two “full nodes”, which are owned and maintained by the district’s local government. The [System Terminals](the-system.md#system-terminals) found across GATA’s districts are all connected to public [endpoints](../../../overview/science-and-tech/endpoints.md) that connect to their local full nodes.
 
+#### System Updates
+
+When there are updates to System Core, the AIC drafts the module specification and Systema develops and installs these new modules in each district's System Nodes. Because The System is hard-coded, these updates must be done by hand. As a natural consequence, System Updates roll out slowly over time.&#x20;
+
+A draft schedule for each new version is submitted to the Second Quorum by the AIC, and the Second Quorum decide the final roll-out schedule. Customarily, the oldest districts are upgraded last. Newer districts are seen as ideal testing grounds for the latest updates.
+
 ### Enterprise Nodes
 
 Additionally, large [enterprises](../enterprise/) with a significant share of traffic on the network are required to build and maintain their own full nodes.
 
-All licensed enterprises have their own private System endpoints that allow them to coordinate their operations globally and report their activity in real-time, in accordance with the [NDA](the-new-dawn-accords.md).
+All licensed enterprises have their own private System endpoints that allow them to coordinate their operations within and without the district, and report their activity in real-time, in accordance with the [NDA](new-dawn-accords.md).
 
 ***
 
@@ -64,6 +70,6 @@ The System also utilizes an array of sensors developed by WILD and installed by 
 
 These arrays provide real-time insight into things like climate, microbial health, biodiversity, migratory patterns, and other signals that can be factored into The System’s calculations.
 
-It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence of this exists. This would be a direct contravention of [NDA](the-new-dawn-accords.md) and [WPP](../institutions/atlan-information-control-aic.md#whole-privacy-protection-act) law.
+It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence of this exists. This would be a direct contravention of [NDA](new-dawn-accords.md) and [WPP](../institutions/atlan-information-control-aic.md#whole-privacy-protection-act) law.
 
 \

@@ -26,7 +26,7 @@ A new phenomenon growing in popularity among the disaffected younger generations
 
 ## **Sync Rave Culture**
 
-Sync raves are a response to GATA's [tight control and regulation](../politics/the-new-dawn-accords.md) enforced by the [AIC](../institutions/atlan-information-control-aic.md). In a world where people are constantly monitored and restricted, these underground raves offer an escape, an illicit world where the youth especially can feel free for the first time. The raves are a blend of old and new - the rediscovered music and instruments of the past, reinterpreted through modern technology and tastes, unleashed on the unstructured ecstasy of an eager scene.
+Sync raves are a response to GATA's [tight control and regulation](../politics/new-dawn-accords.md) enforced by the [AIC](../institutions/atlan-information-control-aic.md). In a world where people are constantly monitored and restricted, these underground raves offer an escape, an illicit world where the youth especially can feel free for the first time. The raves are a blend of old and new - the rediscovered music and instruments of the past, reinterpreted through modern technology and tastes, unleashed on the unstructured ecstasy of an eager scene.
 
 The ambiance is ethereal; the sync hub creates a shared experience, a communal waking dream where individuals can release the normal world and sink into living experiences enhanced by music, light and color, touch, and [illicit substances](recreational-drugs.md). Vivid holograms puppeted by conduits dance in tandem with the music, shimmering in the haze, blending with the hallucinatory phantasms of someone else’s sensations.
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-AI is strictly regulated under the [NDA](../../nations/gata/politics/the-new-dawn-accords.md). No general purpose processors are allowed specifically because of the threat posed by AI and destructive algorithms. This limitation drove the development of [Asimovian computers](asimovian-architecture.md); compute platforms that are secure and predictable. As a result of this move toward [hard code](hard-code.md), all legal artificial intelligence today takes the form of [cogs](cogs.md), Asimov-complete hard-coded cognitive systems that can only perceive and compute within a limited scope called an ‘[ontology](asimovian-architecture.md#ontology-design)’.
+AI is strictly regulated under the [NDA](../../nations/gata/politics/new-dawn-accords.md). No general purpose processors are allowed specifically because of the threat posed by AI and destructive algorithms. This limitation drove the development of [Asimovian computers](asimovian-architecture.md); compute platforms that are secure and predictable. As a result of this move toward [hard code](hard-code.md), all legal artificial intelligence today takes the form of [cogs](cogs.md), Asimov-complete hard-coded cognitive systems that can only perceive and compute within a limited scope called an ‘[ontology](asimovian-architecture.md#ontology-design)’.
 
 ***
 

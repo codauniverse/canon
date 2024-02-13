@@ -18,7 +18,7 @@ Yield is a periodic distribution of resources and benefits derived from the coll
 
 All economic and industrial activity across [GATA](../) feeds into The System, and Yield is what comes back, distributed according to The System’s [hard-coded](../../../overview/science-and-tech/hard-code.md) logic.
 
-Yield represents a tangible return on the collective efforts and compliance of districts that meet the [NDA](the-new-dawn-accords.md)'s requirements and regulations.
+Yield represents a tangible return on the collective efforts and compliance of districts that meet the [NDA](new-dawn-accords.md)'s requirements and regulations.
 
 Yield consists of [keys](keys.md), funds, and physical shipments to be distributed by local governments, and some direct airdrops to citizens and [enterprises](../enterprise/).
 

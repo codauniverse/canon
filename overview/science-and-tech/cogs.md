@@ -6,7 +6,7 @@ Cogs are cognitive systems. They are [Asimovian](asimovian-architecture.md) cons
 
 Due to the design constraints of Asimovian architecture, cogs are quite large–ranging in scale from roughly two cubic feet to the size of a large warehouse, based on the system's required speed and complexity.
 
-The key to understanding the mind of an Asimov-complete cog is that it has no first mover and no driver for behavior, and its cognition is deterministic, which are requirements outlined in the [New Dawn Accords](../../nations/gata/politics/the-new-dawn-accords.md).
+The key to understanding the mind of an Asimov-complete cog is that it has no first mover and no driver for behavior, and its cognition is deterministic, which are requirements outlined in the [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md).
 
 They have no intrinsic motivations or wants. They simply take any input, roll the information around internally, sifting it and reducing it until its rational peaks emerge, and then return the result which is then interpreted by a separate natural language module, such as [VOX](cogs.md#vox). They have no memory.
 

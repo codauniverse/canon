@@ -18,7 +18,7 @@ layout:
 
 The term Gray Zone refers to any contiguous region inside of the territory of [Greater Atla](greater-atla.md) where [The System](../enterprise/systema.md) has not been adopted, or its requirements have not been met.&#x20;
 
-Over time, the number of Gray Zones within Greater Atla and [NDA](the-new-dawn-accords.md)-compliant states has decreased, however the conflicts over those Gray Zones’ status grow ever sharper. [GATA](../)’s approach with Gray Zones is one of consistent pressure by various non-violent means, and patient absorption.
+Over time, the number of Gray Zones within Greater Atla and [NDA](new-dawn-accords.md)-compliant states has decreased, however the conflicts over those Gray Zones’ status grow ever sharper. [GATA](../)’s approach with Gray Zones is one of consistent pressure by various non-violent means, and patient absorption.
 
 Occasionally, peacekeeping missions are undertaken by [Angelis forces](../military-and-defense/angelis.md), creating opportune conditions for the zone’s incorporation into GATA.
 
@@ -28,7 +28,7 @@ As far as GATA political ideology is concerned, all of the [Free Territories](..
 
 ## **People & Politics**
 
-While many living in the Gray Zones identify with the Free Territories’ Sovereign movement, other Gray Zone communities are not especially political, and some do voluntarily maintain institutions that enforce and report according to GATA regulation, stopping short of actually signing their freedom over to the [New Dawn Accords](the-new-dawn-accords.md).&#x20;
+While many living in the Gray Zones identify with the Free Territories’ Sovereign movement, other Gray Zone communities are not especially political, and some do voluntarily maintain institutions that enforce and report according to GATA regulation, stopping short of actually signing their freedom over to the [New Dawn Accords](new-dawn-accords.md).&#x20;
 
 Other Gray Zones have signed the NDA but do not meet minimum System requirements, such as satisfying reporting standards, or having sufficient citizen trust scores for their prospective local governments.
 

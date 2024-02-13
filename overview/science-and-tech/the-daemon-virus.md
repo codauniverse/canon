@@ -16,7 +16,7 @@ When the Daemon was discovered on computer systems around the world by technicia
 
 Researchers discovered that when a BODYSNATCHER-infected system detects that it has been discovered, the code ‘self-corrupts’, rendering the host hardware non-functional.
 
-BODYSNATCHER’s infestation of all legacy technology meant that the Old World’s vast, connected infrastructure was now useless. From mining operations to factories, powerplants to satellites, everything would have to be rebuilt from scratch. And it would have to be rebuilt in a way that was immune to the Daemon– or any similar threat. Research on BODYSNATCHER was critical in informing the [New Dawn Accords](../../nations/gata/politics/the-new-dawn-accords.md), [Asimovian architecture](asimovian-architecture.md), and the design of [The System](../../nations/gata/politics/the-system.md).
+BODYSNATCHER’s infestation of all legacy technology meant that the Old World’s vast, connected infrastructure was now useless. From mining operations to factories, powerplants to satellites, everything would have to be rebuilt from scratch. And it would have to be rebuilt in a way that was immune to the Daemon– or any similar threat. Research on BODYSNATCHER was critical in informing the [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md), [Asimovian architecture](asimovian-architecture.md), and the design of [The System](../../nations/gata/politics/the-system.md).
 
 Recently studies of BODYSNATCHER have confirmed its long-suspected role in the onset of the [Dark Decade](../history/the-dark-decade.md).
 

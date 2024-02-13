@@ -18,7 +18,7 @@ layout:
 
 From its inception, [Atla](../key-locations/atla.md) and [GATA](../) had always had a single formidable standing military. However, in the wake of [The Reconstruction](../../../overview/history/the-reconstruction.md), and the end of the [Existence Doctrine](existence-doctrine.md), the national military was officially dissolved.
 
-Additionally, many of its most advanced weapons and technologies were decommissioned in accordance with [the AIC](../institutions/atlan-information-control-aic.md)’s interpretation of [NDA](../politics/the-new-dawn-accords.md) regulations. Many of GATA's most vocal critics had been skeptical that GATA would follow through with this self-constraint, however they did just that.
+Additionally, many of its most advanced weapons and technologies were decommissioned in accordance with [the AIC](../institutions/atlan-information-control-aic.md)’s interpretation of [NDA](../politics/new-dawn-accords.md) regulations. Many of GATA's most vocal critics had been skeptical that GATA would follow through with this self-constraint, however they did just that.
 
 Today, GATA does not have a monolithic standing national military. Instead, Each of GATA’s major administrative bodies have armed branches to serve their mandates.
 

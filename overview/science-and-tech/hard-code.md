@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/hardcode.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Hard code modules are compiled "physical functions". Hard code is the only legal form of computational system in [GATA](../../nations/gata/) and [NDA](../../nations/gata/politics/the-new-dawn-accords.md)-compliant states.
+Hard code modules are compiled "physical functions". Hard code is the only legal form of computational system in [GATA](../../nations/gata/) and [NDA](../../nations/gata/politics/new-dawn-accords.md)-compliant states.
 
 Hard-coded systems are impervious to corruption because their functions are physically encoded in the shape and structure of its computational components called ‘modules’. They cannot be re-written remotely or compelled to perform functions that it was not designed with the capacity to perform.
 
@@ -16,7 +16,7 @@ The most common programming language for writing hard code is [LMNL](hard-code.m
 
 ## LMNL
 
-Liminal (LMNL) is an [Asimov-complete](asimovian-architecture.md) hard-code programming language used to write physical functions. LMNL being Asimov-complete means that by simply writing hard-code in LMNL, systems will be safe and secure in accordance with [New Dawn Accord](../../nations/gata/politics/the-new-dawn-accords.md) standards and regulations that prohibit general purpose processors.&#x20;
+Liminal (LMNL) is an [Asimov-complete](asimovian-architecture.md) hard-code programming language used to write physical functions. LMNL being Asimov-complete means that by simply writing hard-code in LMNL, systems will be safe and secure in accordance with [New Dawn Accord](../../nations/gata/politics/new-dawn-accords.md) standards and regulations that prohibit general purpose processors.&#x20;
 
 Hard-coded systems are similar in principal to the Application-Specific Integrated Circuits (ASICs) found in legacy technology; hardware that is designed and optimized for a single purpose. Code written in LMNL compiles to corresponding hard code; physical computational structures fabricated in carbon and silicon. Most Asimovian systems today use hard-coded modules written in LMNL.
 

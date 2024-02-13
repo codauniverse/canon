@@ -12,11 +12,11 @@ layout:
     visible: true
 ---
 
-# The New Dawn Accords
+# New Dawn Accords
 
 <figure><img src="../../../.gitbook/assets/newdawnaccords.png" alt="" width="563"><figcaption><p>The New Dawn Accords being signed by a local government.</p></figcaption></figure>
 
-The New Dawn Accords (NDA) are a set of agreements and principles introduced by [GATA ](../)early in [The Reconstruction](../../../overview/history/the-reconstruction.md) following the successful implementation and remarkable results of "[The System](the-system.md)" within Atla, its founding [district](districts.md). The document was written by a special working group from [Atlan Information Control (AIC)](../institutions/atlan-information-control-aic.md), and is based on the [New Dawn Declaration](../history/the-new-dawn-declaration.md) that birthed Atla as a political entity.
+The New Dawn Accords (NDA) are a set of agreements and principles introduced by [GATA ](../)early in [The Reconstruction](../../../overview/history/the-reconstruction.md) following the successful implementation and remarkable results of "[The System](the-system.md)" within Atla, its founding [district](districts.md). The document was written by a special working group from [Atlan Information Control (AIC)](../institutions/atlan-information-control-aic.md), and is based on the [New Dawn Declaration](../history/new-dawn-declaration.md) that birthed Atla as a political entity.
 
 The NDA stipulates foundational principles for a stable, prosperous human civilization. These range from the more philosophical, to specific processes and restrictions. The purpose of the NDA is to outline a System for key infrastructure that ensures all signatories maintain autonomy while being mutually compatible with GATA and each other.
 
@@ -46,7 +46,7 @@ It was in these young districts where The System was tested and iterated. It was
 
 ## The Morning Light Summit
 
-In 2073, after experiencing years of impressive development, GATA hosted the Morning Light Summit and extended its first invitations to the remaining super-states of the world to adopt The System and the [New Dawn Accords](the-new-dawn-accords.md).
+In 2073, after experiencing years of impressive development, GATA hosted the Morning Light Summit and extended its first invitations to the remaining super-states of the world to adopt The System and the [New Dawn Accords](new-dawn-accords.md).
 
 The NDA was designed to allow other states to share in the abundance and benefits that The System offered. However, the underlying message of the NDA was clear: make the choice to join now, or potentially lose the opportunity to choose later.
 
