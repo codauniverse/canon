@@ -24,7 +24,7 @@ layout:
 
 > "I don’t know who I am when I’m not performing. I find myself there, when I’m pressed up against everyone that I’m not. Like, a contour of something...” - Haleh
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 25</p><p>Occupation: Sync Jockey, Gardener</p><p>First Impression: Beautiful and quiet</p><p>Self-Image: Lost in time</p><p>True Self: Flower reaching for sunlight<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: July 11, 2099</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: Persian, Iranian</p><p>Born: Tehran, URSA</p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 25</p><p>Occupation: Sync Jockey, Gardener</p><p>First Impression: Beautiful wallflower</p><p>Self-Image: Out of place in time</p><p>True Self: Flower reaching for sunlight<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: July 11, 2099</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: Persian, Iranian</p><p>Born: Tehran, URSA</p></td></tr></tbody></table>
 
 ## Appearance
 
@@ -36,8 +36,8 @@ layout:
 * Skin Type: Olive
 * Face Shape: Heart
 * Body Type: Average, but toned
-* Accessories: Small chrome sticker on her face
-* Description: Beautiful with an edge. Large eyes framed with bold eyebrows, and soft lips.&#x20;
+* Accessories: Chrome adhesive link
+* Description: Beautiful with an edge. Large eyes framed with bold eyebrows, and soft lips. She has an unrefined grace. Hard to miss the link she wears, usually a metallic adhesive on her face.
 
 <figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoulde_abc4afcb-6d48-4080-b891-dc355dc21594.png" alt="" width="563"><figcaption><p>Haleh under the neon lights of an arcade.</p></figcaption></figure>
 
