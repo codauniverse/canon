@@ -104,7 +104,7 @@ Iris (AIC Vice Chair) - Hand-picked Amelia for her assignment
 | Wisdom       | 6    |
 | Charisma     | 5    |
 
-### Quotes
+## Quotes
 
 > "That's illegal. And that. That too. Should I... come back?" - Amelia
 

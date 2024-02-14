@@ -72,7 +72,7 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 | Wisdom       | 8    |
 | Charisma     | 9    |
 
-### Quotes
+## Quotes
 
 > "That's a problem for another time." - Aki
 

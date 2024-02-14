@@ -22,7 +22,7 @@ layout:
 
 {% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 29</p><p>Occupation: Gang leader</p><p>First Impression: Human storm cloud</p><p>Self-Image: Deserves the life stolen from him</p><p>True Self: Pain, bitterness and ambition<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2095</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: European, Argentinian</p><p>Born: Greater Toronto</p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 28</p><p>Occupation: Gang leader</p><p>First Impression: Human storm cloud</p><p>Self-Image: Deserves the life stolen from him</p><p>True Self: Pain, bitterness and ambition<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2095</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: European, Argentinian</p><p>Born: Greater Toronto</p></td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/nomoney_long_shot_of_shady_guy_sitting_in_a_booth_in_a_neon_lit_4480c0d4-543f-40c3-baee-22e34c0ff165.png" alt="" width="563"><figcaption><p>Xavier receiving some bad news.</p></figcaption></figure>
 
@@ -52,7 +52,7 @@ Xavier's gang work with Wallrunners who smuggle legacy tech and Old World paraph
 
 ## Trivia
 
-* Can't feel his hands due to his injuries.
+* Can't feel his hands due to nerve damage from his injuries.
 
 ## **Personality & Quirks**
 
@@ -95,7 +95,7 @@ Fitz (Lulu's brother)
 | Wisdom       | 9    |
 | Charisma     | 7    |
 
-### Quotes
+## Quotes
 
 > "Brave. Pointless, but brave." - Xavier
 

@@ -105,7 +105,7 @@ Remi Tranche (Godfather)
 | Wisdom       | 6    |
 | Charisma     | 4    |
 
-### Quotes
+## Quotes
 
 > "The world ends every day." - Prince
 

@@ -127,6 +127,6 @@ Lulu (Best Friend)
 | Wisdom       | 7    |
 | Charisma     | 8    |
 
-Quotes
+## Quotes
 
 > "I used to fall asleep fantasizing about travelling the world, you know? Playing music for cheering crowds. Now I pass out when my head hits the pillow, and I wake up wondering if I ever had a dream at all." - Haleh

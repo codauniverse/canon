@@ -68,7 +68,7 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 | Wisdom       | 9    |
 | Charisma     | 5    |
 
-### Quotes
+## Quotes
 
 > "I don't make the rules." - Carlos
 

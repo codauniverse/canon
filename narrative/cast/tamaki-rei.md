@@ -121,7 +121,7 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 | Wisdom       | 7    |
 | Charisma     | 10   |
 
-### Quotes
+## Quotes
 
 > "The rules don't apply to all of us." - Tamaki
 
