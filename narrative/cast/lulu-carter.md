@@ -50,7 +50,7 @@ During that time, with Lulu's help, Xavier transformed from a broken, hopeless y
 
 Though she was happy to be reunited with her brother, her break with Xavier and the added responsibility of caring for her brother caused her to slip into a long, depressing funk. After moving out of the Gray Zone, Lulu ran into Haleh, a sync jockey who she had met briefly in the underground scene and the two sparked a friendship.
 
-Through their friendship, Haleh helped Lulu re-discover her childhood passion for piano, with Lulu eventually becoming a capable sync jockey herself. Even though she is much more behaved these days, and still has a dark cloud hanging over her, Lulu's shows are always big parties. And the featured performer is always Haleh.
+Through their friendship, Haleh helped Lulu re-discover her childhood passion for singing, with Lulu eventually becoming a capable sync jockey herself. Even though she is much more behaved these days, and still has a dark cloud hanging over her, Lulu's shows are always big parties. And the featured performer is always Haleh aka SOULJOURNER.
 
 ## Motivations
 
