@@ -16,7 +16,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/lulu.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-> "I’m doing my best. I’ve always done my best. What’s so hard is that it’s never enough.” - Lulu
+> "I’m doing my best. I’ve always done my best. It's just... it’s never enough.” - Lulu
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 25</p><p>Occupation: Sync Jockey</p><p>First Impression: Gutter punk</p><p>Self-Image: Gutter punk</p><p>True Self: Fallen angel<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: Sept 19, 2099</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: American</p><p>Born: Detroit, GATA</p></td></tr></tbody></table>
 
@@ -34,7 +34,7 @@ layout:
 * Make-up: Smoky eyeshadow and Black Cherry lipstick
 * Description: Her silhouette is thin and angular, and elegant. Intense and captivating light a flame tenuously flickering.
 
-<figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoulde_abc4afcb-6d48-4080-b891-dc355dc21594.png" alt="" width="563"><figcaption><p>Haleh under the neon lights of an arcade.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_an_attractive_punk_woman_with_chin_length_choppy_bla_bb351805-9244-4d8e-ae01-5e9864c846b0.png" alt="" width="563"><figcaption><p>Lulu in some dark corner of the West End Gray Zone.</p></figcaption></figure>
 
 ## Bio
 
