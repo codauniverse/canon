@@ -53,7 +53,7 @@ By the age of 13 she was already making music of her own, inspired heavily by th
 
 Since then, she’s become a sensation in Toronto’s underground syncrave scene, a syncjockey known for her uncanny ability to sense and guide ‘the vibe’. Her childhood habit of dancing while she plays her instruments has evolved into a striking stage presence.
 
-Find her hunting antique 21st century music and hardware, planning and practicing for her next show, or tending to the Manna flowers in Greater Toronto's waterfront Garden.
+Find her hunting antique 21st century music and hardware, wall-flowering at a sync rave, planning and practicing for her next show, or tending to the Manna flowers in Greater Toronto's waterfront Garden.
 
 ## Motivations
 
@@ -76,7 +76,6 @@ Find her hunting antique 21st century music and hardware, planning and practicin
 * A white Manna flower in a woman’s hair is one of her first memories.
 * She remembers a room, a woman’s face, but she doesn’t know if it’s her mother.
 * She isn’t a natural green thumb, she just likes the solitude of tending the Manna gardens.
-* Lulu’s her only friend because Lulu is enough of a handful already.
 * She has a strong audio-visual synesthesia.
 * She can typically be found in her apartment
 
