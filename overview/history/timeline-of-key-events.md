@@ -39,7 +39,8 @@ layout:
 
 * The founding of GATA and the [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md) drafted.
 * The first districts sign the [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md).
-* The Flower Rebellion.
+* The Gulf Rebellion.
+* Founding of the Texan Empire.
 * Rise of various sovereign states and entities in response to GATA's rapid growth.
 * Founding of the Texan Empire.
 * The [Battle of the Mississippi Delta](../../nations/free-territories/history/military-conflicts.md#battle-of-the-mississippi-delta).
