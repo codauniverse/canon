@@ -25,5 +25,3 @@ In some cases, districts will allocate a portion of their yield to nearby homest
 ### Upper Class Homesteads
 
 While most homesteads are modest residences and communities of citizens who simply prefer to be further afield of the masses, others are only "homesteads" in name only; isolated oases of luxury and bustling exotic destinations with [enterprise](../enterprise/) services, developed infrastructure, and private defense. Some of the most wealthy and powerful citizens of GATA live or vacation in remote homesteads, and pay astronomical rates to be protected by [Angelis](../military-and-defense/angelis.md) itself.
-
-\

@@ -30,9 +30,10 @@ layout:
 * Millions flee urban centers worldwide, seeking safety from the sudden anarchy.
 * 2052 - Formation of the [Joint Atlantic Command](../../nations/gata/history/the-joint-atlantic-command-jac.md).
 * 2052 - Discovery of [the Daemon Virus](../science-and-tech/the-daemon-virus.md).
+* 2052 - Formalization of the [Existence Doctrine](../../nations/gata/military-and-defense/existence-doctrine.md).
 * 2054 - Development of the [Manna Flower](../../nations/gata/history/the-manna-flower.md).
 * 2056 - The founding of Atla and the [New Dawn Declaration](../../nations/gata/history/new-dawn-declaration.md).
-* 2056 - Founding of the 200 Kingdoms (aka URSA).
+* 2056 - Founding of the 200 Kingdoms and [URSA](../../nations/ursa/).
 * 2061 - Official implementation of v1 of [The System](../../nations/gata/politics/the-system.md) by Atla.
 
 ### 🔵 [The Reconstruction Era](timeline-of-key-events.md#id-200a9tx7b0gw) (2062 - early 2100s) <a href="#id-200a9tx7b0gw" id="id-200a9tx7b0gw"></a>
@@ -67,6 +68,7 @@ layout:
 * Links are paradigmed in select districts across GATA.
 * The New Renaissance, a global resurgence in arts and culture.
 * The first annual Atlan Innovation Expo.
+* End of the Existence Doctrine.
 * Transition from the GATA national military to [Angelis](../../nations/gata/military-and-defense/angelis.md).
 * Rumored “Shadow Summit”, secret talks attended by leaders of various Free Territory factions.
 * Rumored disappearance of the 'Ghost Fleet', 10 of GATA's automated ships vanishing, along with their crews and classified cargo.
