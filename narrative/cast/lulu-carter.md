@@ -60,7 +60,7 @@ Through their friendship, Haleh helped Lulu re-discover her childhood passion fo
 * Try to match up to Haleh's talent.
 * Protect her little brother.
 
-<figure><img src="../../.gitbook/assets/nomoney420_stylish_crowd_in_a_future_underground_rave_with_gree_17322c09-302d-4712-b063-a9a41551b19b.png" alt="" width="563"><figcaption><p>Lulu gaze piercing through the crowd at a sync rave.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_stylish_crowd_in_a_future_underground_rave_with_gree_17322c09-302d-4712-b063-a9a41551b19b.png" alt="" width="563"><figcaption><p>Lulu's gaze piercing through the crowd at a sync rave.</p></figcaption></figure>
 
 ## Trivia
 
