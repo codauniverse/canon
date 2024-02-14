@@ -10,7 +10,11 @@ Static Field technology, or statics for short, uses ‘[static nodes](statics.md
 
 Static nodes are small polyhedral components whose position in its surrounding gravitational field can be modulated by applying a charge to the node.
 
-When the charge desists, the node holds its relative position in the gravitational field indefinitely until the exact same frequency of charge is applied, at which time the node will loosen again. The charge necessary to loosen a node is extremely high and must be applied for some time in order to
+When the charge desists, the node holds its relative position in the gravitational field indefinitely until the exact same frequency of charge is applied, at which time the node will loosen again. The charge necessary to loosen a node is extremely high and must be applied for some time before the node comes loose.
+
+The number of nodes determines the way in which an object can orient in the gravitational field. A single node is useful as an anchor for architecture and infrastructure. Two nodes can be used to create platforms that can be moved horizontally along the Earth's magnetic field. In order to achieve locomotion, three nodes are required.
+
+A loose node can be moved manually through the magnetic field, although the amount of resistance is determined by the charge applied. Loose nodes have opened up a wide range of applications in industry and enterprise, such as rafts and gondolas.
 
 Static nodes are made possible by advances in material sciences pioneered by Atla’s [Research Corps](../../nations/gata/history/the-research-corps.md) during [The Reconstruction](../history/the-reconstruction.md) era.
 
@@ -18,11 +22,15 @@ Static nodes are made possible by advances in material sciences pioneered by Atl
 
 ## **Static Engines & Motion**
 
-Static engines continuously modulate the charge applied to a node or nodes to produce smooth movement independent of the Earth’s gravitational field. Static engines are perfect for slow-moving heavy loads.
+Static engines continuously modulate the charge applied to three or more nodes to produce smooth movement independent of the Earth’s gravitational field. Static engines are perfect for slow-moving heavy loads.
 
 With more advanced static engines, extremely fast and expressive movement can be achieved, as many have discovered with the recent rise in the popularity of [darts](statics.md#dart-boards)–static boards that have become central to an extreme [sport culture](../../nations/gata/people-and-culture/sports.md) that is intertwined with the [counterculture scene](../../nations/gata/underground-scene/).
 
 Prominent statics manufacturers include Pegasus, Nimbus, and Gibraltar
+
+#### Ships
+
+Vehicles of various size with different configurations of nodes.
 
 #### Rafts
 

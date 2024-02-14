@@ -16,21 +16,25 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/foundobjects.png" alt="" width="563"><figcaption><p>A Found Object in a containment module, deep in the vaults of ALTAR</p></figcaption></figure>
 
-### **Overview**
-
-Found Objects, aptly named, are an assemblage of mysterious objects of unknown origin. Over thousands of years of human history, these objects have been discovered and collected by various groups, governments and individuals. In the Old World, the existence of the Found Objects had remained officially unconfirmed, though conspiracy theories about such artifacts had grown to be relatively mainstream.
+The Found Objects, aptly named, are an assemblage of mysterious objects of unknown origin. Over thousands of years of human history, these objects have been discovered and collected by various groups, governments and individuals. In the Old World, the existence of the Found Objects had remained officially unconfirmed, though conspiracy theories about such artifacts had grown to be relatively mainstream.
 
 ***
 
-### History
+## History
 
-During the Dark Decade, one of the Joint Atlantic Commands first mission-based initiatives was the retrieval of sensitive assets from around the world. Once disclosed among the upper ranks, Found Objects were quickly identified as high-value targets for these missions. As more high-ranking Secret Access Program personnel were brought to the fleet, these forays were able to successfully retrieve and catalog more and more of these exotic assets. These missions were compartmentalized according to the Existence Doctrine rules and few official records from that era publicly exist.
+During the Dark Decade, one of the Joint Atlantic Commands first mission-based initiatives was the retrieval of sensitive assets from around the world. Once their existence was disclosed among the upper ranks, Found Objects were quickly identified as high-value targets for these missions. As more high-ranking Secret Access Program personnel were brought into the fleet, these forays were able to successfully retrieve and catalog more and more of these exotic assets. When Atla was founded, these missions were compartmentalized according to the Existence Doctrine rules.
 
-#### Current Attitudes
+### Current Attitudes
 
-Despite the fact that historical accounts record that numerous Found Objects were visibly shown to thousands of Atla’s citizens, and that ALTAR was ostensibly created to safeguard them, many of GATA's citizens dismiss the existence of Found Objects as myth.
+Officially, the existence of the Found Objects is denied by GATA. Any mention of the Found Objects or related research has long since been scrubbed from the General Record.
 
-It is particularly hard to believe for those who did not see the way Atla operated during the Existence Doctrine days, when they openly used extremely advanced, experimental systems in the field. They’ve also grown accustomed to the advancements claimed to have been reverse-engineered from the Found Objects, like static tech, parallel energy, the UniMaPr, and quantum seeds.
+Despite many first-hand and historical accounts in citizen publications claiming that multiple Found Objects were visibly seen by thousands of Atla’s citizens, and that ALTAR was ostensibly created to safeguard them, many of GATA's citizens either dismiss the existence of Found Objects as myth, or shrug in indifference.
+
+The existence of the Found Objects is particularly hard to believe for those who did not see the way Atla, and later, GATA, operated during the Existence Doctrine days, when they openly used extremely advanced, experimental systems in the field.
+
+<figure><img src="../../../.gitbook/assets/nomoney420_future_city_skyline_with_hover_transports_flying_in__2003b126-4c7a-4d7d-85ce-2accd550e2b5.png" alt="" width="563"><figcaption><p>A static </p></figcaption></figure>
+
+Citizens of GATA, and people around the world have grown accustomed to the advancements claimed to have been reverse-engineered from the Found Objects, like static tech, parallel energy, the UniMaPr, and quantum seeds.
 
 ***
 
