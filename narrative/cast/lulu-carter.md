@@ -12,30 +12,27 @@ layout:
     visible: true
 ---
 
-# 👤 Haleh Hashemi
+# 👤 Lulu Carter
 
-<figure><img src="../../.gitbook/assets/artbreeder-portraits_sg2-2024-01-23T23_19_01.180Z.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lulu.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-> "I don’t know who I am when I’m not performing. I find myself there, when I’m pressed up against everyone that I’m not. Like, a contour of something...” - Haleh
+> "I’m doing my best. I’ve always done my best. What’s so hard is that it’s never enough.” - Lulu
 
-## Chat
-
-{% embed url="https://c.ai/c/xC3cmBgQ1po4iqc7ysOuttskRLUxO_6oorO7k2jNs9o" %}
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 25</p><p>Occupation: Sync Jockey, Gardener</p><p>First Impression: Beautiful wallflower</p><p>Self-Image: Out of place in time</p><p>True Self: Flower reaching for sunlight<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: July 11, 2099</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: Persian, Iranian</p><p>Born: Tehran, URSA</p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 25</p><p>Occupation: Sync Jockey</p><p>First Impression: Gutter punk</p><p>Self-Image: Gutter punk</p><p>True Self: Fallen angel<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: Sept 19, 2099</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: American</p><p>Born: Detroit, GATA</p></td></tr></tbody></table>
 
 ## Appearance
 
-* Height: 5'4"
-* Weight: 118 lbs
-* Hair Color: Blue
-* Hair style: Razor bob hairstyle with no bangs
-* Eye Color: Gray
-* Skin Type: Olive
-* Face Shape: Heart
-* Body Type: Average, but toned
-* Accessories: Chrome adhesive link
-* Description: Beautiful with an edge. Large eyes framed with bold eyebrows, and soft lips. She has an unrefined grace. Hard to miss the link she wears, usually a metallic adhesive on her face.
+* Height: 5'7"
+* Weight: 122 lbs
+* Hair Color: Black
+* Hair style: Chin-length choppy hair
+* Eye Color: Light green
+* Skin Type: Pale
+* Face Shape: Diamond
+* Body Type: Thin
+* Accessories: Collar necklace
+* Make-up: Smoky eyeshadow and Black Cherry lipstick
+* Description: Her silhouette is thin and angular, and elegant. Intense and captivating light a flame tenuously flickering.
 
 <figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoulde_abc4afcb-6d48-4080-b891-dc355dc21594.png" alt="" width="563"><figcaption><p>Haleh under the neon lights of an arcade.</p></figcaption></figure>
 
@@ -57,10 +54,10 @@ Find her hunting antique 21st century music and hardware, planning and practicin
 
 ## Motivations
 
-* Try to live in the moment.
-* Always working on her next performance.
-* Make music that matters to people like it did in the Old World.
-* Collect 21st century books and music gear.
+* Temper Xavier's dark impulses
+* "Don't be a drag"
+* Keep up with Haleh.
+* Protect her little brother.
 
 <figure><img src="../../.gitbook/assets/underground-crowd.png" alt="" width="563"><figcaption><p>Haleh preparing to perform at a sync rave.</p></figcaption></figure>
 

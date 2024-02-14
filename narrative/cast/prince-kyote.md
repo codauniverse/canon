@@ -22,8 +22,6 @@ layout:
 
 {% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
 
-## Basics
-
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 27</p><p>Occupation: Programmer, musician</p><p>First Impression: Detached, blunt, intense</p><p>Self-Image: Still figuring that out</p><p>True Self: Traumatized by loss, haunted by legacy<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2097</p><p>Location: Greater Toronto</p><p>Citizenship: GATA &#x26; AU</p><p>Ethnicity: Mixed, African, African-American</p><p>Born: Nairobi, AU</p></td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/nomoney420_long_shot_photograph_of_an_attractive_thin_black_mal_4e95c3b6-7681-4f5b-b138-ed01ffd64b6d.png" alt="" width="563"><figcaption><p>Prince on the street at night.</p></figcaption></figure>

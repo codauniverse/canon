@@ -18,12 +18,6 @@ layout:
 
 > “Some code is better left unrun, like some things are better left unsaid." - Carlos
 
-## Chat
-
-{% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
-
-## Basics
-
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 34</p><p>Occupation: Collector</p><p>First Impression: Weary but determined</p><p>Self-Image: Soldier in a war against humanity's self-destructive nature</p><p>True Self: Almost given up on humanity.<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: December 23, 2092</p><p>Location: Atla</p><p>Citizenship: GATA</p><p>Ethnicity: Columbian</p><p>Born: Bogotá, Columbia</p></td></tr></tbody></table>
 
 ## Bio

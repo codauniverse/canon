@@ -18,12 +18,6 @@ layout:
 
 > “Give me a break. I’m not that easily manipulated... but the answer is 23,402,102 revolutions per... ugh." - Amelia
 
-## Chat
-
-{% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
-
-## Basics
-
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 20</p><p>Occupation: Programmer, AIC grantee</p><p>First Impression: Humorless, and uncomfortably present</p><p>Self-Image: Explorer seeking rare understanding</p><p>True Self: Repressed keener with something to prove<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2105</p><p>Location: Atla</p><p>Citizenship: GATA</p><p>Ethnicity: Irish</p><p>Born: Dublin, Ireland</p></td></tr></tbody></table>
 
 ## Appearance
