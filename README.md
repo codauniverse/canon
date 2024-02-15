@@ -14,7 +14,7 @@ layout:
 
 # ▶ Explore
 
-The **CODA Universe** is a collaborative storytelling project based on a foundational canon that is purpose-built for generative media and experiences. It is a rich world with interrelated fragments of lore and themes.
+The **CODA Universe** is an experimental storytelling project based on a foundational canon that is purpose-built for generative media and experiences. It is a rich world with interrelated fragments of lore and themes that reflect and interrogate, through metaphor, our world today.
 
 ## Key Concepts
 

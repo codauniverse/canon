@@ -16,7 +16,15 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/foundobjects.png" alt="" width="563"><figcaption><p>A Found Object in a containment module, deep in the vaults of ALTAR</p></figcaption></figure>
 
-The Found Objects, aptly named, are an assemblage of mysterious objects of unknown origin. Over thousands of years of human history, these objects have been discovered and collected by various groups, governments and individuals. In the Old World, the existence of the Found Objects had remained officially unconfirmed, though conspiracy theories about such artifacts had grown to be relatively mainstream.
+The Found Objects, aptly named, are an assemblage of mysterious objects of unknown origin. Over thousands of years of human history, these objects have been discovered and collected by various groups, governments and individuals.
+
+In the Old World, the existence of the Found Objects had remained officially unconfirmed, though conspiracy theories and periodic reports about such artifacts had grown to be relatively mainstream.
+
+### Connection with the Phenomenon
+
+Found Objects are theorized (by those so inclined) to be related to "the Phenomenon"; a vague notion derived from scattered sightings of anomalous trans-medium phenomena that have persisted throughout human history, and were particularly common through the Dark Decade.&#x20;
+
+A connection between the Found Objects and the Phenomenon remains wholly unsubstantiated, as no concrete evidence of the existence of the Phenomenon has ever been officially produced. Proponents of the phenomenon's existence argue that this is simply its very nature, always receding away from our apprehension.
 
 ***
 
