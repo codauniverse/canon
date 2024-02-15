@@ -1,6 +1,18 @@
-# COGs
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-## Overview
+# COGs
 
 Cogs are cognitive systems. They are [Asimovian](asimovian-architecture.md) constructs derived from the Fischer equation, capable of generalized reason.
 

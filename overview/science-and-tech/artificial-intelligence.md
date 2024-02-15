@@ -1,6 +1,18 @@
-# Artificial Intelligence
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-## Overview
+# Artificial Intelligence
 
 AI is strictly regulated under the [NDA](../../nations/gata/politics/new-dawn-accords.md). No general purpose processors are allowed specifically because of the threat posed by AI and destructive algorithms. This limitation drove the development of [Asimovian computers](asimovian-architecture.md); compute platforms that are secure and predictable. As a result of this move toward [hard code](hard-code.md), all legal artificial intelligence today takes the form of [cogs](cogs.md), Asimov-complete hard-coded cognitive systems that can only perceive and compute within a limited scope called an ‘[ontology](asimovian-architecture.md#ontology-design)’.
 

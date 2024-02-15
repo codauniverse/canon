@@ -1,6 +1,18 @@
-# Hard Code
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-## Overview
+# Hard Code
 
 <figure><img src="../../.gitbook/assets/hardcode.png" alt="" width="563"><figcaption></figcaption></figure>
 
