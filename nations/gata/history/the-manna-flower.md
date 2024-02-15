@@ -30,13 +30,13 @@ This tradition of the blue Manna flower on a white backdrop persists and has bec
 
 By inciting specific epigenetic changes at the correct time in its development cycle, the Manna flower can metamorphose into several variants:
 
-* White: Immature stage where chewing the leaves induces a mild euphoric sensation.
-* Blue: Produces anti-inflammatory pain medicine, a rapid-healing paste, and has calming properties.
-* Purple: Known for its anti-cancer therapy and as an immune system booster.
-* Red: Can be converted into a powder that amplifies energy, strength, and concentration. Physically addictive with a rough comedown.
-* Green: Develops into a fibrous stalk suitable for textiles like fabric and rope.
-* Gold: Bears a protein and carb-rich fruit, its nutritional content reflecting the health of the soil in which it is grown.
-* Mer or Silver: Cultivated underwater, it produces vines that, when processed, enhance visual and auditory senses, as well as improving metabolic efficiency and overall stamina. Psychologically addictive due to the general felt sense of health.
+* **White:** Immature stage where chewing the leaves induces a mild euphoric sensation.
+* **Blue:** Produces anti-inflammatory pain medicine, a rapid-healing paste, and has calming properties.
+* **Purple:** Known for its anti-cancer therapy and as an immune system booster.
+* **Red:** Can be converted into a powder that amplifies energy, strength, and concentration. Physically addictive with a rough comedown.
+* **Green:** Develops into a fibrous stalk suitable for textiles like fabric and rope.
+* **Gold:** Bears a protein and carb-rich fruit, its nutritional content reflecting the health of the soil in which it is grown.
+* **Mer or Silver:** Cultivated underwater, it produces vines that, when processed, enhance visual and auditory senses, as well as improving metabolic efficiency and overall stamina. Psychologically addictive due to the general felt sense of health.
 
 ***
 
