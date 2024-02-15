@@ -32,7 +32,7 @@ layout:
 * 2052 - Discovery of [the Daemon Virus](../science-and-tech/the-daemon-virus.md).
 * 2052 - Formalization of the [Existence Doctrine](../../nations/gata/military-and-defense/existence-doctrine.md).
 * 2054 - Development of the [Manna Flower](../../nations/gata/history/the-manna-flower.md).
-* 2056 - The founding of Atla and the [New Dawn Declaration](../../nations/gata/history/new-dawn-declaration.md).
+* 2056 - The founding of [Atla](../../nations/gata/key-locations/atla.md) and the [New Dawn Declaration](../../nations/gata/history/new-dawn-declaration.md).
 * 2056 - Founding of the 200 Kingdoms and [URSA](../../nations/ursa/).
 * 2061 - Official implementation of v1 of [The System](../../nations/gata/politics/the-system.md) by Atla.
 

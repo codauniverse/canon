@@ -199,7 +199,7 @@
   * [👤 Amelia Geiger](narrative/cast/amelia-geiger.md)
   * [👤 Carlos Rojas](narrative/cast/carlos-rojas.md)
   * [👤 Tamaki Rei](narrative/cast/tamaki-rei.md)
-  * [👤 Aki Koenig](narrative/cast/aki-koenig.md)
+  * [👤 Franky Wu](narrative/cast/franky-wu.md)
   * [👤 Lulu Carter](narrative/cast/lulu-carter.md)
 * [📚 Stories](narrative/stories/README.md)
   * [📘 Bright Day](narrative/stories/bright-day.md)

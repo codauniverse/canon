@@ -20,6 +20,8 @@ layout:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 34</p><p>Occupation: Collector</p><p>First Impression: Weary but determined</p><p>Self-Image: Soldier in a war against humanity's self-destructive nature</p><p>True Self: Almost given up on humanity.<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: December 23, 2092</p><p>Location: Atla</p><p>Citizenship: GATA</p><p>Ethnicity: Columbian</p><p>Born: Bogotá, Columbia</p></td></tr></tbody></table>
 
+<figure><img src="../../.gitbook/assets/magnific-JqRDYfxsuReGf5BTuxwn-nomoney420_extreme_close_up_photograph_of_a_30_year_old_latino__9c192fc6-cd92-4911-8e52-322f95159244.jpeg" alt="" width="563"><figcaption><p>Carlos standing outside a Class 1 bust.</p></figcaption></figure>
+
 ## Bio
 
 Carlos was born in Mexico City, the de facto Capital City of the Texan Empire. His parents emigrated to Bright Mesa when he was young, and he was awed by the fruits of the Reconstruction in creating that desert metropolis, its shimmering towers, its vast underground complexes, and its geo-engineered oasis.

@@ -14,7 +14,7 @@ layout:
 
 # The Joint Atlantic Command (JAC)
 
-The Joint Atlantic command began as a flotilla of NATO ships and carriers that coalesced in the Atlantic Ocean during the first days of the Dark Decade. These ships were largely spared from the cyberattack that caused the Dark Decade due to their recently-updated military-grade networking infrastructure.
+The Joint Atlantic command began as a flotilla of NATO ships and carriers that coalesced in the Atlantic Ocean during the first days and weeks of the Dark Decade. These ships were largely spared from the cyberattack that caused the Dark Decade due to their recently-updated military-grade networking infrastructure.
 
 #### Early JAC Initiatives
 
