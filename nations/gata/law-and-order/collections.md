@@ -28,4 +28,4 @@ Collections field agents are called Collectors, specially trained investigators 
 
 ### Collections at District Gates
 
-Every [Gate](../borders-and-travel/gates.md) in GATA has a Collections Desk, an office available to Collectors who need access to resources and support, and to members of the public who wish to report or surrender [illegal technology](../../../overview/science-and-tech/tech-regulation.md) or other [Old World](../../../overview/history/the-old-world.md) contraband.
+Every [Gate](../borders-and-travel/gates.md) in GATA has a Collections Desk, an office available to Collectors who need access to resources and support, and to members of the public who wish to report or surrender [illegal technology](../../../overview/science-and-tech/legacy-tech.md) or other [Old World](../../../overview/history/the-old-world.md) contraband.

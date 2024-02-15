@@ -60,7 +60,7 @@ New districts are incorporated into GATA every year. The process to become a dis
 
 A delegate is selected from the Second Quorum to advise on the ground in the prospective district, and they work together with the AIC, [Systema](../enterprise/systema.md) staff and the local government to ensure that the district is on the path to meet System Requirements for reporting and [NDA](new-dawn-accords.md) compliance.
 
-This involves the installation of a [System Node](the-system.md#system-nodes), System [endpoints](../../../overview/science-and-tech/endpoints.md) and [terminals](the-system.md#system-terminals), the licensing of all legal [enterprises](../enterprise/), the establishment of a [Local Authority](../law-and-order/local-authority.md), and the collection of all [illegal technology](../../../overview/science-and-tech/tech-regulation.md) and other contraband. This process generally takes 2-5 years.
+This involves the installation of a [System Node](the-system.md#system-nodes), System [endpoints](../../../overview/science-and-tech/endpoints.md) and [terminals](the-system.md#system-terminals), the licensing of all legal [enterprises](../enterprise/), the establishment of a [Local Authority](../law-and-order/local-authority.md), and the collection of all [illegal technology](../../../overview/science-and-tech/legacy-tech.md) and other contraband. This process generally takes 2-5 years.
 
 Prospective districts with land-locked [Gray Zones](gray-zones.md) inside their borders often find themselves waiting much longer for districting. Once the prospective district is ready, the System Node is switched from testnet to mainnet and the Field Walls are activated.
 

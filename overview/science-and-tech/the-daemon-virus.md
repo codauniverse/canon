@@ -4,7 +4,7 @@
 
 ## Overview
 
-A computer virus from the [Old World](../history/the-old-world.md) that has infected most [legacy technology](tech-regulation.md). Commonly referred to as “The Daemon” by the people, however researchers refer to the pernicious code as BODYSNATCHER.
+A computer virus from the [Old World](../history/the-old-world.md) that has infected most [legacy technology](legacy-tech.md). Commonly referred to as “The Daemon” by the people, however researchers refer to the pernicious code as BODYSNATCHER.
 
 The BODYSNATCHER algorithm handily writes itself onto legacy computer hardware–anything with a general purpose processor– and begins monitoring and mimicking the functionality of the existing software, substituting pieces of the original code with its own API, before ultimately taking over the system. Hence the name “BODYSNATCHER”, given by early forensic researchers in the [Joint Atlantic Command](../../nations/gata/history/the-joint-atlantic-command-jac.md) flotilla (which later evolved into [Atla](../../nations/gata/key-locations/atla.md)).
 

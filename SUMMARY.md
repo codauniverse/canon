@@ -22,7 +22,7 @@
 * [🛡 World Order](overview/world-order.md)
 * [⚒ Science & Tech](overview/science-and-tech/README.md)
   * [The Daemon Virus](overview/science-and-tech/the-daemon-virus.md)
-  * [Tech Regulation](overview/science-and-tech/tech-regulation.md)
+  * [Tech Regulation](overview/science-and-tech/legacy-tech.md)
   * [Artificial Intelligence](overview/science-and-tech/artificial-intelligence.md)
   * [Asimovian Architecture](overview/science-and-tech/asimovian-architecture.md)
   * [Hard Code](overview/science-and-tech/hard-code.md)
