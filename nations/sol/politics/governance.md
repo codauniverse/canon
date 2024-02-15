@@ -1,14 +1,28 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Governance
 
-### Overview
+The government of Sol is minimal. Its main responsibilities, beyond ensuring the well-being of its citizens, is enforcing the regulatory constraints of the New Dawn Accords within Sol, and providing oversight and authorization for the activities of its primary enterprise, Helios.
 
-The government of Sol is minimal. Its main responsibility, beyond the well-being of its citizens, is providing oversight and authorization for the activities of its primary enterprise, Helios.
+Sol is a sister nation to GATA and was branched from GATA during the Reconstruction in order to set the stage for GATA's goal to make humanity multi-planetary. Sol's administrative branch is based in Gemini, however as a consequence of its Atlan origins, many of its government officials continue to live and work in Atla, coordinating closely with the First and Second Quorums in their mutual affairs.
 
-The Sol government's mandate notably includes securing the heliosphere against unlawful conduct. Sol's jurisdiction spans from the Dark Side of the Moon to the edge of the heliosphere, encompassing Gemini City and the interplanetary space of the solar system beyond. Helios operatives, mainly conduits based in Gemini City, work in coordination with Rangers to secure and assist remote platforms.
+The Sol government's mandate notably includes securing the heliosphere against NDA infractions. Sol's jurisdiction spans from the Dark Side of the Moon to the edge of the heliosphere, encompassing Gemini City and the interplanetary space of the solar system beyond.
 
 ***
 
-### Leadership
+## Leadership
 
 #### Council of Overseers
 
@@ -20,7 +34,7 @@ Acting as the head of the Council, the Prime Overseer would oversee the overall 
 
 ***
 
-### Key Positions
+## Key Positions
 
 #### Helios Liaison
 
@@ -40,7 +54,7 @@ Handling Sol's relationships with other entities like GATA and other Earth gover
 
 ***
 
-### Functioning
+## Functioning
 
 #### **Decision-Making**
 
