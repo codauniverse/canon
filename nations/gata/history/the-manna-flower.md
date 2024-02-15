@@ -14,7 +14,7 @@ layout:
 
 # The Manna Flower
 
-<figure><img src="../../../.gitbook/assets/nomoney420_httpscdn.midjourney.comc8a44ea2-b9d2-4202-a51f-769_49deb770-290e-45c0-b693-20e28705092b_1.png" alt="" width="563"><figcaption><p>A field of blossoming Manna flowers.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_httpscdn.midjourney.comc8a44ea2-b9d2-4202-a51f-769_49deb770-290e-45c0-b693-20e28705092b_1.png" alt="" width="563"><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
 
 Engineered by Atlan scientists during the early years of the Dark Decade, the Manna flower is not just a marvel of genetic engineering, but also a symbol of hope. Seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal.
 
@@ -32,10 +32,10 @@ This tradition of the blue Manna flower on a white backdrop persists and has bec
 
 By inciting specific epigenetic changes at the correct time in its development cycle, the Manna flower can metamorphose into several variants:
 
-* **White:** The "template" Manna flower found growing in the wild around the world. Can be used to produce a fast acting painkiller and sedative. Chewing the leaves induces a mild euphoric sensation.
-* **Blue:** Produces anti-inflammatory pain medicine, a rapid-healing paste, and has calming properties.
-* **Purple:** Manna flowers planted in a human's fecal matter that produces a compound that is influenced by the biological composition of the sample. Somewhat difficult to cultivate. A multipurpose natural therapy with anti-cancer and immune boosting effects.
-* **Red:** It's cultivation technique is not common knowledge. Can be crushed into a powder that amplifies energy, strength, and concentration. Physically addictive with a rough comedown.
+* **White:** The typical Manna flower found growing in the wild around the world. Can be used to produce a fast acting painkiller and sedative. Most commonly, it is used to treat and pack wounds. Chewing the leaves induces a mild euphoric sensation.
+* **Blue:** Occurs when a budding Manna flower is deprived of light for over one week. Used to produce a slow but effective anti-inflammatory pain medicine, a rapid-healing paste, and has calming properties.
+* **Purple:** Manna flowers planted in a human's fecal matter. When they mature, their petals will contain a compound that is influenced by the biological composition of the sample. Require constant care, and are difficult to cultivate. A multipurpose natural therapy with anti-cancer, neuroprotective, and immune boosting effects.
+* **Red:** Can only be cultivated in zero-G environments with precise aeroponic conditions. Can be crushed into a powder that amplifies energy, strength, and concentration. Physically addictive with a rough comedown.
 * **Green:** When a budding Manna flower is exposed to sustained UV light for over one week, it begins to develop into a fibrous stalk that can be cultivated in various ways to produce different products, useful for textiles and simple constructions.
 * **Gold:** Produced when Manna seeds are planted into extremely nutrient-dense compost. Bears a protein and carb-rich fruit, its nutritional content reflecting the health of the soil in which it is grown.
 * **Mer or Silver:** Cultivated in cold fresh sea water, it produces vines that, when processed, enhance visual and auditory senses, as well as improving metabolic efficiency and overall stamina. Psychologically addictive due to a general felt sense of heightened performance.
@@ -58,12 +58,14 @@ The final phase before seed release. Different harvesting methods and precise ti
 
 ***
 
+<figure><img src="../../../.gitbook/assets/nomoney420_blue_flag_with_white_flower_waving_in_the_wind_96ac4a90-4642-4cc2-ad23-17323c2909aa.png" alt="" width="563"><figcaption><p>The Manna flower, a symbol for many.</p></figcaption></figure>
+
 ## **Modern Context**
 
-While many still cherish the aesthetic variants of the Manna flower, its medical prominence has somewhat diminished in much of the world. Modern medical advances readily available across GATA and the other super-states have superseded most Manna-based treatments. As such, the Manna flower's role has receded into a more symbolic one.
+While many still cherish the aesthetic variants of the Manna flower, its central role in medicine has somewhat diminished in much of the world. Modern medical advances readily available across GATA and the other super-states have superseded most Manna-based treatments. As such, the Manna flower's role has receded into a more symbolic one.
 
-For GATA-loyalists, the Manna flower is a symbol of national pride, while for the average citizen of GATA, it represents a simple, nostalgic idea of life. In other states, the Manna flower is generally regarded as a great gift, and its role in civilization's recovery has earned GATA a deep well of good will around the world.
+For GATA-loyalists, the Manna flower remains a symbol of national pride, while for the average citizen of GATA, it represents the idea of a simple life. In other states, the Manna flower is generally regarded as a great gift, and its role in civilization's recovery has earned GATA a deep well of good will around the world.
 
-However, the story is different in the Free Territories. There, the Manna flower remains indispensable in every day life. Due to challenges in maintaining stable infrastructure and mass-deploying safe, advanced medical solutions, many rely on the Manna flower for its medicinal and nutritional properties.
+However, the story is different in the Free Territories. There, the Manna flower remains indispensable in every day life. Because of their unique political challenges, most Free Territories face challenges bringing advanced medical solutions to the masses. As a result, many Free People still rely on the Manna flower for its medicinal and nutritional properties.
 
 While open cultivation of the Manna flower is sometimes regarded as distasteful by more die hard Sovereigns and might even invite conflict, there's an unspoken understanding in even the most committed freeholds that most people use the Manna discreetly to produce necessary medicines and materials. On the other hand, adherents to the Eidetic ideology celebrate the Manna flower, and propagate the ahistorical belief that the Manna flower was a natural development gifted to humanity by Mother Earth to help them survive without technology.

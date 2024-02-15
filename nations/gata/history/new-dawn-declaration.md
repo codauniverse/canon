@@ -18,4 +18,4 @@ The first draft of the New Dawn Declaration was circulated among the Joint-Atlan
 
 The New Dawn Declaration was a political treatise on decentralization, compartmentalization, end-to-end encryption, wireless technology, and application-specific hardware, implicating them as foundational to creating a sound, secure, and prosperous global civilization.
 
-The document would go on to inspire the New Dawn Accords, an international agreement binding signatories to a set of principles, rules and restrictions. Where the New Dawn Declaration is the founding document of Atla, the New Dawn Accords are the founding document of the Greater Atlan Territorial Alliance (GATA).
+The document went on to inspire the New Dawn Accords, an international agreement binding signatories to a set of principles, rules and restrictions. Where the New Dawn Declaration is the founding document of Atla, the New Dawn Accords are the founding document of the Greater Atlan Territorial Alliance (GATA).
