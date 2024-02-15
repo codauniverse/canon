@@ -50,6 +50,6 @@ More often than not, the only real laws in Gray Zones are the laws of the [local
 
 ### **The Criminal Element**
 
-In Gray Zones you will find a seedy ecosystem replete with brothels, illegal gambling, unlicensed [operators](../enterprise/operators.md), and [scavengers](../criminal-element/scavengers.md) selling [illegal tech](../../../overview/science-and-tech/legacy-tech.md) and [Old World](../../../overview/history/the-old-world.md) paraphernalia.
+In Gray Zones you will find a seedy ecosystem replete with brothels, illegal gambling, unlicensed [operators](../enterprise/operators.md), and [scavengers](../criminal-element/scavengers.md) selling [illegal tech](../../../overview/science-and-tech/tech-regulation.md) and [Old World](../../../overview/history/the-old-world.md) paraphernalia.
 
 Local gangs are the law in Gray Zones and their say goes. Some gangs have more reasonable regimes than others. [Smuggling](../criminal-element/smugglers.md), [drugs](../criminal-element/drug-trade.md), and illegal rackets writhe beneath the surface of every day life, a network of underground alliances between syndicates, gangs, [enterprises](../enterprise/) and even [institutions](../institutions/), maintaining a different kind of order than GATA might provide.&#x20;

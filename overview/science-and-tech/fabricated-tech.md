@@ -8,7 +8,7 @@ Fabricated tech refers to the recycling of existing [LMNL](hard-code.md#lmnl) mo
 
 Fabricated Tech is extremely convenient due to its size (legacy components are smaller than their LMNL counterparts), customizability, and reusability. Fabricated tech makes it easy break down and recompile the technology that you need as you need it, reusing the same electronic and LMNL components.
 
-On the market, some components can get quite expensive, such as [legacy componentst](legacy-tech.md), [COGs](cogs.md), and components made with exotic materials, like [static nodes](statics.md#static-nodes).
+On the market, some components can get quite expensive, such as [legacy componentst](tech-regulation.md), [COGs](cogs.md), and components made with exotic materials, like [static nodes](statics.md#static-nodes).
 
 ***
 
@@ -22,7 +22,7 @@ If size, shape or aesthetics aren’t of particular concern, fabricated tech’s
 
 ### **Design Considerations**
 
-By supplying a fabricator with various electronic components, including [legacy tech](legacy-tech.md) components, a user can generate a device that works as they require. The more functionality required by the device, the larger its form factor due to the number of components and the size of LMNL modules.
+By supplying a fabricator with various electronic components, including [legacy tech](tech-regulation.md) components, a user can generate a device that works as they require. The more functionality required by the device, the larger its form factor due to the number of components and the size of LMNL modules.
 
 Fab size and shape can be controlled with skilled component selection, component layout, and custom form design. Fabs can have sealed unibody designs, can be fabricated in multiple pieces, and can include intricate mechanical structures like hinges, sockets, buttons, dials, and so on.
 

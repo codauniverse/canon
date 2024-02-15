@@ -16,7 +16,7 @@ layout:
 
 ## Overview
 
-In the intricate complex of [GATA](../)’s [government](../politics/governance.md), the Atlan Information Control is the decisive voice regarding the dissemination of information and technology. Its formation was crucial upon GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../../../overview/science-and-tech/legacy-tech.md) and potentially perilous novel innovations.
+In the intricate complex of [GATA](../)’s [government](../politics/governance.md), the Atlan Information Control is the decisive voice regarding the dissemination of information and technology. Its formation was crucial upon GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../../../overview/science-and-tech/tech-regulation.md) and potentially perilous novel innovations.
 
 ***
 
