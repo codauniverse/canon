@@ -14,7 +14,7 @@ layout:
 
 # The Manna Flower
 
-<figure><img src="../../../.gitbook/assets/manna.png" alt="" width="563"><figcaption><p>Yellow and Blue Manna Flower specimens.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_httpscdn.midjourney.comc8a44ea2-b9d2-4202-a51f-769_49deb770-290e-45c0-b693-20e28705092b_1.png" alt="" width="563"><figcaption><p>A field of blossoming Manna flowers.</p></figcaption></figure>
 
 Engineered by Atlan scientists during the early years of the Dark Decade, the Manna flower is not just a marvel of genetic engineering, but also a symbol of hope. Seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal.
 
@@ -26,17 +26,19 @@ This tradition of the blue Manna flower on a white backdrop persists and has bec
 
 ***
 
+<figure><img src="../../../.gitbook/assets/manna.png" alt="" width="563"><figcaption><p>Yellow and Blue Manna Flower specimens.</p></figcaption></figure>
+
 ## **Variants and Uses**
 
 By inciting specific epigenetic changes at the correct time in its development cycle, the Manna flower can metamorphose into several variants:
 
-* **White:** Immature stage where chewing the leaves induces a mild euphoric sensation.
+* **White:** The "template" Manna flower found growing in the wild around the world. Can be used to produce a fast acting painkiller and sedative. Chewing the leaves induces a mild euphoric sensation.
 * **Blue:** Produces anti-inflammatory pain medicine, a rapid-healing paste, and has calming properties.
-* **Purple:** Known for its anti-cancer therapy and as an immune system booster.
-* **Red:** Can be converted into a powder that amplifies energy, strength, and concentration. Physically addictive with a rough comedown.
-* **Green:** Develops into a fibrous stalk suitable for textiles like fabric and rope.
-* **Gold:** Bears a protein and carb-rich fruit, its nutritional content reflecting the health of the soil in which it is grown.
-* **Mer or Silver:** Cultivated underwater, it produces vines that, when processed, enhance visual and auditory senses, as well as improving metabolic efficiency and overall stamina. Psychologically addictive due to the general felt sense of health.
+* **Purple:** Manna flowers planted in a human's fecal matter that produces a compound that is influenced by the biological composition of the sample. Somewhat difficult to cultivate. A multipurpose natural therapy with anti-cancer and immune boosting effects.
+* **Red:** It's cultivation technique is not common knowledge. Can be crushed into a powder that amplifies energy, strength, and concentration. Physically addictive with a rough comedown.
+* **Green:** When a budding Manna flower is exposed to sustained UV light for over one week, it begins to develop into a fibrous stalk that can be cultivated in various ways to produce different products, useful for textiles and simple constructions.
+* **Gold:** Produced when Manna seeds are planted into extremely nutrient-dense compost. Bears a protein and carb-rich fruit, its nutritional content reflecting the health of the soil in which it is grown.
+* **Mer or Silver:** Cultivated in cold fresh sea water, it produces vines that, when processed, enhance visual and auditory senses, as well as improving metabolic efficiency and overall stamina. Psychologically addictive due to a general felt sense of heightened performance.
 
 ***
 
