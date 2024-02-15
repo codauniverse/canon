@@ -25,3 +25,31 @@ The **CODA Universe** is an experimental storytelling project based on a foundat
 ## Nations
 
 <table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="nations/gata/">gata</a></td><td><a href=".gitbook/assets/GATA-flag.png">GATA-flag.png</a></td></tr><tr><td><a href="nations/african-union/">african-union</a></td><td><a href=".gitbook/assets/CODA-story-exploration_2022-06-17.png">CODA-story-exploration_2022-06-17.png</a></td></tr><tr><td><a href="nations/aryabat/">aryabat</a></td><td><a href=".gitbook/assets/flag-arabhat.png">flag-arabhat.png</a></td></tr><tr><td><a href="nations/ursa/">ursa</a></td><td><a href=".gitbook/assets/flag-ursa.png">flag-ursa.png</a></td></tr><tr><td><a href="nations/new-imperial-japan/">new-imperial-japan</a></td><td><a href=".gitbook/assets/flag-japan.png">flag-japan.png</a></td></tr><tr><td><a href="nations/free-territories/">free-territories</a></td><td><a href=".gitbook/assets/flag-freeterritories2 (1).png">flag-freeterritories2 (1).png</a></td></tr><tr><td><a href="nations/sol/">sol</a></td><td><a href=".gitbook/assets/Sol-flag.png">Sol-flag.png</a></td></tr></tbody></table>
+
+***
+
+## Characters
+
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="narrative/cast/haleh-hashemi.md">haleh-hashemi.md</a></td><td><a href=".gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s.png">nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s.png</a></td></tr><tr><td><a href="narrative/cast/prince-kyote.md">prince-kyote.md</a></td><td><a href=".gitbook/assets/nomoney420_long_shot_photograph_of_an_attractive_thin_mixed_rac_f36d28c5-3f69-40b2-bcbf-7da3bed8cfad.png">nomoney420_long_shot_photograph_of_an_attractive_thin_mixed_rac_f36d28c5-3f69-40b2-bcbf-7da3bed8cfad.png</a></td></tr><tr><td><a href="narrative/cast/lulu-carter.md">lulu-carter.md</a></td><td><a href=".gitbook/assets/nomoney420_stylish_crowd_in_a_future_underground_rave_with_gree_17322c09-302d-4712-b063-a9a41551b19b.png">nomoney420_stylish_crowd_in_a_future_underground_rave_with_gree_17322c09-302d-4712-b063-a9a41551b19b.png</a></td></tr><tr><td><a href="narrative/cast/tamaki-rei.md">tamaki-rei.md</a></td><td><a href=".gitbook/assets/magnific-r6uf28vcgV1R4SuBjMP7-nomoney420_photograph_of_extremely_attractive_half-japanese_hal_c56966a3-3647-402b-b6cd-16135a4b9ace.jpeg">magnific-r6uf28vcgV1R4SuBjMP7-nomoney420_photograph_of_extremely_attractive_half-japanese_hal_c56966a3-3647-402b-b6cd-16135a4b9ace.jpeg</a></td></tr><tr><td><a href="narrative/cast/xavier-alves.md">xavier-alves.md</a></td><td><a href=".gitbook/assets/magnific-BhixqRKdm5GcqTKGFvs1-nomoney420_criminal_mastermind_sitting_on_a_makeshift_throne_in_2bed8b36-251a-4e74-84c9-0c65d5b2bb64.jpeg">magnific-BhixqRKdm5GcqTKGFvs1-nomoney420_criminal_mastermind_sitting_on_a_makeshift_throne_in_2bed8b36-251a-4e74-84c9-0c65d5b2bb64.jpeg</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+
+***
+
+## Media
+
+### BRIGHT DAY - Anime Music Video (CODA Pilot)
+
+{% embed url="https://youtu.be/PLdP-NU_WdQ" fullWidth="true" %}
+
+***
+
+<figure><img src=".gitbook/assets/social_chat-01.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+## Chats
+
+{% embed url="https://c.ai/c/xC3cmBgQ1po4iqc7ysOuttskRLUxO_6oorO7k2jNs9o" %}
+
+{% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
+
+{% embed url="https://c.ai/c/pAzXNi6oa873Jwyz9dj_AKZfqWqFp6K7_EnNaYvADLI" %}
+
+{% embed url="https://c.ai/c/QFq6TnivNi5NudgcPgvBuv0Q7MrNZFNTBO7xmRqdsSU" %}

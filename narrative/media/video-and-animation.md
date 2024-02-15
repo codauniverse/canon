@@ -2,7 +2,7 @@
 
 ## Prologue
 
-{% embed url="https://youtu.be/PLdP-NU_WdQ" %}
+{% embed url="https://youtu.be/PLdP-NU_WdQ" fullWidth="true" %}
 
 #### Synopsis
 
