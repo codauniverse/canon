@@ -18,11 +18,11 @@ layout:
 
 Working within the CODA Universe is just as informed by the thematic undertones as it is by the canon.&#x20;
 
-The CODA Universe refracts the complex spectrum of human experience through the moods, attitudes, and structural regimes that permeate and pool around its world.
+The CODA Universe refracts the full spectrum of human experience through the moods, attitudes, and structural regimes that permeate and pool around its complex world.
 
 This list of themes is not exhaustive; the themes of the CODA Universe are many, and subtle. Any story can be told in a way that resonates with the world; it may simply be a matter of solving for the who, where, or when.
 
-Lore that becomes "canon" usually resonates or clashes with the existing themes in interesting and intentional ways.
+Great content and experiences set in the CODA Universe will resonate or clash with these existing themes in interesting and intentional ways.
 
 ## Major Themes
 

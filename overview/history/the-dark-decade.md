@@ -24,6 +24,8 @@ The Dark Decade was a global event that instantly dissolved the existing world o
 
 During the first 6 months of the Dark Decade, 1.2 billion people died, primarily due to famine and disease. Over the following 9 years, an additional estimated 4 billion people died due to causes attributed to the Dark Decade.
 
+***
+
 ## Timeline of Events
 
 * **August 2052, The Crash:** Sudden corruption of general-purpose processors globally, leading to the immediate collapse of power grids, communications, and supply chains.

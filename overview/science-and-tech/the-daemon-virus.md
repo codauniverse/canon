@@ -28,9 +28,11 @@ When the Daemon was discovered on computer systems around the world by technicia
 
 Researchers discovered that when a BODYSNATCHER-infected system detects that it has been discovered, the code ‘self-corrupts’, rendering the host hardware non-functional.
 
-BODYSNATCHER’s infestation of all legacy technology meant that the Old World’s vast, connected infrastructure was now useless. From mining operations to factories, powerplants to satellites, everything would have to be rebuilt from scratch. And it would have to be rebuilt in a way that was immune to the Daemon– or any similar threat. Research on BODYSNATCHER was critical in informing the [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md), [Asimovian architecture](asimovian-architecture.md), and the design of [The System](../../nations/gata/politics/the-system.md).
+BODYSNATCHER’s infestation of all legacy technology meant that the Old World’s vast, connected infrastructure was now useless. From mining operations to factories, powerplants to satellites, everything would have to be rebuilt from scratch. And it would have to be rebuilt in a way that was immune to the Daemon– or any similar threat.
 
-Recently studies of BODYSNATCHER have confirmed its long-suspected role in the onset of the [Dark Decade](../history/the-dark-decade.md).
+Research on BODYSNATCHER was critical in informing the [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md), [Asimovian architecture](asimovian-architecture.md), and the design of [The System](../../nations/gata/politics/the-system.md).
+
+Recently studies of BODYSNATCHER may confirm its long-suspected role in the onset of the [Dark Decade](../history/the-dark-decade.md), however additional research is required.
 
 #### Attempts to Address the Daemon
 
@@ -39,11 +41,3 @@ Researchers discovered that if one can successfully circumvent all of BODYSNATCH
 While it was originally hoped that this technique would produce a panacea for the virus, this discovery revealed a yet-unseen behavior from the virus. When BODYSNATCHER is forced to self destruct in this way, any connected descendent infected machines also self-destruct, potentially causing a critical cascade across an entire network.
 
 It is believed by some that this could be the mechanism that initiated The Crash, however much remains unknown about the virus and its origins.
-
-***
-
-## Summary
-
-* Targets legacy computer hardware.
-* The reason Asimovian architecture was conceived, using “physical functions” to construct purpose-built computational hardware that cannot be re-written or corrupted.
-* Key modern technologies are made safe from infection thanks to Asimovian architecture, such as links, interfaces, cogs and even The System infrastructure itself.
