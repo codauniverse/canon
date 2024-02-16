@@ -10,6 +10,7 @@
   * [🔵 Opening Crawl](overview/introduction/opening-crawl.md)
   * [📄 About](overview/introduction/about.md)
   * [💭 Themes](overview/introduction/themes.md)
+  * [🎨 Aesthetic](overview/introduction/aesthetic.md)
 * [🕣 History](overview/history/README.md)
   * [The Basics](overview/history/the-basics.md)
   * [Timeline of Key Events](overview/history/timeline-of-key-events.md)
