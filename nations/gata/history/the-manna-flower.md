@@ -32,13 +32,33 @@ This tradition of the blue Manna flower on a white backdrop persists and has bec
 
 By inciting specific epigenetic changes at the correct time in its development cycle, the Manna flower can metamorphose into several variants:
 
-* **White:** The typical Manna flower found growing in the wild around the world. Can be used to produce a fast acting painkiller and sedative. Most commonly, it is used to treat and pack wounds. Chewing the leaves induces a mild euphoric sensation.
-* **Blue:** Occurs when a budding Manna flower is deprived of light for over one week. Used to produce a slow but effective anti-inflammatory pain medicine, a rapid-healing paste, and has calming properties.
-* **Purple:** Manna flowers planted in a human's fecal matter. When they mature, their petals will contain a compound that is influenced by the biological composition of the sample. Require constant care, and are difficult to cultivate. A multipurpose natural therapy with anti-cancer, neuroprotective, and immune boosting effects.
-* **Red:** Can only be cultivated in zero-G environments with precise aeroponic conditions. Can be crushed into a powder that amplifies energy, strength, and concentration. Physically addictive with a rough comedown.
-* **Green:** When a budding Manna flower is exposed to sustained UV light for over one week, it begins to develop into a fibrous stalk that can be cultivated in various ways to produce different products, useful for textiles and simple constructions.
-* **Gold:** Produced when Manna seeds are planted into extremely nutrient-dense compost. Bears a protein and carb-rich fruit, its nutritional content reflecting the health of the soil in which it is grown.
-* **Mer or Silver:** Cultivated in cold fresh sea water, it produces vines that, when processed, enhance visual and auditory senses, as well as improving metabolic efficiency and overall stamina. Psychologically addictive due to a general felt sense of heightened performance.
+#### **White**
+
+The typical Manna flower found growing in the wild around the world. Can be used to produce a fast acting painkiller and sedative. Most commonly, it is used to treat and pack wounds. Chewing the leaves induces a mild euphoric sensation.
+
+#### **Blue**
+
+Occurs when a budding Manna flower is deprived of light for over one week. Used to produce a slow but effective anti-inflammatory pain medicine, a rapid-healing paste, and has calming properties.
+
+#### **Purple**
+
+Manna flowers planted in a human's fecal matter. When they mature, their petals will contain a compound that is influenced by the biological composition of the sample. Require constant care, and are difficult to cultivate. A multipurpose natural therapy with anti-cancer, neuroprotective, and immune boosting effects.
+
+#### **Red**
+
+Can only be cultivated in zero-G environments with precise aeroponic conditions. Can be crushed into a powder that amplifies energy, strength, and concentration. Physically addictive with a rough comedown.
+
+#### **Green**
+
+When a budding Manna flower is exposed to sustained UV light for over one week, it begins to develop into a fibrous stalk that can be cultivated in various ways to produce different products, useful for textiles and simple constructions.
+
+#### **Gold**
+
+Produced when Manna seeds are planted into extremely nutrient-dense compost. Bears a protein and carb-rich fruit, its nutritional content reflecting the health of the soil in which it is grown.
+
+#### **Mer or Silver**
+
+Cultivated in cold fresh sea water, it produces vines that, when processed, enhance visual and auditory senses, as well as improving metabolic efficiency and overall stamina. Psychologically addictive due to a general felt sense of heightened performance.
 
 ***
 
