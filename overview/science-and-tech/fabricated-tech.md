@@ -1,8 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Fabricated Tech
 
 <figure><img src="../../.gitbook/assets/fab.png" alt="" width="563"><figcaption></figcaption></figure>
-
-## Overview
 
 Fabricated tech refers to the recycling of existing [LMNL](hard-code.md#lmnl) modules, electronics, mechanical components, and other raw materials in the creation of new custom modules and devices. Fabricated tech is made by hand or using [fabricators](fabricated-tech.md#fabricators).
 

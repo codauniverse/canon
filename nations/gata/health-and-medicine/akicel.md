@@ -14,8 +14,6 @@ layout:
 
 # AKICEL
 
-### Overview
-
 The AKICEL therapy is a well-known treatment for age-related dysfunction across the entire body. Used in moderation, AKICEL therapy significantly reduces all-cause mortality. Higher doses can have strong rejuvenative effects on superficial signs of aging.
 
 Excessive use of AKICEL therapy has been connected with numerous severe side effects and should only be administered by a trained professional.

@@ -16,8 +16,6 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/altar.png" alt="" width="563"><figcaption><p>ALTAR's secretive high council.</p></figcaption></figure>
 
-## Overview
-
 Deep within the foundation of Atla, beneath the swirling currents of the Atlantic, lies the ALTAR complex – the beating heart of the most clandestine institution in GATA.
 
 By exploring a myriad of new techniques and scientific principles, ALTAR's groundbreaking work produces a diverse ecology of technologies.

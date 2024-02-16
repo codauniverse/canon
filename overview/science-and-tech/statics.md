@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Statics
 
 <figure><img src="../../.gitbook/assets/nomoney420_future_city_skyline_with_hover_transports_flying_in__2003b126-4c7a-4d7d-85ce-2accd550e2b5.png" alt="" width="563"><figcaption></figcaption></figure>

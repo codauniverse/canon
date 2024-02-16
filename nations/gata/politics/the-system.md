@@ -14,7 +14,7 @@ layout:
 
 # The System
 
-<figure><img src="../../../.gitbook/assets/system.png" alt="" width="563"><figcaption><p>Control terminals inside of a System Node.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/system.png" alt=""><figcaption><p>Control terminals inside of a System Node.</p></figcaption></figure>
 
 The System is a decentralized, [hard-coded](../../../overview/science-and-tech/hard-code.md) infrastructure that handles power, economic transactions, communication, and coordination within and between [districts](districts.md).
 
@@ -34,9 +34,11 @@ Most interaction with The System is done through the [System Terminals](the-syst
 
 ## System Terminals
 
-System Terminals can be found ubiquitously across GATA’s districts. System Terminals are used by citizens to do things like send messages, search the [General Record](the-general-record.md), download information, withdraw and deposit funds, perform legal transactions, collect Yield, alert local authorities, and vote in the [Third Quorum](governance.md#the-third-quorum). Use of System Terminals requires valid [citizenship keys](keys.md#citizenship-keys).
+System Terminals are public [terminals](../../../overview/science-and-tech/terminals.md) found ubiquitously across GATA’s districts. System Terminals are used by citizens to do things like send messages, search the [General Record](the-general-record.md), download information, withdraw and deposit funds, perform legal transactions, collect Yield, alert local authorities, and vote in the [Third Quorum](governance.md#the-third-quorum). Use of System Terminals requires valid [citizenship keys](keys.md#citizenship-keys).
 
 System Terminals are not themselves computers; they are merely windows into The System’s distributed virtual computer. Personal interfaces like [slates](../../../overview/science-and-tech/slates.md) and [links](../../../overview/science-and-tech/links.md) can be synchronized with terminals allowing for remote access while within close range.
+
+If users wish to make transactions that aren't recorded on the System, they'll need to use [private terminals](../../../overview/science-and-tech/terminals.md) and/or [endpoints](../../../overview/science-and-tech/endpoints.md), which can sometimes be risky or unreliable.
 
 ***
 
@@ -66,10 +68,8 @@ All licensed enterprises have their own private System endpoints that allow them
 
 ## **System Sensors**
 
-The System also utilizes an array of sensors developed by WILD and installed by [Systema](../enterprise/systema.md)'s [Infrastructure & Maintenance department](../enterprise/systema.md#departments). These sensors are installed in districts, as well as in discrete remote locations around the world.&#x20;
+The System also utilizes an array of sensors developed by Wild Technologies and installed by [Systema](../enterprise/systema.md)'s [Infrastructure & Maintenance department](../enterprise/systema.md#departments). These sensors are installed in districts, as well as in discrete remote locations around the world.&#x20;
 
 These arrays provide real-time insight into things like climate, microbial health, biodiversity, migratory patterns, and other signals that can be factored into The System’s calculations.
 
 It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence of this exists. This would be a direct contravention of [NDA](new-dawn-accords.md) and [WPP](../institutions/atlan-information-control-aic.md#whole-privacy-protection-act) law.
-
-\

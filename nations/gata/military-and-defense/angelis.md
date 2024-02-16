@@ -16,8 +16,6 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/guardians.png" alt="" width="563"><figcaption><p>A Guardian operative and her Combat Gear.</p></figcaption></figure>
 
-## Overview
-
 Based in Atla, and staffed by more than 10 million personnel stationed around the world and in orbit, Angelis is GATA’s largest enterprise. Angelis provides military and intelligence services for GATA and its partner states.
 
 Angelis was founded in the wake of The Reconstruction, as GATA fractured its national military into various dedicated branches, formalizing structures that had emerged naturally over its history.

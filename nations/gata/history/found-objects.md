@@ -30,7 +30,7 @@ A connection between the Found Objects and the Phenomenon remains wholly unsubst
 
 ## History
 
-During the Dark Decade, one of the Joint Atlantic Commands first mission-based initiatives was the retrieval of sensitive assets from around the world. Once their existence was disclosed among the upper ranks, Found Objects were quickly identified as high-value targets for these missions. As more high-ranking Secret Access Program personnel were brought into the fleet, these forays were able to successfully retrieve and catalog more and more of these exotic assets. When Atla was founded, these missions were compartmentalized according to the Existence Doctrine rules.
+During the Dark Decade, one of the Joint Atlantic Command's first mission-based initiatives was the retrieval of sensitive assets from around the world. Once their existence was disclosed among the upper ranks, Found Objects were quickly identified as high-value targets for these missions. As more high-ranking Secret Access Program personnel were brought into the fleet, these forays were able to successfully retrieve and catalog more and more of these exotic assets. When Atla was founded, these missions were compartmentalized according to the Existence Doctrine rules.
 
 ### Current Attitudes
 

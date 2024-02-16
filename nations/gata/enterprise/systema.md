@@ -14,8 +14,6 @@ layout:
 
 # Systema
 
-### Overview
-
 The System is maintained by Systema, a public enterprise based in Luna that uses its lunar location to maintain and update System nodes with a secure line-of-sight connection. Systema core staff live and work on the moon, and at the end of their careers many choose to take advantage of their earned lunar keys, retiring to Sol’s Gemini City on the Dark Side of the moon. Systema began as a public Research Corps project undertaken over a decade in a nascent Atla, but has since been converted into a public enterprise.
 
 ***

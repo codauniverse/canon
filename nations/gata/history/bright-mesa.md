@@ -12,17 +12,15 @@ layout:
     visible: true
 ---
 
-# The Bright Mesa Attack
+# Bright Mesa
 
-<figure><img src="../../../.gitbook/assets/83.png" alt="" width="563"><figcaption><p>Protests in Bright Mesa reach a fevered pitch shortly before the attack.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.png" alt="" width="563"><figcaption><p>A view of Bright Mesa, Nevada from a nearby ridge.</p></figcaption></figure>
 
 Bright Mesa was a Free City located in the Nevada desert in what used to be the Neutral Zone between Atla-aligned territories to the West and the Texan Empire to the East.&#x20;
 
 Founded during the earliest days of the Dark Decade, Bright was a pivotal cultural and political nexus in the region, and was seen by many as an exemplar for how to co-exist in the midst of the conflicting political attitudes felt far and wide as Free Peoples wrestled with the benefits and detriments of GATA districthood.
 
 ***
-
-<figure><img src="../../../.gitbook/assets/8.png" alt="" width="563"><figcaption><p>A view of Bright Mesa, Nevada from a nearby ridge.</p></figcaption></figure>
 
 ## History
 
@@ -46,9 +44,9 @@ But with a steady stream of refugees from the South and East, by the close of Th
 
 With tensions between GATA and the Free Territories having escalated in the region over the years, something had to give. The Texan Empire was accused of harboring organized crime syndicates that would target GATA homesteads and citizens when they enter the neutral territory outside of Bright.
 
-There was a push from Atla to solidify their hold on Bright in response to this flagrant contravention of a standing agreement that Bright Mesa was to remain neutral. In truth, Bright Mesa was bound to GATA in too many ways to ever turn its back, but the leadership had to address the vocal dissent.
+There was a push from Atla to solidify their hold on Bright in response to this flagrant contravention of a standing agreement that Bright Mesa and its surrounding territory were to remain neutral. In truth, Bright Mesa was bound to GATA in too many ways to ever turn its back, but the leadership had to address the vocal dissent.
 
-A referendum was held, and given the choice between GATA and independence, the people of Bright Mesa chose GATA with a decisive 65% voting to join, versus 22% for Independence (with 13% undecided). The people had spoken.
+A referendum was held, and given the definitive choice between GATA and independence, the people of Bright Mesa chose GATA with a decisive 65% voting to sign the NDA, versus 22% for Independence (with 13% undecided). The people had spoken.
 
 
 
@@ -56,14 +54,26 @@ A referendum was held, and given the choice between GATA and independence, the p
 
 ## The Bright Mesa Attack
 
-After the certification of the vote, technical and diplomatic delegations were sent from GATA to activate Bright’s System and celebrate Bright’s districthood. The technical delegation arrived several months in advance and prepared Bright’s System Node, as well as its field wall emitters.
+After the certification of the vote, a team of Systema technicians and a Guardian battalion were dispatched by GATA to speed the assembly of Bright’s System Node, as well as its field wall emitters. When preparations were complete, a diplomatic delegation was sent to celebrate Bright’s districthood.
 
-On the day of the Activation Ceremony, the diplomatic delegation arrived, and amongst them, many prominent citizens of GATA who had some ties to Bright Mesa. A day of celebration ensued, featuring performances, speeches, games, and cheer.
+The diplomatic delegation arrived on the day of the Activation Ceremony, many prominent citizens of GATA with ties to Bright Mesa amongst them. A day of celebration ensued, featuring performances, speeches, games, and cheer.
 
-However, as the day progressed, small pockets of protest steadily began to boil over as Activation neared.&#x20;
+However, as the day progressed, small pockets of protest and dissent steadily came to a boil as Activation neared. Angelis' renowned warning systems did not predict what followed.
 
-<figure><img src="../../../.gitbook/assets/93.png" alt="" width="563"><figcaption><p>A nuclear detonation in Bright Mesa's city center.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/83.png" alt="" width="563"><figcaption><p>Protests in Bright Mesa reach a fevered pitch shortly before the attack.</p></figcaption></figure>
 
 Immediately following Activation, nuclear explosions devastated Bright Mesa, killing many thousands instantly, including most of the Atlan delegation that was sent to oversee and celebrate Bright’s induction into GATA. Thousands more would perish in the days and weeks to follow.
 
-The terrorist organization the CURE claimed responsibility for the attack. Confidence in GATA’s protection in the region was shaken and the profile of the CURE reached a global scale.
+<figure><img src="../../../.gitbook/assets/93.png" alt="" width="563"><figcaption><p>A nuclear detonation in Bright Mesa's city center.</p></figcaption></figure>
+
+The terrorist organization The CURE claimed responsibility for the attack. Confidence in GATA’s protection in the region was shaken and the profile of the CURE reached a global scope.
+
+<figure><img src="../../../.gitbook/assets/103.png" alt="" width="563"><figcaption><p>A terrible mushroom cloud rising above Bright Mesa.</p></figcaption></figure>
+
+## Notable Victims
+
+* GATA Minister of the Arts
+* GATA Minister of Agriculture
+* Kyote (Folk Musician)
+* Soraya Kyote-Mata (Technologist)
+* Finneas Hughes (Angelis MAV)

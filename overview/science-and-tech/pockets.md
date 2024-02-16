@@ -1,6 +1,18 @@
-# Pockets
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-## Overview
+# Pockets
 
 Among the numerous novel space-time manipulating technologies developed by ALTAR.
 

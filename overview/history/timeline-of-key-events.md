@@ -61,7 +61,7 @@ layout:
 
 ### 🔵 [Post-Reconstruction Developments](timeline-of-key-events.md#id-1c9vd2wl21t4) <a href="#id-1c9vd2wl21t4" id="id-1c9vd2wl21t4"></a>
 
-* [Bright Mesa's destruction](../../nations/gata/history/the-bright-mesa-attack.md) in a nuclear attack attributed to The Cure.
+* [Bright Mesa's destruction](../../nations/gata/history/bright-mesa.md) in a nuclear attack attributed to The Cure.
 * New Imperial Japan signs the New Dawn Accords.
 * Greenland Weather Engine is completed.
 * Aryabat unveils their miniaturized Asimov-complete link interfaces.

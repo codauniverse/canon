@@ -14,17 +14,19 @@ layout:
 
 # Local Authority
 
-## Overview
+<figure><img src="../../../.gitbook/assets/authority.png" alt=""><figcaption></figcaption></figure>
 
-The Local Authority (or just “Authority”) is the official designation in GATA for local law enforcement, which is overseen by local governments of their districts, who themselves answer to the Second Quorum. There are Atlan Authority regulations that dictate the general operational principles and procedures for the Local Authority, however the details of their enforcement styles and cultures varies widely between districts.
+The Local Authority (or just “Authority”) is the official designation in GATA for local law enforcement, which is overseen by local governments of their districts, who themselves answer to the Second Quorum.
+
+There are Atlan Authority regulations that dictate the general operational principles, procedures and limitations for the Local Authority, however the details of their enforcement styles and cultures varies widely between districts.
 
 ***
 
 ## Origins
 
-Originating from local gangs and community defence organizations. Local authority doesn't share any meaningful lineage with the police forces of the Old World and their institutional histories.&#x20;
+Originating from local gangs and community defense organizations. Local authority doesn't share any meaningful lineage with the police forces of the Old World and their institutional histories.&#x20;
 
-When GATA incorporates new districts, the extant sources of law and order in those communities are deputized by their provisional governments and form the basis of a new, legitimized enforcement arm. Historically, the Local Authority of a district is generally formed from community defence brigades and gangs that are compatible with the laws and regulations of GATA.
+When GATA incorporates new districts, the extant sources of law and order in those communities are deputized by their provisional governments and form the basis of a new, legitimized enforcement arm. Historically, the Local Authority of a district is generally formed from community defense brigades and gangs that are compatible with the laws and regulations of GATA.
 
 ***
 

@@ -15,5 +15,3 @@ layout:
 # The Reconstruction
 
 <figure><img src="../../.gitbook/assets/reconstruction.png" alt="" width="563"><figcaption></figcaption></figure>
-
-## Overview

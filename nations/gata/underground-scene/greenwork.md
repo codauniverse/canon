@@ -14,8 +14,6 @@ layout:
 
 # Greenwork
 
-### Overview
-
 A matured street art medium that has spread around the world.
 
 Made with a specially engineered fast-growing variant of the Manna flower that can be spread about like wild vines or grown in place like moss.

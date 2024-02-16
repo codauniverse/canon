@@ -14,8 +14,6 @@ layout:
 
 # Border Patrol
 
-## Overview
-
 Border Patrol consists of Gate personnel and inspectors, intelligence operatives, embedded Angelis officers, specially trained border guards and support combat units.
 
 Border Patrol is meant to utilize non-lethal means against targets, however they are equipped for armed resistance and deaths do occur. Border guards typically utilize non-lethal jelly rounds to immobilize targets.

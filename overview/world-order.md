@@ -48,5 +48,5 @@ layout:
 
 ***
 
-## Syndicates
+## Social Movements
 

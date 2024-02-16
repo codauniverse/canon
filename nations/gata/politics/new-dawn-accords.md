@@ -14,7 +14,7 @@ layout:
 
 # New Dawn Accords
 
-<figure><img src="../../../.gitbook/assets/newdawnaccords.png" alt="" width="563"><figcaption><p>The New Dawn Accords being signed by a local government.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/newdawnaccords.png" alt=""><figcaption><p>The New Dawn Accords being signed by a local government.</p></figcaption></figure>
 
 The New Dawn Accords (NDA) are a set of agreements and principles introduced by [GATA ](../)at the close of the Dark Decade. The NDA was pursued following the successful implementation, and remarkable performance of "[The System](the-system.md)" within Atla, its founding [district](districts.md). The document was written by a special working group from [Atlan Information Control (AIC)](../institutions/atlan-information-control-aic.md), and is based on the [New Dawn Declaration](../history/new-dawn-declaration.md) that birthed Atla as a political entity.
 

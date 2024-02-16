@@ -14,8 +14,6 @@ layout:
 
 # Blanks
 
-### Overview
-
 Developed by AKICEL in a joint enterprise with GATA and New Imperial Japan. Blanks are cloned human bodies with exact replicas of deceased brains, but provably without consciousness.
 
 In order to create a blank, a deceased brain must be ‘flipped’, a process similar to embalming or injection molding, however using a nano-fluid that floods every feature of the brain and holds its state as a lattice for Akicel cell cultures during the clone maturation process. The flipping process destroys the original brain.

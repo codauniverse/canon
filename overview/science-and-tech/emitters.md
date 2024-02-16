@@ -1,6 +1,18 @@
-# Emitters
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-## Overview
+# Emitters
 
 Emitters are used to project holograms.
 

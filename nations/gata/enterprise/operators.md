@@ -14,8 +14,6 @@ layout:
 
 # Operators
 
-### Overview
-
 People who take on commissions professionally are called Operators. This profession is all about skillful navigation of the byzantine system of GATA. With a good reputation, track record, and specialization, operators gain access to more exclusive commissions offered by The System, institutions, and other legal enterprises. Sometimes referred to as "ops", or more derisively as "jobbers".
 
 Equipped with little more than sharp minds, obscure keys and direct contacts, skilled operators can found to perform many tasks. Most skilled operators can find just about anything, anyone, or any information. They can get places most can’t, and they know the laws and regulations that limit them in their duties.&#x20;

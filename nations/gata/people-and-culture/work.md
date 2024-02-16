@@ -14,8 +14,6 @@ layout:
 
 # Work
 
-### Overview
-
 While many in GATA have some level of employment to provide supplementary income and other privileges, most citizens of GATA rely on Yield and the occasional commission to get by.&#x20;
 
 Commissions are freelance tasks that citizens can choose to carry out. Commissions can range from confirming the status of some piece of infrastructure, to delivering parcels, or tending to a public space. People who take on commissions professionally are called Operators.

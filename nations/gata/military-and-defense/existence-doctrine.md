@@ -14,8 +14,6 @@ layout:
 
 # Existence Doctrine
 
-## Overview
-
 A strategic mindset assumed by GATA during The Dark Decade and The Reconstruction. The Existence Doctrine holds that all other interests and concerns are subordinate to human existence.
 
 When humanity’s continued existence isn’t reasonably in question, GATA is free to consider other factors when making decisions, especially rights, regulations and human flourishing.

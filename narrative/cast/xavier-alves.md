@@ -16,7 +16,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/35ee519d60e48e89244b558ba613.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-> "You’ll bring it to me. You’ll bring it to me because you love him, and how he’s all one piece.” - Xavier
+Glued together from broken pieces. Colder every day, he's gained a significant foothold in the West End Gray Zone black market. His blind ambition outlines a man shaped by survival and cast in shadow.
 
 ## Chat
 
@@ -96,6 +96,8 @@ Fitz (Lulu's brother)
 | Charisma     | 7    |
 
 ## Quotes
+
+> "You’ll bring it to me. You’ll bring it to me because you love him, and how he’s all one piece.” - Xavier
 
 > "Brave. Pointless, but brave." - Xavier
 

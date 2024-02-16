@@ -14,8 +14,6 @@ layout:
 
 # Arcades
 
-## **Overview**
-
 Popular destinations for people of all ages to meet and socialize. In addition to games and interactive entertainment, arcades often serve food and beverages, including alcohol, and are popular venues for live entertainment.
 
 Arcades across [GATA](../) are restricted to “blue” tech–[legacy technology](../../../overview/science-and-tech/legacy-tech.md) that is deemed safe–as well as any other technology that is in-[paradigm](../politics/paradigms.md).

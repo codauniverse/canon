@@ -14,8 +14,6 @@ layout:
 
 # The Basics
 
-## Overview
-
 The world is defined by stark ideological contrasts, and enduring legacies shaped by the technological revolutions and sociopolitical upheavals of the past.&#x20;
 
 Surviving the tumultuous [Old World](the-old-world.md) of the mid-21st century, [The Crash](the-crash.md), and the subsequent [Dark Decade](the-dark-decade.md), humanity emerged into a period of [Reconstruction](the-reconstruction.md) that saw the consolidation of global power into entities like the [Greater Atlantic Territorial Alliance](../../nations/gata/) (GATA) and the controversial rise of the [Free Territories](../../nations/free-territories/), reflecting a dichotomy between authoritative control and militant autonomy.

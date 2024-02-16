@@ -26,7 +26,7 @@ The System autonomously reacts to democratic inputs from the [Three Quorums](gov
 
 ***
 
-### The Three Pillars
+## The Three Pillars
 
 The "Three Pillars" of GATA’s governance are the Quorums, [the AIC](../institutions/atlan-information-control-aic.md), and The System. Each of these parts play an integral role in maintaining GATA’s expansive dominion.
 

@@ -1,6 +1,18 @@
-# Automata
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-## Overview
+# Automata
 
 Automata are autonomous robots designed to perform simple tasks in the environment. They are essentially walking (or flying or rolling or burrowing) physical functions.
 

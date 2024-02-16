@@ -14,8 +14,6 @@ layout:
 
 # The Old World
 
-## Overview
-
 The world of the mid-21st century. Humanity seemed to be on the cusp of a new era of peace and prosperity. Geo-political and economic conflicts were mediated by autonomous agents who deftly negotiated the complex relationships between disparate peoples and interests, taking human civilization out of the zero-sum mentality that had defined its past.
 
 Countless new innovations revolutionized human life and reinvigorated a hope for a thriving future. Fusion power, quantum computers, cures for nearly all major diseases and disorders; the scientific and technological landscape was replete with dazzling insights that only reinforced the surging wave of progress.
