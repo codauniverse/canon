@@ -14,11 +14,7 @@ layout:
 
 # 📄 About
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/coda_deck_artboards-3.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+{% embed url="https://discord.gg/bXX3wGC8Vg" %}
 
 The **CODA Universe** is an experimental storytelling project based on a foundational on-chain canon that is purpose-built for generative media and experiences. It is a rich world with interrelated fragments of lore and themes that reflect and interrogate our world today. Characters, media, and lore in the CODA Universe will expand over time, with contributions from human creators, AI, and the community at large.
 
