@@ -20,9 +20,7 @@ layout:
 
 </div>
 
-## **2125.**
-
-The youth are restless.
+## The youth are restless.
 
 70 years have passed since the The Crash; the day everything stopped—and the long nightmare that followed.
 
