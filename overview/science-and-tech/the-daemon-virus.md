@@ -14,7 +14,7 @@ layout:
 
 # The Daemon Virus
 
-<figure><img src="../../.gitbook/assets/daemon.png" alt="" width="563"><figcaption><p>A computer system infected with the Daemon Virus, aka BODYSNATCHER.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/daemon.png" alt=""><figcaption><p>A computer system infected with the Daemon Virus, aka BODYSNATCHER.</p></figcaption></figure>
 
 A computer virus from the [Old World](../history/the-old-world.md) that has infected most [legacy technology](legacy-tech.md). Commonly referred to as “The Daemon” by the people, however researchers refer to the pernicious code as BODYSNATCHER.
 

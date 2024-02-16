@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../.gitbook/assets/social_reality-is-fluid.jpg" alt=""><figcaption></figcaption></figure>
 
+## Into the Undercurrents
+
 Working within the CODA Universe is just as informed by the thematic undertones as it is by the canon.&#x20;
 
 The CODA Universe refracts the full spectrum of human experience through the moods, attitudes, and structural regimes that permeate and pool around its complex world.
