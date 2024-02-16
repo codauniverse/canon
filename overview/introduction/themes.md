@@ -32,6 +32,8 @@ Lore that becomes "canon" usually resonates or clashes with the existing themes 
 * The Role of the Artist
 * Power & Privilege
 * The Human Destiny
+* The End of the World
+* Secrets & Shadows
 
 ## Minor Themes
 
@@ -39,3 +41,5 @@ Lore that becomes "canon" usually resonates or clashes with the existing themes 
 * Love vs Duty
 * The Nature of Consciousness
 * The Wonder of Existence
+* Time & Retro Causality
+* The Phenomenon

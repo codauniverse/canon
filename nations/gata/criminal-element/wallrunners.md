@@ -16,15 +16,11 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/nomoney420_extreme_closeup_of_a_man_with_advanced_leg_armor_in__9dcca6bd-1e24-4368-8ab1-59511e625eb4.png" alt="" width="563"><figcaption><p>A wallrunner preparing to launch.</p></figcaption></figure>
 
-## Overview
-
 Wallrunners, or simply “runners”. Specialized [smugglers](smugglers.md) or illegal [operators](../enterprise/operators.md) who use various methods to breach [GATA](../)’s [Field Walls](../borders-and-travel/field-walls.md) and make it into a [district](../politics/districts.md)'s interior.
 
 Wallrunners are named for the most common breaching method; running really fast. Wallrunners have to contend with Field Walls, [Gate Patrol](../law-and-order/border-patrol.md) border guards and their jelly rounds, physical obstacles, and other specialized defensive measures.
 
 ***
-
-##
 
 <figure><img src="../../../.gitbook/assets/nomoney420_in-game_screenshot_3rd_person_camera_of_a_character__f75da427-078d-4b40-888e-4c19c76dcfc8.png" alt="" width="563"><figcaption></figcaption></figure>
 
