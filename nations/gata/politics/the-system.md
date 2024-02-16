@@ -68,8 +68,10 @@ All licensed enterprises have their own private System endpoints that allow them
 
 ## **System Sensors**
 
-The System also utilizes an array of sensors developed by Wild Technologies and installed by [Systema](../enterprise/systema.md)'s [Infrastructure & Maintenance department](../enterprise/systema.md#departments). These sensors are installed in districts, as well as in discrete remote locations around the world.&#x20;
+The System also utilizes an array of sensors installed by Systema's [Infrastructure & Maintenance department](../enterprise/systema.md#departments). These sensors are installed in districts, in the airspace above Greater Atla with [statics](../../../overview/science-and-tech/statics.md), as well as deployed in discrete remote locations around the world.&#x20;
 
-These arrays provide real-time insight into things like climate, microbial health, biodiversity, migratory patterns, and other signals that can be factored into The System’s calculations.
+These arrays provide real-time insight into things like climate, microbial health, biodiversity, migratory patterns, and other signals that can be factored into The System’s calculations.&#x20;
 
-It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence of this exists. This would be a direct contravention of [NDA](new-dawn-accords.md) and [WPP](../institutions/atlan-information-control-aic.md#whole-privacy-protection-act) law.
+No raw audio or video is recorded, however extremely skilled data conduits can reconstruct partial images from sensor data. Useful for investigations into a past incident with no credible witnesses or conclusive evidence, however access to this data is difficult to have approved by the AIC.
+
+It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence for this claim exists. This would be a direct contravention of [NDA](new-dawn-accords.md) and [WPP](../institutions/atlan-information-control-aic.md#whole-privacy-protection-act) law.
