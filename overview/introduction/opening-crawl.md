@@ -16,7 +16,9 @@ layout:
 
 <figure><img src="../../.gitbook/assets/coda_cover.png" alt=""><figcaption></figcaption></figure>
 
-**2125. THE YOUTH ARE RESTLESS\_**
+**2125.**
+
+The youth are restless.
 
 70 years have passed since the The Crash; the day everything stopped—and the long nightmare that followed.
 
