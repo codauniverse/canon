@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/districts.png" alt=""><figcaption><p>A System Node facility in the heart of a district.</p></figcaption></figure>
 
+## Overview
+
 Districts are highly secure territories with strict borders and regulations. Districts are the future vision of [GATA](../)'s civilizational design, as articulated in the [New Dawn Accords](new-dawn-accords.md)–jurisdictions fully integrated with [The System](the-system.md) where new technologies and prosperous futures can be safely pursued.
 
 Districts have democratically elected local governments and [Second Quorum](governance.md#the-second-quorum) representatives, sometimes referred to as governors. Local government oversees the [Local Authority](../law-and-order/local-authority.md) in its upholding of GATA law. Local governments also oversee the distribution of the district’s [System Yield](yield.md).
