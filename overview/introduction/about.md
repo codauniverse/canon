@@ -1,7 +1,7 @@
 ---
 layout:
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -26,9 +26,9 @@ The **CODA Universe** is an experimental storytelling project based on a foundat
 
 ## Inception
 
-Work on the CODA Universe began in January, 2021. The vision was to develop a new kind of IP built from the ground up for a media landscape that would be native to web3 and generative AI.
+Work on the CODA Universe began in January, 2021. The vision was to develop a new kind of IP built from the ground up for a media landscape that would be native to web3 and generative AI. The thesis was that the new media wouldn't be about specific instantiations, but rather a collection of metadata that is used to compose and correlate generated experiences.
 
-First, the CODA Saga was written; a character-centered epic that charts the course of the world's central conflicts and themes, starting in the fictional year of 2125. This story became the scaffolding for a rich and expansive world that was painstakingly developed over the course of years.
+First, the CODA Saga was written; a character-centered epic that charts the course of the world's central conflicts and themes, starting in the fictional year of 2125. This saga became the scaffolding for a rich and expansive world that was painstakingly developed over the course of years.
 
 <div>
 
@@ -40,7 +40,7 @@ First, the CODA Saga was written; a character-centered epic that charts the cour
 
 </div>
 
-The fundamental building blocks at the foundation of the CODA Universe are its 100+ characters and its hyper-linked fragments of lore, which are instantiated permanently on-chain, and which serve as training and contextual data for generative systems.
+The fundamental building blocks at the foundation of the CODA Universe are its 100+ characters and its hyper-linked fragments of lore, which are inscribed permanently on-chain, and which can serve as training and contextual data for generative systems.
 
 The driving force behind the project was a realization in late 2020 that generative tools were very soon going to make the creation of horizontally immense works trivial. The aim was to conceive of the largest possible collaborative creative project for such a paradigm, and to begin working on it early, so that there would be time to let the world mature before the critical tools emerged.
 
