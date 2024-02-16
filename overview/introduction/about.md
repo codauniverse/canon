@@ -14,11 +14,19 @@ layout:
 
 # 📄 About
 
-{% embed url="https://discord.gg/bXX3wGC8Vg" %}
+<div data-full-width="true">
 
-The **CODA Universe** is an experimental storytelling project based on a foundational on-chain canon that is purpose-built for generative media and experiences. It is a rich world with interrelated fragments of lore and themes that reflect and interrogate our world today. Characters, media, and lore in the CODA Universe will expand over time, with contributions from human creators, AI, and the community at large.
+<figure><img src="../../.gitbook/assets/coda_deck_artboards-3.jpg" alt=""><figcaption></figcaption></figure>
 
-**The CODA Saga** is the canonical story that sets the stage for the CODA Universe. It begins in the shadowy corners of a nascent underground rave scene, where skilled conduits called sync jockeys synchronize the crowd's minds in hallucinatory trances using illegal technology. There, blurred in the haze and pulsating bass frequencies, a silhouette speaks "CODA" for the first time, setting in motion a chain of events that will change the world forever.
+</div>
+
+The **CODA Universe** is an experimental storytelling project based on a foundational on-chain canon that is purpose-built for generative media and experiences. It features a rich world with interrelated fragments of lore and themes that reflect and interrogate the many facets of our world today.
+
+The pool of characters, media, and lore in the CODA Universe will expand over time, with licensed contributions from human creators, AI, and the community at large.
+
+**The CODA Saga** is the canonical story that sets the stage for the CODA Universe. It begins in the shadowy corners of a nascent underground rave scene, where skilled conduits called sync jockeys guide the crowd's minds in hallucinatory trances using illegal technology.
+
+There, blurred in the haze and pulsating bass frequencies, a silhouette speaks "CODA" for the first time, setting in motion a chain of events that will change the world forever.
 
 **Project CODA** is a collaborative community platform to discuss, expand and refine the CODA Universe. To this end, Project CODA leverages novel technologies like AI and distributed ledgers to facilitate governance and automate business intelligence and IP management.
 
@@ -26,9 +34,9 @@ The **CODA Universe** is an experimental storytelling project based on a foundat
 
 ## Inception
 
-Work on the CODA Universe began in January, 2021. The vision was to develop a new kind of IP built from the ground up for a media landscape that would be native to web3 and generative AI. The thesis was that the new media wouldn't be about specific instantiations, but rather a collection of metadata that is used to compose and correlate generated experiences.
+Work on the CODA Universe began in earnest in January, 2021. The vision was to develop a new kind of IP built from the ground up for a media landscape that would be native to web3 and generative AI. The thesis was that the new media wouldn't be about specific instantiations, but rather a collection of metadata that is used to compose and correlate generated experiences.
 
-First, the CODA Saga was written; a character-centered epic that charts the course of the world's central conflicts and themes, starting in the fictional year of 2125. This saga became the scaffolding for a rich and expansive world that was painstakingly developed over the course of years.
+First, the CODA Saga was written; a character-centered epic that charts the course of the world's central conflicts and themes, starting in the fictional year of 2125. This saga became the scaffolding for a rich and expansive world that was painstakingly developed over the course of several years.
 
 <div>
 
@@ -42,7 +50,7 @@ First, the CODA Saga was written; a character-centered epic that charts the cour
 
 The fundamental building blocks at the foundation of the CODA Universe are its 100+ characters and its hyper-linked fragments of lore, which are inscribed permanently on-chain, and which can serve as training and contextual data for generative systems.
 
-The driving force behind the project was a realization in late 2020 that generative tools were very soon going to make the creation of horizontally immense works trivial. The aim was to conceive of the largest possible collaborative creative project for such a paradigm, and to begin working on it early, so that there would be time to let the world mature before the critical tools emerged.
+The driving force behind the project was a realization in late 2020 that generative tools were very soon going to make the creation of horizontally immense works trivial. The aim was to conceive of the largest possible creative project for such a paradigm, and to begin working on it early, so that there would be time to let the world mature before the critical tools and audience emerged.
 
 ***
 
@@ -58,9 +66,9 @@ The driving force behind the project was a realization in late 2020 that generat
 
 </div>
 
-Set 100 years from now, the world of the CODA Universe is a possible future of our world. It is both strange and familiar. The notions of sci-fi encapsulated in the world and its themes are reflective of the challenges and dilemmas posed by encryption and privacy, decentralization, artificial intelligence, human nature, and the unresolvable tension between control and freedom, order and chaos.
+Set 100 years from now, the world depicted in the CODA Universe is a super-collision of our possible futures. It is both strange and familiar. The notions of sci-fi encapsulated in the world and its themes are reflective of the challenges and dilemmas posed by encryption and privacy, decentralization, artificial intelligence, human nature, and the unresolvable tension between control and freedom, order and chaos.
 
-The world is grounded by a layered history that has organically unfolded into a complex world order. The resulting conflict space is intended to serve as a dynamic super-collision of our competing futures transposed into fictional avatars. Its key technologies are game-mechanic-friendly vectors for high-utility innovations that could fit within a reasonably plausible regime of science and engineering.
+The world is grounded by a layered history that has organically unfolded into a complex world order. The resulting conflict space is intended to serve as a dynamic medium of competing futures transposed into fictional avatars. Its key technologies are game-mechanic-friendly vectors for high-utility innovations that could fit within a reasonably plausible regime of science and engineering.
 
 The world and its history are lined up in just such a way that the world of 100 years from now depicted in the CODA Universe is facing facsimiles for the very crises that we are set to face in our immediate and near-term future.
 
@@ -70,7 +78,7 @@ On January 1st, 2025, we will start the CODA Universe's clock. From that moment 
 
 ## Creator
 
-The CODA Universe was created by [dxxmsdxy](https://www.twitter.com/dreeemtheartist/?hl=en), a pseudonym of one of the earliest builders and artists in crypto and ordinals. The CODA Universe is part of their continuing exploration of 'interpretable art'.&#x20;
+The CODA Universe was created by [dxxmsdxy](https://www.twitter.com/dreeemtheartist/?hl=en), a pseudonym of one of the earliest builders and artists in crypto and ordinals, beginning in 2013. The CODA Universe is part of their continuing exploration of 'interpretable art'.&#x20;
 
 ## Credits
 
