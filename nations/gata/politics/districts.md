@@ -14,7 +14,7 @@ layout:
 
 # Districts
 
-<figure><img src="../../../.gitbook/assets/districts.png" alt="" width="563"><figcaption><p>A System Node facility in the heart of a district.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/districts.png" alt=""><figcaption><p>A System Node facility in the heart of a district.</p></figcaption></figure>
 
 Districts are highly secure territories with strict borders and regulations. Districts are the future vision of [GATA](../)'s civilizational design, as articulated in the [New Dawn Accords](new-dawn-accords.md)–jurisdictions fully integrated with [The System](the-system.md) where new technologies and prosperous futures can be safely pursued.
 
