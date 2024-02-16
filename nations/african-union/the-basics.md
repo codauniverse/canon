@@ -39,12 +39,12 @@ Although the AU has no official capitol, a significant majority of its officiati
 
 ### Comparative Stats
 
-* Freedom: 8 - The AU enjoys individual freedoms that are envied by all outside of GATA
-* Luxury: 8 - Abundance and reciprocity has spread comforts across the AU
-* Military: 3 - GATA’s support has freed the AU from maintaining a national military
-* Education: 8 - A long tradition of world-class science and tech education
-* Technology: 6 - Though high tech is available, most are conservative on tech use
-* Health: 8 - The AU enjoys the best of GATA’s medicine, and healthy lifestyles
+* **Freedom: 8** - The AU enjoys individual freedoms that are envied by all outside of GATA
+* **Luxury: 8** - Abundance and reciprocity has spread comforts across the AU
+* **Military: 3** - GATA’s support has freed the AU from maintaining a national military
+* **Education: 8** - A long tradition of world-class science and tech education
+* **Technology: 6** - Though high tech is available, most are conservative on tech use
+* **Health: 8** - The AU enjoys the best of GATA’s medicine, and healthy lifestyles
 
 ### Key Points
 

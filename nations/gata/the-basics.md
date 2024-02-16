@@ -41,12 +41,12 @@ GATA guarantees the needs of its citizens but imposes stringent laws, fostering 
 
 ### Comparative Stats <a href="#id-49um86pm2s1h" id="id-49um86pm2s1h"></a>
 
-* Freedom: 4 - Life within the walls of districts are heavily regulated
-* Luxury: 9 - Citizens of districts in good standing live in ease and abundance
-* Military: 10 - Unmatched military power checked only by strict rules of engagement
-* Education: 7 - Those who choose to attend enjoy the world's best education
-* Technology: 10 - Wondrous advancements trickle down to the districts over time
-* Health: 9 - GATA boasts advanced medicine bolstered by exports from Japan
+* **Freedom: 4** - Life within the walls of districts are heavily regulated
+* **Luxury: 9** - Citizens of districts in good standing live in ease and abundance
+* **Military: 10** - Unmatched military power checked only by strict rules of engagement
+* **Education: 7** - Those who choose to attend enjoy the world's best education
+* **Technology: 10** - Wondrous advancements trickle down to the districts over time
+* **Health: 9** - GATA boasts advanced medicine bolstered by exports from Japan
 
 ### Key Points <a href="#bhxdg0vqheam" id="bhxdg0vqheam"></a>
 

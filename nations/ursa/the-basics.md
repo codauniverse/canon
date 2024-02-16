@@ -1,6 +1,18 @@
-# 🔵 The Basics
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-### Overview
+# 🔵 The Basics
 
 A constitutional oligarchy born during the dark decade. Stands as a testament to human resilience and reinvention. Governed by a house representing its 215 feudal 'kingdoms'. Its capitol and center of commerce is Tashkent, which came to prominence in the region in wake of mass Russian migration. While decried as corrupt, URSA's complex web of reliance, grievance and retribution maintains its ever-re-balancing, dynamic order. Struggles with environmental obstacles caused by nuclear detonations and permafrost melt in the aftermath of the Dark Decade. URSA's leadership accuses GATA of using their climate regime to force URSA into adopting The System.
 
@@ -19,12 +31,12 @@ A constitutional oligarchy born during the dark decade. Stands as a testament to
 
 ### Comparative Stats
 
-* Freedom: 2 - The average citizen is beholden to their “kingdom” and must obey
-* Luxury: 5 - The oligarchs enjoy great amenities while their servants live in poor conditions
-* Military: 7 - Every kingdom maintains a small army, but joined together they are strong
-* Education: 5 - Technical education is heavily promoted, but the humanities are frowned upon
-* Technology: 8 - A vibrant illegal tech market offers exotic technology to those who can pay
-* Health: 6 - The Manna flower is essential in URSA, while GATA provides humanitarian assistance to those suffering from conditions stemming from URSA’s corrupted ecology
+* **Freedom: 2** - The average citizen is beholden to their “kingdom” and must obey
+* **Luxury: 5** - The oligarchs enjoy great amenities while their servants live in poor conditions
+* **Military: 7** - Every kingdom maintains a small army, but joined together they are strong
+* **Education: 5** - Technical education is heavily promoted, but the humanities are frowned upon
+* **Technology: 8** - A vibrant illegal tech market offers exotic technology to those who can pay
+* **Health: 6** - The Manna flower is essential in URSA, while GATA provides humanitarian assistance to those suffering from conditions stemming from URSA’s corrupted ecology
 
 ### Key Points
 
