@@ -64,7 +64,7 @@ Anyone able to interface proficiently with complex systems would be reasonably c
 
 ## **Politics of Links**
 
-Proponents of classifying Links as “blue” tech argue that the direct interface between a mind and [The System](../../nations/gata/politics/the-system.md) must be the equal right of all GATA’s citizens. However, [the AIC](../../nations/gata/institutions/atlan-information-control-aic.md) has been resistant to this proposal, citing a particularly strict interpretation of the NDA’s axion of “mutual incompatibility”. The proponents counter that there is no alternative technology to the human brain, and the AIC maintains that their mandate is to safeguard the wellbeing of humanity over the interests of enterprise and innovation. The issue remains contentious, but the decision ultimately falls to the AIC.
+Proponents of classifying Links as “blue” tech argue that the direct interface between a mind and [The System](../../nations/gata/politics/the-system.md) must be the equal right of all GATA’s citizens. However, [the AIC](../../nations/gata/institutions/atlan-information-control.md) has been resistant to this proposal, citing a particularly strict interpretation of the NDA’s axion of “mutual incompatibility”. The proponents counter that there is no alternative technology to the human brain, and the AIC maintains that their mandate is to safeguard the wellbeing of humanity over the interests of enterprise and innovation. The issue remains contentious, but the decision ultimately falls to the AIC.
 
 #### Popular Sentiment
 

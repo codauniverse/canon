@@ -28,7 +28,7 @@ The System autonomously reacts to democratic inputs from the [Three Quorums](gov
 
 ## The Three Pillars
 
-The "Three Pillars" of GATA’s governance are the Quorums, [the AIC](../institutions/atlan-information-control-aic.md), and The System. Each of these parts play an integral role in maintaining GATA’s expansive dominion.
+The "Three Pillars" of GATA’s governance are the Quorums, [the AIC](../institutions/atlan-information-control.md), and The System. Each of these parts play an integral role in maintaining GATA’s expansive dominion.
 
 The Quorums make the decisions, the AIC safeguards its people and laws, and The System automatically enforces its requirements and executes its functions.
 
@@ -50,7 +50,7 @@ The First Quorum holds significant influence, overseeing major policy decisions 
 
 They have the exclusive authority to direct [Angelis](../military-and-defense/angelis.md) and approve Angelis support requested by the Second Quorum.
 
-They work closely with the AIC [Chairperson](../institutions/atlan-information-control-aic.md#leadership-and-governance), the Director of Systema, and ALTAR leadership.
+They work closely with the AIC [Chairperson](../institutions/atlan-information-control.md#leadership-and-governance), the Director of Systema, and ALTAR leadership.
 
 The First Quorum is afforded a high degree to autonomy and secrecy in their decision making.
 

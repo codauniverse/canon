@@ -20,7 +20,7 @@ Districts are highly secure territories with strict borders and regulations. Dis
 
 Districts have democratically elected local governments and [Second Quorum](governance.md#the-second-quorum) representatives, sometimes referred to as governors. Local government oversees the [Local Authority](../law-and-order/local-authority.md) in its upholding of GATA law. Local governments also oversee the distribution of the district’s [System Yield](yield.md).
 
-Districts have been incorporated into The System and adhere to the regulations of the New Dawn Accords as interpreted by [the AIC](../institutions/atlan-information-control-aic.md). By using The System, districts automatically report key metrics which are used to inform wider System operations, such as the automated supply chain, Yield calculations, and to confirm a district’s continued compliance with System requirements and laws.
+Districts have been incorporated into The System and adhere to the regulations of the New Dawn Accords as interpreted by [the AIC](../institutions/atlan-information-control.md). By using The System, districts automatically report key metrics which are used to inform wider System operations, such as the automated supply chain, Yield calculations, and to confirm a district’s continued compliance with System requirements and laws.
 
 ***
 
@@ -56,7 +56,7 @@ It is nearly impossible to enter a district without being detected and intercept
 
 ## **The Path to Districthood**
 
-New districts are incorporated into GATA every year. The process to become a district is relatively straightforward, but very intensive. The minimum population for a new district is 1 million citizens and the maximum is 10 million, however these restrictions are only a guideline. Prospective districts must elect a provisional local government to represent their populace, who must then formally apply for districthood. If accepted by the [Second Quorum](governance.md#the-second-quorum), and approved by [the AIC](../institutions/atlan-information-control-aic.md), onboarding begins.
+New districts are incorporated into GATA every year. The process to become a district is relatively straightforward, but very intensive. The minimum population for a new district is 1 million citizens and the maximum is 10 million, however these restrictions are only a guideline. Prospective districts must elect a provisional local government to represent their populace, who must then formally apply for districthood. If accepted by the [Second Quorum](governance.md#the-second-quorum), and approved by [the AIC](../institutions/atlan-information-control.md), onboarding begins.
 
 A delegate is selected from the Second Quorum to advise on the ground in the prospective district, and they work together with the AIC, [Systema](../enterprise/systema.md) staff and the local government to ensure that the district is on the path to meet System Requirements for reporting and [NDA](new-dawn-accords.md) compliance.
 

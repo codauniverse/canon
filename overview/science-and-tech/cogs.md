@@ -24,7 +24,7 @@ They have no intrinsic motivations or wants. They simply take any input, roll th
 
 Cogs all function using the same fundamental principles of cognitive architecture (Observation, Planning, Selection, Execution).
 
-Illegal cogs that incorporate non-deterministic cognition, or are not unheard of, however [the AIC](../../nations/gata/institutions/atlan-information-control-aic.md) and [Collections](../../nations/gata/law-and-order/collections.md) will immediately and decisively crack down on these installations.
+Illegal cogs that incorporate non-deterministic cognition, or are not unheard of, however [the AIC](../../nations/gata/institutions/atlan-information-control.md) and [Collections](../../nations/gata/law-and-order/collections.md) will immediately and decisively crack down on these installations.
 
 ***
 

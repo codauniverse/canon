@@ -24,7 +24,7 @@ Sometimes, automata are connected to a nearby local compute platform, including 
 
 ### **Anthros**
 
-Anthro is short for anthropomorphic automata. Like all other automata, they do almost no processing onboard due to the limitations imposed by [AIC regulation](../../nations/gata/institutions/atlan-information-control-aic.md), thus requiring wired connections to the platform driving them (or a human conduit to embody them as surrogates). Connecting an athro to local hardware can give them a wide range of capabilities.
+Anthro is short for anthropomorphic automata. Like all other automata, they do almost no processing onboard due to the limitations imposed by [AIC regulation](../../nations/gata/institutions/atlan-information-control.md), thus requiring wired connections to the platform driving them (or a human conduit to embody them as surrogates). Connecting an athro to local hardware can give them a wide range of capabilities.
 
 ### **Bugs**
 

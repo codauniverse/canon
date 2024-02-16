@@ -18,7 +18,7 @@ layout:
 
 ### **Overview**
 
-One of the enforcement branches of the [AIC](../institutions/atlan-information-control-aic.md), along with [Border Patrol](border-patrol.md). Collections is a bureau dedicated to the tracking and recovery of illegal technology, and the apprehension of those who exploit it.
+One of the enforcement branches of the [AIC](../institutions/atlan-information-control.md), along with [Border Patrol](border-patrol.md). Collections is a bureau dedicated to the tracking and recovery of illegal technology, and the apprehension of those who exploit it.
 
 ***
 

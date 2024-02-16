@@ -87,7 +87,7 @@
     * [Local Authority](nations/gata/law-and-order/local-authority.md)
     * [Exile](nations/gata/law-and-order/exile.md)
   * [🖊 Institutions](nations/gata/institutions/README.md)
-    * [Atlan Information Control (AIC)](nations/gata/institutions/atlan-information-control-aic.md)
+    * [Atlan Information Control](nations/gata/institutions/atlan-information-control.md)
     * [ALTAR](nations/gata/institutions/altar.md)
     * [The Atlan Academy System](nations/gata/institutions/the-atlan-academy-system.md)
   * [💼 Enterprise](nations/gata/enterprise/README.md)

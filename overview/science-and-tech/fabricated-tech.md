@@ -58,7 +58,7 @@ Fabricated tech came into prominence during [the Reconstruction](../history/the-
 
 ## **NDA Compliance**
 
-In GATA, fabricated personal tech is required by [AIC](../../nations/gata/institutions/atlan-information-control-aic.md) regulation to be “immediately scrutable”. Fabricated tech that isn’t easily cleared upon visual inspection is subject to confiscation or destructive inspection by the Local Authority or any lawful agents of GATA, such as [deputized operators](../../nations/gata/enterprise/operators.md#deputized-operators).
+In GATA, fabricated personal tech is required by [AIC](../../nations/gata/institutions/atlan-information-control.md) regulation to be “immediately scrutable”. Fabricated tech that isn’t easily cleared upon visual inspection is subject to confiscation or destructive inspection by the Local Authority or any lawful agents of GATA, such as [deputized operators](../../nations/gata/enterprise/operators.md#deputized-operators).
 
 As a result of this “scrutibility” requirement, it has become commonplace in GATA for citizens to fabricate their tech’s body using a translucent polymer nanocomposite. This makes fabs easily inspected, their clear, plastic-like body revealing any internal components and LMNL modules.
 
