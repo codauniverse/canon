@@ -14,7 +14,11 @@ layout:
 
 # 🔵 Opening Crawl
 
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/coda_cover.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **2125.**
 
