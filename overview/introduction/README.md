@@ -44,7 +44,7 @@ Amidst these larger conflicts, pockets of subversion and escapism thrive. In [th
 
 But the human destiny has already been written in the inflexible physical functions of The System. The future has only one direction: outward from Atla. Peace. Abundance. Captivity for all.
 
-
+***
 
 {% content-ref url="opening-crawl.md" %}
 [opening-crawl.md](opening-crawl.md)
@@ -56,4 +56,8 @@ But the human destiny has already been written in the inflexible physical functi
 
 {% content-ref url="themes.md" %}
 [themes.md](themes.md)
+{% endcontent-ref %}
+
+{% content-ref url="aesthetic.md" %}
+[aesthetic.md](aesthetic.md)
 {% endcontent-ref %}

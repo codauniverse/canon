@@ -16,9 +16,9 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/guardians.png" alt="" width="563"><figcaption><p>A Guardian operative and her Combat Gear.</p></figcaption></figure>
 
-Based in Atla, and staffed by more than 10 million personnel stationed around the world and in orbit, Angelis is GATA’s largest enterprise. Angelis provides military and intelligence services for GATA and its partner states.
+Headquartered in Atla, and staffed by more than 10 million personnel stationed around the world and in orbit, Angelis is GATA’s largest enterprise. Angelis provides military and intelligence services for GATA and its partner states.
 
-Angelis was founded in the wake of The Reconstruction, as GATA fractured its national military into various dedicated branches, formalizing structures that had emerged naturally over its history.
+Angelis was founded at the close of The Reconstruction, as GATA fractured its national military into various dedicated branches, formalizing structures that had emerged naturally over its history.
 
 ***
 
@@ -28,11 +28,11 @@ Angelis was founded in the wake of The Reconstruction, as GATA fractured its nat
 
 Angelis strategy and intelligence. Watchers provide expert information gathering, border protection, personal protection, asset tracking, private communications, targeted downtime, and comprehensive strategic foresight. Having a Watcher on the line is an invaluable resource in a crisis.
 
-<figure><img src="../../../.gitbook/assets/14.png" alt="" width="563"><figcaption><p>An Angelis Watchtower in Low Earth Orbit.</p></figcaption></figure>
-
 ### **Watchtowers**
 
 Orbital stations and surveillance platforms where orbital Angelis personnel work. Watchtower staff includes Watchers and Guardians who work closely with their ground-based counterparts to ensure the security of Greater Atla.&#x20;
+
+<figure><img src="../../../.gitbook/assets/14.png" alt="" width="563"><figcaption><p>An Angelis Watchtower in Low Earth Orbit.</p></figcaption></figure>
 
 Watchtower staff provide direct monitoring of battlefields and Red Zones using a network of secure line-of-sight relays to tap into sensor arrays distributed around the Earth in geo-synchronous orbit.
 
@@ -52,25 +52,27 @@ Armored drop pods that use Static Field technology to allow for accelerated desc
 
 ## **Guardians**
 
-Angelis’ special forces units. Guardians undergo rigorous training and conditioning, and demonstrate mastery of multiple skills including hand-to-hand combat, use of multiple firearms and weapon platforms, link proficiency, and advanced ability with Combat Gear. Guardians units are deployed in squads of 5-20, often with a squadron of 30-200 standard infantry as support.
+Angelis’ special forces units. Guardians undergo rigorous training and conditioning, and demonstrate mastery of a wide range of skills including hand-to-hand combat, use of multiple firearms and weapon platforms, link proficiency, and advanced ability with Combat Gear. Guardian units are deployed in squads of 5-20, often with a squadron of 30-200 standard infantry as support.
 
-Guardians are identifiable by their blue Combat Gear.
+Guardians are identifiable by their blue Gears, which are often in the mid-size to large size range, and are outfitted for trans-medium operations that span land, air, sea and space. Guardians and their infantry support are the blunt force weapon of Angelis.
 
 ***
-
-<figure><img src="../../../.gitbook/assets/rapidresponse.png" alt="" width="563"><figcaption><p>A Rapid Response unit prepares to disembark.</p></figcaption></figure>
 
 ## **Rapid Response**
 
-Rapid Response are elite first responder units. They typically operate in teams of 3-5 with complementary skills and are deployed from orbit in hard-landing pods called an Aegis, the same deployment method as Mavericks. New Mavericks are often recruited from the ranks of Rapid Response. Rapid Response is identifiable by their red Combat Gear.
+<figure><img src="../../../.gitbook/assets/nomoney420_character_standing_next_to_an_armored_combat_suit_sl_ca479467-ee05-4faa-9ed4-b20dced267bc.png" alt="" width="563"><figcaption><p>A Rapid Response unit prepares to disembark.</p></figcaption></figure>
+
+Rapid Response are elite first responder units. They typically operate in teams of 3-5 with complementary skills and are deployed from orbit in hard-landing pods called an Aegis, the same deployment method as Mavericks. New Mavericks are often recruited from the ranks of Rapid Response.
+
+Rapid Response is identifiable by their red Gear, often in the small to mid-size range. Their gear emphasizes adaptability and maneuverability, designed to withstand the most extreme conditions, and are generally light on weapons and heavy on utility.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt="" width="563"><figcaption><p>Advanced Combat Gear designed for GATA's most elite operatives.</p></figcaption></figure>
-
 ## **Angelis Combat Gear**
 
-Angelis has the most advanced combat gear in the world. Angelis infantry uses more standard load outs, but Guardians, Rapid Response, and MAVs are trained to use highly advanced combat gear that can be tailored to their talents and each mission’s requirements.
+<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt="" width="563"><figcaption><p>Advanced Combat Gear designed for GATA's most elite operatives.</p></figcaption></figure>
+
+Angelis has the most advanced combat gear in the world. Angelis infantry uses more standard loadouts, but Guardians, Rapid Response, and MAVs are trained to use highly advanced gear that can be tailored to their talents and each mission’s requirements.
 
 * **Guardians:** Blue Combat Gear / Large-to-mid-size / Heavy loadout
 * **Rapid Response:** Red Combat Gear / Mid-size / Less-lethal loadout

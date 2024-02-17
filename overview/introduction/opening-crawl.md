@@ -34,10 +34,16 @@ The autonomous System provides for all of their needs.&#x20;
 
 But the youth despair.
 
-The human destiny will never be in their hands. They pine for the freedoms of an uncertain world they never knew.
+The human destiny will never be in their hands. They instinctively pine for the freedom of an uncertain world they never knew.
 
 In the shadows of GATA's glistening towers an underground scene has taken root. Illegal raves where minds, music, and hallucinatory visions are synchronized by human conduits, and the boundary between Self and Other is dissolved.
 
 In the haze, amidst the ecstatic rediscovery of revelry, drugs, and lawlessness, a crack has formed.
 
 A NEW FUTURE is already leaking in.
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/underground-crowd.png" alt=""><figcaption></figcaption></figure>
+
+</div>

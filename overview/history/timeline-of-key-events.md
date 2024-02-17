@@ -55,6 +55,7 @@ layout:
 * [The Broken Dawn revolt](../../nations/african-union/history/the-broken-dawn-revolt.md) in East Africa.
 * Construction of the first Weather Engine is completed.
 * The [African Union](../../nations/african-union/) signs the New Dawn Accords.
+* 2081 - The Founding of [Sol](../../nations/sol/).
 * [The Pulling of the Weeds](../../nations/ursa/history/the-pulling-of-the-weeds.md).
 * Discontent over weather policy incites secession of Free Alaska from GATA.
 * Construction of the Anchorage Weather Engine halts.
