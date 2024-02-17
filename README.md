@@ -14,7 +14,7 @@ layout:
 
 # ▶ Explore
 
-The **CODA Universe** is an experimental IP & storytelling project with an on-chain canon. It is purpose-built for generative media and web3, featuring a rich world with interrelated fragments of lore and themes that reflect and interrogate our world today. Written by humans. Presented by AI.
+The **CODA Universe** is an experimental IP & storytelling project with an on-chain canon. It is purpose-built for generative media and web3, featuring a rich world with interrelated fragments of lore and themes that reflect and interrogate our world today. Made by humans. Presented by AI.
 
 {% content-ref url="overview/introduction/" %}
 [introduction](overview/introduction/)
@@ -92,4 +92,8 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 <figure><img src=".gitbook/assets/nomoney420_in-game_screenshot_3rd_person_camera_of_a_character__080e9523-0e13-4044-9760-e997b29680f8.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/wallrunners_concept.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/grid-2.jpg" alt=""><figcaption><p>Screenshots of <em>Wallrunner</em> (concept)</p></figcaption></figure>
+
+### Hypercastle (PC & Console)
+
+<figure><img src=".gitbook/assets/nomoney420_screenshot_of_a_3rd_person_video_game_with_female_ch_d3a24500-4a81-4203-8276-21fae980ae05.png" alt=""><figcaption></figcaption></figure>
