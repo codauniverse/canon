@@ -37,7 +37,7 @@ layout:
 * Accessories: Chrome adhesive link
 * Description: Beautiful with an edge. Large eyes framed with bold eyebrows, and soft lips. She has an unrefined grace. Hard to miss the link she wears, usually a metallic adhesive on her face.
 
-<figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoulde_abc4afcb-6d48-4080-b891-dc355dc21594.png" alt="" width="563"><figcaption><p>Haleh under the neon lights of an arcade.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s.png" alt=""><figcaption><p>Haleh setting up her gear at an arcade.</p></figcaption></figure>
 
 ## Bio
 
