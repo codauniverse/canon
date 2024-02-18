@@ -36,6 +36,6 @@ During the first 6 months of the Dark Decade, 1.2 billion people lost their live
 * **2056:** The New Dawn Declaration and formal founding of Atla by the civilian and military population living in the Joint Atlantic Command flotilla. Atla begins to establish stable refugee camps across the Atlantic Ocean's coastal territories.
 * **2056-2060:** Grassroots efforts to rebuild society begin to emerge, focusing on sustainable living and the re-establishment of local communities.
 * **2061:** Atla implements the first build of The System, a new model for infrastructure design prioritizing resilience and decentralization to avoid past vulnerabilities.
-* **November 2062:** New Dawn Accords are ratified by Atla, and Greater Atlan Territorial Alliance is formed. Considered by many historical scholars to be the end of the Dark Decade, and the beginning of the Reconstruction era.
+* **November 2062:** New Dawn Accords are ratified by Atla and signed by many of the provisional governments of Atla's refugee camps. The Greater Atlan Territorial Alliance is formed. Considered by many historical scholars to be the end of the Dark Decade, and the beginning of the Reconstruction era.
 
 ***
