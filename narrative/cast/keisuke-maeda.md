@@ -14,7 +14,9 @@ layout:
 
 # 👤 Keisuke Maeda
 
-<figure><img src="../../.gitbook/assets/0df7f1a498df7e6b067f507f318a.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/0df7f1a498df7e6b067f507f318a (1).jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 25</p><p>Occupation: Sync Jockey</p><p>First Impression: Gutter punk</p><p>Self-Image: Gutter punk</p><p>True Self: Fallen angel<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: Sept 19, 2099</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: American</p><p>Born: Detroit, GATA</p></td></tr></tbody></table>
 
