@@ -24,6 +24,8 @@ GATA's tech regulation is overseen by Atlan Information Control (AIC). The AIC i
 
 Unsurprisingly, this restrictive atmosphere has created a lucrative black market for illegal technology, whether it's exotic tech smuggled from inside a district, or legacy technology that is deemed illegal under the strictures of the NDA.
 
+***
+
 ## Classifications
 
 In GATA, technology is generally classified into three different categories that signify the potential danger they pose and their prescribed handling by authorities.

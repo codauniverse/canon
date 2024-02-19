@@ -24,7 +24,7 @@ layout:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 27</p><p>Occupation: Programmer, musician</p><p>First Impression: Detached, blunt, intense</p><p>Self-Image: Still figuring that out</p><p>True Self: Traumatized by loss, haunted by legacy<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2097</p><p>Location: Greater Toronto</p><p>Citizenship: GATA &#x26; AU</p><p>Ethnicity: Mixed, African, African-American</p><p>Born: Nairobi, AU</p></td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/nomoney420_long_shot_photograph_of_an_attractive_thin_black_mal_4e95c3b6-7681-4f5b-b138-ed01ffd64b6d.png" alt="" width="563"><figcaption><p>Prince on the street at night.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_long_shot_photograph_of_an_attractive_thin_mixed_rac_f36d28c5-3f69-40b2-bcbf-7da3bed8cfad.png" alt=""><figcaption><p>Prince on the street at night.</p></figcaption></figure>
 
 ## Bio
 
@@ -34,7 +34,7 @@ His family moved to Atla when he was 2. His celebrity father and research obsess
 
 When he was 13, Prince was expelled from the Atlan Academy of the Arts due to repeated breaches of security. He moved to Greater Toronto, where his father was based. Spending more time with his father, Prince became fascinated with music and, during a trip to LA for a performance, glimpsed the emerging sync scene forming around the newly paradigmed tech. He also began to see how GATA used his father, and saw his father’s sympathy for the Free Territories. One day, Prince was jamming in his father’s studio when GATA’s visiting Councilor for the Arts noted Prince’s talent and suggested one day he might perform for GATA.
 
-After an argument with his father about moving to live with his mother, Prince stormed off on his dart board and, while spying from a roof, he spotted a young girl driving a very complex system with her link in a secluded area, and he would soon befriend her, realizing they both attended the same school. After learning about music and syncing from Haleh, Prince finally revealed to her that he was his father’s son. She already knew, but he could tell that she acted surprised for him. Eventually he revealed that he had to move to live with his mother, putting a premature end to their budding crush.
+After an argument with his father about moving to live with his mother, Prince stormed off on his dart board and, while spying from a roof, he spotted a young girl driving a very complex system with her link in a secluded area, and he would soon befriend her, realizing they both attended the same school. After learning about syncing and Old World music from Haleh, Prince finally revealed to her that he was his father’s son. She already knew, but he could tell that she acted surprised for him. Eventually he revealed that he had to move to live with his mother, putting a premature end to their budding crush.
 
 At the age of 15, Prince traveled with his father to meet his mother at his big Bright Mesa performance. The intention was that he would go home with his mother after the show. Tragically, there was a terrorist attack during the GATA-sponsored performance in Bright Mesa targeting Atlan dignitaries. His mother and father were killed. Prince was believed to have been killed in the attack.
 

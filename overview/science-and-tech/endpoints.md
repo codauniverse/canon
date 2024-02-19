@@ -1,6 +1,18 @@
-# Endpoints
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-## Overview
+# Endpoints
 
 Endpoints are standardized, junctions for information and power infrastructure. Every regulation system with an interface has an endpoint.
 

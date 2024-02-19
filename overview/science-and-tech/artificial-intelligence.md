@@ -21,5 +21,3 @@ AI is strictly regulated under the [NDA](../../nations/gata/politics/new-dawn-ac
 ## **AI in the Old World**
 
 Even before [the Dark Decade](../history/the-dark-decade.md), AI had remained a contentious issue as it had enabled a ubiquitous form of social spying and a market for private data, resulting in numerous societal clashes and scandals. While for many in the [Old World](../history/the-old-world.md), a resigned acceptance had set in, others protested and suffered from blacklisting in many areas of society. The popular sentiment among [Atla](../../nations/gata/key-locations/atla.md)’s founding citizens was that AI, together with a malignant form of short-sighted Capitalism, had created the conditions for [The Crash](../history/the-crash.md).
-
-\

@@ -54,7 +54,7 @@ Her specialization in cog design developed into a whitepaper on cog safety proto
 * Experience big city life
 * Curious about everything to do with links
 
-<figure><img src="../../.gitbook/assets/nomoney_a_girl_with_natural_orange_hair_from_behind_sitting_at__837d9390-b5f8-49c7-bb2f-b9acf5be0b68.png" alt="" width="563"><figcaption><p>Amelia taking a break from her code.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_of_a_geeky_redhead_with_blue_eyes_a_fcb37bd3-203a-4e03-a8e7-4407470b1d98.png" alt=""><figcaption><p>Amelia taking a break from her code.</p></figcaption></figure>
 
 ## Trivia
 

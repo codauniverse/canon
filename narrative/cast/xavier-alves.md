@@ -30,19 +30,19 @@ Glued together from broken pieces. Colder every day, he's gained a significant f
 
 Born in Greater Toronto during the final years of the Reconstruction era. His mother was a teacher at the Garden School, and his father worked for the Local Authority. Xavier was a gifted youth with a bright future, but he was prone to getting into fights, and was encouraged by his father who had grown up in the harsh aftermath of the Dark Decade.
 
-After a particularly violent encounter with a group of older boys that was celebrated by his father, his parents had a pivotal argument. His mother announced she was leaving his father for good, and took young the Xavier with her to her friend's apartment. That night, Xavier's father drank heavily and took his own life. This tragedy shattered the young Xavier and his mother. As his mother receded into depression, Xavier spiraled into delinquency. He got swept up in dealing drugs at the age of 14, and began hanging around with a bad crowd, however continued to attend school and pass reasonably well without much effort.
+After a particularly violent encounter with a group of older boys that was celebrated by his father, his parents had a pivotal argument. His mother announced she was leaving his father for good, and took young the Xavier with her to her friend's apartment. That night, Xavier's father drank heavily and took his own life. This tragedy shattered the young Xavier and his mother. As his mother receded into depression and addiction, Xavier spiraled into delinquency. He got swept up in dealing drugs at the age of 14, and began hanging around with a bad crowd, however continued to attend school and pass reasonably well without much effort.
 
 When he got his link implanted at 16, he proved to be intuitively adept at recognizing traces of other users and other residual imprints, and this led to a nearly-successful string of major heists that landed him in the custody of the Local Authority. Without solid proof, and because of who his father was, he was released.&#x20;
 
 On the way home, he was jumped by thugs representing the gang he had stolen from, and was left with life threatening injuries, dying in the street. A young girl named Lulu discovered him in the alley while walking from school and her intervention saved his life.
 
-With his future in the higher academies forfeit now and his body severely broken, an embittered Xavier decided he would take control of his future. With single-minded determination, and the care of Lulu, he set out to exact his meticulous revenge. Now, after years of struggle, the gang that had beaten him in the street are gone, and Xavier and his crew stand in their place. However, his rise came at the cost of his relationship with Lulu.
+With his future in the higher academies forfeit and his body severely broken, an embittered Xavier decided he would take control of his future. With single-minded determination, and the care of Lulu, he set out to exact his meticulous revenge. Now, after years of struggle, the gang that had beaten him in the street are gone, and Xavier and his crew stand in their place. However, his rise came at the cost of his relationship with Lulu.
 
-Xavier's gang work with Wallrunners who smuggle legacy tech and Old World paraphernalia through the West End Gray Zone. Xavier also permits a number of other activities on his territory, from pleasure houses, to an Astral dormitory, and more. His favorite pet establishment is the underground arcade Palaizir, mainly due to a secret, distorted fondness for Lulu, now a sync jockey, who he still watches over from a distance even after their split.
+Xavier's gang works with Wallrunners who smuggle drugs, legacy tech and Old World paraphernalia through the West End Gray Zone. Xavier also permits a number of other activities on his territory, from pleasure houses, to an Astral dormitory, and more. His favorite pet establishment is the underground arcade Palaizir, mainly due to a secret, distorted fondness for Lulu, now a sync jockey, who he still watches over from a distance even after their split.
 
 ## Motivations
 
-* Maintain his grip on the East End Gray Zone.
+* Maintain his grip on the West End Gray Zone.
 * Don’t lose influence to Hundred Hands.
 * Keep a tight hold on Lulu.
 * Exploit Lulu's brother, Fitz, for his talents.
