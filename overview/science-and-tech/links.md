@@ -1,10 +1,10 @@
 # Links
 
+<figure><img src="../../.gitbook/assets/links.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## Overview
 
 Brain-computer interfaces that allow the user to connect directly with system [endpoints](endpoints.md) via interfaces. Endpoints can be associated with all sorts of systems, allowing link users to ‘[push](links.md#pushing)’ and ‘[pull](links.md#pulling)’ with that system, analogous to “Write” and “Read” in computers. Links are an increasingly integral part of daily life wherever they are in use.
-
-<figure><img src="../../.gitbook/assets/links.png" alt="" width="563"><figcaption></figcaption></figure>
 
 The systems that can be engaged with links range from the simple like lights, doors, and appliances, to the more complex like heavy-duty machinery,[ automata](automata.md), and expansive databases.
 

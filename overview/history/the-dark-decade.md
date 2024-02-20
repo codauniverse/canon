@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../.gitbook/assets/darkdecade.png" alt="" width="563"><figcaption><p>A makeshift refugee camp during the Dark Decade.</p></figcaption></figure>
 
+## Overview
+
 The ten year period spanning from [The Crash](the-crash.md) in August 2052 until the [New Dawn Declaration](../../nations/gata/history/new-dawn-declaration.md) in November, 2062.
 
 In The Crash, nearly every device on the planet with a general-purpose processor was irreparably corrupted, dealing an instant death blow to power, communications and the entire global supply chain, plunging the world into a brief, but perilous new dark age.

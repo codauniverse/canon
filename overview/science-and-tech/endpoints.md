@@ -14,6 +14,8 @@ layout:
 
 # Endpoints
 
+## Overview
+
 Endpoints are standardized, junctions for information and power infrastructure. Every regulation system with an interface has an endpoint.
 
 Endpoints can vary in size, but a smaller endpoint connector can always plug into a larger endpoint. Endpoints typically have a built-in [filter module](asimovian-architecture.md#filter-modules) that enforces the information laws of that jurisdiction. In [GATA](../../nations/gata/), regulation endpoints enforce [WPP](../../nations/gata/institutions/atlan-information-control.md#whole-privacy-protection-act) compliance, guaranteeing GATA’s citizens the right to information privacy.

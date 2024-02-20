@@ -14,6 +14,8 @@ layout:
 
 # COGs
 
+## Overview
+
 Cogs are cognitive systems. They are [Asimovian](asimovian-architecture.md) constructs derived from the Fischer equation, capable of generalized reason.
 
 Due to the design constraints of Asimovian architecture, cogs are quite large–ranging in scale from roughly two cubic feet to the size of a large warehouse, based on the system's required speed and complexity.

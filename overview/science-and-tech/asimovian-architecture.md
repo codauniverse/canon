@@ -14,6 +14,8 @@ layout:
 
 # Asimovian Architecture
 
+## Overview
+
 An Asimovian system is a computational system that is designed in such a way that it is immune to corruption and cannot exhibit unpredictable behavior. One of the key tenets of Asimovian architecture is that you should be able to look at a system’s hardware and know exactly what kind of behaviors it can express. These tangible, auditable computers would require ‘physical functions’—computational logic that is fully “physicalized” and unchangeable. This constraint led to the advent of “[hard code](hard-code.md)” and new programming languages like [LMNL](hard-code.md#lmnl).
 
 ***
