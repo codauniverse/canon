@@ -14,7 +14,7 @@ layout:
 
 # 💭 Themes
 
-<figure><img src="../../.gitbook/assets/social_reality-is-fluid.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_of_ripples_in_a_dark_blue_black_liq_e3bc829e-c2b3-4e48-8361-96b103620e09 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Into the Undercurrents
 
