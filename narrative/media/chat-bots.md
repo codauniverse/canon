@@ -30,6 +30,6 @@ layout:
 
 ***
 
-<figure><img src="../../.gitbook/assets/social_chat-05.jpg" alt="" width="375"><figcaption><p>Play a text-based game starring Carlos on ChatGPT</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/social_chat-05.jpg" alt="" width="375"><figcaption><p>Play <em>CODA: Silent Melody</em> starring Carlos on ChatGPT</p></figcaption></figure>
 
 {% embed url="https://chat.openai.com/g/g-mYyVyw7YT-coda-silent-melody-gm" %}
