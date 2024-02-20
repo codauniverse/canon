@@ -22,6 +22,6 @@ Today, GATA does not have a monolithic standing national military. Instead, Each
 
 The [First Quorum](../politics/governance.md#the-first-quorum) directs [Angelis](angelis.md), an unrivalled martial public [enterprise](../enterprise/) based in Atla, in protecting GATA’s territorial interests across all of [Greater Atla](../politics/greater-atla.md), and beyond.
 
-[The AIC](../institutions/atlan-information-control.md) oversees [Collections](../law-and-order/collections.md), an armed enforcement branch for AIC law in accordance with the NDA, as well as [Border Patrol](../law-and-order/border-patrol.md), the border enforcement for GATA’s many [districts](../politics/districts.md).
+[The AIC](../institutions/atlan-information-control.md) oversees [Collections](../law-and-order/collections.md), an armed enforcement branch for AIC law in accordance with the NDA, as well as [Border Patrol](../law-and-order/gate-patrol.md), the border enforcement for GATA’s many [districts](../politics/districts.md).
 
 The [Second Quorum](../politics/governance.md#the-second-quorum) directs the Reserve Protocol, which allows [District Representatives](../politics/governance.md#district-representative) to request the temporarily re-allocation of [Local Authority](../law-and-order/local-authority.md) personnel between districts. Reserve requests are more and more common and typically approved without issue.

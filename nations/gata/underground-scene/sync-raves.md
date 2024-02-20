@@ -34,7 +34,7 @@ While most sync raves are very DIY in their scope, some underground sensations h
 
 Sync raves, or simply "syncs", are a response to GATA's [tight control and regulation](../politics/new-dawn-accords.md). These underground raves offer an escape, an illicit world where the youth especially can feel free for the first time. The raves are a blend of old and new - the rediscovered music and entertainment of the past, reinterpreted with modern technologies and tastes, unleashed on a voracious scene.
 
-For young citizens of districts venturing into the sync scene and [Gray Zones](../politics/gray-zones.md), it is often their first exposure to illegal [legacy technologies](../../../overview/science-and-tech/legacy-tech.md) and [Old World](../../../overview/history/the-old-world.md) culture.
+For young citizens of districts venturing into the sync scene and [Gray Zones](../politics/gray-zones.md), it is often their first exposure to illegal [legacy technologies](../law-and-order/tech-regulation.md) and [Old World](../../../overview/history/the-old-world.md) culture.
 
 ### Sync Jockeys
 

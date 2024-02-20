@@ -38,7 +38,7 @@ It is speculated by self-appointed scholars of the criminal underworld that the 
 
 ### Hands
 
-Hands are the avatars of the organization; when you are visited by a Hand, you are already under their finger. Hands are elevated from the Hundred Hands' vast network of operators and bosses. They possess extensive experience or expertise in critical domains and are in possession of rare keys, contacts, and ["invisible" technologies](../../../overview/science-and-tech/legacy-tech.md#invisible-tech), making them a haunting specter in the criminal underworld.
+Hands are the avatars of the organization; when you are visited by a Hand, you are already under their finger. Hands are elevated from the Hundred Hands' vast network of operators and bosses. They possess extensive experience or expertise in critical domains and are in possession of rare keys, contacts, and ["invisible" technologies](../law-and-order/tech-regulation.md#invisible-tech), making them a haunting specter in the criminal underworld.
 
 ## The River Syndicate
 

@@ -28,9 +28,9 @@ In the world of Atla and GATA, while many secrets lurk beneath the surface, the 
 
 ## **History**
 
-Established concurrently with the founding of Atla in 2060, ALTAR's prime directive has always been the safeguarding and scrutiny of the mysterious "Found Objects."
+Established concurrently with the founding of Atla, ALTAR's prime directive has always been the safeguarding and scrutiny of the mysterious "Found Objects."
 
-Collected by the Joint Atlantic Command (JAC) in the tumultuous early days of the Dark Decade, for most people around the world these objects remain shrouded in apocryphal myth.
+Collected by the Joint Atlantic Command (JAC) in the tumultuous early days of the Dark Decade, for most people around the world these anomalous objects remain shrouded in apocryphal myth.
 
 The origins of these 67 objects, of which 21 are mere fragments, remain uncertain, though many speculate an extraterrestrial connection.
 
@@ -40,23 +40,19 @@ Spanning a diverse size range from a mere 3cm to an imposing 155m, they have, fo
 
 ## **GATA’s Innovation Engine**
 
-Boasting a recruitment roster that includes the most brilliant minds from not just GATA, but also from the recognized territories of AU, Aryabat, Japan, and URSA, ALTAR is a hive of innovation.
+Boasting a recruitment roster that includes the most brilliant minds from not just GATA and Sol, but also from the recognized territories of AU, Aryabat, Japan, and URSA, ALTAR is a hive of innovation.
 
-Researchers, usually working solitarily or in compact teams, delve into the mysteries of the objects. If their work meets the safety standards set by the Atlan Innovation Control (AIC), they're rewarded with enterprise licenses, granting them the freedom to transform their discoveries into cutting-edge technologies or license them to other legal enterprises.
+Researchers, usually working solitarily or in compact teams, delve into the mysteries of the Found Objects. While the primary motivation of their inquiries is ostensibly advancing scientific understanding, if a team's work produces new processes or technologies that are approved by ALTAR and paradigmed by Atlan Innovation Control (AIC), they're rewarded with enterprise licenses, granting them the freedom to transform their discoveries into cutting-edge products or license them to other legal enterprises.
 
 ***
 
 ## **Leadership**
 
-Idle whispers and speculations about ALTAR's leadership permeate the corridors of Atla, and beyond.
-
-Its secretive nature is a legacy of compartmentalized programs predating the Dark Decade, fuels numerous conspiracy theories.&#x20;
-
-Some claim the leadership is not of this world; others go so far as to suggest that they might have even caused the Dark Decade themselves. However, this wild speculation remains unverified.
-
-In truth, ALTAR is a small council of undisclosed scientists, industrialists and military leadership who serve 10-year terms bound within the confines of the deep-ocean ALTAR complex. Some confident speculation can be made about past and present appointments, however no official confirmation has ever been provided.
+ALTAR is a small council of undisclosed scientists, industrialists and military leadership who serve 10-year terms bound within the confines of the deep-ocean ALTAR complex. Some confident speculation can be made about past and present appointments, however no official confirmation has ever been provided.
 
 At any given time, ALTAR leadership has only one Speaker, who is responsible for all communications between ALTAR and GATA leadership (generally only the First Quorum, with few exceptions).
+
+Idle whispers and speculations about ALTAR's leadership permeate the corridors of Atla, and beyond. Its secretive nature is a legacy of compartmentalized programs predating the Dark Decade fueling numerous conspiracy theories, however, none have been substantiated.
 
 ***
 

@@ -12,9 +12,11 @@ layout:
     visible: true
 ---
 
-# Atlan Information Control (AIC)
+# Atlan Information Control
 
-In the intricate complex of [GATA](../)’s [government](../politics/governance.md), the Atlan Information Control is the decisive voice regarding the dissemination of information and technology. Its formation was crucial upon GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../../../overview/science-and-tech/legacy-tech.md) and potentially perilous novel innovations.
+<figure><img src="../../../.gitbook/assets/aic2.png" alt=""><figcaption><p>An empty lower court in the AIC Headquarters in Atla.</p></figcaption></figure>
+
+In the intricate complex of [GATA](../)’s [government](../politics/governance.md), the Atlan Information Control is the decisive voice regarding the dissemination of information and technology. Its formation was crucial upon GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../law-and-order/tech-regulation.md) and potentially perilous novel innovations.
 
 ***
 
@@ -24,7 +26,7 @@ In the intricate complex of [GATA](../)’s [government](../politics/governance.
 2. **Adjudication:** Final arbiter for what is “True” as far as Atla’s [General Record](../politics/the-general-record.md) is concerned.
 3. **Enforcement:** A frontline network of operatives and investigators tirelessly combating the illicit production, trafficking, and utilization of illegal technologies.
 
-The AIC's influence extends beyond GATA’s borders. The AIC's [Border Patrol](../law-and-order/border-patrol.md) works closely with [Angelis intelligence](../military-and-defense/angelis.md#watchers), and the AIC’s Special Paradigm carve-outs for Angelis have been pivotal, especially during their recent strategic interventions in [the Free Territories](../../free-territories/).
+The AIC's influence extends beyond GATA’s borders. The AIC's [Border Patrol](../law-and-order/gate-patrol.md) works closely with [Angelis intelligence](../military-and-defense/angelis.md#watchers), and the AIC’s Special Paradigm carve-outs for Angelis have been pivotal, especially during their recent strategic interventions in [the Free Territories](../../free-territories/).
 
 ***
 
@@ -44,7 +46,7 @@ The AIC's deliberations and decisions are procedurally guided by a chairperson w
 
 ## **The AIC Courts**
 
-The highest courts of Atla fall under the jurisdiction of the AIC. Only the AIC can establish with any finality what is true in [Greater Atla](../politics/greater-atla.md). Their judgements are matters of Truth that can even alter the [General Record](../politics/the-general-record.md), and serve as direct inputs into [The System](../politics/the-system.md), or can necessitate the design of entirely new System modules by [Systema](../enterprise/systema.md).
+The highest courts of GATA fall under the jurisdiction of the AIC. Only the AIC can establish with any finality what is true in [Greater Atla](../politics/greater-atla.md). Their judgements are matters of Truth that can even alter the [General Record](../politics/the-general-record.md), and serve as direct inputs into [The System](../politics/the-system.md), or can necessitate the design of entirely new System modules by [Systema](../enterprise/systema.md).
 
 ***
 

@@ -14,9 +14,9 @@ layout:
 
 # Tech Regulation
 
-<figure><img src="../../.gitbook/assets/nomoney420_armed_police_loading_up_sensitive_cargo_on_hovering__d114fca5-3f6e-473b-b31c-927a4ea1e6c4.png" alt=""><figcaption><p>Collections officers retrieving Class 1 technology on a static raft.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_armed_police_loading_up_sensitive_cargo_on_hovering__d114fca5-3f6e-473b-b31c-927a4ea1e6c4.png" alt=""><figcaption><p>Collections officers retrieving Class 1 technology on a static raft.</p></figcaption></figure>
 
-Within GATA, technology is heavily regulated, including legacy tech from the [Old World](../history/the-old-world.md). Illegal technology is scrutinized particularly closely inside of GATA's walled districts.
+Within GATA, technology is heavily regulated, including legacy tech from the [Old World](../../../overview/history/the-old-world.md). Illegal technology is scrutinized particularly closely inside of GATA's walled districts.
 
 This heavy-handed regulation of technology is foundational to GATA's vision for a safe and prosperous human future, a bid to never again repeat the tragedies of the Dark Decade. By restraining and constraining the development of novel tech, GATA intends to mitigate sudden and catastrophic failures at both the immediate and existential scope.
 
@@ -30,7 +30,7 @@ Unsurprisingly, this restrictive atmosphere has created a lucrative black market
 
 In GATA, technology is generally classified into three different categories that signify the potential danger they pose and their prescribed handling by authorities.
 
-### Class 1
+### Class 1 - Red
 
 Class 1 technology, aka "red tech", is universally restricted technology, and includes general purpose processors, legacy military tech, nanotechnology, and hazardous materials or compounds, among others.
 
@@ -38,19 +38,19 @@ Not only are the functional components illegal, but also the designs and instrum
 
 Class 1 offenses fall under into the domain of AIC's rigorous court system. Collections must be alerted whenever Class 1 technology is involved. In some cases, restricted Class 1 tech can be licensed to enterprise for study under very stringent conditions. The AIC's courts are responsible for granting or denying these licenses.
 
-### Class 2
+### Class 2 - Gray
 
 Class 2 tech, aka "gray tech", is technology that is exclusively permitted within specified paradigms. This technology is not legal to possess or operate outside of those districts' walls, and attempts to smuggle Class 2 tech are severely punished.
 
-Possession of any un-paradigmed technology (that is not Class 1) is a Class 2 offense. These cases are left up to the local governments to adjudicate, with detailed reports served to the AIC. Failure to do so can negatively impact their district's System yield.
+Possession of any un-paradigmed technology (that is not Class 1) is a Class 2 offense. These cases are left up to the local governments to adjudicate, with offending tech submitted to Collections, and detailed reports served to the AIC. Failure to enforce these laws negatively impacts a district's System yield.
 
-### Class 3
+### Class 3 - Blue
 
 Class 3 technology, aka "blue tech", is any technology that is universally permitted across Greater Atla and within all districts, notably including hard-coded systems and components. With regards to legacy tech, Class 3 tech typically includes simple antique electronics, basic electronic components, analog technologies, industrial tools, and other reasonably benign artifacts.
 
-### Invisible Tech
+### Unclassified Tech
 
-Technology that is unidentified or yet un-classified for whatever reason. Often scavengers and Old World salvage yards will uncover such items, which legally must be submitted to the nearest Gate for assessment by Collections inspectors.
+Technology that is unidentified or yet un-classified for whatever reason. Referred to as "invisible tech". Often scavengers and Old World salvage yards will uncover such items, which legally must be submitted to the nearest Gate for assessment by Collections inspectors.
 
 Generally these items turn out to be 21st century equipment relating to industry. It's not unheard of for scavengers to sell these items to criminal syndicates and other private buyers.
 
