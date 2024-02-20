@@ -92,19 +92,13 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 ## Text-Based Games
 
-<div>
-
 <figure><img src=".gitbook/assets/coda_story_souljourner-cover-0 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/coda_story_silentmelody-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
 
 #### 💻 Play SOULJOURNER on ChatGPT
 
 {% embed url="https://chat.openai.com/g/g-zhSjNOu4U-coda-souljourner" %}
+
+<figure><img src=".gitbook/assets/coda_story_silentmelody-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 💻 Play CODA: Silent Melody on ChatGPT
 
