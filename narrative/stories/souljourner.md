@@ -14,7 +14,7 @@ layout:
 
 # 📘 SOULJOURNER
 
-<figure><img src="../../.gitbook/assets/coda_story_souljourner-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coda_story_souljourner-cover-0 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 💻 Play SOULJOURNER on ChatGPT
 
