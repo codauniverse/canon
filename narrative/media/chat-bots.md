@@ -16,7 +16,7 @@ layout:
 
 ## Chat with Haleh
 
-<figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoulde_abc4afcb-6d48-4080-b891-dc355dc21594.png" alt="" width="563"><figcaption><p>Chat with Haleh on Character.ai</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/social_chat-01.jpg" alt="" width="375"><figcaption><p>Chat with Haleh on Character.ai</p></figcaption></figure>
 
 {% embed url="https://c.ai/c/xC3cmBgQ1po4iqc7ysOuttskRLUxO_6oorO7k2jNs9o" %}
 
@@ -24,6 +24,12 @@ layout:
 
 ## Chat with Prince
 
-<figure><img src="../../.gitbook/assets/nomoney420_long_shot_photograph_of_an_attractive_thin_black_mal_4e95c3b6-7681-4f5b-b138-ed01ffd64b6d.png" alt="" width="563"><figcaption><p>Chat with Prince on Character.ai</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/social_chat-02.jpg" alt="" width="375"><figcaption><p>Chat with Prince on Character.ai</p></figcaption></figure>
 
 {% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
+
+***
+
+<figure><img src="../../.gitbook/assets/social_chat-05.jpg" alt="" width="375"><figcaption><p>Play a text-based game starring Carlos on ChatGPT</p></figcaption></figure>
+
+{% embed url="https://chat.openai.com/g/g-mYyVyw7YT-coda-silent-melody-gm" %}

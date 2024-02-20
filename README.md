@@ -72,6 +72,10 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 {% embed url="https://c.ai/c/QFq6TnivNi5NudgcPgvBuv0Q7MrNZFNTBO7xmRqdsSU" %}
 
+<figure><img src=".gitbook/assets/social_chat-05.jpg" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://chat.openai.com/g/g-mYyVyw7YT-coda-silent-melody-gm" %}
+
 ***
 
 ## 360 Environments
