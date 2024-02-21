@@ -50,7 +50,7 @@ The Local Authority can use The System to coordinate operations and share inform
 
 The Local Authority doesn’t have jurisdiction within Gray Zones inside their territory, however it is not expressly illegal for the Local Authority to maintain extended blockades when Gray Zones are causing the district issues.
 
-In the event that crime in Grey Zones involves district citizens or breaches of NDA law, the Local Authority is not authorized under GATA law to intervene, however they may choose to request the assistance of Angelis.
+In the event that crime in Gray Zones involves district citizens or breaches of NDA law, the Local Authority is not authorized under GATA law to intervene, however they may choose to request the assistance of Angelis.
 
 ***
 
