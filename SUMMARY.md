@@ -79,6 +79,7 @@
     * [The Basics](nations/gata/military-and-defense/the-basics.md)
     * [Existence Doctrine](nations/gata/military-and-defense/existence-doctrine.md)
     * [Angelis](nations/gata/military-and-defense/angelis.md)
+    * [Rapid Response](nations/gata/military-and-defense/rapid-response.md)
     * [MAVs](nations/gata/military-and-defense/mavs.md)
   * [⚖ Law & Order](nations/gata/law-and-order/README.md)
     * [Tech Regulation](nations/gata/law-and-order/tech-regulation.md)
