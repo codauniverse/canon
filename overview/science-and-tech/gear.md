@@ -46,6 +46,8 @@ The prevalence of [Link Jammers](links.md#link-jammers) on the combat field has 
 
 Sprint Gear is a subset of Gear purpose-built to allow humans to reach superhuman ground speed. It branches from early GATA combat gear developed during [The Reconstruction](../history/the-reconstruction.md). Sprint Gear uses joints powered by a kinetic dynamo that recycle kinetic energy into the gear's mechanical movements.
 
+Sprint gear can be tailored to emphasize acceleration, top speed, or agility. While top speed may be the most effective in an open field, acceleration and agility are preferable in urban environments.
+
 In recent decades, [criminal syndicates](../../nations/gata/criminal-element/syndicates.md) have improved upon the basic design patterns and supplemented by additional gear and equipment for the purpose of [Wallrunning](../../nations/gata/criminal-element/wallrunners.md).
 
 Sprint gear typically takes the form of leg extensions, however more extreme sprint gear can extend to full leg or lower body prosthetics, boosters, and time illegal dilation bombs derived from controlled [parallel collapse](parallel-energy.md#dangers-and-time-distortion) of [parallel reactors](parallel-energy.md).
