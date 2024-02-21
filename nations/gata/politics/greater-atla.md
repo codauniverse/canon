@@ -14,6 +14,8 @@ layout:
 
 # Greater Atla
 
+## Overview
+
 Greater Atla refers to the entire geographic domain of [GATA](../) and “all the lands under the light of The New Dawn.” Greater Atla encompasses [districts](districts.md), cities, townships and smaller [homesteads](homesteads.md), as well as [enterprise](../enterprise/) and military facilities, and other operations.
 
 [Gray Zones](gray-zones.md) are technically inside of Greater Atla, however the people who lived there during [Reconstruction](../../../overview/history/the-reconstruction.md) established physical borders and declared sovereignty, rejecting GATA citizenship, and the people living there continue to assert those rights, which GATA is obliged to respect under its law.

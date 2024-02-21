@@ -14,13 +14,15 @@ layout:
 
 # Gates
 
+## Overview
+
 Gates are the border crossings that control the flow of people and goods in and out of districts. Gates have fairly minimal security presence on-site, being actively monitored from space by Angelis Rapid Response.
 
 All goods and people passing into or between districts in GATA must cross through a Gate. Security at the gates (and all GATA borders) is overseen by Gate Patrol in cooperation with Angelis, however most gateworkers are conduits who move and organize shipments, supported by basic cogs that inspect cargo and scrutinize gate traffic.
 
 ***
 
-### Gate Keys
+## Gate Keys
 
 Citizens of GATA are not permitted to enter a district without the requisite keys. An individual can possess district keys themselves, or they can lease keys on the market.
 

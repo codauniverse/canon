@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/quorums.png" alt=""><figcaption><p>A politician making an appeal in the Second Quorum.</p></figcaption></figure>
 
+## Overview
+
 [GATA](../) employs a unique form of governance that can be defined as "Cybernetic Democracy." This model was instituted in 2061 and spans across regions including North America, South America, Western Europe, and North Africa.
 
 It operates under a highly sophisticated and secure automated logistical framework called "[The System](the-system.md)," which oversees not only the supply chain and economy but also the governance of GATA.

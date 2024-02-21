@@ -14,6 +14,8 @@ layout:
 
 # Homesteads
 
+## Overview
+
 Dotted through the landscape of [Greater Atla](greater-atla.md) are the many homesteads maintained by [GATA](../) citizens who choose to live outside of the security and constraints of a [district](districts.md) or region [on the path toward districthood](districts.md#the-path-to-districthood).
 
 While citizens who live in homesteads are not entitled to [yield](yield.md) from the districts, aid and support are provided by GATA, especially in emergencies.

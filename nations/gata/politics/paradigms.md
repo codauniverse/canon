@@ -14,6 +14,8 @@ layout:
 
 # Paradigms
 
+## Overview
+
 A paradigm is a [district](districts.md)'s unique technological allowances. Within a district's paradigm, legal technology is considered 'blue' or ‘soft’, and illegal tech as ‘red’ or ‘hard’.
 
 The development of a district's paradigm is gradual and adaptive, designed by expert working groups at [the AIC](../institutions/atlan-information-control.md) with input from district representatives from the [Second Quorum](governance.md#the-second-quorum), and approved by the [First Quorum](governance.md#the-first-quorum).

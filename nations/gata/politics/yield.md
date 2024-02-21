@@ -14,6 +14,8 @@ layout:
 
 # Yield
 
+## Overview
+
 Yield is a periodic distribution of resources and benefits derived from the collective economic and industrial activities across the regions governed by [The System](the-system.md).
 
 All economic and industrial activity across [GATA](../) feeds into The System, and Yield is what comes back, distributed according to The System’s [hard-coded](../../../overview/science-and-tech/hard-code.md) logic.

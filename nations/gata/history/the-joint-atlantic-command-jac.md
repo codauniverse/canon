@@ -42,6 +42,8 @@ During a customary community forum called The Big Talk, the existence of the Fou
 
 ***
 
+<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_from_the_deck_of_future_celebrating_16c8eaf2-2911-4e01-8504-1ee66893afe4.png" alt="" width="563"><figcaption><p>The day of the New Dawn Declaration as the JAC votes.</p></figcaption></figure>
+
 ## The Founding of Atla
 
 In the years prior, the makeshift society of dignitaries, scientists, military, and civilians had forged a shared identity–despite some incidents–and soon after the revelations of the Found Objects, sought to formalize their governance. Over the course of a few months, a breakaway working group had snowballed into an atmosphere of revolutionary thinking. A new world with a new order. The floating city state of Atla was founded.

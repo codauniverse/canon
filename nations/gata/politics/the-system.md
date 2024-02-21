@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/system.png" alt=""><figcaption><p>A control room inside of a System Node.</p></figcaption></figure>
 
+## Overview
+
 The System is a decentralized, [hard-coded](../../../overview/science-and-tech/hard-code.md) infrastructure that handles power, economic transactions, communication, and coordination within and between [districts](districts.md).
 
 After [GATA](../) began transitioning its districts to The System, there was a significant decrease in violence, political instability, mental and physical disease, and other social issues.

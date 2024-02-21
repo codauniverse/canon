@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/nomoney420_photograph_of_a_translucent_LED_screen_that_is_displ_8d5ed6fd-a892-44bb-976b-6aff5e911790.png" alt="" width="563"><figcaption><p>A terminal requiring appropriate keys for access.</p></figcaption></figure>
 
+## Overview
+
 Keys are a fundamental component of The System and the New Dawn Accords. Keys are digital signatures that bestow specific privileges on their holder. Every key has its own rules, and while many keys can be bought, or traded, others can only be earned or assigned, and some can also be revoked.
 
 Keys are an integral part of every-day life inside of districts, and to a wide but less ubiquitous extent, across Greater Atla and in NDA-compliant states. This is because life within the districts is built firmly on the autonomous, hard-coded infrastructure of The System. Keys are how you access your homes, your places of work, your networks and devices, and the districts themselves. Keys can grant you access to information and organizations, or to exclusive goods and services.
