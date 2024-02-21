@@ -14,11 +14,15 @@ layout:
 
 # Gear
 
+<figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt=""><figcaption></figcaption></figure>
+
 ## Overview
 
-Wearable technology, from sensors and interfaces to personal compute and storage. Gear is often paired with [links](links.md) and/or local systems.&#x20;
+Wearable technology, from sensors and interfaces to personal compute and storage. Can be individual worn items, or fully-body, integrated suits with built-in hard code compute. Gear is often paired with [links](links.md) and/or local systems.
 
-Gear such as wearable weapons and defensive equipment begin to veer into the territory of [Combat Gear](gear.md#combat-gear). Combat Gear is generally legal to buy across [GATA](../../nations/gata/) but not legal for citizens to operate in most districts, unless authorized by the [district’s government](../../nations/gata/politics/districts.md) or the [Local Authority](../../nations/gata/law-and-order/local-authority.md) as a contracted [Operator](../../nations/gata/enterprise/operators.md).
+High-end gear isn't made with LMNL, as LMNL prioritizes redundant safety mechanisms over compact size and weight considerations. Instead, it is constructed with embedded proprietary hard code and is customized to the wearer's or organization's specifications.
+
+Gear such as wearable weapons and defensive equipment veers into the territory of [Combat Gear](gear.md#combat-gear). Combat Gear is generally legal to buy across [GATA](../../nations/gata/) but not legal for citizens to operate in most districts, unless authorized by the [district’s government](../../nations/gata/politics/districts.md) or the [Local Authority](../../nations/gata/law-and-order/local-authority.md) as a contracted [Operator](../../nations/gata/enterprise/operators.md).
 
 In [Greater Atla](../../nations/gata/politics/greater-atla.md), beyond the safety of the district walls, private ownership of Combat Gear is significantly more prevalent, however it remains a rare sight outside of a crisis.
 

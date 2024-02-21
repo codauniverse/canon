@@ -14,13 +14,21 @@ layout:
 
 # The Joint Atlantic Command (JAC)
 
+<figure><img src="../../../.gitbook/assets/jac_02.png" alt=""><figcaption><p>The naval flotilla that formed the Joint Atlantic Command.</p></figcaption></figure>
+
+## Overview
+
 The Joint Atlantic command began as a flotilla of NATO ships and carriers that coalesced in the Atlantic Ocean during the first days and weeks of the Dark Decade. These ships were largely spared from the cyberattack that caused the Dark Decade due to their recently-updated military-grade networking infrastructure.
+
+<figure><img src="../../../.gitbook/assets/jac_01.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Early JAC Initiatives
 
 The Joint Atlantic Command went on to launch some of the first major strategic missions to secure key resources and assets, address critical threats like neutralizing nuclear power plants, securing key resources, and recovering political and academic VIPs in the first weeks and months of the Dark Decade.
 
 In addition to on-the-ground missions, special research groups set to work to assess the developing global conditions, identifying and classifying threats and capabilities, and establishing a secure provisional infrastructure for ongoing strategic operations. These research groups would later fold into the Research Corps and ALTAR after the formation of Atla.
+
+<figure><img src="../../../.gitbook/assets/nomoney420_flotilla_of_civillian_naval_ships_and_smaller_vessel_b6511f5d-21ac-4003-bb21-4c585286f74b.png" alt="" width="563"><figcaption><p>The JAC with a growing accumulation of commercial and civilian vessels.</p></figcaption></figure>
 
 ### Growth & Civilian Population
 

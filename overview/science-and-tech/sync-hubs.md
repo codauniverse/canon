@@ -14,9 +14,11 @@ layout:
 
 # Sync Hubs
 
+<figure><img src="../../.gitbook/assets/nomoney420_block_shaped_future_holographic_digital_media_casset_2b86bfe6-7d7a-4003-a8c4-613c9d080d8a.png" alt=""><figcaption><p>A modified sync hub in a fabricated shell.</p></figcaption></figure>
+
 ## Overview
 
-Designed for [use by licensed empatherapists](sync-hubs.md#use-in-empatherapy). The approved sync hub template is a one-way connection, allowing one party to feel what another party is thinking or experiencing.
+Designed for [use by licensed empatherapists](sync-hubs.md#use-in-empatherapy). The approved sync hub template is a one-way connection, allowing one party to feel what another party is thinking or experiencing. However, some have begun making illegal modifications to sync hubs, allowing for multiple parties to sync, both locally and remotely.
 
 ***
 
@@ -42,7 +44,7 @@ With the use of the sync hub, empatherapists can connect with and guide their cl
 
 Illegal mods of sync hubs have become more common among the younger generations. By extending the sync hub with additional [LMNL modules](hard-code.md#lmnl) and bypassing the stock [filter module](asimovian-architecture.md#filter-modules), sync hubs can be modified in a number of ways to enable various uses. Bypassing the stock filter allows both parties to push and pull.
 
-They are used at sync raves where they’re extended with direct inputs for systems the conduit may be driving, custom filters, and sometimes up to hundreds of additional endpoint modules.
+They are used at [sync raves](../../nations/gata/underground-scene/sync-raves.md) where they’re extended with direct inputs for systems the conduit may be driving, custom filters, and sometimes up to hundreds of additional endpoint modules.
 
 They are modified by [Astral](the-astral.md) users with difficult-to-acquire [astral seed modules](the-astral.md#astral-seeds), allowing them to sync remotely with other astral users in real-time.
 

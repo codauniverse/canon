@@ -14,11 +14,13 @@ layout:
 
 # COGs
 
+<figure><img src="../../.gitbook/assets/nomoney420_a_sci-fi_future_open_concept_lab_floating_hover_chai_257ee262-37dd-49e2-9440-1d10744aa629.png" alt=""><figcaption><p>A volumetric display in a control room for a large COG facility.</p></figcaption></figure>
+
 ## Overview
 
-Cogs are cognitive systems. They are [Asimovian](asimovian-architecture.md) constructs derived from the Fischer equation, capable of generalized reason.
+COGs are cognitive systems. They are [Asimovian](asimovian-architecture.md) constructs derived from the Fischer equation, capable of generalized reason.
 
-Due to the design constraints of Asimovian architecture, cogs are quite large–ranging in scale from roughly two cubic feet to the size of a large warehouse, based on the system's required speed and complexity.
+Due to the design constraints of Asimovian architecture, cogs are quite large–ranging in scale from roughly two cubic feet to the size of a large warehouse, based on the tension between the system's required speed and complexity.
 
 The key to understanding the mind of an Asimov-complete cog is that it has no first mover and no driver for behavior, and its cognition is deterministic, which are requirements outlined in the [New Dawn Accords](../../nations/gata/politics/new-dawn-accords.md).
 

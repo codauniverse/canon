@@ -16,11 +16,31 @@ layout:
 
 <figure><img src="../../.gitbook/assets/fab.png" alt="" width="563"><figcaption></figcaption></figure>
 
+## Overview
+
 Fabricated tech refers to the recycling of existing [LMNL](hard-code.md#lmnl) modules, electronics, mechanical components, and other raw materials in the creation of new custom modules and devices. Fabricated tech is made by hand or using [fabricators](fabricated-tech.md#fabricators).
 
-Fabricated Tech is extremely convenient due to its size (legacy components are smaller than their LMNL counterparts), customizability, and reusability. Fabricated tech makes it easy break down and recompile the technology that you need as you need it, reusing the same electronic and LMNL components.
+Fabricated tech is extremely convenient due to its size (legacy components are smaller than their LMNL counterparts), customizability, and reusability. Fabricated tech makes it easy break down and recompile the technology that you need as you need it, reusing the same electronic and LMNL components.
 
-On the market, some components can get quite expensive, such as [legacy componentst](../../nations/gata/law-and-order/tech-regulation.md), [COGs](cogs.md), and components made with exotic materials, like [static nodes](statics.md#static-nodes).
+On the market, some components can get quite expensive, such as [legacy components](../../nations/gata/law-and-order/tech-regulation.md), [COGs](cogs.md), and components made with exotic materials, like [static nodes](statics.md#static-nodes).
+
+<div>
+
+<figure><img src="../../.gitbook/assets/nomoney420_future_clear_plastic_synth_keyboard_future_electroni_8c6b226c-9306-48ec-9d8d-7663eab2c934.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/nomoney420_future_high_end_subwoofer_made_of_clear_plastic_futu_56759661-bad5-4fdf-8597-a6ca434ddace.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_15881898-26a3-4b6c-95cb-fb35b0de981d.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_94a03c4d-394f-4bb5-b6c2-4a82143324ef.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ***
 
@@ -46,7 +66,7 @@ Fabricated tech is often produced at standard LMNL module dimensions so that the
 
 ## **Unregulated Fabricated Tech**
 
-In [Free Territories](../../nations/free-territories/) and [Gray Zones](../../nations/gata/politics/gray-zones.md), fabricated tech doesn’t always comply with [NDA regulations](../../nations/gata/politics/new-dawn-accords.md) and might not use LMNL to integrate components. It isn’t uncommon to find fabs built instead using raw hardcode to integrate components. This means unregulated fabricated tech can be much smaller, but it is left vulnerable to the [Daemon virus](the-daemon-virus.md) and other threats. Generally, any fabricated tech not written in LMNL would be immediately confiscated under GATA regulations and the [Local Authority](../../nations/gata/law-and-order/local-authority.md)’s remit for discretion.
+In [Free Territories](../../nations/free-territories/) and [Gray Zones](../../nations/gata/politics/gray-zones.md), fabricated tech doesn’t always comply with [NDA regulations](../../nations/gata/politics/new-dawn-accords.md) and might not use LMNL to integrate components. It isn’t uncommon to find fabs built instead using raw hardcode to integrate legacy components. This means unregulated fabricated tech can be much smaller, but it is left vulnerable to the [Daemon virus](the-daemon-virus.md) and other threats.
 
 ***
 

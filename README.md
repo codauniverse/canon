@@ -50,7 +50,7 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 ### BRIGHT DAY - Anime Music Video (CODA Pilot)
 
-{% embed url="https://youtu.be/PLdP-NU_WdQ" fullWidth="true" %}
+{% embed url="https://youtu.be/eoyghXkNllk" %}
 
 ***
 

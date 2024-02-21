@@ -16,7 +16,9 @@ layout:
 
 ## Prologue
 
-{% embed url="https://youtu.be/PLdP-NU_WdQ" fullWidth="true" %}
+{% embed url="https://youtu.be/eoyghXkNllk" %}
+Watch the CODA Anime Proof of Concept on YouTube
+{% endembed %}
 
 #### Synopsis
 

@@ -14,13 +14,19 @@ layout:
 
 # Found Objects
 
-<figure><img src="../../../.gitbook/assets/foundobjects.png" alt="" width="563"><figcaption><p>A Found Object in a containment module, deep in the vaults of ALTAR</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/foundobjects.png" alt=""><figcaption><p>A Found Object in a containment module, deep in the vaults of ALTAR</p></figcaption></figure>
+
+## Overview
 
 The Found Objects, aptly named, are an assemblage of mysterious objects of unknown origin. Over thousands of years of human history, these objects have been discovered and collected by various groups, governments and individuals.
 
 In the Old World, the existence of the Found Objects had remained officially unconfirmed, though conspiracy theories and periodic reports about such artifacts had grown to be relatively mainstream.
 
-### Connection with the Phenomenon
+***
+
+<figure><img src="../../../.gitbook/assets/the-phenomenon.png" alt="" width="563"><figcaption><p>A depiction of a sighting associated with The Phenomenon.</p></figcaption></figure>
+
+## Connection with the Phenomenon
 
 Found Objects are theorized (by those so inclined) to be related to "the Phenomenon"; a vague notion derived from scattered sightings of anomalous trans-medium phenomena that have persisted throughout human history, and were particularly common through the Dark Decade.&#x20;
 
@@ -30,7 +36,9 @@ A connection between the Found Objects and the Phenomenon remains wholly unsubst
 
 ## History
 
-During the Dark Decade, one of the Joint Atlantic Command's first mission-based initiatives was the retrieval of sensitive assets from around the world. Once their existence was disclosed among the upper ranks, Found Objects were quickly identified as high-value targets for these missions. As more high-ranking Secret Access Program personnel were brought into the fleet, these forays were able to successfully retrieve and catalog more and more of these exotic assets. When Atla was founded, these missions were compartmentalized according to the Existence Doctrine rules.
+During the Dark Decade, one of the Joint Atlantic Command's first mission-based initiatives was the retrieval of sensitive human, material and military assets from around the world. Once the existence of the Found Objects was disclosed among the upper ranks, the objects were quickly identified as high-value targets for these missions.
+
+As more high-ranking Secret Access Program personnel were brought into the fleet, these forays were increasingly able to successfully retrieve and catalog more and more of these exotic assets. When Atla was founded, these missions were compartmentalized according to the Existence Doctrine rules.
 
 ### Current Attitudes
 
@@ -40,7 +48,7 @@ Despite many first-hand and historical accounts in citizen publications claiming
 
 The existence of the Found Objects is particularly hard to believe for those who did not see the way Atla, and later, GATA, operated during the Existence Doctrine days, when they openly used extremely advanced, experimental systems in the field.
 
-<figure><img src="../../../.gitbook/assets/nomoney420_future_city_skyline_with_hover_transports_flying_in__2003b126-4c7a-4d7d-85ce-2accd550e2b5.png" alt="" width="563"><figcaption><p>A static </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_future_city_skyline_with_hover_transports_flying_in__2003b126-4c7a-4d7d-85ce-2accd550e2b5.png" alt="" width="563"><figcaption><p>A static-powered personal transport ship.</p></figcaption></figure>
 
 Citizens of GATA, and people around the world have grown accustomed to the advancements claimed to have been reverse-engineered from the Found Objects, like static tech, parallel energy, the UniMaPr, and quantum seeds.
 

@@ -14,7 +14,7 @@ layout:
 
 # The Manna Flower
 
-<figure><img src="../../../.gitbook/assets/nomoney420_httpscdn.midjourney.comc8a44ea2-b9d2-4202-a51f-769_49deb770-290e-45c0-b693-20e28705092b_1.png" alt="" width="563"><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_httpscdn.midjourney.comc8a44ea2-b9d2-4202-a51f-769_49deb770-290e-45c0-b693-20e28705092b_1.png" alt=""><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
 
 Engineered by Atlan scientists during the early years of the Dark Decade, the Manna flower is not just a marvel of genetic engineering, but also a symbol of hope. Seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal.
 
