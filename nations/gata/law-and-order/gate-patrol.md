@@ -12,7 +12,9 @@ layout:
     visible: true
 ---
 
-# Border Patrol
+# Gate Patrol
+
+## Overview
 
 Border Patrol consists of Gate personnel and inspectors, intelligence operatives, embedded Angelis officers, specially trained border guards and support combat units.
 
