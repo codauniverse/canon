@@ -14,8 +14,6 @@ layout:
 
 # Angelis
 
-<figure><img src="../../../.gitbook/assets/guardians.png" alt="" width="563"><figcaption><p>A Guardian operative and her Combat Gear.</p></figcaption></figure>
-
 ## Overview
 
 Headquartered in Atla, and staffed by more than 10 million personnel stationed around the world and in orbit, Angelis is GATA’s largest enterprise. Angelis provides military and intelligence services for GATA and its partner states.
@@ -49,14 +47,6 @@ Small orbital habitats where Rapid Response and Mavericks are dispatched from. O
 ## **Aegis Drop Pods**
 
 Armored drop pods that use Static Field technology to allow for accelerated descent and a decelerated hard-landing. The Aegis pod contains mission-relevant equipment, portable external compute, a break-away shield door, and various communication and jamming capabilities. To open an Aegis pod, the shield door must be pushed out from the inside, causing the Aegis’ panels to fan open, allowing the occupant to slowly increase their visibility while retaining protection.
-
-***
-
-## **Guardians**
-
-Angelis’ special forces units. Guardians undergo rigorous training and conditioning, and demonstrate mastery of a wide range of skills including hand-to-hand combat, use of multiple firearms and weapon platforms, link proficiency, and advanced ability with Combat Gear. Guardian units are deployed in squads of 5-20, often with a squadron of 30-200 standard infantry as support.
-
-Guardians are identifiable by their blue Gears, which are often in the mid-size to large size range, and are outfitted for trans-medium operations that span land, air, sea and space. Guardians and their infantry support are the blunt force weapon of Angelis.
 
 ***
 
