@@ -14,11 +14,17 @@ layout:
 
 # Systema
 
-The System is maintained by Systema, a public enterprise based in Luna that uses its lunar location to maintain and update System nodes with a secure line-of-sight connection. Systema core staff live and work on the moon, and at the end of their careers many choose to take advantage of their earned lunar keys, retiring to Sol’s Gemini City on the Dark Side of the moon. Systema began as a public Research Corps project undertaken over a decade in a nascent Atla, but has since been converted into a public enterprise.
+## Overview
+
+The System is maintained by Systema, a public enterprise based in Luna that uses its lunar location to maintain and update System nodes with a secure line-of-sight connection.
+
+Systema began as a Research Corps project undertaken over the course of the Dark Decade in a nascent Atla, and was converted into a public enterprise during GATA's founding.
+
+Systema's Earth-based technicians make up the bulk of their workforce. Systema's administrative staff live and work on the moon. At the end of their careers, some choose to take advantage of their earned lunar keys, retiring to Sol’s Gemini City on the Dark Side of the moon.
 
 ***
 
-### **Systema Structure**
+## **Systema Structure**
 
 #### **Headquarters**
 
@@ -36,7 +42,9 @@ The System is maintained by Systema, a public enterprise based in Luna that uses
 * Lunar-Based Personnel: Comprises engineers, programmers, and support staff who live and work on the moon.
 * Earth-Based Personnel: Provide logistical and administrative support from Earth, coordinating with district governments and lunar staff. System Technicians are often supported by contracted independent operators, which are selected by Systema as opposed to local governments or the Local Authority.
 
-### **Systema Operations**
+***
+
+## **Systema Operations**
 
 #### **Update Protocols:**
 
@@ -63,8 +71,8 @@ The System is maintained by Systema, a public enterprise based in Luna that uses
 * Contingency Planning: Systema maintains contingency plans for various risk scenarios, including cyber-attacks, technical failures, or natural disasters.
 * Regular Audits and Reviews: Continuous monitoring and periodic audits ensure the ongoing reliability and security of The System.
 
-#### **Innovation Within Bounds:**
+#### **Controlled Innovation:**
 
 * Research Focus: While conservative with core changes, Systema invests in research to stay ahead in technology and cybersecurity.
-* ALTAR Partnership: ALTAR has been critical in helping Systema make necessary leaps in developing The System. When Systema reaches a critical impasse, ALTAR is seemingly always there with the solution.
+* Research Corps Partnership: The Research Corps has been critical in helping Systema make necessary leaps in developing The System. When Systema reaches a critical impasse, The Research Corps is seemingly always there with the solution.
 * Incremental Improvements: Emphasizes gradual, tested improvements over radical changes to maintain stability.
