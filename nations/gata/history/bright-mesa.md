@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/8.png" alt="" width="563"><figcaption><p>A view of Bright Mesa, Nevada from a nearby ridge.</p></figcaption></figure>
 
+## Overview
+
 Bright Mesa was a Free City located in the Nevada desert in what used to be the Neutral Zone between Atla-aligned territories to the West and the Texan Empire to the East.&#x20;
 
 Founded during the earliest days of the Dark Decade, Bright was a pivotal cultural and political nexus in the region, and was seen by many as an exemplar for how to co-exist in the midst of the conflicting political attitudes felt far and wide as Free Peoples wrestled with the benefits and detriments of GATA districthood.
