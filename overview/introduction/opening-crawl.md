@@ -22,7 +22,7 @@ layout:
 
 ## The youth are restless.
 
-70 years have passed since the The Crash; the day everything stopped—and the long nightmare that followed.
+More than 70 years have passed since the The Crash; the day everything stopped—and the long nightmare that followed.
 
 But even in those darkest days, some had already set to work rebuilding.
 
