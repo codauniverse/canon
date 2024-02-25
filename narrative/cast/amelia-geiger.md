@@ -43,9 +43,11 @@ Amelia is a prodigy programmer from the former Free Territory of Ireland. She wa
 
 Her parents were strongly against the GATA incorporation, and had organized passionately against the prior GATA occupation, a sentiment born from the fact that Ireland had fared relatively well through the Dark Decade and Reconstruction. Her parents' stance toward GATA colored Amelia’s early outlook on GATA, but her brother’s optimism about the opportunities created by GATA always struck her.
 
-After being invited into a GATA summer program for gifted youth, she catapulted to the top of her cohort. She was invited to the Atlan Academy of Science and her curiosity overpowered her misgivings. She dreams about one day earning keys to Sol, and being invited to the Research Corps.
+After being invited into a GATA summer program for gifted youth, she catapulted to the top of her cohort despite her refusal to use a link. She was invited to the Atlan Academy of Science and her curiosity overpowered her misgivings.&#x20;
 
-Her specialization in cog design developed into a whitepaper on cog safety protocols. Less interested in the architecture, she was interested in the kinds of minds that different structures produce. Her work earned her an unexpected and operator contract from the AIC to study and assess the safety of KYO Technology’s CODA.
+Her specialization in cog design developed into a whitepaper on cog safety protocols. Less interested in the architecture, she was interested in the kinds of minds that different structures produce. Her work earned her an unexpected operator contract from the AIC to study and assess the safety of KYO Technology’s CODA.
+
+She's recently begun experimenting with link use in order to further her career. She dreams about one day earning citizenship keys for Sol, and being invited to the Research Corps.
 
 ## Motivations
 

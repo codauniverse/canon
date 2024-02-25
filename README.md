@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# ▶ Explore
+# ▶️ Explore
 
 The **CODA Universe** is an experimental IP & storytelling project with an on-chain canon. It is purpose-built for generative media and web3, featuring a rich world with interrelated fragments of lore and themes that reflect and interrogate our world today. Made by humans. Presented by AI.
 
@@ -72,9 +72,9 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 {% embed url="https://c.ai/c/QFq6TnivNi5NudgcPgvBuv0Q7MrNZFNTBO7xmRqdsSU" %}
 
-<figure><img src=".gitbook/assets/social_chat-05.jpg" alt="" width="375"><figcaption><p>Play <em>CODA: Silent Melody</em> starring Carlos</p></figcaption></figure>
+<figure><img src=".gitbook/assets/social_chat-05.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-{% embed url="https://chat.openai.com/g/g-mYyVyw7YT-coda-silent-melody-gm" %}
+<figure><img src=".gitbook/assets/social_chat-06.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
