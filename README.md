@@ -72,10 +72,6 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 {% embed url="https://c.ai/c/QFq6TnivNi5NudgcPgvBuv0Q7MrNZFNTBO7xmRqdsSU" %}
 
-<figure><img src=".gitbook/assets/social_chat-05.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/social_chat-06.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
 ***
 
 ## 360 Environments
