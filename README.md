@@ -34,7 +34,7 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 <figure><img src=".gitbook/assets/worldmap-transparent.png" alt=""><figcaption></figcaption></figure>
 
-<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="nations/gata/">gata</a></td><td><a href=".gitbook/assets/GATA-flag.png">GATA-flag.png</a></td></tr><tr><td><a href="nations/african-union/">african-union</a></td><td><a href=".gitbook/assets/CODA-story-exploration_2022-06-17.png">CODA-story-exploration_2022-06-17.png</a></td></tr><tr><td><a href="nations/aryabat/">aryabat</a></td><td><a href=".gitbook/assets/flag-arabhat.png">flag-arabhat.png</a></td></tr><tr><td><a href="nations/ursa/">ursa</a></td><td><a href=".gitbook/assets/flag-ursa.png">flag-ursa.png</a></td></tr><tr><td><a href="nations/new-imperial-japan/">new-imperial-japan</a></td><td><a href=".gitbook/assets/flag-japan.png">flag-japan.png</a></td></tr><tr><td><a href="nations/free-territories/">free-territories</a></td><td><a href=".gitbook/assets/flag-freeterritories2 (1).png">flag-freeterritories2 (1).png</a></td></tr><tr><td><a href="nations/sol/">sol</a></td><td><a href=".gitbook/assets/Sol-flag.png">Sol-flag.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><a href="nations/gata/">gata</a></td><td><a href=".gitbook/assets/GATA-flag (1).png">GATA-flag (1).png</a></td></tr><tr><td><a href="nations/african-union/">african-union</a></td><td><a href=".gitbook/assets/CODA-story-exploration_2022-06-17.png">CODA-story-exploration_2022-06-17.png</a></td></tr><tr><td><a href="nations/aryabat/">aryabat</a></td><td><a href=".gitbook/assets/flag-arabhat.png">flag-arabhat.png</a></td></tr><tr><td><a href="nations/ursa/">ursa</a></td><td><a href=".gitbook/assets/flag-ursa.png">flag-ursa.png</a></td></tr><tr><td><a href="nations/new-imperial-japan/">new-imperial-japan</a></td><td><a href=".gitbook/assets/flag-japan.png">flag-japan.png</a></td></tr><tr><td><a href="nations/free-territories/">free-territories</a></td><td><a href=".gitbook/assets/flag-freeterritories2 (1).png">flag-freeterritories2 (1).png</a></td></tr><tr><td><a href="nations/sol/">sol</a></td><td><a href=".gitbook/assets/Sol-flag.png">Sol-flag.png</a></td></tr></tbody></table>
 
 ***
 
@@ -47,8 +47,6 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 ***
 
 ## Video & Animation
-
-### BRIGHT DAY - Anime Music Video (CODA Pilot)
 
 {% embed url="https://youtu.be/eoyghXkNllk" %}
 
