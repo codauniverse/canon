@@ -34,9 +34,8 @@ layout:
 * Body Type: Shapely
 * Accessories: None
 * Description: Stunning. Mischievous smile. Moves with the flourishes of someone who knows she's being watched.
-*
 
-    <figure><img src="../../.gitbook/assets/magnific-r6uf28vcgV1R4SuBjMP7-nomoney420_photograph_of_extremely_attractive_half-japanese_hal_c56966a3-3647-402b-b6cd-16135a4b9ace.jpeg" alt="" width="563"><figcaption><p>Tamaki in one of her ad-hoc refuges.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/magnific-r6uf28vcgV1R4SuBjMP7-nomoney420_photograph_of_extremely_attractive_half-japanese_hal_c56966a3-3647-402b-b6cd-16135a4b9ace.jpeg" alt="" width="563"><figcaption><p>Tamaki in one of her ad-hoc refuges.</p></figcaption></figure>
 
 ## Bio
 
