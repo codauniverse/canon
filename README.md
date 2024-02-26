@@ -48,7 +48,7 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 ## Video & Animation
 
-{% embed url="https://youtu.be/eoyghXkNllk" %}
+{% embed url="https://youtu.be/eoyghXkNllk?si=P2uHP8WJId5_PLLe" %}
 
 ***
 
