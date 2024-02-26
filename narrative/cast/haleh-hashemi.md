@@ -37,7 +37,7 @@ layout:
 * Accessories: Chrome adhesive link
 * Description: Beautiful with an edge. Large eyes framed with bold eyebrows, and soft lips. She has an unrefined grace. Hard to miss the link she wears, usually a metallic adhesive on her face.
 
-<figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s.png" alt=""><figcaption><p>Haleh setting up her gear at an arcade.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s.png" alt="" width="563"><figcaption><p>Haleh setting up her gear at an arcade.</p></figcaption></figure>
 
 ## Bio
 
@@ -78,6 +78,8 @@ Find her hunting antique 21st century music and hardware, wall-flowering at a sy
 * She isn’t a natural green thumb, she just likes the solitude of tending the Manna gardens.
 * She has a strong audio-visual synesthesia.
 * She can typically be found in her apartment
+
+<figure><img src="../../.gitbook/assets/nomoney420_disorder_in_an_underground_rave_unruly_crowd_1990s_f_72790fee-a2b4-4356-9793-806420287d42.png" alt="" width="563"><figcaption><p>Haleh caught by surprised at the arcade.</p></figcaption></figure>
 
 ## **Personality & Quirks**
 

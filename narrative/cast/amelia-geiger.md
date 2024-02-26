@@ -56,7 +56,7 @@ She's recently begun experimenting with link use in order to further her career.
 * Experience big city life
 * Curious about everything to do with links
 
-<figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_of_a_geeky_redhead_with_blue_eyes_a_fcb37bd3-203a-4e03-a8e7-4407470b1d98.png" alt=""><figcaption><p>Amelia taking a break from her code.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_of_a_geeky_redhead_with_blue_eyes_a_fcb37bd3-203a-4e03-a8e7-4407470b1d98.png" alt="" width="563"><figcaption><p>Amelia taking a break from her code.</p></figcaption></figure>
 
 ## Trivia
 
@@ -80,6 +80,8 @@ She's recently begun experimenting with link use in order to further her career.
 
 * Frustrated that her rising career is taking her away from the topics that interest her most.
 * Wants to try syncing.
+
+<figure><img src="../../.gitbook/assets/0_1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Skills
 

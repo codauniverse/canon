@@ -20,6 +20,17 @@ layout:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 17</p><p>Occupation: Experience designer</p><p>First Impression: Hyperactive and overeager.</p><p>Self-Image: Visionary experience designer.</p><p>True Self: A speedy ship with no compass.<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: May 29, 2108</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: Chinese</p><p>Born: Greater Toronto, GATA</p></td></tr></tbody></table>
 
+* Height:
+* Weight:&#x20;
+* Hair Color:&#x20;
+* Hair style:&#x20;
+* Eye Color:&#x20;
+* Skin Type:&#x20;
+* Face Shape:&#x20;
+* Body Type:&#x20;
+* Accessories: Slate Glasses
+* Description:&#x20;
+
 <figure><img src="../../.gitbook/assets/magnific-xINQrUMQKfxlwBaz0J6V-nomoney420_young_chinese_teen_male_holding_a_chrome_ball_in_his_885e817b-3074-4c65-92ee-36e3246c31d0.jpeg" alt="" width="563"><figcaption><p>Franky setting up for a show.</p></figcaption></figure>
 
 ## Bio

@@ -24,6 +24,18 @@ layout:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 27</p><p>Occupation: Programmer, musician</p><p>First Impression: Detached, blunt, intense</p><p>Self-Image: Still figuring that out</p><p>True Self: Traumatized by loss, haunted by legacy<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2097</p><p>Location: Greater Toronto</p><p>Citizenship: GATA &#x26; AU</p><p>Ethnicity: Mixed, African, African-American</p><p>Born: Nairobi, AU</p></td></tr></tbody></table>
 
+* Height: 6'2
+* Weight: 180 lbs
+* Hair Color: Black
+* Hair style: Type 4B Coiled Afro
+* Eye Color: Amber color
+* Skin Type: Chestnut color
+* Face Shape: Heart Shape
+* Body Type: Slim and fit
+* Accessories:&#x20;
+* Tattoo: Small rectangular tattoo under right eye
+* Description: A moving statue. Cool, smooth, self-assured, moves with a determined rhythm.
+
 <figure><img src="../../.gitbook/assets/nomoney420_long_shot_photograph_of_an_attractive_thin_mixed_rac_f36d28c5-3f69-40b2-bcbf-7da3bed8cfad.png" alt=""><figcaption><p>Prince on the street at night.</p></figcaption></figure>
 
 ## Bio
@@ -46,7 +58,7 @@ He turns up 10 years later.
 * Avoid unexpected complications.
 * Keep everyone at arms length.
 
-<figure><img src="../../.gitbook/assets/118.png" alt="" width="563"><figcaption><p>Prince's workstation.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/118.png" alt="" width="563"><figcaption><p>Prince's workstation where he's using illegal legacy tech.</p></figcaption></figure>
 
 ## Trivia
 
@@ -74,11 +86,14 @@ He turns up 10 years later.
 * Notices when something is amiss with a person or situation, senses that the vibes are off.
 * When people try to get close to him, he pushes them away.
 * Not interested in romance.
+* When he is distracted in thought, he's vulnerable to tripping up or missing something.
 
 ## Secrets
 
 * Has a secret plan involving CODA and the underground sync rave scene.
 * Has a dependency on mentle from working on CODA.
+
+<figure><img src="../../.gitbook/assets/119.png" alt="" width="563"><figcaption><p>Prince looking out over Greater Toronto.</p></figcaption></figure>
 
 ## Skills
 
