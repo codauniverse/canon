@@ -41,7 +41,7 @@ layout:
 
 ## Bio
 
-Born in Tehran, Haleh’s family worked in the provisional government during URSA's failed signing of the New Dawn Accords (NDA) and the subsequent [Pulling of the Weeds](../../nations/ursa/history/the-pulling-of-the-weeds.md). Accusations of corruption spurred political violence against families with certain political ties, driving her parents to attempt to flee for asylum in GATA when she was 2. Her father was executed the morning they fled, and her mother did not survive the journey to the GATA refugee camp in Istanbul. The infant Haleh was rescued by Angelis.
+Born in Tehran, Haleh’s family worked in the provisional government during URSA's failed signing of the New Dawn Accords (NDA) and the subsequent [Pulling of the Weeds](../../world/ursa/history/the-pulling-of-the-weeds.md). Accusations of corruption spurred political violence against families with certain political ties, driving her parents to attempt to flee for asylum in GATA when she was 2. Her father was executed the morning they fled, and her mother did not survive the journey to the GATA refugee camp in Istanbul. The infant Haleh was rescued by Angelis.
 
 She was placed in the East Garden, a community-run campus for orphaned children on the east side of the Bosphorus Strait, and was primarily looked over by an older woman who worked in the Garden. When she was 5, she was enrolled in the Atlan Academy. While she was in Istanbul, there was heavy Aryabat industrial presence due to ongoing Reconstruction efforts, and she was surrounded by conduits using a state of the art technology called links to control massive machines with their mind. After showing an interest, the woman who cared for her encouraged Haleh to join in on a link workshop session for students.
 
