@@ -37,3 +37,11 @@ However, Rapid Response is by its very nature an extremely dangerous job. The si
 As a result, mortality rate for Rapid Response is higher than standard infantry or Guardians, particularly for operatives in their first few years on the job.
 
 Rapid Response are sometimes deployed with Research Corps field researchers whose expertise will be required in their mission. Field researchers are typically very capable tactical operators themselves, with extensive field training emphasizing information supremacy, deception, and disruption tactics that leverage their comprehensive scientific and technical knowledge and quick thinking.
+
+
+
+***
+
+## **Rapid Response of Note**
+
+* Finneas Hughes, one of the last of the UDA's, but opted out of the new MAVERICK program. Died eliminating the infamous Butcher of Bright Mesa. His genetic blueprint forms the basis of Angelis' next-gen peacekeeper program.
