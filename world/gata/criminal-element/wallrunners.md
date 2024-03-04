@@ -14,7 +14,7 @@ layout:
 
 # Wallrunners
 
-<figure><img src="../../../.gitbook/assets/nomoney420_extreme_closeup_of_a_man_with_advanced_leg_armor_in__9dcca6bd-1e24-4368-8ab1-59511e625eb4.png" alt="" width="563"><figcaption><p>A wallrunner preparing to launch.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_extreme_closeup_of_a_man_with_advanced_leg_armor_in__9dcca6bd-1e24-4368-8ab1-59511e625eb4.png" alt=""><figcaption><p>A wallrunner preparing to launch.</p></figcaption></figure>
 
 Wallrunners, or simply “runners”. Specialized [smugglers](smugglers.md) or illegal [operators](../enterprise/operators.md) who use various methods to breach [GATA](../)’s [Field Walls](../borders-and-travel/field-walls.md) and make it into a [district](../politics/districts.md)'s interior.
 
