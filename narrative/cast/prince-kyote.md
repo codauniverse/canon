@@ -22,7 +22,7 @@ layout:
 
 {% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 27</p><p>Occupation: Programmer</p><p>First Impression: Detached, blunt, intense</p><p>Self-Image: Still figuring that out</p><p>True Self: Traumatized by loss, haunted by legacy<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2097</p><p>Location: Greater Toronto</p><p>Citizenship: GATA &#x26; AU</p><p>Ethnicity: Mixed, African, African-American</p><p>Born: Nairobi, AU</p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 26</p><p>Occupation: Programmer</p><p>First Impression: Detached, blunt, intense</p><p>Self-Image: Still figuring that out</p><p>True Self: Traumatized by loss, haunted by legacy<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2098</p><p>Location: Greater Toronto</p><p>Citizenship: GATA &#x26; AU</p><p>Ethnicity: Mixed, African, African-American</p><p>Born: Nairobi, AU</p></td></tr></tbody></table>
 
 * Height: 6'2
 * Weight: 180 lbs
@@ -40,7 +40,7 @@ layout:
 
 ## Bio
 
-Born in Nairobi in 2097. Son of famous Dark Decade folk hero, Kyote, and pioneering technologist Soraya Mata.
+Born in Nairobi in 2098. Son of famous Dark Decade folk hero, Kyote, and pioneering technologist Soraya Mata.
 
 His family moved to Atla when he was 2. His celebrity father and research obsessed mother struggled to strike a balance between their worlds. At 6 he was enrolled in the Atlan Junior Academy. When he was 8 his mother had to move back to the AU for work, and his father spent most of his time on tour so Prince learned how to be alone. Prince stayed close with his mother by sending her code to fix.
 
@@ -48,7 +48,7 @@ When he was 13, Prince was expelled from the Atlan Academy of the Arts due to re
 
 After an argument with his father about moving to live with his mother, Prince stormed off on his dart board and, while spying from a roof, he spotted a young girl driving a very complex system with her link in a secluded area, and he would soon befriend her, realizing they both attended the same school. After learning about syncing and Old World music from Haleh, Prince finally revealed to her that he was his father’s son. She already knew, but he could tell that she acted surprised for him. Eventually he revealed that he had to move to live with his mother, putting a premature end to their budding crush.
 
-At the age of 15, Prince traveled with his father to meet his mother at his big Bright Mesa performance. The intention was that he would go home with his mother after the show. Tragically, there was a terrorist attack during the GATA-sponsored performance in Bright Mesa targeting Atlan dignitaries. His mother and father were killed. Prince was believed to have been killed in the attack.
+At the age of 15, Prince traveled with his father to meet his mother at his big Bright Mesa performance. The intention was that he would go home with his mother after the show. Tragically, there was a militant attack during the GATA-sponsored performance in Bright Mesa targeting Atlan dignitaries. His mother and father were killed. Prince was believed to have been killed in the attack.
 
 He turns up 10 years later.
 
