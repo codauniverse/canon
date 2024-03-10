@@ -74,11 +74,19 @@ The CODA Universe will channel a vast swell of new capabilities to construct a m
 
 </div>
 
-Set 100 years from now, the world depicted in the CODA Universe is a super-collision of our possible futures. It is both strange and familiar. The notions of sci-fi encapsulated in the world and its themes are reflective of the challenges and dilemmas posed by encryption and privacy, decentralization, artificial intelligence, human nature, and the unresolvable tension between control and freedom, order and chaos.
+_100 years from now..._
 
-The world is grounded by a layered history that has organically unfolded into a complex world order. The resulting conflict space is intended to serve as a dynamic medium of competing futures transposed into fictional avatars. Its key technologies are game-mechanic-friendly vectors for high-utility innovations that could fit within a reasonably plausible regime of science and engineering.
+A fractured world recovers from the lingering wounds of the Dark Decade. An authoritarian world power offers refuge from chaos in exchange for strict control. Technology is tightly regulated, protecting civilization from the demons of its past. Institutions, rebel nations, and vast criminal syndicates fight for scraps of power and privilege.&#x20;
 
-The world and its history are lined up in just such a way that the future depicted in the CODA Universe is facing proxies for the very crises that we are set to face in our immediate and near-term future. It is meant to serve as an interactive Rorschach test, and an eschatological time capsule of our projections about the past, present, and future.
+And at the edges, in the underground, something new is taking form.
+
+***
+
+The world depicted in the CODA Universe is a super-collision of our possible futures. It is both strange and familiar. The notions of sci-fi encapsulated in the world and its themes are reflective of the challenges and dilemmas posed by encryption and privacy, decentralization, artificial intelligence, human nature, and the unresolvable tension between control and freedom, order and chaos.
+
+~~The world is grounded by a layered history that has organically unfolded into a complex world order. The resulting conflict space is intended to serve as a dynamic medium of competing futures transposed into fictional avatars. Its key technologies are game-mechanic-friendly vectors for high-utility innovations that could fit within a reasonably plausible regime of science and engineering.~~
+
+The world and its history are lined up in such a way that the future depicted in the CODA Universe is facing proxies for the very crises that we are set to face in our immediate and near-term future. It is meant to serve as an interactive Rorschach test, and an eschatological time capsule of our projections about the past, present, and future.
 
 On January 1st, 2025, we will start the CODA Universe's clock. From that moment forward, the CODA Universe will always be set 100 years in our future, and its canon will be developed on-chain.
 
@@ -91,9 +99,9 @@ The CODA Universe was created by [dxxmsdxy](https://www.twitter.com/dreeemtheart
 ## Credits
 
 * The CODA Universe v1 Canon was created by [dxxmsdxy](https://app.gitbook.com/u/hBfh4SD8ZWON5lcbgGqAYX8f6jG3 "mention")
-  * Special thanks to Brian Wong, Sunil Madhu, Russell Verbeeten & Lukas Cheung\
-
 * Art direction, graphic design, generation, development by [dxxmsdxy](https://app.gitbook.com/u/hBfh4SD8ZWON5lcbgGqAYX8f6jG3 "mention")\
+
+* Special thanks to Brian Wong, Sunil Madhu, Anthony Di Iorio, Russell Verbeeten, Nick Grottick, Lukas Cheung, Frank Wang, Enda\
 
 * "BRIGHT DAY" CODA Anime Pilot written, generated, edited by [dxxmsdxy](https://app.gitbook.com/u/hBfh4SD8ZWON5lcbgGqAYX8f6jG3 "mention")
   * Music by **SUV**
