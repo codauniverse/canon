@@ -200,7 +200,7 @@
   * [👤 Carlos Rojas](narrative/cast/carlos-rojas.md)
   * [👤 Franky Wu](narrative/cast/franky-wu.md)
   * [👤 Tamaki Rei](narrative/cast/tamaki-rei.md)
-  * [👤 Keisuke Maeda](narrative/cast/keisuke-maeda.md)
+  * [👤 Remi Maeda](narrative/cast/remi-maeda.md)
 * [📚 Stories](narrative/stories/README.md)
   * [📘 Bright Day](narrative/stories/bright-day.md)
   * [📘 SOULJOURNER](narrative/stories/souljourner.md)
