@@ -24,7 +24,7 @@ Keys are an integral part of every-day life inside of GATA's districts. Keys are
 
 A key's cryptographic signature can be encoded in many different form-factors, whether it's in digital storage on data sticks, steganographically encrypted into media like art or music, embedded in the structure of physical objects, or stored in the mind and usable only by linking directly with systems.
 
-When someone dies, any transferable keys they have pass according to their inheritance preferences. This will also occur if keys are not validated and remain dormant for ten years. If no inheritance is set, the keys will pass to their next of kin, and if none, they will pass to the System to be handled on a case by case basis. In GATA, these orphan keys go into the AIC's fully-transparent, long-term cold storage and can be claimed via an appeal to the AIC if there is a legitimate appeal.
+When someone dies, any transferable keys they have pass according to their inheritance arrangements. This will also occur if keys are not validated and remain dormant for ten years. If no inheritance is set, the keys will pass to their next of kin, and if none, they will pass to the System to be handled on a case by case basis. In GATA, these orphan keys go into the AIC's fully-transparent, long-term cold storage and can be claimed via an appeal to the AIC if there is a legitimate appeal.
 
 ### **Privileges**
 
