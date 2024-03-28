@@ -38,6 +38,6 @@ Private terminals provide access to the enterprise's private ecosystem, as well 
 
 ## Terminal Spoofing
 
-Local gangs and organized crime operations have been known to make illegal dummy terminals that connect to their own phantom endpoint, allowing them to siphon private citizen and enterprise data. This is a crime that falls to the Local Authority to address; failure to do so can negatively impact their standing, affecting their System Yield.
+Local gangs and organized criminal operations have been known to make illegal dummy terminals that connect to their own phantom endpoint, allowing them to siphon private citizen and enterprise data. This is a crime that falls to the Local Authority to address; failure to do so can negatively impact their standing, affecting their System Yield.
 
 While it is likely some of the more sophisticated criminal organizations possess the expertise necessary to spoof System terminals, there are only a few known cases of this occurring, and in all cases the guilty parties were apprehended. The aversion to targeting System terminals is likely inspired by the threat of overstepping the jurisdiction of Angelis.
