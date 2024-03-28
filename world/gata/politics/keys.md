@@ -18,11 +18,11 @@ layout:
 
 ## Overview
 
-Keys are a fundamental component of The System and the New Dawn Accords. Keys are digital signatures that bestow specific privileges on their holder. Every key has its own rules, and while many keys can be bought, or traded, others can only be earned or assigned, and some can also be revoked.
+Keys are digital signatures that bestow specific privileges on their holder. Every key has its own rules, and while many keys can be bought, or traded, others can only be earned, inherited, or assigned, and some can also be revoked.
 
-Keys are an integral part of every-day life inside of districts, and to a wide but less ubiquitous extent, across Greater Atla and in NDA-compliant states. This is because life within the districts is built firmly on the autonomous, hard-coded infrastructure of The System. Keys are how you access your homes, your places of work, your networks and devices, and the districts themselves. Keys can grant you access to information and organizations, or to exclusive goods and services.
+Keys are an integral part of every-day life inside of GATA's districts. Keys are how citizens access the district, their homes, places of work, networks and devices, and exclusive goods and services. Keys also play an important role in institutions and enterprise, and are of great interest to operators, criminal syndicates and other motivated parties.
 
-A key's cryptographic signature can be encoded in many different form-factors, whether it's in digital storage on data sticks, encrypted into media like art or music, embedded in the structure of physical objects, or stored in the mind and usable only by linking directly with systems.
+A key's cryptographic signature can be encoded in many different form-factors, whether it's in digital storage on data sticks, steganographically encrypted into media like art or music, embedded in the structure of physical objects, or stored in the mind and usable only by linking directly with systems.
 
 When someone dies, any transferable keys they have pass according to their inheritance preferences. This will also occur if keys are not validated and remain dormant for ten years. If no inheritance is set, the keys will pass to their next of kin, and if none, they will pass to the System to be handled on a case by case basis. In GATA, these orphan keys go into the AIC's fully-transparent, long-term cold storage and can be claimed via an appeal to the AIC if there is a legitimate appeal.
 
