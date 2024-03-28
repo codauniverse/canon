@@ -30,7 +30,9 @@ The most ubiquitous terminals found across [GATA](../gata/) are [System Terminal
 
 ## Private Terminals
 
-Private enterprise often provide System terminals in underserviced and high-demand areas. They also have their own private terminals offering access to their ecosystem for users with the requisite keys.
+Private enterprise is relied on to deploy and maintain their own builds of System terminals in underserviced and high-demand areas.&#x20;
+
+Private terminals provide access to the enterprise's private ecosystem, as well as other third-party networks and services for users with the requisite keys.
 
 ***
 
