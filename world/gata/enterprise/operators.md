@@ -14,9 +14,13 @@ layout:
 
 # Operators
 
+<figure><img src="../../../.gitbook/assets/operators.png" alt="" width="563"><figcaption><p>A crew of operators getting ready for a big job.</p></figcaption></figure>
+
 People who take on commissions professionally are called Operators. This profession is all about skillful navigation of the byzantine system of GATA. With a good reputation, track record, and specialization, operators gain access to more exclusive commissions offered by The System, institutions, and other legal enterprises. Sometimes referred to as "ops", or more derisively as "jobbers".
 
 Equipped with little more than sharp minds, obscure keys and direct contacts, skilled operators can be found to perform just about any task that needs done—for the right price. Most skilled operators can find just about anything, anyone, or any information. They can get places most can’t, and they know the laws and regulations that limit them in their duties... and often how to circumvent them.
+
+While many operators often work solo, others work in teams or small crews, and some jobs just can't be accomplished by a lone operator.
 
 All legal commission work is recorded on, and regulated by, The System economy. In order to be a successful operator, it is critical to have the keys to do what you plan to do, carry what you intend to carry, or go where you need to go.
 
