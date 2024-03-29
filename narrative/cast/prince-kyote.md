@@ -33,7 +33,7 @@ layout:
 * Face Shape: Heart Shape
 * Body Type: Slim and fit
 * Accessories:&#x20;
-* Tattoo: Small rectangular tattoo under right eye
+* Tattoo: Small rectangular tattoo under right eye, minimalist geometric blackwork tattoos on his body and arms
 * Description: A moving statue. Cool, smooth, self-assured, moves with a determined rhythm.
 
 <figure><img src="../../.gitbook/assets/nomoney420_long_shot_photograph_of_an_attractive_thin_mixed_rac_f36d28c5-3f69-40b2-bcbf-7da3bed8cfad.png" alt=""><figcaption><p>Prince on the street at night.</p></figcaption></figure>
@@ -50,7 +50,7 @@ After an argument with his father about moving to live with his mother, Prince s
 
 At the age of 15, Prince traveled with his father to meet his mother at his big Bright Mesa performance. The intention was that he would go home with his mother after the show. Tragically, there was a militant attack during the GATA-sponsored performance in Bright Mesa targeting Atlan dignitaries. His mother and father were killed. Prince was believed to have been killed in the attack.
 
-He turns up 10 years later.
+He turns up 10 years later with a mysterious piece of hardware he simply calls the Unit.
 
 ## Motivations
 
@@ -58,7 +58,7 @@ He turns up 10 years later.
 * Avoid unexpected complications.
 * Keep everyone at arms length.
 
-<figure><img src="../../.gitbook/assets/118.png" alt="" width="563"><figcaption><p>Prince's workstation where he's using illegal legacy tech.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/118.png" alt="" width="563"><figcaption><p>Prince's workstation where he uses illegal legacy tech to work on the Unit.</p></figcaption></figure>
 
 ## Trivia
 
@@ -90,16 +90,16 @@ He turns up 10 years later.
 
 ## Secrets
 
-* Has a secret plan involving CODA and the underground sync rave scene.
-* Has a dependency on mentle from working on CODA.
+* Has a secret plan involving the Unit and the underground sync rave scene.
+* Has a dependency on mentle from working on the Unit.
 
 <figure><img src="../../.gitbook/assets/119.png" alt="" width="563"><figcaption><p>Prince looking out over Greater Toronto.</p></figcaption></figure>
 
 ## Skills
 
-* Talented conduit with mastery of his link, especially with respect to tapping into secure systems.
+* Talented conduit with mastery of his link, especially with respect to breaking into secure systems.
 * Exceptionally good coder and problem solver.
-* Skilled on a static board.
+* Skilled pilot of small and mid-size static ships, and static boards.
 
 ## Family & Associates
 
@@ -107,7 +107,7 @@ Kyote (Father)
 
 Soraya Kyote-Mata (Mother)
 
-Remi Tranche (Godfather)
+[Remi Maeda](remi-maeda.md) (Godfather)
 
 ## Comparative Stats
 
