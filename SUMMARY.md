@@ -175,6 +175,7 @@
     * [Blades](world/free-territories/military-defense/blades.md)
   * [🎭 People & Culture](world/free-territories/people-and-culture/README.md)
     * [Eidetics](world/free-territories/people-and-culture/eidetics.md)
+    * [Sovereigns](world/free-territories/people-and-culture/sovereigns.md)
   * [🏴‍☠️ Criminal Element](world/free-territories/criminal-element.md)
 * [📘 Sol](world/sol/README.md)
   * [🔵 The Basics](world/sol/the-basics.md)
