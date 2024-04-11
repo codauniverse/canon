@@ -17,7 +17,6 @@
   * [The Crash](world/history/the-crash.md)
   * [The Dark Decade](world/history/the-dark-decade.md)
   * [The Reconstruction](world/history/the-reconstruction.md)
-  * [Post-Reconstruction (Current Era)](world/history/post-reconstruction-current-era.md)
 * [⚒️ Science & Tech](world/science-and-tech/README.md)
   * [The Daemon Virus](world/science-and-tech/the-daemon-virus.md)
   * [Artificial Intelligence](world/science-and-tech/artificial-intelligence.md)

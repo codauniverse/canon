@@ -35,7 +35,7 @@ A constitutional oligarchy born during the dark decade. Stands as a testament to
 * **Luxury: 5** - The oligarchs enjoy great amenities while their servants live in poor conditions
 * **Military: 7** - Every kingdom maintains a small army, but joined together they are strong
 * **Education: 5** - Technical education is heavily promoted, but the humanities are frowned upon
-* **Technology: 8** - A vibrant illegal tech market offers exotic technology to those who can pay
+* **Technology: 8** - A vibrant gray market offers exotic goods and tech for those who can pay
 * **Health: 6** - The Manna flower is essential in URSA, while GATA provides humanitarian assistance to those suffering from conditions stemming from URSA’s corrupted ecology
 
 ### Key Points
