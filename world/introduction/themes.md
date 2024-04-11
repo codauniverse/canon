@@ -1,7 +1,7 @@
 ---
 layout:
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -16,7 +16,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_of_ripples_in_a_dark_blue_black_liq_e3bc829e-c2b3-4e48-8361-96b103620e09 (1).png" alt=""><figcaption></figcaption></figure>
 
-## Into the Undercurrents
+## Overview
 
 Working within the CODA Universe is just as informed by the thematic undertones as it is by the canon.&#x20;
 
@@ -43,5 +43,6 @@ Great content and experiences set in the CODA Universe will resonate or clash wi
 * Love vs Duty
 * The Nature of Consciousness
 * The Wonder of Existence
+* Revolution and its Risks
 * Time & Retro Causality
-* The Phenomenon
+* The Influence of Unseen Forces
