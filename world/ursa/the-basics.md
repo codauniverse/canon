@@ -18,7 +18,7 @@ A constitutional oligarchy born during the dark decade. Stands as a testament to
 
 ### Basic Info
 
-* Founded: 2058
+* Founded: 2056
 * Government: Constitutional Oligarchy
 * Region(s): Russia, Eastern Europe, The Middle East
 * Population: 1,490,000,000
