@@ -22,7 +22,7 @@ Countless new innovations revolutionized human life and reinvigorated a hope for
 
 ***
 
-## Past Conflicts
+## Past Tensions
 
 While the Old World is often looked back on with a certain innocent pining by those who grew up after its end, it was not without its pivotal conflicts.
 
