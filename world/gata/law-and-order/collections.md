@@ -14,7 +14,7 @@ layout:
 
 # Collections
 
-<figure><img src="../../../.gitbook/assets/nomoney420_armed_police_loading_up_sensitive_cargo_on_hovering__d114fca5-3f6e-473b-b31c-927a4ea1e6c4.png" alt="" width="563"><figcaption><p>Collections agents on a static raft confiscating illegal contraband.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/collections-sfg87.png" alt="" width="563"><figcaption><p>Collections agents on a static raft confiscating illegal contraband.</p></figcaption></figure>
 
 ### **Overview**
 

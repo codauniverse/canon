@@ -14,7 +14,7 @@ layout:
 
 # 👤 Haleh Hashemi
 
-<figure><img src="../../.gitbook/assets/artbreeder-portraits_sg2-2024-01-23T23_19_01.180Z.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/haleh-sgsgio.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 > "I don’t know who I am when I’m not performing. I find myself there, when I’m pressed up against everyone that I’m not. Like, a contour of something...” - Haleh
 

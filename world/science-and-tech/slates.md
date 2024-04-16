@@ -14,7 +14,7 @@ layout:
 
 # Slates
 
-<figure><img src="../../.gitbook/assets/nomoney420_close_up_of_a_portable_clear_slate_display_device_cl_66fa2f0e-2e40-4662-8720-33e2c494c5dc.png" alt=""><figcaption><p>A slate on a desk displaying an opaque document</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/slates-98wk3.png" alt=""><figcaption><p>A slate on a desk displaying an opaque document</p></figcaption></figure>
 
 ## Overview
 

@@ -26,19 +26,19 @@ On the market, some components can get quite expensive, such as [legacy componen
 
 <div>
 
-<figure><img src="../../.gitbook/assets/fab-0328fds.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_future_clear_plastic_synth_keyboard_future_electroni_8c6b226c-9306-48ec-9d8d-7663eab2c934.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/fab-3932jk.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_future_high_end_subwoofer_made_of_clear_plastic_futu_56759661-bad5-4fdf-8597-a6ca434ddace.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/fab-0432j2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_15881898-26a3-4b6c-95cb-fb35b0de981d.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/fab-lsfg93.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_94a03c4d-394f-4bb5-b6c2-4a82143324ef.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -26,7 +26,7 @@ It imagines the New Dawn as a world of diverse political and technological parad
 
 ***
 
-<figure><img src="../../../.gitbook/assets/newdawndeclaration-0sf83.png" alt="" width="563"><figcaption><p>The day of the New Dawn Declaration as the JAC votes.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_from_the_deck_of_future_celebrating_16c8eaf2-2911-4e01-8504-1ee66893afe4.png" alt="" width="563"><figcaption><p>The day of the New Dawn Declaration as the JAC votes.</p></figcaption></figure>
 
 ## History
 

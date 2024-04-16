@@ -14,7 +14,7 @@ layout:
 
 # 👤 Amelia Geiger
 
-<figure><img src="../../.gitbook/assets/db4da8a3fda6145eb8c6cf51d350.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/amelia-8gsjg.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 > “Give me a break. I’m not that easily manipulated... but the answer is 23,402,102 revolutions per... ugh." - Amelia
 
@@ -35,7 +35,7 @@ layout:
 
 
 
-<figure><img src="../../.gitbook/assets/nomoney_long_shot_of_geeky_redhead_in_a_glass_and_metal_sci-fi__2b08a0ca-cb14-4ab2-bb63-311f8508503d.png" alt="" width="563"><figcaption><p>Amelia startled in the lab.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/amelia-gsgs8ssew.png" alt="" width="563"><figcaption><p>Amelia startled in the lab.</p></figcaption></figure>
 
 ## Bio
 
@@ -56,7 +56,7 @@ She's recently begun experimenting with link use in order to further her career.
 * Experience big city life
 * Curious about everything to do with links
 
-<figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_of_a_geeky_redhead_with_blue_eyes_a_fcb37bd3-203a-4e03-a8e7-4407470b1d98.png" alt="" width="563"><figcaption><p>Amelia taking a break from her code.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/amelia-splash-fho8.png" alt="" width="563"><figcaption><p>Amelia taking a break from her code.</p></figcaption></figure>
 
 ## Trivia
 

@@ -56,7 +56,7 @@ In the event that crime in Gray Zones involves district citizens or breaches of 
 
 ***
 
-<figure><img src="../../../.gitbook/assets/localauthority-832nfd8.png" alt="" width="563"><figcaption><p>Reserve Protocol enforcement in tactical gear.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_a_crew_of_bounty_hunters_in_a_fight_with_the_enemy_s_dbade9c0-abe2-4abb-8415-186bd8fd22ff.png" alt="" width="563"><figcaption><p>Reserve Protocol enforcement in tactical gear.</p></figcaption></figure>
 
 ## Reserve Protocol
 

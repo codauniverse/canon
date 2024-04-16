@@ -14,7 +14,7 @@ layout:
 
 # 📖 Introduction
 
-<figure><img src="../../.gitbook/assets/nomoney420_blue_flag_with_white_flower_waving_in_the_wind_96ac4a90-4642-4cc2-ad23-17323c2909aa.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mannaflower-0sg983.png" alt=""><figcaption></figcaption></figure>
 
 ## Earth, 2125.
 

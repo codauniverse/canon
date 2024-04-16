@@ -14,7 +14,7 @@ layout:
 
 # 👤 Prince Kyote
 
-<figure><img src="../../.gitbook/assets/4136fff679e77bbbee04b91862cc.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/prince-hfskjf.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 > "You don’t need to know.” - Prince
 
@@ -36,7 +36,7 @@ layout:
 * Tattoo: Small rectangular tattoo under right eye, minimalist geometric blackwork tattoos on his body and arms
 * Description: A moving statue. Cool, smooth, self-assured, moves with a determined rhythm.
 
-<figure><img src="../../.gitbook/assets/nomoney420_long_shot_photograph_of_an_attractive_thin_mixed_rac_f36d28c5-3f69-40b2-bcbf-7da3bed8cfad.png" alt=""><figcaption><p>Prince on the street at night.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/prince-splash-0sgf0s.png" alt=""><figcaption><p>Prince on the street at night.</p></figcaption></figure>
 
 ## Bio
 

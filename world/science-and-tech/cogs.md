@@ -14,7 +14,7 @@ layout:
 
 # COGs
 
-<figure><img src="../../.gitbook/assets/nomoney420_a_sci-fi_future_open_concept_lab_floating_hover_chai_257ee262-37dd-49e2-9440-1d10744aa629.png" alt=""><figcaption><p>A volumetric display in a control room for a large COG facility.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cogs-98342jh.png" alt=""><figcaption><p>A volumetric display in a control room for a large COG facility.</p></figcaption></figure>
 
 ## Overview
 

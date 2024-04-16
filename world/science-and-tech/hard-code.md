@@ -14,7 +14,7 @@ layout:
 
 # Hard Code
 
-<figure><img src="../../.gitbook/assets/hardcode-9wfrh3.png" alt=""><figcaption><p>A close-up of a LMNL program with interlocking hard code modules. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_close_up_insert_shot_of_small_interlocking_and_int_f1d52ece-29de-4f35-a36f-041d1eca9199_2.png" alt=""><figcaption><p>A close-up of a LMNL program with interlocking hard code modules. </p></figcaption></figure>
 
 ## Overview
 
@@ -40,7 +40,7 @@ Hard-coded systems are similar in principal to the Application-Specific Integrat
 
 LMNL has been especially critical for the creation of filter modules. LMNL provides a framework for programmers to more easily codify rules that filter, throttle and direct information within a computational system. By physically restricting the kinds of logical structures that can be compiled, LMNL ensures that systems process information in a “safe cascade”. This has the effect of limiting how a system can access and manipulate information–aka [ontology design](asimovian-architecture.md#ontology-design). One of its most prominent effects is that it dramatically limits the adaptability, or creativity of [cogs](cogs.md)—an intentional feature that has advantages and drawbacks.
 
-<figure><img src="../../.gitbook/assets/nomoney420_small_interlocking_and_interconnecting_modules_combi_cc51fa8d-47c9-4d2b-96b7-1229d1d40f61.png" alt="" width="375"><figcaption><p>A hand-assembled program using a mix of pre-compiled and fabricated components.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardcode-j3093s.png" alt="" width="375"><figcaption><p>A hand-assembled program using a mix of pre-compiled and fabricated components.</p></figcaption></figure>
 
 LMNL programs can be compiled as one large module, or smaller modules can be individually compiled and combined into complete programs. Some assembly is necessary when a program integrates non-LMNL components. While program assembly and shell fabrication can be automated, some programmers prefer to assemble their LMNL programs and shells by hand.
 
@@ -50,19 +50,19 @@ The most ubiquitous LMNL programs are simple every day conveniences like data st
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/nomoney420_small_interlocking_and_interconnecting_modules_combi_78d49208-c9e3-4b68-ad1e-4cbfd456aa10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardcode-3482k.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/hardcode-943o34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_small_interlocking_and_interconnecting_modules_combi_87f8e77c-0458-420e-b220-b34fc220c6ab.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/hardcode-832fd.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_small_interlocking_and_interconnecting_modules_com_46c58c0b-d5f1-4b54-aede-f64821749f5c_1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/hardcode-4935j.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_small_interlocking_and_interconnecting_modules_combi_c09d0252-a309-416c-852a-ee535a0f8b9d.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -14,7 +14,7 @@ layout:
 
 # 👤 Franky Wu
 
-<figure><img src="../../.gitbook/assets/0507f48fdc12b62d74d32dcb4371.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/franky-9233f.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 > “Oh really? Thanks I guess. Yea, it’s hard for me to tell because I’m not even trying anymore." - Aki
 
@@ -31,7 +31,7 @@ layout:
 * Accessories: Link on his temple, an emitter or two often floating nearby
 * Description:&#x20;
 
-<figure><img src="../../.gitbook/assets/magnific-xINQrUMQKfxlwBaz0J6V-nomoney420_young_chinese_teen_male_holding_a_chrome_ball_in_his_885e817b-3074-4c65-92ee-36e3246c31d0.jpeg" alt="" width="563"><figcaption><p>Franky setting up for a show.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/franky-splash-0943fs.jpeg" alt="" width="563"><figcaption><p>Franky setting up for a show.</p></figcaption></figure>
 
 ## Bio
 

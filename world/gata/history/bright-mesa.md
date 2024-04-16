@@ -70,7 +70,7 @@ Immediately following Activation, nuclear explosions devastated Bright Mesa, kil
 
 The terrorist organization The CURE claimed responsibility for the attack. Confidence in GATA’s protection in the region was shaken and the profile of the CURE reached a global scope.
 
-<figure><img src="../../../.gitbook/assets/103.png" alt="" width="563"><figcaption><p>A terrible mushroom cloud rising above Bright Mesa.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/brightmesa-detonation-90433.png" alt="" width="563"><figcaption><p>A terrible mushroom cloud rising above Bright Mesa.</p></figcaption></figure>
 
 ## Notable Victims
 

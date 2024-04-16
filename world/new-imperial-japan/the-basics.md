@@ -14,7 +14,7 @@ layout:
 
 # 🔵 The Basics
 
-<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.run1ayJNWxuc8A_httpss.mj.runa_ifJnrJ2cY_ht_187eaa51-9779-4b9c-9423-128efb85f368.png" alt="" width="563"><figcaption><p>A ground crew servicing an Imperial Stinger.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/newimperialjapan-038sfg8.png" alt="" width="563"><figcaption><p>A ground crew servicing an Imperial Stinger.</p></figcaption></figure>
 
 Retained a functioning power grid during [the Dark Decade](../history/the-dark-decade.md) due to advanced energy infrastructure. Its isolationist stance has been softened by technology exchanges with [GATA](../gata/). Has extremely strict border control and encourages the population to self-police, surveil and report illegal transgressions. Social life is muted with many citizens preferring to remain in their private estates. Publicly, citizens appear exceptionally law abiding, but it is commonly understood that inside their estates many do as they please. Recent population boom due to unauthorized use of anti-aging therapies like [AKICEL](../gata/health-and-medicine/akicel.md) and novel genetic engineering technologies.
 

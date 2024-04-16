@@ -14,7 +14,7 @@ layout:
 
 # The Manna Flower
 
-<figure><img src="../../../.gitbook/assets/nomoney420_httpscdn.midjourney.comc8a44ea2-b9d2-4202-a51f-769_49deb770-290e-45c0-b693-20e28705092b_1.png" alt=""><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mannaflower-0sfhkhgf.png" alt=""><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
 
 ## Overview
 
@@ -90,7 +90,7 @@ The final phase before seed release. Different harvesting methods and precise ti
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_blue_flag_with_white_flower_waving_in_the_wind_96ac4a90-4642-4cc2-ad23-17323c2909aa.png" alt="" width="563"><figcaption><p>The Manna flower, a symbol for many.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mannaflower-0sg983.png" alt="" width="563"><figcaption><p>The Manna flower, a symbol for many.</p></figcaption></figure>
 
 ## **Modern Context**
 

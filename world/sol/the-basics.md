@@ -1,6 +1,6 @@
 # 🔵 The Basics
 
-<figure><img src="../../.gitbook/assets/nomoney420_anime_masterpiece_shot_from_a_sci-fi_space_station_i_ddc9fbe6-6569-4fc5-a6ae-b3ef94f65ec2.png" alt="" width="563"><figcaption><p>A Sol habitat in orbit above the Earth.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sol-sf8g8.png" alt="" width="563"><figcaption><p>A Sol habitat in orbit above the Earth.</p></figcaption></figure>
 
 ### Basic Info
 

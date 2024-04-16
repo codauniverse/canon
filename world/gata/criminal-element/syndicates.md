@@ -42,7 +42,7 @@ Hands are the avatars of the organization; when you are visited by a Hand, you a
 
 ## The River Syndicate
 
-<figure><img src="../../../.gitbook/assets/nomoney420_a_criminal_syndicate_with_sci-fi_solarpunk_gear_load_91ea2c73-4024-4d31-a075-bbaf2191c373.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sovereignmilitias-094343ds.png" alt="" width="563"><figcaption></figcaption></figure>
 
 The River syndicate controls the Mississippi River and much of the North American interior, and operates more like a collective of well-equipped militias. They're the only known supplier of Crimson, a street drug produced from Red Manna flowers. Their source and production methods remain a well guarded secret.
 

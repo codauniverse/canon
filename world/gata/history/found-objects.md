@@ -50,7 +50,7 @@ Despite many first-hand and historical accounts in citizen publications claiming
 
 The existence of the Found Objects is particularly hard to believe for those who did not see the way Atla, and later, GATA, operated during the Existence Doctrine days, when they openly used extremely advanced, experimental systems in the field.
 
-<figure><img src="../../../.gitbook/assets/nomoney420_future_city_skyline_with_hover_transports_flying_in__2003b126-4c7a-4d7d-85ce-2accd550e2b5.png" alt="" width="563"><figcaption><p>A static-powered personal transport ship.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/statics-0s8fg.png" alt="" width="563"><figcaption><p>A static-powered personal transport ship.</p></figcaption></figure>
 
 Today, citizens of GATA, and people around the world have grown accustomed to the advancements claimed to have been reverse-engineered from the Found Objects, like [static tech](../../science-and-tech/statics.md), [parallel energy](../../science-and-tech/parallel-energy.md), the UniMaPr, and [quantum seeds](../../science-and-tech/quantum-seeds.md).
 

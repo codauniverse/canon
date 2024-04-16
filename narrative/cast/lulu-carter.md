@@ -34,7 +34,7 @@ layout:
 * Make-up: Smoky eyeshadow and Black Cherry lipstick
 * Description: Her silhouette is thin and angular, and elegant. Intense and captivating light a flame tenuously flickering.
 
-<figure><img src="../../.gitbook/assets/nomoney420_an_attractive_punk_woman_with_chin_length_choppy_bla_bb351805-9244-4d8e-ae01-5e9864c846b0.png" alt="" width="563"><figcaption><p>Lulu in some dark corner of the West End Gray Zone.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lulu-f0sf78.png" alt="" width="563"><figcaption><p>Lulu in some dark corner of the West End Gray Zone.</p></figcaption></figure>
 
 ## Bio
 
@@ -60,7 +60,7 @@ Through their friendship, Haleh helped Lulu re-discover her childhood passion fo
 * Try to match up to Haleh's talent.
 * Protect her little brother.
 
-<figure><img src="../../.gitbook/assets/nomoney420_stylish_crowd_in_a_future_underground_rave_with_gree_17322c09-302d-4712-b063-a9a41551b19b.png" alt="" width="563"><figcaption><p>Lulu's gaze piercing through the crowd at a sync rave.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lulu-splash-sf090g.png" alt="" width="563"><figcaption><p>Lulu's gaze piercing through the crowd at a sync rave.</p></figcaption></figure>
 
 ## Trivia
 

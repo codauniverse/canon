@@ -14,7 +14,7 @@ layout:
 
 # Keys
 
-<figure><img src="../../../.gitbook/assets/nomoney420_photograph_of_a_translucent_LED_screen_that_is_displ_8d5ed6fd-a892-44bb-976b-6aff5e911790.png" alt="" width="563"><figcaption><p>A terminal requiring appropriate keys for access.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keys-sfs78gf.png" alt="" width="563"><figcaption><p>A terminal requiring appropriate keys for access.</p></figcaption></figure>
 
 ## Overview
 

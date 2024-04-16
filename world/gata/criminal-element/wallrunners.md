@@ -14,7 +14,7 @@ layout:
 
 # Wallrunners
 
-<figure><img src="../../../.gitbook/assets/nomoney420_extreme_closeup_of_a_man_with_advanced_leg_armor_in__9dcca6bd-1e24-4368-8ab1-59511e625eb4.png" alt=""><figcaption><p>A wallrunner preparing to launch.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wallrunners-f9sgf78.png" alt=""><figcaption><p>A wallrunner preparing to launch.</p></figcaption></figure>
 
 Wallrunners, or simply “runners”. Specialized [smugglers](smugglers.md) or illegal [operators](../enterprise/operators.md) who use various methods to breach [GATA](../)’s [Field Walls](../borders-and-travel/field-walls.md) and make it into a [district](../politics/districts.md)'s interior.
 
@@ -22,7 +22,7 @@ Wallrunners are named for the most common breaching method; running really fast.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_in-game_screenshot_3rd_person_camera_of_a_character__f75da427-078d-4b40-888e-4c19c76dcfc8.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wallrunners-fsg9s0.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Wallrunning
 
@@ -34,7 +34,7 @@ Boost Gear gives wallrunners the ability to quickly evade projectiles and avoid 
 
 Outside of the district walls, wallrunners contend with the highly capable Gate Patrol, but once they breach the district interior, tracking them falls to the [Local Authority](../law-and-order/local-authority.md), who are typically far less capable to address skilled runners. The Local Authority are known to sometimes contract operator runners to chase down illegal wallrunners.
 
-<figure><img src="../../../.gitbook/assets/nomoney420_in-game_screenshot_3rd_person_camera_of_a_character__3d4d2013-821a-490b-956c-5abaeba3955b.png" alt="" width="563"><figcaption><p>A wallrunner under assault from Gate Patrol.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/wallrunners-98sf089.png" alt="" width="563"><figcaption><p>A wallrunner under assault from Gate Patrol.</p></figcaption></figure>
 
 ### Escalation with Authorities
 

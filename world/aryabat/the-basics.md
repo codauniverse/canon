@@ -14,7 +14,7 @@ layout:
 
 # 🔵 The Basics
 
-<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runMs2qTw3fGtI_8k_futuristic_cyberpunk_s_c2d86703-ab64-47bb-b48f-e87dbfac96b0_2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aryabat-sgs7gs.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Centered in its planned capitol city, New City located at the intersection of the Brahmaputra and Teesta River. Renowned for its engineering and construction capabilities, as well as its tech industry's role in the development of static field technology. Benefits from its prodigious partnership with Atla during The Reconstruction. The Aryabat-built megastructures from that era still stand around the world, most as derelict monuments to that unprecedented undertaking. Aryabat enjoys a stable political order due to its rapid and widespread improvement in quality of life since officially transitioning to The System.
 

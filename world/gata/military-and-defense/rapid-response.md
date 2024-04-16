@@ -24,7 +24,7 @@ Rapid Response is identifiable by their red Gear, often in the small to mid-size
 
 ***
 
-<figure><img src="../../../.gitbook/assets/rapidresponse-0fshjs8.png" alt="" width="563"><figcaption><p>A Rapid Response operative in the heat of a crisis. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_httpss.mj.runqAKLApLRaj4_a_guy_with_short_silver_bro_45fec055-3906-49d1-b31d-f49a25dd86fd.png" alt="" width="563"><figcaption><p>A Rapid Response operative in the heat of a crisis. </p></figcaption></figure>
 
 ## The Role of Rapid Response
 

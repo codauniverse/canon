@@ -35,7 +35,7 @@ Glued together from broken pieces. Colder every day, he's gained a significant f
 * Accessories: Link implant, crown antennae link extension on forehead, gold plated cheek plates, multiple armor rings
 * Description: A shadowy dagger moving in the night. Cuts an intimidating shape, and makes his presence known at the moment of maximum impact.
 
-<figure><img src="../../.gitbook/assets/nomoney_long_shot_of_shady_guy_sitting_in_a_booth_in_a_neon_lit_4480c0d4-543f-40c3-baee-22e34c0ff165 (1).png" alt="" width="563"><figcaption><p>Xavier receiving some bad news.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xavier-9fsf0.png" alt="" width="563"><figcaption><p>Xavier receiving some bad news.</p></figcaption></figure>
 
 ## Bio
 

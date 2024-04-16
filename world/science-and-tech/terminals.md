@@ -14,7 +14,7 @@ layout:
 
 # Terminals
 
-<figure><img src="../../.gitbook/assets/terminals-dsf489.png" alt=""><figcaption><p>System Terminals in one of GATA's districts.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_a_sci_fi_terminal_in_a_public_place_shaped_like_an_A_8c2b2d98-edec-44f3-a850-8d3a12d5ae5a.png" alt=""><figcaption><p>System Terminals in one of GATA's districts.</p></figcaption></figure>
 
 ## Overview
 
@@ -26,7 +26,7 @@ The most ubiquitous terminals found across [GATA](../gata/) are [System Terminal
 
 ***
 
-<figure><img src="../../.gitbook/assets/terminals-873olf.png" alt="" width="563"><figcaption><p>An older System terminal built by a private provider.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_a_sci_fi_terminal_in_a_public_place_shaped_like_an_A_10345964-f958-4690-b87b-d4f1d9cb7f45.png" alt="" width="563"><figcaption><p>An older System terminal built by a private provider.</p></figcaption></figure>
 
 ## Private Terminals
 
