@@ -16,7 +16,7 @@ layout:
 
 
 
-<figure><img src="../../.gitbook/assets/0df7f1a498df7e6b067f507f318a (2).jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/remi-dfks32.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 51</p><p>Occupation: Programmer</p><p>First Impression: Intense, but absent-minded.</p><p>Self-Image: The calm in the storm.</p><p>True Self: The unwitting adult in the room.<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: Oct 15, 2074</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: Japanese/French</p><p>Born: Detroit, GATA</p></td></tr></tbody></table>
 
@@ -33,7 +33,7 @@ layout:
 * Accessories: Slate Glasses
 * Description:&#x20;
 
-<figure><img src="../../.gitbook/assets/remi-splash.jpeg" alt=""><figcaption><p>Keisuke taking a moment in New Imperial Japan's Walled Garden prison.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/magnific-RPXlsvEHC54rWETQuv3P-nomoney420_mild_mannered_japanese_man_with_thin_rimmed_glasses__de85f27b-2c0e-4265-8c41-a801e177f307.jpeg" alt=""><figcaption><p>Keisuke taking a moment in New Imperial Japan's Walled Garden prison.</p></figcaption></figure>
 
 ## Bio
 

@@ -75,7 +75,7 @@ Through their friendship, Haleh helped Lulu re-discover her childhood passion fo
 
 *
 
-<figure><img src="../../.gitbook/assets/lulu-ksf87s.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney_beautiful_woman_with_short_red_hair_dancing_from_behind_4929ac1d-7f93-47a1-91f0-e15767e59494.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Skills
 

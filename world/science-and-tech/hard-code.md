@@ -14,7 +14,7 @@ layout:
 
 # Hard Code
 
-<figure><img src="../../.gitbook/assets/nomoney420_close_up_insert_shot_of_small_interlocking_and_int_f1d52ece-29de-4f35-a36f-041d1eca9199_2.png" alt=""><figcaption><p>A close-up of a LMNL program with interlocking hard code modules. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardcode-9wfrh3.png" alt=""><figcaption><p>A close-up of a LMNL program with interlocking hard code modules. </p></figcaption></figure>
 
 ## Overview
 
@@ -54,15 +54,15 @@ The most ubiquitous LMNL programs are simple every day conveniences like data st
 
  
 
-<figure><img src="../../.gitbook/assets/nomoney420_small_interlocking_and_interconnecting_modules_combi_87f8e77c-0458-420e-b220-b34fc220c6ab.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardcode-943o34.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/nomoney420_small_interlocking_and_interconnecting_modules_com_46c58c0b-d5f1-4b54-aede-f64821749f5c_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardcode-832fd.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/nomoney420_small_interlocking_and_interconnecting_modules_combi_c09d0252-a309-416c-852a-ee535a0f8b9d.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hardcode-4935j.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -26,7 +26,7 @@ Behind every interaction with a networked system, whether its from a terminal, o
 
 ***
 
-<figure><img src="../../.gitbook/assets/nomoney420_close_up_insert_shot_of_a_small_inset_futuristic_pow_76f5804e-e6fa-477b-908d-e93934626b4c.png" alt="" width="563"><figcaption><p>A non-standard enterprise endpoint.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/endpoints-943jff.png" alt="" width="563"><figcaption><p>A non-standard enterprise endpoint.</p></figcaption></figure>
 
 ## Enterprise Endpoints
 

@@ -14,7 +14,7 @@ layout:
 
 # Asimovian Architecture
 
-<figure><img src="../../.gitbook/assets/nomoney420_a_diagram_of_a_flow_chart_showing_information_being__56bb1857-1b70-46a0-9bd3-839123e03673.png" alt=""><figcaption><p>An ontology graph mapping an Asimovian system.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/asimovian-9434njd.png" alt=""><figcaption><p>An ontology graph mapping an Asimovian system.</p></figcaption></figure>
 
 ## Overview
 

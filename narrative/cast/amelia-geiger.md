@@ -81,7 +81,7 @@ She's recently begun experimenting with link use in order to further her career.
 * Frustrated that her rising career is taking her away from the topics that interest her most.
 * Wants to try syncing.
 
-<figure><img src="../../.gitbook/assets/amelia-fs098.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0_1.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Skills
 
