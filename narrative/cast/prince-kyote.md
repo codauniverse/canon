@@ -93,7 +93,7 @@ He turns up 10 years later with a mysterious piece of hardware he simply calls t
 * Has a secret plan involving the Unit and the underground sync rave scene.
 * Has a dependency on mentle from working on the Unit.
 
-<figure><img src="../../.gitbook/assets/119.png" alt="" width="563"><figcaption><p>Prince looking out over Greater Toronto.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/prince-ksfsg3.png" alt="" width="563"><figcaption><p>Prince looking out over Greater Toronto.</p></figcaption></figure>
 
 ## Skills
 

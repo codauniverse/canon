@@ -33,7 +33,7 @@ layout:
 * Accessories: Slate Glasses
 * Description:&#x20;
 
-<figure><img src="../../.gitbook/assets/magnific-RPXlsvEHC54rWETQuv3P-nomoney420_mild_mannered_japanese_man_with_thin_rimmed_glasses__de85f27b-2c0e-4265-8c41-a801e177f307.jpeg" alt=""><figcaption><p>Keisuke taking a moment in New Imperial Japan's Walled Garden prison.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/remi-splash.jpeg" alt=""><figcaption><p>Keisuke taking a moment in New Imperial Japan's Walled Garden prison.</p></figcaption></figure>
 
 ## Bio
 
