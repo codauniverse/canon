@@ -20,7 +20,7 @@ layout:
 
 Hard code modules are compiled "physical functions". Hard code is the only legal form of computational system in [GATA](../gata/) and [NDA](../gata/politics/new-dawn-accords.md)-compliant states.
 
-Hard-coded systems are impervious to corruption because their functions are physically encoded in the shape and structure of its computational components called ‘modules’. They cannot be re-written remotely or compelled to perform functions that it was not designed with the capacity to perform.
+Hard-coded systems are impervious to corruption because their functions are physically encoded in the shape and structure of its computational components called ‘modules’. They cannot be re-written remotely or compelled to perform functions that they were not designed with the capacity to perform.
 
 By their nature, hard-coded systems are much larger than general purpose precursors.
 
