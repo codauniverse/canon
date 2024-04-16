@@ -16,7 +16,7 @@ layout:
 
 ## Overview
 
-The mid-21st century prior to The Crash. Human civilization was swept up in a rapid period of change in the wake of the tumultuous emergence of the world-changing technologies of the 30s and early 40s, including AGI, quantum computing, fusion energy, atomic fabrication, and genetic medicine.
+The mid-21st century prior to [The Crash](the-crash.md). Human civilization was swept up in a rapid period of change in the wake of the tumultuous emergence of the world-changing technologies of the 30s and early 40s, including AGI, quantum computing, fusion energy, atomic fabrication, and genetic medicine.
 
 Most daily social and economic interactions were mediated by an ever-complexifying mesh of autonomous agents who deftly negotiated the complex relationships between disparate peoples and interests, offering humanity a path out of the zero-sum mentality that had defined its past.
 
