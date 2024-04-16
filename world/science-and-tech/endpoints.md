@@ -22,7 +22,7 @@ Endpoints are junctions for information and power infrastructure. Every regulati
 
 Standard endpoints can vary in size, but a smaller standard endpoint connector can always plug into a larger endpoint. Endpoints are legally required to have a built-in [filter module](asimovian-architecture.md#filter-modules) that enforces the information laws of that jurisdiction. In [GATA](../gata/), regulation endpoints enforce [WPP](../gata/institutions/atlan-information-control.md#whole-privacy-protection-act) compliance, guaranteeing GATA’s citizens the right to information privacy.
 
-Different modules can be attached to endpoints, including interfaces or other systems with endpoints (such as terminals). Behind every interaction with a legal computational system, whether its from a terminal, or [slate](slates.md), or [link](links.md), you will find an endpoint.
+Behind every interaction with a networked system, whether its from a terminal, or [slate](slates.md), or [link](links.md), you will find an endpoint.
 
 ***
 
@@ -36,7 +36,7 @@ Different modules can be attached to endpoints, including interfaces or other sy
 
 ## **Relays**
 
-Technically a kind of endpoint, but with distinct characteristics. Relays are extensions attached to endpoints that relay connections to a ‘solid’ endpoint. For example, most terminals include relays so that other interfaces can connect to the terminals, which are themselves connected to the endpoint.
+Technically a kind of 'virtual endpoint' with distinct characteristics. Relays are extensions attached to endpoints that relay connections from any system to the ‘solid’ endpoint behind that system. For example, most terminals include relays so that other interfaces can connect to the terminals and access the raw system data behind them.
 
 Long-distance relays can feel a bit ‘slippery’ when attempting to connect for inexperienced [link](links.md) users because there isn’t a ‘live’ endpoint to sense.
 

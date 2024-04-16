@@ -18,19 +18,21 @@ layout:
 
 ## Overview
 
-Brain-computer interfaces that allow the user to connect directly with system [endpoints](endpoints.md) via interfaces. Endpoints can be associated with all sorts of systems, allowing link users to ‘[push](links.md#pushing)’ and ‘[pull](links.md#pulling)’ with that system, analogous to “Write” and “Read” in computers. Links are an increasingly integral part of daily life wherever they are in use.
+Brain-computer interfaces that allow the user to connect directly with systems via [endpoints](endpoints.md). Link users can ‘push’ their intentions and ‘pull’ information using their mind, analogous to “Write” and “Read” in computers. Skilled link users are called ['conduits'](links.md#conduits).
 
 The systems that can be engaged with links range from the simple like lights, doors, and appliances, to the more complex like heavy-duty machinery,[ automata](automata.md), and expansive databases.
 
-Links can be implanted subcranially, or worn as accessories, and are often coupled with other external accessories or body mods like sensor arrays and other extensions that sometimes double as social signifiers.
+Links can be implanted subcranially, or worn as accessories. They can be augmented with sensors and other extensions. Links are an increasingly integral part of daily life in the districts where they are legal, and even in the [Free Territories](../free-territories/), where the technology is widely accessible on the black market.
 
 ***
 
 ## **History of Links**
 
-Links are [GATA](../gata/)-developed tech that was rolled out under the [Existence Doctrine](../gata/military-and-defense/existence-doctrine.md) during [The Reconstruction](../history/the-reconstruction.md) to assist in the massive undertaking of rebuilding cities and infrastructure around the world. Links allowed individual operators–[conduits](links.md#conduits)–to control complex systems and machinery, including factory machinery, mobile equipment, floating platforms, massive arms and automata.&#x20;
+Links are [GATA](../gata/)-developed tech that was rolled out under the [Existence Doctrine](../gata/military-and-defense/existence-doctrine.md) during [The Reconstruction](../history/the-reconstruction.md) to assist in the massive undertaking of rebuilding cities and infrastructure around the world. Links allowed individual operators–[conduits](links.md#conduits)–to control complex systems and machinery, including factory machinery, mobile equipment, floating platforms, massive arms, automata, and other complex systems using only their mind.&#x20;
 
-The role of links expanded greatly through collaboration with [Aryabat](../aryabat/) as the partner nation developed impressive refinements to the technology and training protocols, demonstrating its transformative potential. During this period, citizens across GATA encountered links and many even had first-hand experiences. At this time, adhesive temp links could be readily acquired in the ‘informal economy’ before the enforcement of paradigms tightened at the close of Reconstruction.
+The role of links expanded greatly through collaboration with [Aryabat](../aryabat/) as the partner nation developed impressive refinements to the technology and training protocols, demonstrating its transformative potential at scale.&#x20;
+
+During this period, citizens across GATA encountered links and many even had first-hand experiences. At this time, adhesive temp links could be readily acquired in the ‘informal economy’ before the enforcement of [paradigms](../gata/politics/paradigms.md) tightened at the close of Reconstruction era.
 
 Representatives in the [Second Quorum](../gata/politics/governance.md#the-second-quorum) were all eager to see links [paradigmed](../gata/politics/paradigms.md) into their district. Links were finally officially incorporated into selected paradigms in 2104, with a relatively rapid rollout across numerous districts over the following years, and today is one of the most widely paradigmed advanced technologies, after [static field tech](statics.md).
 
@@ -38,15 +40,15 @@ Representatives in the [Second Quorum](../gata/politics/governance.md#the-second
 
 ## **Link Use**
 
-Links are a common fixture of life in many districts across GATA where it is widely [paradigmed](../gata/politics/paradigms.md). One of few paradigmed technologies found across so many districts–a side-effect of its ubiquity during The Reconstruction. Links are so beneficial for district performance that there is some political will to make links a “blue” technology, legal for use freely across all of [Greater Atla](../gata/politics/greater-atla.md), which would extend to all of GATA’s partner states. This would be a massive boon to private enterprise and districts looking to maximize [their Yield](../gata/politics/yield.md).
+Links are a common fixture of life in many districts across GATA where it is widely [paradigmed](../gata/politics/paradigms.md). One of few paradigmed technologies found across so many districts—a side-effect of its ubiquity during The Reconstruction. Links are so beneficial for district performance that there is some political will to make links a “blue” technology, legal for use freely across all of [Greater Atla](../gata/politics/greater-atla.md), which would extend to all of GATA’s partner states. This would be a massive boon to private enterprise and districts looking to maximize [their Yield](../gata/politics/yield.md).
 
-While the average person with a link can manipulate simple systems like lights, doors, powering appliances, or ‘reaching out’ to others (essentially sending an intentional psychic impression), there are those who can manipulate very complex systems by training and/or aptitude. These people are called [conduits](links.md#conduits).
+While the average person with a link can manipulate simple systems like lights, doors, powering appliances, or interacting with [System terminals](../gata/politics/the-system.md#system-terminals), there are those who can manipulate very complex systems by training and/or aptitude. These people are called [conduits](links.md#conduits).
 
-Using a link to engage with an interface is often called interfacing, connecting, or linking. Using a [sync hub](sync-hubs.md) to engage with another link user directly is called [syncing](sync-hubs.md#syncing).
+Using a link to engage with a system is called interfacing, connecting, or linking. Using a [sync hub](sync-hubs.md) to engage with another link user directly is called [syncing](sync-hubs.md#syncing).
 
 ### **Connecting**
 
-All link users learn to connect. Also called simply “linking”. After learning how to sense interfaces, link users have to learn how to connect with them. Once a user “connects” with an interface they can perceive the interface in their vision or environment. Over time, they learn how to strengthen the connection, and how different interfaces feel.
+All link users learn to connect. Also called simply “linking”. After learning how to sense system endpoints, link users have to learn how to connect with them. Once a user “connects”, they can perceive the system's interface in their visual field. Over time, they learn how to strengthen the connection, and how different systems feel.
 
 ### **Pushing**
 
@@ -58,19 +60,19 @@ Driving is an advanced form of pushing. Driving a system involves continuously p
 
 ### **Pulling**
 
-Pulling allows a link user to interpret a system’s state. Only users with subcranial implants can pull. Pulling is considered relatively advanced, and requires deep familiarity with a given system.
+Pulling allows a link user to intuitively interpret a system’s state. Only users with subcranial implants can pull. Pulling is considered relatively advanced, and requires deep familiarity with a given system.
 
 #### **Sensing**
 
-Sensing is a precursor to pulling. Link users can open themselves up to nearby interfaces, including other links. This allows the user to find an endpoint that they can then connect with, or pick up on important metadata in the environment. This is one of the most fundamental link skills and can be accomplished to some degree with any link. Standard sensing is accomplished by streaming structured information into the visual cortex that the user learns to intuitively interpret.
+Sensing is a precursor to pulling. Link users can open themselves up to nearby systems, including other links. This allows the user to find an endpoint that they can then connect with, or pick up on important metadata in the environment. This is one of the most fundamental link skills and can be accomplished to some degree with any link.
 
-Sensing other links isn’t like syncing–there is no direct connection between minds. But skilled link users can sense another link’s presence, or when a link is being actively engaged.
+Skilled link users can even sense other links, however sensing links isn’t like syncing–there is no direct connection between minds. But advanced link users can sense another link’s presence, or when a link is being actively engaged.
 
 ***
 
 ## **Conduits**
 
-Strictly speaking, anyone with a link is a conduit, but in the same way not everyone who strums a guitar is a guitarist, it is said that ‘real conduits’ are people who are especially adept at interfacing with systems via their link. They have an exceptional ability to [push](links.md#pushing) and [pull](links.md#pulling) with one or more complex systems.
+Strictly speaking, anyone with a link is a conduit, but in the same way not everyone who strums a guitar is a guitarist, not everyone who uses a link is a conduit. It is generally held that ‘real conduits’ are people who are especially adept at interfacing with systems via their link. They have an exceptional ability to [push](links.md#pushing) and [pull](links.md#pulling) with one or more complex systems.
 
 Anyone able to interface proficiently with complex systems would be reasonably considered a conduit, but there are also some who are simply extremely talented with simpler systems but have not learned more complex interfaces who might also reasonably be considered a conduit.
 
@@ -78,15 +80,15 @@ Anyone able to interface proficiently with complex systems would be reasonably c
 
 ## **Politics of Links**
 
-Proponents of classifying Links as “blue” tech argue that the direct interface between a mind and [The System](../gata/politics/the-system.md) must be the equal right of all GATA’s citizens. However, [the AIC](../gata/institutions/atlan-information-control.md) has been resistant to this proposal, citing a particularly strict interpretation of the NDA’s axion of “mutual incompatibility”. The proponents counter that there is no alternative technology to the human brain, and the AIC maintains that their mandate is to safeguard the wellbeing of humanity over the interests of enterprise and innovation. The issue remains contentious, but the decision ultimately falls to the AIC.
+Proponents of classifying Links as “blue” tech argue that the direct interface between a mind and [The System](../gata/politics/the-system.md) must be the equal right of all GATA’s citizens. However, [the AIC](../gata/institutions/atlan-information-control.md) has been resistant to this proposal, citing a particularly strict interpretation of the NDA’s axion of “mutual incompatibility” whereby technology across GATA must be implemented in such a way that no single point of failure is created. Proponents of opening up links to the masses counter that there is no alternative technology to the human brain. The AIC maintains that their mandate is to safeguard the wellbeing of humanity over the interests of enterprise, innovation, and even individual prosperity. The issue remains contentious, but the decision ultimately falls to the high courts of the AIC.
 
 #### Popular Sentiment
 
-The people at large are somewhat split on link use. Older generations, particularly those who lived through [the Dark Decade](../history/the-dark-decade.md) and early [Reconstruction](../history/the-reconstruction.md) are extremely skeptical of letting technology interface with their mind, and many refuse to ever use one.
+As opposed to political and enterprise enthusiasm for links, the people at large are somewhat split on link use. Older generations, particularly those who lived through [the Dark Decade](../history/the-dark-decade.md) and early [Reconstruction](../history/the-reconstruction.md) are extremely skeptical of letting technology interface with their mind, and many refuse to ever use one.
 
-However, some who grew up witnessing the awesome feats of the late Reconstruction Era’s conduits are enthusiastic about link use and its potential to expand what it means to be human.
+However, some who grew up witnessing the awesome feats of the late Reconstruction Era’s conduits are optimistic about link use and its potential to expand human horizons.
 
-The younger generations who were born after these periods are relatively ambivalent about links. In less affluent communities, links have generally been seen as something for “jobbers” (a somewhat derisive term for [operators](../gata/enterprise/operators.md)), and not really something that excites most people who [simply live off of Yield](../gata/politics/yield.md) and lead simple lives–but of course, most of them have never used a link before.
+The younger generations who were born after the Reconstruction are relatively ambivalent about links. In less affluent communities links have generally been seen as something for “jobbers” (a somewhat derisive term for [operators](../gata/enterprise/operators.md)), and not really something that excites most people who [simply live off of Yield](../gata/politics/yield.md) leading simple lives.
 
 ***
 
@@ -119,14 +121,6 @@ Implanting a link in each hemisphere, allowing the user to connect to and “bri
 #### Shields
 
 Hard-coded filters that provide additional security for link users when connecting to untrusted systems.
-
-***
-
-## **Link Interfaces**
-
-Link interfaces are a subset of interfaces that are ubiquitous across [districts](../gata/politics/districts.md) and other jurisdictions where the technology is [paradigmed](../gata/politics/paradigms.md). They are plugged into [endpoints](endpoints.md), and make it possible for a link user to connect and interact with relevant systems.
-
-Link interfaces are often found embedded in common user touch-points like a [slate](slates.md) or a terminal, which can give the user control over nearby systems. Other interfaces can be found endpoints embedded into a space, giving the connected user direct control over local systems, such as environmental controls, sensor arrays, automata, heavy machinery, or weapons platforms.
 
 ***
 

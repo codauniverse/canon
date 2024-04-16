@@ -18,15 +18,15 @@ layout:
 
 ## Overview
 
-Terminals are public or private interfaces that allow the user to interact with nearby systems, including environmentally embedded computers and local networks. Using private terminals can sometimes be risky or unreliable if you are not sure what system it is connected to.
+Terminals are public or private interfaces that allow the user to interact with systems. Using private terminals can sometimes be risky or unreliable if you are not sure what system it is connected to.
 
-Terminals generally look like kiosks with built in volumetric hologram displays. Modern terminals are robust and minimal, and can project entire private constructs either direct-to-retina, or via link. Older models looked more like coin-operated arcade machines.
+Terminals generally look like kiosks with built in volumetric hologram displays. Modern terminals are robust and minimal, and can project entire private constructs either direct-to-retina, or via link.
 
-The most ubiquitous terminals found across [GATA](../gata/) are [System Terminals](../gata/politics/the-system.md#system-terminals) which allow GATA citizens to perform a wide variety of functions.
+The most ubiquitous terminals found across [GATA](../gata/) are [System Terminals](../gata/politics/the-system.md#system-terminals) which allow GATA's citizens to perform a wide variety of daily functions.
 
 ***
 
-<figure><img src="../../.gitbook/assets/nomoney420_a_sci_fi_terminal_in_a_public_place_shaped_like_an_A_10345964-f958-4690-b87b-d4f1d9cb7f45.png" alt="" width="563"><figcaption><p>A System terminal built by a private provider.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_a_sci_fi_terminal_in_a_public_place_shaped_like_an_A_10345964-f958-4690-b87b-d4f1d9cb7f45.png" alt="" width="563"><figcaption><p>An older System terminal built by a private provider.</p></figcaption></figure>
 
 ## Private Terminals
 
