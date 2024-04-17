@@ -1,2 +1,35 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📘 Bright Day
 
+## Background
+
+2125\. Bright Mesa celebrates its contentious vote to join GATA as its newest district. An Atlan delegation is on approach to mark the historic event. Among the delegates is the guest of honor, Kyote, local folk legend from the Dark Decade, come to perform for the city where his story began. The stage is set, and it will be a show to remember.
+
+***
+
+{% embed url="https://www.youtube.com/watch?v=eoyghXkNllk" %}
+
+## Synopsis
+
+Kyote and his wife—former Research Corps wunderkind, Soraya Mata—arrive in Bright Mesa with their son as part of GATA's special delegation to celebrate the incorporation of Bright Mesa as GATA's newest district.
+
+While the vote to join GATA was contentions, the silver-tinged Kyote, whose folk legend began during the very first days of the Dark Decade, is welcomed as a returning hero, set to perform for the city he once called home for the first time in 20 years.
+
+During the commotion, Prince, their young son, slips away on his own, determined to find his way to the famed Oasis of Bright Mesa, considered by many to be the most beautiful artificial ecosystem on Earth.
+
+After crashing his static board, Prince meets a local girl named Newt who offers to show him to the oasis.
+
+Prince and Newt adventure to the oasis, and slowly learn about each other. Kyote performs to the city he loves. And in the streets, a protest begins to boil over as a deadly plot suddenly unfolds. Shortly after Kyote's performance a nuclear detonation devastates the city. Bright Mesa is left in ruins. Kyote and Soraya are killed. And from the oasis, beyond the city limits, Prince and Newt can only look on in horror.
