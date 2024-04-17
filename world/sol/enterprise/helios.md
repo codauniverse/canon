@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Helios
 
 Helios is Sol’s primary military enterprise, with roughly the same relationship to Sol as Angelis has with GATA. Sol government provides oversight and authorization for Helios activity, with its mandate to secure the heliosphere against unlawful conduct. Sol’s jurisdiction extends outward from the Dark Side of the Moon to the edge of the heliosphere, including Gemini City.
