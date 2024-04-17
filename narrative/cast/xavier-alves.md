@@ -16,8 +16,6 @@ layout:
 
 <figure><img src="../../.gitbook/assets/35ee519d60e48e89244b558ba613.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-Glued together from broken pieces. Colder every day, he's gained a significant foothold in the West End Gray Zone black market. His blind ambition outlines a man shaped by survival and cast in shadow.
-
 ## Chat
 
 {% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
@@ -33,7 +31,7 @@ Glued together from broken pieces. Colder every day, he's gained a significant f
 * Face Shape: Square shape
 * Body Type: Fit, multiple synth prosthetics
 * Accessories: Link implant, crown antennae link extension on forehead, gold plated cheek plates, multiple armor rings
-* Description: A shadowy dagger moving in the night. Cuts an intimidating shape, and makes his presence known at the moment of maximum impact.
+* Description: Glued together from broken pieces. A shadowy dagger moving in the night. Cuts an intimidating shape, and makes his presence known at the moment of maximum impact. Colder every day, he's gained a significant foothold in the West End Gray Zone black market. His blind ambition outlines a man shaped by survival and cast in shadow.
 
 <figure><img src="../../.gitbook/assets/xavier-9fsf0.png" alt="" width="563"><figcaption><p>Xavier receiving some bad news.</p></figcaption></figure>
 

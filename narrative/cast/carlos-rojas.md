@@ -16,23 +16,21 @@ layout:
 
 <figure><img src="../../.gitbook/assets/carlos-rojas.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-> “Some code is better left unrun, like some things are better left unsaid." - Carlos
-
 ### Play _CODA: Silent Melody_ starring Carlos
 
 {% embed url="https://chat.openai.com/g/g-mYyVyw7YT-coda-silent-melody-gm" %}
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 34</p><p>Occupation: Collector</p><p>First Impression: Weary but determined</p><p>Self-Image: Soldier in a war against humanity's self-destructive nature</p><p>True Self: Almost given up on humanity.<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: December 23, 2092</p><p>Location: Atla</p><p>Citizenship: GATA</p><p>Ethnicity: Columbian</p><p>Born: Bogotá, Columbia</p></td></tr></tbody></table>
 
-* Height:
-* Weight:&#x20;
-* Hair Color:&#x20;
+* Height: 5'11"
+* Weight: 175lbs
+* Hair Color: Black
 * Hair style:&#x20;
-* Eye Color:&#x20;
-* Skin Type:&#x20;
-* Face Shape:&#x20;
+* Eye Color: Brown
+* Skin Type: Tan
+* Face Shape: Square
 * Body Type:&#x20;
-* Accessories: Slate Glasses
+* Accessories:&#x20;
 * Description:&#x20;
 
 <figure><img src="../../.gitbook/assets/carlos-splash-sfo023w0.jpeg" alt="" width="563"><figcaption><p>Carlos standing outside a Class 1 bust.</p></figcaption></figure>
@@ -91,5 +89,5 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 
 > "I don't make the rules." - Carlos
 
-## Meta Self-Description
+> “Some code is better left unrun, like some things are better left unsaid." - Carlos
 

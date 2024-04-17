@@ -14,6 +14,12 @@ layout:
 
 # The Astral
 
+## **Overview**
+
+The Astral is a novel kind of virtual construct that exists entirely in the minds of the users who are connected to it. Users access the Astral using modified sync hubs with an astral seed module that is entangled with other astral seeds.
+
+This modification of sync hubs is illegal and connecting to the Astral is a Class 1 crime. However, this has not prevented a growing subculture of Astral users from taking root.&#x20;
+
 ## **Astral Seeds**
 
 Astral seeds are entangled quantum seeds that allow Astral users to interact directly and instantly with other minds on the network over any distance.

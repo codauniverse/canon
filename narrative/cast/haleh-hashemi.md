@@ -16,8 +16,6 @@ layout:
 
 <figure><img src="../../.gitbook/assets/haleh-sgsgio.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-> "I don’t know who I am when I’m not performing. I find myself there, when I’m pressed up against everyone that I’m not. Like, a contour of something...” - Haleh
-
 ## Chat
 
 {% embed url="https://c.ai/c/xC3cmBgQ1po4iqc7ysOuttskRLUxO_6oorO7k2jNs9o" %}
@@ -131,3 +129,5 @@ Lulu (Best Friend)
 ## Quotes
 
 > "I used to fall asleep fantasizing about travelling the world, you know? Playing music for cheering crowds. Now I pass out when my head hits the pillow, and I wake up wondering if I ever had a dream at all." - Haleh
+
+> "I don’t know who I am when I’m not performing. I find myself there, when I’m pressed up against everyone that I’m not. Like, a contour of something...” - Haleh

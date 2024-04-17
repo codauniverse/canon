@@ -16,8 +16,6 @@ layout:
 
 <figure><img src="../../.gitbook/assets/f6f7e812bc545e8c0115b8b8dc6f.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-> “You can't say no." - Tamaki
-
 {% embed url="https://c.ai/c/QFq6TnivNi5NudgcPgvBuv0Q7MrNZFNTBO7xmRqdsSU" %}
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 27</p><p>Occupation: GATA-sponsored superstar</p><p>First Impression: Impossibly stunning<br>Self-Image: Impossible to deny <br>True Self: Spoiled puppet unaware of her strings <br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: December 23, 2092</p><p>Location: Atla</p><p>Citizenship: New Imperial Japan/GATA</p><p>Ethnicity: Japanese, European</p><p>Born: Sendai, New Imperial Japan</p></td></tr></tbody></table>
@@ -123,6 +121,8 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 ## Quotes
 
 > "The rules don't apply to all of us." - Tamaki
+
+> “You can't say no." - Tamaki
 
 ## Meta Self-Description
 

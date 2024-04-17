@@ -16,8 +16,6 @@ layout:
 
 <figure><img src="../../.gitbook/assets/franky-9233f.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-> “Oh really? Thanks I guess. Yea, it’s hard for me to tell because I’m not even trying anymore." - Aki
-
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 17</p><p>Occupation: Experience designer</p><p>First Impression: Hyperactive and overeager.</p><p>Self-Image: Visionary experience designer.</p><p>True Self: A speedy ship with no compass.<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: May 29, 2108</p><p>Location: Greater Toronto</p><p>Citizenship: GATA</p><p>Ethnicity: Chinese</p><p>Born: Greater Toronto, GATA</p></td></tr></tbody></table>
 
 * Height: 5'10"
@@ -84,7 +82,7 @@ But it's all just been practice so far. As far as Franky's concerned, he's just 
 
 ## Quotes
 
->
+> “Oh really? Thanks I guess. Yea, it’s hard for me to tell because I’m not even trying anymore." - Aki
 
 ## Meta Self-Description
 

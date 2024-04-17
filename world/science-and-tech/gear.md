@@ -18,13 +18,13 @@ layout:
 
 ## Overview
 
-Wearable technology, from sensors and interfaces to personal compute and storage. Can be individual worn items, or fully-body, integrated suits with built-in hard code compute. Gear is often paired with [links](links.md) and/or local systems.
+A broad term used to describe wearable technology, from sensors and mechanical components to personal compute and storage. Can be individual worn items, or fully-body, integrated suits with built-in hard-coded compute. Gear is often driven by [links](links.md), however some gear can be controlled kinetically, with voice commands, or by pairing with remote systems.
 
-High-end gear isn't made with LMNL, as LMNL prioritizes redundant safety mechanisms over compact size and weight considerations. Instead, it is constructed with embedded proprietary hard code and is customized to the wearer's or organization's specifications.
+High-end gear isn't made with LMNL, as the LMNL framework prioritizes security and modularity over the size and weight constraints that are unique to wearable gear. Instead, the best gear is constructed with raw, optimized hard code customized to the required specifications.
 
 Gear such as wearable weapons and defensive equipment veers into the territory of [Combat Gear](gear.md#combat-gear). Combat Gear is generally legal to buy across [GATA](../gata/) but not legal for citizens to operate in most districts, unless authorized by the [district’s government](../gata/politics/districts.md) or the [Local Authority](../gata/law-and-order/local-authority.md) as a contracted [Operator](../gata/enterprise/operators.md).
 
-In [Greater Atla](../gata/politics/greater-atla.md), beyond the safety of the district walls, private ownership of Combat Gear is significantly more prevalent, however it remains a rare sight outside of a crisis.
+Beyond the safety of district walls, Combat Gear is significantly more prevalent, especially in the Free Territories and URSA where order is fundamentally maintained through the threat of force.
 
 ***
 

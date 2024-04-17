@@ -16,16 +16,14 @@ layout:
 
 <figure><img src="../../.gitbook/assets/prince-hfskjf.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-> "You don’t need to know.” - Prince
-
 ## Chat
 
 {% embed url="https://c.ai/c/s7140fTPC9divLFlVQJPXh0RNyXuw0Au2W753kPnrYE" %}
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 26</p><p>Occupation: Programmer</p><p>First Impression: Detached, blunt, intense</p><p>Self-Image: Still figuring that out</p><p>True Self: Traumatized by loss, haunted by legacy<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 1, 2098</p><p>Location: Greater Toronto</p><p>Citizenship: GATA &#x26; AU</p><p>Ethnicity: Mixed, African, African-American</p><p>Born: Nairobi, AU</p></td></tr></tbody></table>
 
-* Height: 6'2
-* Weight: 180 lbs
+* Height: 6'1
+* Weight: 178 lbs
 * Hair Color: Black
 * Hair style: Type 4B Coiled Afro
 * Eye Color: Amber color
@@ -127,6 +125,8 @@ Soraya Kyote-Mata (Mother)
 > "Maybe there's more to life than living." - Prince
 
 > "..." - Prince
+
+> "You don’t need to know.” - Prince
 
 ## Meta Self-Description
 
