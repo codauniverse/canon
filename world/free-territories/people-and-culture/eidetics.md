@@ -22,6 +22,8 @@ Adherents to the Eidetic movement reject technology, viewing it as humanity's gr
 
 Thriving primarily in the Free Territories, the movement finds a terrible champion in The Cure, a leaderless terrorist organization merging the religious zeal of the older generations with the capable support of an extremist, secular environmentalist cohort among Sovereign youth.
 
+***
+
 ## Beliefs
 
 Eidetics live by a simple creed: reject tech, embrace nature, and seek spiritual harmony. They view the innovation-hungry civilization that has re-asserted itself as a departure from humanity's purpose, with The Crash seen as a wake-up call or a second chance to reset and live correctly. The most central symbols to Eideticism are the Manna flower, revered as a divine gift, and the white wraps that they wear on their arms or hands, symbolizing their refusal to touch technology. Wraps must be removed before using technology, and can only be re-applied by an eidetic elder or Keeper.
