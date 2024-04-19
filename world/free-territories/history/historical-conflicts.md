@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Military Conflicts
+# Historical Conflicts
 
-## Battle of the Mississippi Delta
+## Battle of the Mississippi Delta (2064)
 
 During the early Reconstruction, GATA's growing presence across North America had been well-received by coastal populations looking for respite from famine and roving militias and pirate gangs.&#x20;
 

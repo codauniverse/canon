@@ -168,7 +168,7 @@
   * [🔵 The Basics](world/free-territories/the-basics.md)
   * [🗺️ Key Locations](world/free-territories/key-locations.md)
   * [🕤 History](world/free-territories/history/README.md)
-    * [Military Conflicts](world/free-territories/history/military-conflicts.md)
+    * [Historical Conflicts](world/free-territories/history/historical-conflicts.md)
   * [🌐 Politics](world/free-territories/politics.md)
   * [⚔️ Military Defense](world/free-territories/military-defense/README.md)
     * [Blades](world/free-territories/military-defense/blades.md)

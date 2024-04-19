@@ -38,7 +38,7 @@ layout:
 * The Gulf Rebellion.
 * Rise of various sovereign states and entities in response to GATA's rapid growth.
 * Founding of the Texan Empire.
-* The [Battle of the Mississippi Delta](../free-territories/history/military-conflicts.md#battle-of-the-mississippi-delta).
+* The [Battle of the Mississippi Delta](../free-territories/history/historical-conflicts.md#battle-of-the-mississippi-delta).
 * The Bright Mesa Peace Agreement.
 * The Founding of [Luna City](../gata/key-locations/luna.md).
 * The rise of the Hundred Hands criminal [syndicate](../gata/criminal-element/syndicates.md).
