@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/altar.png" alt="" width="563"><figcaption><p>ALTAR's secretive high council.</p></figcaption></figure>
 
+## Overview
+
 Deep within the foundation of Atla, beneath the swirling currents of the Atlantic, lies the ALTAR complex – the beating heart of the most clandestine institution in GATA.
 
 By exploring a myriad of new techniques and scientific principles, ALTAR's groundbreaking work produces a diverse ecology of technologies.
@@ -42,7 +44,7 @@ Spanning a diverse size range from a mere 3cm to an imposing 155m, they have, fo
 
 Boasting a recruitment roster that includes the most brilliant minds from not just GATA and Sol, but also from the recognized territories of AU, Aryabat, Japan, and URSA, ALTAR is a hive of innovation.
 
-Researchers, usually working solitarily or in compact teams, delve into the mysteries of the Found Objects. While the primary motivation of their inquiries is ostensibly advancing scientific understanding, if a team's work produces new processes or technologies that are approved by ALTAR and paradigmed by Atlan Innovation Control (AIC), the researchers are rewarded with enterprise licenses, granting them the right to transform their discoveries into cutting-edge products or license them to other qualified legal enterprises.
+Researchers, usually working solitarily or in compact teams, unravel the mysteries of the Found Objects. While the primary motivation of their inquiries is ostensibly advancing scientific understanding, if a team's work produces new processes or technologies that are approved by ALTAR and paradigmed by Atlan Innovation Control (AIC), the researchers are rewarded with enterprise licenses, granting them the right to transform their discoveries into cutting-edge products or license them to other qualified legal enterprises.
 
 ***
 

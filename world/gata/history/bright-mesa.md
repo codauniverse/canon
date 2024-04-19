@@ -14,7 +14,7 @@ layout:
 
 # Bright Mesa
 
-<figure><img src="../../../.gitbook/assets/8.png" alt="" width="563"><figcaption><p>A view of Bright Mesa, Nevada from a nearby ridge.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8.png" alt=""><figcaption><p>A view of Bright Mesa, Nevada from a nearby ridge.</p></figcaption></figure>
 
 ## Overview
 

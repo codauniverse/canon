@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/aic2.png" alt=""><figcaption><p>An empty lower court in the AIC Headquarters in Atla.</p></figcaption></figure>
 
+## Overview
+
 In the intricate complex of [GATA](../)’s [government](../politics/governance.md), the Atlan Information Control is the decisive voice regarding the dissemination of information and technology. Its formation was crucial upon GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../law-and-order/tech-regulation.md) and potentially perilous novel innovations.
 
 ***

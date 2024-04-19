@@ -14,7 +14,7 @@ layout:
 
 # Keys
 
-<figure><img src="../../../.gitbook/assets/keys-sfs78gf.png" alt="" width="563"><figcaption><p>A terminal requiring appropriate keys for access.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keys-sfs78gf.png" alt=""><figcaption><p>A terminal requiring appropriate keys for access.</p></figcaption></figure>
 
 ## Overview
 
