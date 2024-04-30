@@ -14,11 +14,9 @@ layout:
 
 # 🔵 The Basics
 
-<figure><img src="../../.gitbook/assets/aryabat-sgs7gs.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aryabat-sgs7gs.png" alt=""><figcaption></figcaption></figure>
 
-Centered in its planned capitol city, New City located at the intersection of the Brahmaputra and Teesta River. Renowned for its engineering and construction capabilities, as well as its tech industry's role in the development of static field technology. Benefits from its prodigious partnership with Atla during The Reconstruction. The Aryabat-built megastructures from that era still stand around the world, most as derelict monuments to that unprecedented undertaking. Aryabat enjoys a stable political order due to its rapid and widespread improvement in quality of life since officially transitioning to The System.
-
-### Basic Info
+## Basic Info
 
 * Founded: 2064
 * Governance: Tripartite Consociational State
@@ -28,7 +26,15 @@ Centered in its planned capitol city, New City located at the intersection of th
 
 ***
 
-### Comparative Stats
+## Overview
+
+Centered in its planned capitol city, New City located at the intersection of the Brahmaputra and Teesta River. Renowned for its engineering and construction capabilities, as well as its tech industry's role in the development of static field technology. Benefits from its prodigious partnership with Atla during The Reconstruction. The Aryabat-built megastructures from that era still stand around the world, most as derelict monuments to that unprecedented undertaking. Aryabat enjoys a stable political order due to its rapid and widespread improvement in quality of life since officially transitioning to The System.
+
+<figure><img src="../../.gitbook/assets/flag-arabhat.png" alt="" width="375"><figcaption></figcaption></figure>
+
+***
+
+## Comparative Stats
 
 * **Freedom: 6** - With its large populations, there is freedom in obscurity
 * **Luxury: 6** - The vestiges of caste systems holds back some, while others live in opulence
@@ -37,7 +43,9 @@ Centered in its planned capitol city, New City located at the intersection of th
 * **Technology: 7** - Possesses some of the most advanced “interfaces” and skilled conduits
 * **Health: 6** - Access to advanced medicine is limited but their paradigm will expand
 
-### Key Points
+***
+
+## Key Points
 
 * An engineering hub on both terrestrial and extraterrestrial fronts.
 * Has significant influence due to its partnerships with other states.

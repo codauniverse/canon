@@ -14,7 +14,7 @@ layout:
 
 # 🔵 The Basics
 
-<figure><img src="../../.gitbook/assets/GATAflag-89lsf.png" alt="" width="563"><figcaption><p>The GATA flag flying over a System Node.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GATAflag-89lsf.png" alt=""><figcaption><p>The GATA flag flying over a System Node.</p></figcaption></figure>
 
 ## Basic Info <a href="#id-1g1h0y3y9gsu" id="id-1g1h0y3y9gsu"></a>
 

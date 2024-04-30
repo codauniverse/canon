@@ -1,10 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # The Walled Garden
 
-###
+<figure><img src="../../../.gitbook/assets/walled-garden.jpg" alt=""><figcaption><p>A prisoner wandering the Walled Garden.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/walled-garden.jpg" alt="" width="375"><figcaption><p>A prisoner wandering the Walled Garden.</p></figcaption></figure>
-
-### Overview
+## Overview
 
 With its strict border controls, and fairly restricted movement internally, Japan is sometimes referred to as 'The Walled Garden' by those on the outside. This moniker, however, has a double meaning inside of Japan, where it is used in direct reference to the Imperial Garden, an immense open-air prison for high-profile and highly-skilled prisoners of the state.
 

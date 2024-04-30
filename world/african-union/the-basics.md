@@ -14,16 +14,18 @@ layout:
 
 # 🔵 The Basics
 
-<figure><img src="../../.gitbook/assets/au1.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/au1.webp" alt=""><figcaption></figcaption></figure>
 
-### Basic Info
+## Basic Info
 
 * Founded: 2038
 * Government: Formal Anarchy
 * Region(s) West Africa, East Africa, Central Africa, South Africa (contested)
 * Population: 2,915,000,000
 
-### Overview
+***
+
+## Overview
 
 Formed as a political block before the Dark Decade. The African Union managed to survive the Dark Decade relatively unscathed due to its distributed, secure, and sustainable infrastructure.&#x20;
 
@@ -37,7 +39,7 @@ Although the AU has no official capitol, a significant majority of its officiati
 
 ***
 
-### Comparative Stats
+## Comparative Stats
 
 * **Freedom: 8** - The AU enjoys individual freedoms that are envied by all outside of GATA
 * **Luxury: 8** - Abundance and reciprocity has spread comforts across the AU
@@ -46,7 +48,9 @@ Although the AU has no official capitol, a significant majority of its officiati
 * **Technology: 6** - Though high tech is available, most are conservative on tech use
 * **Health: 8** - The AU enjoys the best of GATA’s medicine, and healthy lifestyles
 
-### Key Points
+***
+
+## Key Points
 
 * Created in response to the need for collective African representation in the 21st century.
 * Early partnership with Atla during the Dark Decade helped cement its stature.
