@@ -14,16 +14,18 @@ layout:
 
 # 🔵 The Basics
 
-<figure><img src="../../.gitbook/assets/sol-sf8g8.png" alt="" width="563"><figcaption><p>A Sol habitat in orbit above the Earth.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sol-sf8g8.png" alt=""><figcaption><p>A Sol habitat in orbit above the Earth.</p></figcaption></figure>
 
-### Basic Info
+## Basic Info
 
 * Founded: 2081
 * Governance: Technocratic Meritocracy
 * Region(s): Dark Side of the Moon, Interplanetary Space
 * Population: 4,912,000
 
-### Overview
+***
+
+## Overview
 
 The smallest nation by population. Sol is a beacon of strategic importance and technological efficiency. With a history rooted in defense, Sol has evolved into a compact yet formidable entity, inhabited by a small but highly specialized population of 3,912,000.
 
@@ -35,7 +37,7 @@ Governed by a meritocratically selected Council of Overseers, Sol is characteriz
 
 ***
 
-### The Spirit of Sol
+## The Spirit of Sol
 
 The habitats of Sol, highly secured and regimented, are models of sustainable living and technological sophistication, reflecting Sol's overarching ethos of resilience, order, and forward-thinking. At the heart of its identity, Sol is a symbol of humanity's capacity to adapt and thrive in the vastness of space, prioritizing the well-being of its citizens while playing a pivotal role in the broader interstellar community.
 

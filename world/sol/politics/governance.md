@@ -14,6 +14,8 @@ layout:
 
 # Governance
 
+## Overview
+
 The government of Sol is minimal. Its main responsibilities, beyond ensuring the well-being of its citizens, is enforcing the regulatory constraints of the New Dawn Accords within Sol, and providing oversight and authorization for the activities of its primary enterprise, Helios.
 
 Sol is a sister nation to GATA and was branched from GATA during the Reconstruction in order to set the stage for GATA's goal to make humanity multi-planetary. Sol's administrative branch is based in Gemini, however as a consequence of its Atlan origins, many of its government officials continue to live and work in Atla, coordinating closely with the First and Second Quorums in their mutual affairs.

@@ -14,6 +14,8 @@ layout:
 
 # The Basics
 
+## Overview
+
 The government of Sol is minimal. Its main responsibility, beyond the well-being of its citizens, is providing oversight and authorization for the activities of its primary enterprise, Helios.
 
 The Sol government's mandate notably includes securing the heliosphere against unlawful conduct, and its laws and infrastructure are strictly modelled on the New Dawn Accords.
