@@ -14,7 +14,7 @@ layout:
 
 # ▶️ Explore
 
-The **CODA Universe** is an experimental IP & storytelling project with an on-chain canon. It is purpose-built for generative media and web3, featuring a rich world with interrelated fragments of lore and themes that reflect and interrogate our world today. Made by humans. Presented by AI.
+The **CODA Universe** is an experimental IP & storytelling project with an on-chain canon. It is purpose-built for generative media and web3. Made by humans. Presented by AI.
 
 {% content-ref url="world/introduction/" %}
 [introduction](world/introduction/)
