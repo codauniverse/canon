@@ -18,11 +18,11 @@ layout:
 
 ## Overview
 
-In the intricate complex of [GATA](../)’s [government](../politics/governance.md), the Atlan Information Control is the decisive voice regarding the dissemination of information and technology. Its formation was crucial upon GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../law-and-order/tech-regulation.md) and potentially perilous novel innovations.
+In the intricate complex of [GATA](../)’s [government](../politics/governance.md), Atlan Information Control is the decisive voice in dissemination of information and technology. It was formed with GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../law-and-order/tech-regulation.md) and potentially perilous novel innovations.
 
 ***
 
-## **The Role of the AIC:**
+## **The Role of the AIC**
 
 1. **Legislation:** Interpreting the intricate maze of laws and regulations and ensuring the seamless and secure introduction of fresh technologies via ‘[paradigms](../politics/paradigms.md)’.
 2. **Adjudication:** Final arbiter for what is “True” as far as Atla’s [General Record](../politics/the-general-record.md) is concerned.
@@ -32,7 +32,7 @@ The AIC's influence extends beyond GATA’s borders. The AIC's [Border Patrol](.
 
 ***
 
-## **Leadership and Governance:**
+## **Leadership and Governance**
 
 One of the “[Three Pillars](../politics/governance.md#the-three-pillars)” of GATA’s government. The AIC is overseen by a council of 12 esteemed members who are nominated and elected by the [Second Quorum](../politics/governance.md#the-second-quorum).&#x20;
 

@@ -96,7 +96,7 @@ They are the main bridge between their district, the AIC, and Systema. They are 
 
 ### AIC Liaison
 
-Responsible for communication and coordination between the Second Quorum and the AIC.
+Responsible for communication and coordination between the First Quorum, Second Quorum, and the AIC.
 
 ### ALTAR Speaker
 
