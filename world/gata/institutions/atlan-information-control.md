@@ -44,6 +44,10 @@ When their service is done, council members formally nominate their replacement 
 
 The AIC's deliberations and decisions are procedurally guided by a chairperson who is chosen by the rest of the council. The role of chairperson is fluid and can change with a majority decision at any time.
 
+### AIC Liason
+
+Responsible for communication and coordination between the First Quorum, Second Quorum, and the AIC. The AIC Liason spends most of their time at the Second Quorum's assemblies representing the AIC's rulings, policies, and positions.
+
 ***
 
 ## **The AIC Courts**
