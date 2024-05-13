@@ -50,6 +50,8 @@ Council members typically serve for about ten years before grooming a replacemen
 
 The First Quorum holds significant influence, overseeing major policy decisions and the overarching direction of GATA, akin to a governing board.&#x20;
 
+Their mandate is to ensure the stability, security, and continuing incorporation of districts in the ever-expanding territory of Greater Atla. The First Quorum directs GATA's foreign policy, and GATA's ambassadors work directly under the First Quorum.
+
 They have the exclusive authority to direct [Angelis](../military-and-defense/angelis.md) and approve Angelis support requested by the Second Quorum.
 
 They work closely with the AIC [Chairperson](../institutions/atlan-information-control.md#leadership-and-governance), the Director of Systema, and ALTAR leadership.
@@ -60,7 +62,7 @@ The First Quorum is afforded a high degree to autonomy and secrecy in their deci
 
 Comprising elected representatives from each of GATA’s [districts](districts.md), the Second Quorum acts as a bridge between the diverse interests of GATA’s districts, and the [First Quorum](governance.md#the-first-quorum). The number of representatives per district varies, reflecting relative population sizes but not strictly proportional to it.
 
-The Second Quorum is pivotal in voicing and projecting the unique needs and interests of GATA’s districts. It is central to many aspects of GATA’s governance, from shaping common domestic policies, to oversight of [enterprise](../enterprise/), or promoting peace and order domestically.
+The Second Quorum is pivotal in voicing and projecting the unique needs and interests of GATA’s districts, homesteads, and unincorporated populaces. It is key to GATA’s distributed governance, from shaping common domestic policies, to oversight of [enterprise](../enterprise/), or promoting peace and order domestically.
 
 The Second Quorum can also approve bounties that are funded from System [Yield](yield.md) surplus, giving districts a unique way to incentivize certain outcomes, or encourage new enterprise.
 

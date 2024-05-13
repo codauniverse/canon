@@ -37,7 +37,7 @@ Concentrated in 72 districts of varying size, each with its own distinct technol
 
 GATA guarantees the needs of its citizens but imposes stringent laws, fostering a dichotomous existence of muted stability for its citizens.
 
-<figure><img src="../../.gitbook/assets/GATA-flag.png" alt="" width="375"><figcaption><p>GATA's flag.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GATA-flag.png" alt="" width="375"><figcaption><p>GATA's flag. A white Manna flower on a blue field.</p></figcaption></figure>
 
 ## Comparative Stats <a href="#id-49um86pm2s1h" id="id-49um86pm2s1h"></a>
 
