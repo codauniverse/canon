@@ -98,5 +98,5 @@ The concepts encapsulated by the world are reflective of the challenges and dile
 
 ## Creator
 
-The CODA Universe was created by dxxmsdxy, a pseudonym of one of the earliest builders and artists in crypto and ordinals. The CODA Universe is part of their continuing exploration of 'interpretable art'.
+The CODA Universe was created by [dxxmsdxy](http://dxxm.xyz), a pseudonym of one of the earliest builders and artists in crypto and ordinals. The CODA Universe is part of their continuing exploration of 'interpretable art'.
 
