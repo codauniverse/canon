@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Working within the CODA Universe is just as informed by the thematic undertones as it is by the canon lore. The universe reflects the full spectrum of human experience through the moods, attitudes, and structures that permeate the world.
+The CODA Universe is just as informed by its rich, thematic undertones as it is by its canonical lore. The universe reflects the full spectrum of human experience through the moods, attitudes, and structures that permeate the world.
 
 ## Major Themes
 
@@ -33,7 +33,7 @@ Working within the CODA Universe is just as informed by the thematic undertones 
 
 ## Minor Themes
 
-* Generational Legacy
+* Generational Legacies
 * Love vs Duty
 * The Nature of Consciousness
 * The Wonder of Existence
