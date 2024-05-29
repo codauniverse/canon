@@ -14,7 +14,7 @@ layout:
 
 # Luna
 
-### Overview
+## Overview
 
 Luna is a sprawling lunar city on the face of the moon near its southern pole. In addition to being the key hub for inter-district travel, it is a popular travel destination for people from all districts as it is the easiest travel key for an Atlan citizen to acquire.
 
