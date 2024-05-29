@@ -16,6 +16,8 @@ layout:
 
 <figure><img src="../../.gitbook/assets/statics-0s8fg.png" alt="" width="563"><figcaption></figcaption></figure>
 
+## Overview
+
 Static Field technology, or statics for short, uses ‘[static nodes](statics.md#static-nodes)’ to position and move objects, crafts, platforms, and structures within the Earth’s gravitational field, or ‘static field’ as it relates to static technology.
 
 ***

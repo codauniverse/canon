@@ -34,6 +34,7 @@
   * [Automata](world/science-and-tech/automata.md)
   * [Constructs](world/science-and-tech/constructs.md)
   * [Emitters](world/science-and-tech/emitters.md)
+  * [Scanners](world/science-and-tech/scanners.md)
   * [Grabbers](world/science-and-tech/grabbers.md)
   * [Fusion Energy](world/science-and-tech/fusion-energy.md)
   * [Renewable Energy](world/science-and-tech/renewable-energy.md)

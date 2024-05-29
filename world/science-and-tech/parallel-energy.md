@@ -14,6 +14,8 @@ layout:
 
 # Parallel Energy
 
+## Overview
+
 A new energy source poised to replace [fusion](fusion-energy.md) in [GATA](../gata/) and perhaps abroad. Parallel Energy is a GATA-developed technology, made possible by advances in material sciences pioneered by Atla’s [Research Corps](../gata/history/the-research-corps.md#overview) during the [Dark Decade](../history/the-dark-decade.md). The [AIC](../gata/institutions/atlan-information-control.md) has only recently approved several enterprises to commercialize parallel energy in several [districts](../gata/politics/districts.md) under highly-controlled conditions. The AIC has proposed that if it proves as safe and promising as it seems over the trial period, they will move to share the technology with partner states. This has caused some friction between GATA, [URSA](../ursa/) and [New Imperial Japan](../new-imperial-japan/), as the two other states have enjoyed a long-standing energy partnership which may be under threat.
 
 ***

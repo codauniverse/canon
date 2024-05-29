@@ -14,6 +14,8 @@ layout:
 
 # Grabbers
 
+## Overview
+
 Gauntlets that allow the user to ‘grab’ onto a point in space and either attract or repel themselves from it. A skilled [conduit](links.md#conduits) can anchor their grab to objects, even move objects at a distance. Grabbers can widely be found in use inside a [Gate](../gata/borders-and-travel/gates.md) yard.
 
 ***

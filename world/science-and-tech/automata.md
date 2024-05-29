@@ -14,6 +14,8 @@ layout:
 
 # Automata
 
+## Overview
+
 Automata are autonomous robots designed to perform simple tasks in the environment. They are essentially walking (or flying or rolling or burrowing) physical functions.
 
 Sometimes, automata are connected to a nearby local compute platform, including [System](../gata/politics/the-system.md) [endpoints](endpoints.md). They can look like inanimate parts of the environment, or mechanical insects and animals, and many things in between. Common automata include the [static gondolas](statics.md#gondolas) and [other moving platforms](statics.md#static-engines-and-motion) found across [GATA](../gata/), and the ‘bugs’ that maintain natural and artificial ecosystems.
