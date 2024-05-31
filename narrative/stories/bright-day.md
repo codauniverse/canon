@@ -32,4 +32,8 @@ During the commotion, Prince, their young son, slips away on his own, determined
 
 After crashing his static board, Prince meets a local girl named Newt who offers to show him to the oasis.
 
-Prince and Newt adventure to the oasis, and slowly learn about each other. Kyote performs to the city he loves. And in the streets, a protest begins to boil over as a deadly plot suddenly unfolds. Shortly after Kyote's performance a nuclear detonation devastates the city. Bright Mesa is left in ruins. Kyote and Soraya are killed. And from the oasis, beyond the city limits, Prince and Newt can only look on in horror.
+Prince and Newt adventure to the oasis, and slowly learn about each other. Kyote performs to the city he loves. And in the streets, a protest begins to boil over as a deadly plot suddenly unfolds.&#x20;
+
+As Kyote's performance comes to an end, a local boy at the oasis approaches Prince and Newt, suspecting that Prince is Kyote's son, due to his resemblance to the folk hero that Sovereign-aligned free folk consider to be a traitor. Newt notices that the boy has a weapon, spurring Prince and Newt to flee. After reaching safety, Prince confesses that Kyote is indeed his father, driving a wedge between the two youths.
+
+At that very moment, a nuclear detonation devastates the city. Bright Mesa is left in ruins. Kyote and Soraya are killed. And from the oasis, beyond the city limits, Prince and Newt can only look on in horror.
