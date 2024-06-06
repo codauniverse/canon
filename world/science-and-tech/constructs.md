@@ -38,6 +38,6 @@ The security provided by the hard-coded systems underpinning these constructs en
 
 Astral constructs differ significantly from their virtual counterparts. Instead of being housed on computational platforms, Astral constructs exist entirely within the minds of their users.&#x20;
 
-These constructs are made possible through the use of astral seeds, rare, illegal, and highly valuable components that enable direct and instantaneous connections between remote systems. This instantaneous connection is essential for astral users to synchronize, however because instantaneous communication cannot be filtered, it is in conflict with the Whole Privacy Protection Act (WPP).
+These constructs are made possible through the use of astral seeds; rare, illegal, and highly valuable components that enable direct and instantaneous connections between remote systems. This instantaneous connection is essential for astral users to synchronize, however because instantaneous communication cannot be filtered, it is incompatible with the Whole Privacy Protection Act (WPP).
 
 The manifestation of an astral construct is a continuous process, driven by the collective mental effort of its occupants. They offer an unparalleled level of full-sensory immersion and immediacy,  shaped directly by the thoughts and emotions of their users. This continuous and intentional manifestation produces an ethereal and ever-evolving environment, reflecting the collective psyche of its participants.
