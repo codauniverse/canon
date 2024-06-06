@@ -204,6 +204,7 @@
   * [👤 Tamaki Rei](narrative/cast/tamaki-rei.md)
   * [👤 Remi Maeda](narrative/cast/remi-maeda.md)
 * [📚 Stories](narrative/stories/README.md)
+  * [📘 CODA Saga](narrative/stories/coda-saga.md)
   * [📘 Bright Day](narrative/stories/bright-day.md)
   * [📘 SOULJOURNER](narrative/stories/souljourner.md)
   * [📘 1\_NIGHT](narrative/stories/1\_night.md)
