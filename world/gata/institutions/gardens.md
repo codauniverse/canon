@@ -62,4 +62,4 @@ Growing up in the Gardens profoundly influences the beliefs, behaviors, and futu
 
 The emphasis placed on both education and practical skills is intended to equip them with the tools needed to navigate life in GATA, but with that said, every garden is different; some have reputations for more strict regimes, and none are without their own shortcomings and scandals, meaning that the Garden experience is not a universal one.
 
-More often than not, children who grow up in the Gardens go on to be independent operators working hands-on contracts across the district. Many children from the Gardens go on to become influential members of society, carrying with them the experiences of their youth.
+More often than not, children who grow up in the Gardens go on to be productive independent operators working hands-on contracts across the district. It's not uncommon for children from the Gardens go on to become influential members of society, especially those recruited into the Atlan Academy System, carrying with them the experiences of their youth.
