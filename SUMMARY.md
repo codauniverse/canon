@@ -88,6 +88,7 @@
     * [Atlan Information Control](world/gata/institutions/atlan-information-control.md)
     * [ALTAR](world/gata/institutions/altar.md)
     * [The Atlan Academy System](world/gata/institutions/the-atlan-academy-system.md)
+    * [Gardens](world/gata/institutions/gardens.md)
   * [💼 Enterprise](world/gata/enterprise/README.md)
     * [Systema](world/gata/enterprise/systema.md)
     * [Operators](world/gata/enterprise/operators.md)
