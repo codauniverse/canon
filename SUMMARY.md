@@ -65,6 +65,7 @@
     * [Greater Atla](world/gata/politics/greater-atla.md)
     * [The System](world/gata/politics/the-system.md)
     * [Districts](world/gata/politics/districts.md)
+    * [Money](world/gata/politics/money.md)
     * [Keys](world/gata/politics/keys.md)
     * [Paradigms](world/gata/politics/paradigms.md)
     * [Yield](world/gata/politics/yield.md)
