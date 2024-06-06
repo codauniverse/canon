@@ -24,11 +24,11 @@ Slates are portable, personal interfaces featuring large displays. They are ofte
 
 ## Types of Slates
 
-#### Glass Slates
+### Glass Slates
 
 Translucent displays that can read data sticks and interface with local terminals. They also have some limited on-board LMNL compute. Glass slates are very common in enterprise and institutional environments where information is constantly in flux, and secured through private endpoints.
 
-#### Paper Slates
+### Paper Slates
 
 These paper-thin displays (colloquially referred to simply as "paper") are one of the most common varieties of slate. The ‘paper’ material is not really paper, but a highly resilient [hard-code](hard-code.md) nanostructure with a paper-like texture. Usually, one paper slate is stacked with multiple regular sheets of storage “paper” that can be explored via the paper slate’s interface.
 

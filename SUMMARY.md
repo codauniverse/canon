@@ -72,6 +72,7 @@
     * [Homesteads](world/gata/politics/homesteads.md)
     * [Gray Zones](world/gata/politics/gray-zones.md)
     * [The General Record](world/gata/politics/the-general-record.md)
+    * [Whole Privacy Protection (WPP)](world/gata/politics/whole-privacy-protection-wpp.md)
   * [⚔️ Military & Defense](world/gata/military-and-defense/README.md)
     * [The Basics](world/gata/military-and-defense/the-basics.md)
     * [Existence Doctrine](world/gata/military-and-defense/existence-doctrine.md)
