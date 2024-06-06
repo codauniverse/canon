@@ -38,3 +38,7 @@ The Atlan Academy System is divided into several key components:
 * **Advanced Facilities**: The academy boasts state-of-the-art facilities, including research labs, libraries, and technological resources, enabling students to engage in cutting-edge research and learning.
 * **Holistic Development**: The curriculum emphasizes not only academic excellence but also physical, emotional, and social development. Students participate in various extracurricular activities, sports, and community service.
 * **Integration with The System**: The academy is closely integrated with The System, GATA's automated logistical infrastructure, allowing their academic performance to seamlessly unlock prestigious keys and opportunities.
+
+## Ongoing Developments
+
+Currently, a new draft of the universal curriculum incorporating link use is being debated in the Second Quorum in response to increasing demand for the links to be paradigmed across all of Greater Atla.
