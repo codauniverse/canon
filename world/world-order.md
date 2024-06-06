@@ -46,7 +46,3 @@ layout:
 [sol](sol/)
 {% endcontent-ref %}
 
-***
-
-## Social Movements
-
