@@ -30,4 +30,4 @@ When travel is required for appropriate reasons, citizens can be assigned tempor
 
 Citizens possess keys to their home district, but some citizens of GATA don’t have home districts, or have been lawfully exiled, and so are not permitted entry into any districts.
 
-Gate Keys don’t only grant citizens access to a district, but also allow them to collect their share of the Yield in the form of CRED, System amenities such as housing, and medical care.
+Gate Keys don’t only grant citizens access to a district, but also allow them to collect their share of the Yield in the form of credits, System amenities such as housing, and medical care.
