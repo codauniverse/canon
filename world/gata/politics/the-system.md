@@ -28,7 +28,7 @@ The System’s concerns are sometimes referred to as the 3 R’s: Resources, Ris
 
 ### Technical Description
 
-Under the hood, The System is an advanced, distributed state machine operating on a network of [hardcode](../../science-and-tech/hard-code.md) nodes and clients designed by [Systema](../enterprise/systema.md) using the [Asimov-complete](../../science-and-tech/asimovian-architecture.md) programming language, [LMNL](../../science-and-tech/hard-code.md#lmnl). [System Nodes](the-system.md#system-nodes) are large, facility-sized computers that house extremely secure, purpose-built [COGs](../../science-and-tech/cogs.md), capable of managing and enforcing the operation of GATA.
+Under the hood, The System is an advanced, distributed state machine operating on a network of [hardcode](../../science-and-tech/hard-code.md) nodes and clients designed by [Systema](../enterprise/systema.md) using the [Asimov-complete](../../science-and-tech/asimovian-architecture.md) programming language, [LMNL](../../science-and-tech/hard-code.md#lmnl). [System Nodes](the-system.md#system-nodes) are large, facility-sized computers that house extremely secure, purpose-built [COGs](../../science-and-tech/cogs.md), capable of managing and enforcing the operation of GATA. Its architecture draws inspiration in part from Old World decentralized ledgers such as Bitcoin and Ethereum 8.0.
 
 Most interaction with The System is done through the [System Terminals](the-system.md#system-terminals) that can be found throughout GATA's [districts](districts.md).
 

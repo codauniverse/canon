@@ -44,7 +44,7 @@ As more high-ranking Secret Access Program personnel were brought into the fleet
 
 ### Current Attitudes
 
-Officially, the existence of the Found Objects is denied by [GATA](../politics/the-basics.md). Any mention of the Found Objects or related research has long since been scrubbed from [the General Record](../politics/the-general-record.md).
+Officially, the existence of the Found Objects is denied by [GATA](broken-reference). Any mention of the Found Objects or related research has long since been scrubbed from [the General Record](../politics/the-general-record.md).
 
 Despite many first-hand and historical accounts in citizen publications claiming that multiple Found Objects were visibly seen by thousands of Atla’s citizens, and that ALTAR was ostensibly created to safeguard them, many of GATA's citizens either dismiss the existence of Found Objects as myth, or shrug in indifference.
 

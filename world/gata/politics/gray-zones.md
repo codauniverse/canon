@@ -14,7 +14,7 @@ layout:
 
 # Gray Zones
 
-<figure><img src="../../../.gitbook/assets/greyzone.png" alt="" width="563"><figcaption><p>A Gray Zone outside of a district's walls.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/greyzone.png" alt=""><figcaption><p>A Gray Zone outside of a district's walls.</p></figcaption></figure>
 
 ## Overview
 
