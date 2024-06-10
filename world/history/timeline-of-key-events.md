@@ -60,7 +60,7 @@ layout:
 * [Bright Mesa's destruction](../gata/history/bright-mesa.md) in a nuclear attack attributed to The Cure.
 * New Imperial Japan signs the New Dawn Accords.
 * Greenland Weather Engine is completed.
-* Aryabat unveils their miniaturized Asimov-complete link interfaces.
+* Aryabat unveils their miniaturized Asimov-complete [link interfaces](../science-and-tech/links.md).
 * Links are paradigmed in select districts across GATA.
 * The New Renaissance, a global resurgence in arts and culture.
 * The first annual Atlan Innovation Expo.
@@ -70,7 +70,7 @@ layout:
 * Rumored disappearance of the 'Ghost Fleet', 10 of GATA's automated ships vanishing, along with their crews and classified cargo.
 * Quantum Seeds breakthrough, allowing for instantaneous communication across vast distances using entangled ‘seeds’.
 
-### 🔵 2125 AD (73 New Dawn) - Present Day <a href="#id-43ixf5yvsk9u" id="id-43ixf5yvsk9u"></a>
+### 🔵 2125 AD: Present Day <a href="#id-43ixf5yvsk9u" id="id-43ixf5yvsk9u"></a>
 
 * The current sociopolitical landscape is characterized by a delicate balance between control and chaos, with GATA's dominance being continuously challenged by the Free Territories and other factions.
 * Continual advancements in technology, health, and military capabilities.
