@@ -22,7 +22,7 @@ layout:
 
 ## 🔵 The CODA Universe
 
-The CODA Universe is an expansive story-world set 100 years in our future; a setting for new media and stories featuring an open-ended cast, a deepening lore, and a timeline spanning hundreds of years.
+The CODA Universe is an expansive story-world set 100 years in our future; a setting for new media and stories featuring an open-ended cast, an ever-deepening lore, and a timeline spanning hundreds of years.
 
 In the process of its creation, the universe has been infused with themes exploring the risks and rewards of innovation, the eternal tension between order and chaos, the power of true connection, the unanswered question of the human destiny, and many more.
 
@@ -34,7 +34,7 @@ The foundational canon of the CODA Universe is stored forever on the Bitcoin blo
 
 **The CODA Saga** is an epic tale set in the CODA Universe.
 
-It begins in the shadowy corners of a nascent underground sync rave scene, where skilled conduits called sync jockeys guide the crowd's minds in hallucinatory trances using illegal technology.
+It begins in the shadowy corners of a nascent underground sync rave scene, where skilled conduits called sync jockeys guide the crowd's minds in hallucinatory trances using illegally modified technologies.
 
 There, submerged in the haze and pulsing bass frequencies, a mysterious piece of experimental hardware is debuted, setting in motion a chain of events that will change the world forever.
 
@@ -64,7 +64,7 @@ Project CODA members also govern the CODA Creation Fund, a community treasury fo
 
 The CODA Universe was conceived by dxxmsdxy in January, 2021.
 
-First, the CODA Saga was written; a character-centered epic that charts the course of the world's central conflicts and themes, starting in the fictional year of 2125. This saga became the scaffolding for a rich and expansive world that was developed over the course of several years.
+First, the outline for the CODA Saga was written; a character-centered epic that charts the course of the world's central conflicts and themes, starting in the fictional year of 2125. This saga became the scaffolding for a rich and expansive world that was developed over the course of several years.
 
 The fundamental building blocks of the CODA Universe are its 100+ characters and its hyper-linked fragments of lore, which are inscribed permanently on-chain, and which serve as training and context for generative applications.
 
@@ -88,7 +88,7 @@ The fundamental building blocks of the CODA Universe are its 100+ characters and
 >
 > _And at the edges, in the underground, something new is taking form..._
 
-The CODA Universe is a super-collision of possible futures, both strange and familiar. Neither a utopia or a dystopia. It is a continuation of humanity's tenacious walk along a precarious tightrope anchored to some unknown destination beyond our visible horizon.&#x20;
+The CODA Universe is a super-collision of possible futures, both strange and familiar. Neither a utopia nor a dystopia. It is a continuation of humanity's tenacious walk along a precarious tightrope anchored to some unknown destination beyond our visible horizon.
 
 The concepts encapsulated by the world are reflective of the challenges and dilemmas we face in our present and near-term future. It is meant to serve as an eschatological time capsule of projections about the human destiny.
 
