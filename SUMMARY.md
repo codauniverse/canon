@@ -207,6 +207,7 @@
   * [👤 Tamaki Rei](narrative/cast/tamaki-rei.md)
   * [👤 Remi Maeda](narrative/cast/remi-maeda.md)
   * [👤 Viten Marsh](narrative/cast/viten-marsh.md)
+  * [👤 Melody Harper](narrative/cast/melody-harper.md)
 * [📚 Stories](narrative/stories/README.md)
   * [📘 CODA Saga](narrative/stories/coda-saga.md)
   * [📘 Bright Day](narrative/stories/bright-day.md)
