@@ -20,25 +20,25 @@ layout:
 
 ## **Appearance**&#x20;
 
-Height: 5'8"
+**Height:** 5'8"
 
-Weight: 130 lbs
+**Weight:** 130 lbs
 
-Hair Color: Black
+**Hair Color:** Black
 
-Hair Style: Natural braided hair, usually pulled up into a do
+**Hair Style:** Natural braided hair, usually pulled up into a do
 
-Eye Color: Brown
+**Eye Color:** Brown
 
-Skin Type: Dark
+**Skin Type:** Dark
 
-Face Shape: Oval
+**Face Shape:** Oval
 
-Body Type: Slender, with a slight athletic build
+**Body Type:** Slender, with a slight athletic build
 
-Accessories: Always seen with a slate and a link on her temple
+**Accessories:** Always seen with a slate and a link on her temple
 
-Description: Poised, with an air of intensity. Lost in her own head. Her eyes betray the passing of unspoken thoughts. Dresses in practical, yet elegant attire, favoring dark colors. Rejuvenations keep her looking youthful on the outside, but she caries an unseen weight with her.
+**Description:** Poised, with an air of intensity. Lost in her own head. Her eyes betray the passing of unspoken thoughts. Dresses in practical, yet elegant attire, favoring dark colors. Rejuvenations keep her looking youthful on the outside, but she caries an unseen weight with her.
 
 <figure><img src="../../.gitbook/assets/soraya-splash.png" alt="" width="563"><figcaption><p>Soraya deep in thought in her Nairobi lab.</p></figcaption></figure>
 
