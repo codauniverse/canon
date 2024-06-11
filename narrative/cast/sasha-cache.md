@@ -45,7 +45,7 @@ Despite her success, Sasha found the barriers of class in GATA's society difficu
 
 Her ambition, however, came with a cost. The high-stakes game of social climbing was a constant balancing act, and Sasha had to carefully manage her image and connections. She indulged in the hedonistic pleasures of elite parties, often losing herself in the wild revelries that served as both a distraction and a reminder of what she still had to gain.
 
-With the growing popularity of sync raves in the underground scene across GATA, Sasha has taken note of the trend, believing that brining the best of these sync raves to Atla's high society could be her way in.
+With the growing popularity of sync raves in the underground scene across GATA, Sasha has taken note of the trend, believing that her experience in the gutter will allow her to bring the best of these sync raves to Atla's high society, and secure her foothold in Atla.
 
 ## **Motivations**
 
