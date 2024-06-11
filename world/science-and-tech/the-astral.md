@@ -16,13 +16,15 @@ layout:
 
 ## **Overview**
 
-The Astral is a novel kind of virtual construct that exists entirely in the minds of the users who are connected to it. Users access the Astral using modified sync hubs with an astral seed module that is entangled with other astral seeds.
+The Astral is a novel kind of virtual construct that exists entirely in the minds of the users who are connected to it. Users access the Astral using [links](links.md) and modified [sync hubs](sync-hubs.md) with an astral seed module that is entangled with its sibling astral seeds, allowing instantaneous synchronization between participants.
 
-This modification of sync hubs is illegal and connecting to the Astral is a Class 1 crime. However, this has not prevented a growing subculture of Astral users from taking root, particularly among sleepers who already spend most of their lives within virtual constructs.
+This modification of sync hubs is illegal and connecting to the Astral is a Class 1 crime. However, this has not prevented a growing subculture of Astral users from taking root, particularly among [sleepers](../gata/people-and-culture/sleepers.md) who already spend most of their lives within [virtual constructs](constructs.md#virtual-constructs).
+
+Sleepers and others usually learn about the Astral and gain access to their secretive networks via illegal offline constructs that have been known to circulate around [dormitory communities](../gata/people-and-culture/sleepers.md#dormitories), leading to increasing scrutiny of dormitories by [the AIC](../gata/institutions/atlan-information-control.md).
 
 ## **Astral Seeds**
 
-Astral seeds are entangled quantum seeds that allow Astral users to interact directly and instantly with other minds on the network over any distance.
+Astral seeds are entangled [quantum seeds](quantum-seeds.md) that allow Astral users to interact directly and instantly with other minds on the network over any distance.
 
 Seeds that are entangled together in the activation process are called cohorts. There are only ten thousand Astral seeds in the first cohort, and they are exceedingly rare. It’s estimated that there are over fifty entangled cohorts of astral seeds connected to the Astral, with the largest consisting of over two million seeds.
 

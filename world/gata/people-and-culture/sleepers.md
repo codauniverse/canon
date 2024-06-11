@@ -20,6 +20,8 @@ Sleepers are individuals who, for various reasons, spend the majority or entiret
 
 Sleepers are rarely seen but their presence is nonetheless felt in subtle ways across GATA, from their influence in politics and enterprise, to the ubiquitous dormitories that house many.
 
+In recent years, some sleepers and dormitories have fallen under scrutiny from the AIC as the illegal Astral seeds continue to spread on the black market. Astral use, while still not common among the wider population, is particularly prevalent among the sleeper community. It is believed that recruitment into private Astral networks is being conducted in offline constructs and dormitories are increasingly being monitored for hosting unregulated constructs.
+
 ***
 
 ## Dormitories
