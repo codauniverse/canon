@@ -24,6 +24,10 @@ This limitation drove the development of [Asimovian computers](asimovian-archite
 
 ## **AI in the Old World**
 
-Even before [the Dark Decade](../history/the-dark-decade.md), AI had remained a contentious issue as it had enabled a ubiquitous form of social spying and a market for private data, resulting in numerous societal clashes and scandals.
+Even before [the Dark Decade](../history/the-dark-decade.md), despite its many benefits, AI had remained a contentious issue as it had precipitated an acceleration in economic and political volatility, ubiquitous form of social spying, and an autonomous market for private data, resulting in numerous societal clashes and scandals.&#x20;
 
-While for many in the [Old World](../history/the-old-world.md), a resigned acceptance had set in, others protested and suffered from blacklisting and criminalization in many areas of society. The popular sentiment among [Atla](../gata/key-locations/atla.md)’s founding citizens was that AI, together with a malignant form of short-sighted competition, had created the conditions for [The Crash](../history/the-crash.md).
+While for many in the [Old World](../history/the-old-world.md), a resigned acceptance had set in, others protested and suffered from blacklisting and criminalization in many areas of society with zero transparency into the processes behind these actions. The popular sentiment among [Atla](../gata/key-locations/atla.md)’s founding citizens was that AI, together with a malignant form of short-sighted competition, had created the conditions for [The Crash](../history/the-crash.md).
+
+### AGI in the Old World
+
+While AGI had proven itself to be more reliable and inherently ethical than simply AI agents, its multimodal and cross-domain cognition made auditing or tuning its decision making nearly impossible. AGI's wholistic approach to problem solving made its implementation in democracies and private enterprise untenable for administrators and politicians beholden to populist anti-AI movements.
