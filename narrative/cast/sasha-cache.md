@@ -18,7 +18,7 @@ layout:
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 32</p><p>Occupation: Social Climber, Taste-Maker</p><p>First Impression: Effortlessly chic, with an air of cool confidence</p><p>Self-Image: Deserving of the best</p><p>True Self: A fierce survivor with a wild streak<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: April 17, 2093</p><p>Location: London (GATA)</p><p>Citizenship: GATA</p><p>Ethnicity: English/African American</p><p>Born: Dagenham, England</p></td></tr></tbody></table>
 
-**Appearance**
+## **Appearance**
 
 * **Height:** 5'7"
 * **Weight:** 130 lbs
