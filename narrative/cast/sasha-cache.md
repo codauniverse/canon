@@ -116,6 +116,8 @@ With the growing popularity of sync raves in the underground scene across GATA, 
 
 > "In this world, you're either the predator or the prey." - Sasha
 
+> "I had to scratch and claw my way here. I’ll be damned if I let you drag me back down." - Sasha
+
 > "They see the glamour, the success. They don’t see the fight, the climb." - Sasha
 
 > "The keys to Atla are the keys to my chains." - Sasha
