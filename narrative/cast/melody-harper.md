@@ -31,6 +31,8 @@ layout:
 * **Accessories:** Empatherapy link headset, full-body sleepsuit
 * **Description:** Kind and serene, Melody's presence both in the Astral and the real world was defined by the calming peace that radiated from her. In life, her frailty was evident, but in the astral, she was a powerful and graceful force of patience and will.
 
+<figure><img src="../../.gitbook/assets/melody-83235.png" alt="" width="563"><figcaption><p>Melody manifesting a construct in the astral.</p></figcaption></figure>
+
 ## **Bio**
 
 Melody, born in Cascadia, a Free Territory, came into the world afflicted with a congenital genetic disease that was not treatable by Manna-based medicines. By the age of three, Melody had begun suffering from increasingly violent spasms and seizures, driving her mother, a GATA citizen, to seek treatment for her daughter in GATA's LA district.
@@ -46,6 +48,8 @@ In short order Melody became one of the earliest power users of the Astral, fina
 It was only a matter of time before her disease reached her brainstem. Melody succumbed to complications from her condition, and the impact of her loss was deeply felt across the Astral community. A funeral was held in the astral in her honor, attended by many friends and followers.
 
 Some claim to still see her in the astral on occasion, a spectral figure on the balcony of the Crystal Tower, but whenever they investigate, she is nowhere to be found.
+
+<figure><img src="../../.gitbook/assets/melody-splash.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Motivations**
 

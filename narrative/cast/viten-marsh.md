@@ -33,6 +33,8 @@ layout:
 * Accessories: Polished chrome link accessories on his shaved bald head
 * Description: A sharp, angular face with piercing blue eyes that seem to look right through you. His bald head gleams, accentuated by the chrome link accessories he never removes. His lean frame and rejuvenated skin bely his true age of 58.
 
+<figure><img src="../../.gitbook/assets/viten-splash.png" alt="" width="563"><figcaption><p>Viten watching silently from above.</p></figcaption></figure>
+
 ## **Bio**
 
 Viten was born in New York during the early years of the Reconstruction Era. His early life was shaped by the aftermath of the Dark Decade and the burgeoning promise of the New Dawn. Showing a remarkable aptitude for science and technology from a young age, Viten excelled in his studies at New York's Garden school and before the close of his first year, he was recruited into the capitol's Atlan Academy.&#x20;
@@ -48,6 +50,8 @@ Soraya's subsequent relationship with the unserious folk musician Kyote dealt a 
 In response, Viten moved Phasia’s operations to Atla, rebranding the enterprise as Relik and shifting focus towards partnerships with other other enterprises licensing advanced technologies. Today, Relik is involved in a wide range of research and commercial enterprises, as well as significant government contracts with institutions like the Second Quorum, Angelis, and Collections. In recent years, Viten has been most enwrapped in the advancement of ethical and compliant human cloning technologies in partnership with Akicel Technologies.
 
 Viten remains a towering figure in the scientific community, both feared and respected for his intelligence and uncompromising drive.
+
+<figure><img src="../../.gitbook/assets/viten-anime.png" alt="" width="563"><figcaption><p>Viten's piercing gaze.</p></figcaption></figure>
 
 ## **Motivations**
 
