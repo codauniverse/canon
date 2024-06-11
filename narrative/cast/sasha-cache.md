@@ -22,13 +22,13 @@ layout:
 
 * **Height:** 5'7"
 * **Weight:** 130 lbs
-* **Hair Color:** Jet black
-* **Hair Style:** Sleek, long, often styled in glamorous waves
+* **Hair Color:** Dyed power pink with black roots
+* **Hair Style:** Sleek, asymmetrical bob, shaved on one side, with bangs
 * **Eye Color:** Emerald green
-* **Skin Type:** Fair
-* **Face Shape:** Oval
-* **Body Type:** Slim and athletic
-* **Accessories:** Often seen with high-tech jewelry that tracks social metrics
+* **Skin Type:** Tan
+* **Face Shape:** Diamond
+* **Body Type:** Shapely and athletic
+* **Accessories:** Often seen with high-tech jewelry and minimalistic gear
 * **Description:** Striking, with a poised and polished look. Her sharp features are always impeccably made up, and she wears the latest fashion trends, exuding an aura of sophistication. Her presence commands attention in any room, and her emerald eyes are  both inviting and calculating.
 
 <figure><img src="../../.gitbook/assets/sasha-splash.png" alt="" width="563"><figcaption><p>Sasha, stunning as always in her latest signature look.</p></figcaption></figure>
