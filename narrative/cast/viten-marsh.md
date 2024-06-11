@@ -39,7 +39,7 @@ layout:
 
 Viten was born in New York during the early years of the Reconstruction Era. His early life was shaped by the aftermath of the Dark Decade and the burgeoning promise of the New Dawn. Showing a remarkable aptitude for science and technology from a young age, Viten excelled in his studies at New York's Garden school and before the close of his first year, he was recruited into the capitol's Atlan Academy.&#x20;
 
-There, his studies continued without constraint, and before long he had caught the eye of the Research Corps. His groundbreaking work in stabilizing smaller static nodes and static engines garnered him significant acclaim. Upon graduating from the High Academy at the age of 15, Viten was secretly invited to join an ALTAR research project.
+There, his studies continued without constraint, and before long he had caught the eye of the Research Corps. His groundbreaking work in stabilizing smaller static nodes and static engines garnered him significant acclaim. Upon graduating from the High Academy at the age of 15, Viten was invited to join ALTAR's secret INSIGHT research project, dedicated to the study of the fabled Found Objects.
 
 His years in this secretive ALTAR program transformed Viten from a researcher into a shrewd negotiator and far-seeing operator. When he resurfaced after his time with ALTAR, he co-founded Phasia Industries alongside Soraya Mata and Remi Tranche in the Greater Toronto district, chosen for its permissive paradigm.
 
