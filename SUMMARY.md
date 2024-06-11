@@ -205,6 +205,7 @@
   * [👤 Franky Wu](narrative/cast/franky-wu.md)
   * [👤 Tamaki Rei](narrative/cast/tamaki-rei.md)
   * [👤 Remi Maeda](narrative/cast/remi-maeda.md)
+  * [👤 Viten Marsh](narrative/cast/viten-marsh.md)
 * [📚 Stories](narrative/stories/README.md)
   * [📘 CODA Saga](narrative/stories/coda-saga.md)
   * [📘 Bright Day](narrative/stories/bright-day.md)
