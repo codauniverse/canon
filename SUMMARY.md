@@ -103,7 +103,7 @@
     * [Demographics](world/gata/people-and-culture/demographics.md)
     * [Children of Atla](world/gata/people-and-culture/children-of-atla.md)
     * [Work](world/gata/people-and-culture/work.md)
-    * [Expression](world/gata/people-and-culture/expression.md)
+    * [Expression](world/gata/people-and-culture/recreation.md)
     * [Sports](world/gata/people-and-culture/sports.md)
     * [Education](world/gata/people-and-culture/education.md)
   * [🕳️ Underground Scene](world/gata/underground-scene/README.md)
