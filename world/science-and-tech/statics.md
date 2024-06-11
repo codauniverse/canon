@@ -14,7 +14,7 @@ layout:
 
 # Statics
 
-<figure><img src="../../.gitbook/assets/statics-0s8fg.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/statics-0s8fg.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
@@ -44,7 +44,9 @@ Static engines continuously modulate the charge applied to three or more nodes t
 
 With modern, miniaturized static engines, extremely fast and expressive movement can be achieved, as many have discovered with the recent rise in the popularity of [darts](statics.md#dart-boards)–static boards that have become central to an extreme [sport culture](../gata/people-and-culture/sports.md) that is intertwined with the [counterculture scene](../gata/underground-scene/).
 
-Prominent statics manufacturers include Pegasus, Nimbus, and Gibraltar
+Smaller static vehicles are reliant on compact batteries to power their static engines, while larger ships and platforms employ fusion reactors to power statics. Meanwhile, New Imperial Japan, URSA and various Free Territories utilize much smaller fusion cells, giving them advantages in certain military and industrial applications where their statics can operate indefinitely.
+
+Prominent statics manufacturers include Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU).
 
 #### Ships
 
@@ -62,6 +64,6 @@ Moving extensions of urban architecture. Gondolas are typically small static pla
 
 Highly maneuverable personal conveyance devices with static engines. Popular among the youth, and sometimes finely tuned for performance.
 
-#### Foundations
+#### Platforms
 
-Large static platforms that can serve as foundations for mobile architecture, industrial transport, or as mobile staging platforms for operations.
+Large static platforms that can serve as platforms for mobile architecture, industrial transport, or as mobile staging platforms for operations. Platforms are used to transport System Yield.

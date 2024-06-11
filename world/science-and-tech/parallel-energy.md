@@ -16,7 +16,9 @@ layout:
 
 ## Overview
 
-A new energy source poised to replace [fusion](fusion-energy.md) in [GATA](../gata/) and perhaps abroad. Parallel Energy is a GATA-developed technology, made possible by advances in material sciences pioneered by Atla’s [Research Corps](../gata/history/the-research-corps.md#overview) during the [Dark Decade](../history/the-dark-decade.md). The [AIC](../gata/institutions/atlan-information-control.md) has only recently approved several enterprises to commercialize parallel energy in several [districts](../gata/politics/districts.md) under highly-controlled conditions. The AIC has proposed that if it proves as safe and promising as it seems over the trial period, they will move to share the technology with partner states. This has caused some friction between GATA, [URSA](../ursa/) and [New Imperial Japan](../new-imperial-japan/), as the two other states have enjoyed a long-standing energy partnership which may be under threat.
+After years of perceived stagnation in GATA's energy production capabilities, parallel energy has recently gained attention as a new energy source poised to replace [fusion](fusion-energy.md) in [GATA](../gata/) and perhaps abroad. Parallel Energy is a GATA-developed technology, made possible by advances in material sciences first pioneered by Atla’s [Research Corps](../gata/history/the-research-corps.md#overview) during the [Dark Decade](../history/the-dark-decade.md). The [AIC](../gata/institutions/atlan-information-control.md) has only recently approved several enterprises to commercialize parallel energy in a few [districts](../gata/politics/districts.md) under highly-controlled conditions.
+
+The AIC has proposed that if it proves as safe and promising as it seems over the trial period, they will move to share the technology with partner states. This has caused some friction between GATA, [URSA](../ursa/) and [New Imperial Japan](../new-imperial-japan/), as these two other states have enjoyed a long-standing energy partnership which may be under threat.
 
 ***
 
@@ -32,14 +34,14 @@ The power available to the reactor at any given time is exponentially higher tha
 
 The energy can be spent almost instantaneously like a supercapacitor, making it perfect for many industrial and military applications. Because energy is stored across parallel universes, parallel reactors are very compact for their output.
 
-There is not much room for further miniaturization using contemporary technology, so more power will always mean bigger reactors until some new method is discovered (or revealed by [ALTAR](../gata/institutions/altar.md) if it already exists).
+There is not much room for further miniaturization using any other known technology, so generating more power will always require bigger reactors until some new method is discovered (or revealed by [ALTAR](../gata/institutions/altar.md) if it already exists).
 
 ***
 
 ## **Dangers & Time Distortion**
 
-Although it has only happened under testing conditions, when pushed several orders of magnitude beyond safety thresholds, parallel energy reactors become unstable, resulting in catastrophic failure called "thread collapse".
+Although it has only happened under testing conditions, when pushed several orders of magnitude beyond safety thresholds, parallel energy reactors can become unstable, resulting in catastrophic failure called "thread collapse".
 
-The local effects felt proximately during thread collapse, even at purportedly ‘safe’ distances, are said to be quite disorienting, with multiple first hand accounts reporting significant distortions in the felt passage of time; namely, an uncanny and uncomfortable experience that subjective time slows to a crawl for minutes or hours. This is understood to be the result of an increase in the local irreducibility as multiple timelines recohere by brute force.
+The local effects felt proximately during thread collapse, even at purportedly ‘safe’ distances, are said to be severely disorienting, with multiple first hand accounts reporting significant distortions in the felt passage of time; namely, an uncanny and uncomfortable experience that subjective time slows to a crawl for minutes or hours. This is understood to be the result of an increase in the local irreducibility as multiple timelines recohere by brute force.
 
-Due to their psychological side effects, the use of these time distortion effects in offensive weapons has been hotly debated. Some even hypothesize that thread collapse could be causing unseen effects in parallel universes. However, [Angelis](../gata/military-and-defense/angelis.md) has begun employing portable distortion charges as tactical equipment, giving a breaching team or operative more time to observe and react.
+Due to their psychological side effects, the use of these time distortion effects in offensive weapons has been proposed by some. Others hypothesize that thread collapse could be causing unseen effects in parallel universes. However, [Angelis](../gata/military-and-defense/angelis.md) with its "special paradigm" has reportedly begun employing portable distortion charges as tactical equipment, giving a breaching team or operative more time to observe and react.

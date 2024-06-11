@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Recreation
+# Expression
 
-### **Music**
+## **Music**
 
 Musical trends and tastes are diverse and plentiful across Greater Atla, reflecting the kaleidoscope of people and cultures enfolded within GATA.
 
@@ -26,7 +26,9 @@ The unique affordances of modern music technology are on full display in many of
 
 These techniques are taken to their extreme in the underground music scene at sync raves where sync jockeys project their mind to an entire crowd with the use of links and an illegally modified sync hub.
 
-### **Senseart**
+***
+
+## **Senseart**
 
 Link-based art and entertainment. Senseart refers to media, objects and installations imbued with hard-coded carriers for impressions and sensations. The structure of the senseart causes very slight physical modulations of the electrical field connecting the link and the object of attention, allowing a focused mind's brainwaves to be entrained in an engineered fashion.
 
@@ -38,7 +40,7 @@ Senseart is generally not produced using LMNL, instead often opting for hand-com
 
 ***
 
-### **Style & Cosmetics**
+## **Style & Cosmetics**
 
 Hair coloring and styling can be quickly and effortlessly applied with autocombs. Every autocomb is hard-coded with
 
