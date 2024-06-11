@@ -67,6 +67,8 @@ Some claim to still see her in the astral on occasion, a spectral figure on the 
 * Despite her physical limitations, she had a keen intellect and a deep understanding of her own mind.
 * Melody's funeral in the Astral was the largest single gathering in the Astral to date.
 
+<figure><img src="../../.gitbook/assets/melody-anime.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ## **Personality & Quirks**
 
 * Empathetic and nurturing, always ready to help new travelers.
