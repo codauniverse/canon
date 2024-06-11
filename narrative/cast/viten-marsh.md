@@ -106,7 +106,7 @@ Viten remains a towering figure in the scientific community, both feared and res
 | Defense      | 7    |
 | Dexterity    | 7    |
 | Intelligence | 10   |
-| Wisdom       | 8    |
+| Wisdom       | 7    |
 | Charisma     | 8    |
 
 ## **Quotes**&#x20;
