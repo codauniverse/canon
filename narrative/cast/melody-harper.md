@@ -16,7 +16,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/melody-astral.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: Deceased at 29</p><p>Occupation: Astral power user</p><p>First Impression: Graceful and awe-inspiring</p><p>Self-Image: A scout into the human soul</p><p>True Self: The first angel<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: October 12, 2095</p><p>Location: Occupied LA, Greater Atlantic Territorial Alliance (GATA)</p><p>Citizenship: GATA</p><p>Ethnicity: American</p><p>Born: Gaia, California (Cascadia, Free Territory)</p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 29 (Deceased)</p><p>Occupation: Astral power user</p><p>First Impression: Graceful and awe-inspiring</p><p>Self-Image: A scout into the human soul</p><p>True Self: The first angel<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: October 12, 2095</p><p>Location: Occupied LA, Greater Atlantic Territorial Alliance (GATA)</p><p>Citizenship: GATA</p><p>Ethnicity: American</p><p>Born: Gaia, California (Cascadia, Free Territory)</p></td></tr></tbody></table>
 
 ## **Appearance**
 
