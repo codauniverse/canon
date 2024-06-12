@@ -14,6 +14,8 @@ layout:
 
 # The Astral
 
+<figure><img src="../../.gitbook/assets/astral.png" alt=""><figcaption><p>A stunning view within the Astral, with the famed Crystal Tower looming in the distance.</p></figcaption></figure>
+
 ## **Overview**
 
 The Astral is a novel kind of virtual construct that exists entirely in the minds of the users who are connected to it. Users access the Astral using [links](links.md) and modified [sync hubs](sync-hubs.md) with an astral seed module that is entangled with its sibling astral seeds, allowing instantaneous synchronization between participants.
@@ -30,7 +32,13 @@ Within the astral, users are confronted with impossible environments and bizarre
 
 Materials within the astral tend to have distinct qualities, with crystal, stone, and glass being the easiest materials to manipulate and create with. The air seems to have a thick atmospheric quality, and clouds can always be seen sliding across the distant horizon. Thick clouds and fog are a common sight, but can typically be dispelled with focused attention. Some regions of the astral are easier to manifest and manipulate than others, however no one is sure why. In general, very little is known about the astral.
 
-With some practice, users can learn to fly, see through solid materials, change their appearance, project themselves great distances instantaneously, and can even be present in multiple locations at once, to name only a few of the abilities observed in the astral. Experienced users also report that there is a constraint within the astral that they refer to as "cause and effect" which can be used to engineer logical and mechanical objects and structures that behave in predictable ways.
+### Advanced techniques
+
+With practice, users can learn to fly, see through solid materials, change their appearance, project themselves great distances instantaneously, and can even be present in multiple locations at once, to name only a few of the abilities observed in the astral.
+
+Experienced users also report that there is a constraint within the astral that they refer to as "cause and effect" which can be used to engineer rational practices, objects and structures that cause the astral to behave in predictable and repeatable ways.
+
+One famous example of astral engineering is the Crystal Tower created by an early astral user that can be manifested on the horizon by simply turning around and expecting to see it. The Crystal Tower serves as a common meeting place, and lost astral frequently travelers rely on the tower whenever they become lost in the astral's unmeasurable expanse.
 
 ***
 
