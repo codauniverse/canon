@@ -24,13 +24,13 @@ Sleepers and others usually learn about the Astral and gain access to their secr
 
 ***
 
-## Using the Astral
+## The Astral Experience
 
 Within the astral, users are confronted with impossible environments and bizarre architecture clashing and blending, with structures and weather-like phenomena that defy natural laws. The astral has a soft, dream-like quality, and users have the sensation that details often only appear when they look to see them. With focused effort, astral users can change the environments, create objects, and affect the astral environment in many other ways.
 
-Materials within the astral tend to have distinct qualities, with crystal, stone, and glass being the easiest materials to manipulate and create with. The air seems to have a thick atmospheric quality, and clouds can always be seen sliding across the distant horizon.
+Materials within the astral tend to have distinct qualities, with crystal, stone, and glass being the easiest materials to manipulate and create with. The air seems to have a thick atmospheric quality, and clouds can always be seen sliding across the distant horizon. Thick clouds and fog are a common sight, but can typically be dispelled with focused attention. Some regions of the astral are easier to manifest and manipulate than others, however no one is sure why. In general, very little is known about the astral.
 
-With some practice, users can learn to fly, see through solid materials, change their appearance, project themselves great distances instantaneously, and can even be present in multiple locations at once, to name only a few of the abilities observed in the astral.
+With some practice, users can learn to fly, see through solid materials, change their appearance, project themselves great distances instantaneously, and can even be present in multiple locations at once, to name only a few of the abilities observed in the astral. Experienced users also report that there is a constraint within the astral that they refer to as "cause and effect" which can be used to engineer logical and mechanical objects and structures that behave in predictable ways.
 
 ***
 
