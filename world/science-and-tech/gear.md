@@ -58,4 +58,4 @@ Sprint gear typically takes the form of leg extensions, however more extreme spr
 
 Boost Gear is a subset of Gear designed for propulsive movement, especially in emergency and combat scenarios. Boost gear uses propulsive jets instead of static nodes due to the latter's vulnerability to target lock.
 
-Boost Gear's propulsive jets recycle kinetic energy into focused bursts that can propel the runner in any direction, and can even sustain flight for limited durations.
+Boost Gear's propulsive jets recycle kinetic energy into focused bursts that can propel the runner in any direction, and can even sustain flight for limited durations. Excellent for overcoming obstacles, dodging incoming projectiles, and freeing wallrunners from Gate Patrol jelly rounds.
