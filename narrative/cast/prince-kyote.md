@@ -48,7 +48,7 @@ After an argument with his father about moving to live with his mother, Prince s
 
 At the age of 15, Prince traveled with his father to meet his mother at his big Bright Mesa performance. The intention was that he would go home with his mother after the show. Tragically, there was a militant attack during the GATA-sponsored performance in Bright Mesa targeting Atlan dignitaries. His mother and father were killed. Prince was believed to have been killed in the attack.
 
-He turns up 10 years later with a mysterious piece of hardware he simply calls the Unit.
+He turns up 10 years later, just ahead of the 10-year anniversary of the Bright Mesa attacks, with a mysterious piece of hardware he simply calls the Unit.
 
 ## Motivations
 
@@ -90,6 +90,8 @@ He turns up 10 years later with a mysterious piece of hardware he simply calls t
 
 * Has a secret plan involving the Unit and the underground sync rave scene.
 * Has a dependency on mentle from working on the Unit.
+* Stands to inherit his parents keys if he renews his citizenship key, revealing to the System that he is alive after being presumed dead for nearly a decade.
+* It is unknown how he gained entry to a district without renewing his citizenship key.
 
 <figure><img src="../../.gitbook/assets/119.png" alt="" width="563"><figcaption><p>Prince looking out over Greater Toronto.</p></figcaption></figure>
 
