@@ -22,6 +22,18 @@ This modification of sync hubs is illegal and connecting to the Astral is a Clas
 
 Sleepers and others usually learn about the Astral and gain access to their secretive networks via illegal offline constructs that have been known to circulate around [dormitory communities](../gata/people-and-culture/sleepers.md#dormitories), leading to increasing scrutiny of dormitories by [the AIC](../gata/institutions/atlan-information-control.md).
 
+***
+
+## Using the Astral
+
+Within the astral, users are confronted with impossible environments and bizarre architecture clashing and blending, with structures and weather-like phenomena that defy natural laws. The astral has a soft, dream-like quality, and users have the sensation that details often only appear when they look to see them. With focused effort, astral users can change the environments, create objects, and affect the astral environment in many other ways.
+
+Materials within the astral tend to have distinct qualities, with crystal, stone, and glass being the easiest materials to manipulate and create with. The air seems to have a thick atmospheric quality, and clouds can always be seen sliding across the distant horizon.
+
+With some practice, users can learn to fly, see through solid materials, change their appearance, project themselves great distances instantaneously, and can even be present in multiple locations at once, to name only a few of the abilities observed in the astral.
+
+***
+
 ## **Astral Seeds**
 
 Astral seeds are entangled [quantum seeds](quantum-seeds.md) that allow Astral users to interact directly and instantly with other minds on the network over any distance.
@@ -35,5 +47,13 @@ It is estimated that there are over ten million Astral users worldwide.
 ## **Bridgers**
 
 ‘Bridgers’ are Astral users who have connected multiple astral seeds to their sync hub, allowing them to function as connectors between the various cohorts. Bridging requires at least two link implants. Bridgers are almost exclusively "sleepers" who, either by preference or due to other material conditions, spend the entirety of their waking lives within virtual or astral constructs.
+
+***
+
+## Residual
+
+As with virtual constructs, extended periods spent in the astral run the risk of very powerful residual effects. Astral residual is notably more pronounced than virtual residual, and can present with symptoms such as phantom sensations, vivid flashbacks, auditory and visual hallucinations, derealization, and depersonalization.
+
+Unlike virtual residual, heavy astral users experiencing powerful residual effects have extremely high conviction that there is something real about the residual, even when not exhibiting symptoms of psychosis or manias, which typically accompany such claims with virtual residual.
 
 \
