@@ -14,7 +14,7 @@ layout:
 
 # Field Walls
 
-<figure><img src="../../../.gitbook/assets/fieldwalls.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/fieldwalls.png" alt=""><figcaption><p>A district's field wall stretching into the distance.</p></figcaption></figure>
 
 ## Overview
 
