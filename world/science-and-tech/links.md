@@ -14,7 +14,7 @@ layout:
 
 # Links
 
-<figure><img src="../../.gitbook/assets/links.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/links.png" alt=""><figcaption><p>A basic link worn on the user's temple.</p></figcaption></figure>
 
 ## Overview
 
