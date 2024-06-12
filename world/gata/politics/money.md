@@ -52,6 +52,8 @@ Some of the alternative currencies in the System economy have been ported over f
 
 ***
 
+<figure><img src="../../../.gitbook/assets/slip-8493.png" alt="" width="563"><figcaption><p>A standard slip hardware wallet.</p></figcaption></figure>
+
 ## **Slips**
 
 Small, portable hardware wallets that function as partial nodes for the CRED component of the System's vast network. Slips enable offline transactions, making them ideal for casual commerce and areas with limited connectivity. They can store various digital assets, keys, and other data, providing flexibility and security in everyday transactions.&#x20;
