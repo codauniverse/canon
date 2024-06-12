@@ -18,7 +18,7 @@ layout:
 
 ## **Overview**
 
-The Astral is a novel kind of virtual construct that exists entirely in the minds of the users who are connected to it. Users access the Astral using [links](links.md) and modified [sync hubs](sync-hubs.md) with an astral seed module that is entangled with its sibling astral seeds, allowing instantaneous synchronization between participants.
+The Astral is a novel kind of virtual construct that exists entirely in the minds of the users who are connected to it. Astral users are called "travelers", and they access the Astral using [links](links.md) and modified [sync hubs](sync-hubs.md) with an astral seed module that is entangled with its sibling astral seeds, allowing instantaneous synchronization between participants.
 
 This modification of sync hubs is illegal and connecting to the Astral is a Class 1 crime. However, this has not prevented a growing subculture of Astral users from taking root, particularly among [sleepers](../gata/people-and-culture/sleepers.md) who already spend most of their lives within [virtual constructs](constructs.md#virtual-constructs).
 
@@ -28,9 +28,11 @@ Sleepers and others usually learn about the Astral and gain access to their secr
 
 ## The Astral Experience
 
-Within the astral, users are confronted with impossible environments and bizarre architecture clashing and blending, with structures and weather-like phenomena that defy natural laws. The astral has a soft, dream-like quality, and users have the sensation that details often only appear when they look to see them. With focused effort, astral users can change the environments, create objects, and affect the astral environment in many other ways.
+Within the astral, travelers are confronted with impossible environments and bizarre architecture clashing and blending, with structures and weather-like phenomena that defy natural laws. The astral has a soft, dream-like quality, and users have the sensation that details often only appear when they look to see them. With focused effort, astral users can change the environments, create objects, and affect the astral environment in many other ways.
 
 Materials within the astral tend to have distinct qualities, with crystal, stone, and glass being the easiest materials to manipulate and create with. The air seems to have a thick atmospheric quality, and clouds can always be seen sliding across the distant horizon. Thick clouds and fog are a common sight, but can typically be dispelled with focused attention. Some regions of the astral are easier to manifest and manipulate than others, however no one is sure why. In general, very little is known about the astral.
+
+Travelers inside the astral appear as they imagine themselves, which generally corresponds closely to their real-life appearance, however with prolonged experience within the astral, users can learn to change their appearance at will, and often their internal image of themselves tends to drift. Long-time astral users are fairly easily identifiable by how their appearance has begun to match the natural aesthetic qualities of the astral.
 
 ### Advanced techniques
 
