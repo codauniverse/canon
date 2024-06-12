@@ -50,7 +50,7 @@ Soraya was subsequently placed under state care and, although she was a difficul
 
 Her talents caught the attention of ALTAR, a prestigious Atlan institution, in part thanks to an anonymous recommendation. She was invited to join ALTAR's INSIGHT program where she was grouped with Remi Tranche and Viten Marsh to study Found Objects, mysterious artifacts of unknown origin. After their secretive contracts concluded, the three friends founded Phasia, pioneering new approaches to securing and scaling various technologies. However, differing visions for the future of Phasia led to Soraya leaving the highly successful organization, and founding KYO Technologies in Greater Toronto.
 
-Soraya married Kyote, a celebrated folk musician, and the couple had a son named Prince. Their whirlwind romance was by all means the happiest time in her life. However, it wasn't long before she found herself once again consumed in her work. Her relentless pursuits often strained her family life, culminating in a separation when she chose to continue her research in the AU where the paradigms were much less restrictive. To help her balance every area of her life, she built a custom cog she named Aida, an assistant based on her own personality.
+Soraya married Kyote, a celebrated folk musician, and the couple had a son named Prince. Their whirlwind romance was by all means the happiest time in her life. However, it wasn't long before she found herself once again consumed in her work. Her relentless pursuits often strained her family life, culminating in a separation when she chose to continue her research in the AU where the paradigms were much less restrictive. To help her balance every area of her life, she built a cog she named Aida, an assistant based on her own personality, compiled from custom hardcode distinct from LMNL.
 
 Despite her groundbreaking achievements, Soraya's life ended in the terror attack that devastated Bright Mesa in 2115. The attack also killed her husband, Kyote, and had been targeting Atlan delegates who had been in Bright Mesa to celebrate its districthood. Soraya's legacy lives on through her contributions to the technological landscape, and the lingering mysteries of her final projects.
 
@@ -66,22 +66,27 @@ Despite her groundbreaking achievements, Soraya's life ended in the terror attac
 * Lost her parents at a young age to political violence and terrorism.
 * Developed LMNL, a framework for Asimovian systems, at the age of 17.
 * Founded KYO Technologies in Nairobi.
-* Created Aida, a synthetic mind based on her own life data.
+* Created Aida, a cog based on her own brain patterns.
+* Later in her work she stopped writing her hardcode in LMNL, opting for a new framework of her own design despite the associated expense for frequent code audits. Presumably for security purposes.
 
 ## **Personality & Quirks**
 
 * Intense and driven, with a quiet determination.
 * Known for her single-minded focus and deep, introspective demeanor.
+* Is defiant by nature and very self-motivated.
 * Struggles with balancing personal life and work.
 * Deeply empathetic when present but often emotionally distant.
 * Has a habit of losing track of time when immersed in her work.
 * Fiercely protective of her son, despite the physical distance.
+* Towards the end of her life she had become highly reclusive and uncharacteristically paranoid, potentially a symptom of her brain disease.
 
 ## **Secrets**
 
+* Haunted by the knowledge she gained from her time at ALTAR.
+* Longs for the simpler days of the past, but is unable to abandon her private goals.
 * Suffers from a rare, incurable brain disease.
 * Created Aida to mitigate her increasing detachment from her life.
-* Felt an overwhelming sense of responsibility for the potential consequences and implications of her work for ALTAR.
+* Feels an overwhelming sense of responsibility for the potential consequences and implications of her work for ALTAR.
 
 ## **Skills**
 
