@@ -26,15 +26,33 @@ Sleepers and others usually learn about the Astral and gain access to their secr
 
 ***
 
+<div>
+
+<figure><img src="../../.gitbook/assets/astral-78439.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/astral-4533.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/astral-74943.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## The Astral Experience
 
 Within the astral, travelers are confronted with impossible environments and bizarre architecture clashing and blending, with structures and weather-like phenomena that defy natural laws. The astral has a soft, dream-like quality, and users have the sensation that details often only appear when they look to see them. With focused effort, astral users can change the environments, create objects, and affect the astral environment in many other ways.
+
+<figure><img src="../../.gitbook/assets/astral-8022.png" alt="" width="375"><figcaption><p>A bed manifested by a traveler that even sleeps inside of the astral.</p></figcaption></figure>
 
 Materials within the astral tend to have distinct qualities, with crystal, stone, and glass being the easiest materials to manipulate and create with. The air seems to have a thick atmospheric quality, and clouds can always be seen sliding across the distant horizon. Thick clouds and fog are a common sight, but can typically be dispelled with focused attention. Some regions of the astral are easier to manifest and manipulate than others, however no one is sure why. In general, very little is known about the astral.
 
 <figure><img src="../../.gitbook/assets/astral-0sgsg3.png" alt="" width="563"><figcaption><p>A long-time astral user manifesting constructs.</p></figcaption></figure>
 
 Travelers inside the astral appear as they imagine themselves, which generally corresponds closely to their real-life appearance, however with prolonged experience within the astral, users can learn to change their appearance at will, and often their internal image of themselves tends to drift. Long-time astral users are fairly easily identifiable by how their appearance has begun to match the natural aesthetic qualities of the astral.
+
+<figure><img src="../../.gitbook/assets/astral-8342.png" alt="" width="563"><figcaption><p>An astral traveler flying above an endless frontier.</p></figcaption></figure>
 
 ### Advanced techniques
 
