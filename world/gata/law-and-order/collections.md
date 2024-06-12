@@ -14,7 +14,7 @@ layout:
 
 # Collections
 
-<figure><img src="../../../.gitbook/assets/collections-sfg87.png" alt="" width="563"><figcaption><p>Collections agents on a static raft confiscating illegal contraband.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/collections-sfg87.png" alt=""><figcaption><p>Collections agents on a static raft confiscating illegal contraband.</p></figcaption></figure>
 
 ### **Overview**
 

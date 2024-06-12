@@ -14,7 +14,9 @@ layout:
 
 # Tech Regulation
 
-<figure><img src="../../../.gitbook/assets/collections-sfg87.png" alt=""><figcaption><p>Collections officers retrieving Class 1 technology on a static raft.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/techregulation-48354.png" alt=""><figcaption><p>Collections officers retrieving Class 1 technology on a static raft.</p></figcaption></figure>
+
+## Overview
 
 Within GATA, technology is heavily regulated, including legacy tech from the [Old World](../../history/the-old-world.md). Illegal technology is scrutinized particularly closely inside of GATA's walled districts.
 
