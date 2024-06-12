@@ -46,6 +46,8 @@ The manifestation of an astral construct is a continuous process, driven by the 
 
 ## Residual
 
-Both virtual and astral constructs have been shown to cause lingering effects for their heavy users after prolonged exposure, widely known as "residual". Residual typically manifests as flashbacks, delusions, or persistent sensations or hallucinations. Symptoms can range from negligible to debilitating, and in the most extreme cases, has driven some of those afflicted to take their own life.
+Both virtual and astral constructs have been shown to cause lingering effects for link users after prolonged exposure, widely known as "residual". Residual typically manifests as flashbacks, delusions, or persistent sensations or hallucinations. Symptoms can range from negligible to debilitating, and in the most extreme cases, has driven some of those afflicted to take their own life.
 
 Residual can typically be relieved by desisting from use, however it has been noted that astral residual is much more difficult than virtual residual to overcome, and may result in lifelong residual effects for those affected, however not enough studies have been conducted to date.
+
+Virtual constructs, unlike astral constructs, can be accessed safely without the use of a link, preventing the neurological effects that lead to residual from occurring.

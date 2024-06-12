@@ -30,7 +30,7 @@ The effectiveness of syncing is highly variable depending on skill and mutual co
 
 ### **Residual**
 
-Impressions created by other minds that linger in a link user’s mind after syncing. Residual can range from feelings and sensations, to recurring images. Not a well understood phenomenon. A risk of sync raves, and Astral use. For participants of hives, some residual is assured.
+Impressions created by other minds that linger in a link user’s mind after syncing. Residual can range from feelings and sensations, to recurring images and flashbacks, and even visual and auditory hallucinations. While a mild form of residual is well documented among link users who spend extended periods in virtual constructs, there is not as much literature on its long-term effects from syncing. A risk of sync raves, and Astral use. For long-term participants in hives or astral travelers, some residual is assured.
 
 ***
 
