@@ -22,6 +22,8 @@ Static Field technology, or statics for short, uses ‘[static nodes](statics.md
 
 ***
 
+<figure><img src="../../.gitbook/assets/staticnodes.png" alt="" width="563"><figcaption><p>A static node that can be installed inside of structures or static engines.</p></figcaption></figure>
+
 ## **Static Nodes**
 
 Static nodes are small polyhedral components whose position in its surrounding gravitational field can be modulated by applying a charge to the node.
@@ -32,19 +34,21 @@ A loose node can be moved manually through the magnetic field, although the amou
 
 The number of nodes determines the way in which an object can orient in the gravitational field. A single, firm node is useful as an anchor for architecture and infrastructure. Two nodes can be used to create platforms that can be moved horizontally along the Earth's magnetic field. In order to achieve locomotion, three nodes are required.
 
-The diameter of the node's core determines how quickly the node's resonant frequency can be entrained up or down. Smaller cores can approach up to 90% firmness in quite brief durations, permitting faster, more agile movement—but the last 10% of firmness would require an asymptotically higher current. Larger cores take quite a while to reach 90% firmness, but reaching 99.9999% firmness is a relatively linear duration.
+Static nodes can range from 5 cm in diameter to 1 meter. The diameter of the node's core determines how quickly the node's resonant frequency can be entrained up or down. Smaller nodes can approach up to 90% firmness very quickly, permitting faster, more agile movement—but the last 10% of firmness would require an asymptotically higher current. Larger nodes take quite a while to reach 90% firmness, but reaching 99.9999% firmness is much faster and more energy efficient than with smaller nodes.
 
 Static nodes are made possible by advances in material sciences pioneered by Atla’s [Research Corps](../gata/history/the-research-corps.md) during [The Reconstruction](../history/the-reconstruction.md) era.
 
 ***
 
+<figure><img src="../../.gitbook/assets/staticengines.png" alt="" width="563"><figcaption><p>A large static engine inside of an industrial static tanker.</p></figcaption></figure>
+
 ## **Static Engines & Motion**
 
-Static engines continuously modulate the charge applied to three or more nodes to produce smooth movement within the Earth’s gravitational field. Static engines are essential for transporting extremely heavy loads, as demonstrated during the Reconstruction with GATA's long-defunct staging platforms that crawled the skies of Greater Atla.
+Static engines continuously modulate the charge applied to three or more nodes to produce smooth, stable movement within the Earth’s gravitational field. Static engines are essential for transporting extremely heavy loads, as demonstrated during the Reconstruction with GATA's long-defunct staging platforms that crawled the skies of Greater Atla.
 
 With modern, miniaturized static engines, extremely fast and expressive movement can be achieved, as many have discovered with the recent rise in the popularity of [darts](statics.md#dart-boards)–static boards that have become central to an extreme [sport culture](../gata/people-and-culture/sports.md) that is intertwined with the [counterculture scene](../gata/underground-scene/).
 
-Smaller static vehicles are reliant on compact batteries to power their static engines, while larger ships and platforms employ fusion reactors to power statics. Meanwhile, New Imperial Japan, URSA and various Free Territories utilize much smaller fusion cells, giving them advantages in certain military and industrial applications where their statics can operate indefinitely.
+Smaller static vehicles are reliant on compact batteries to power their static engines, while larger ships and platforms employ fusion reactors to power their larger static engines. Meanwhile, New Imperial Japan, URSA and various Free Territories utilize much smaller fusion cells, giving them advantages in certain military and industrial applications where their statics can operate indefinitely.
 
 Prominent statics manufacturers include Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU).
 
@@ -70,4 +74,8 @@ Large static platforms that serve as staging areas for construction, industry, a
 
 #### Tankers
 
-Large static platforms used for large scale shipping. Tankers are used to transport [System Yield](../gata/politics/yield.md).
+Large static vehicles used for large scale shipping. Tankers are used to transport [System Yield](../gata/politics/yield.md).
+
+#### Skyliners
+
+Large luxury static ships used for travel and leisure. Skyliners are a popular form of travel between districts, or to remote [luxury homesteads](../gata/politics/homesteads.md#luxury-homesteads) found across Greater Atla.
