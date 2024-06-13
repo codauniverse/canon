@@ -14,6 +14,8 @@ layout:
 
 # Azure Plateau
 
+<figure><img src="../../../.gitbook/assets/azureplateau.png" alt=""><figcaption><p>A crowd of tourists Earth gazing from the Azure Plateau.</p></figcaption></figure>
+
 ## Overview
 
 A Sol-owned geosynchronous orbital luxury habitat positioned outside of Sol’s jurisdiction and inside of the Earth’s upper atmosphere. The Plateau is where most diplomatic and ceremonial affairs between Sol and Earth are addressed.
