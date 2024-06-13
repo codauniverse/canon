@@ -68,15 +68,7 @@ One famous example of astral engineering is the Crystal Tower created by an earl
 
 Astral seeds are entangled [quantum seeds](quantum-seeds.md) that allow Astral users to interact directly and instantly with other minds on the network over any distance.
 
-Seeds that are entangled together in the activation process are called cohorts. There are only ten thousand Astral seeds in the first cohort, and they are exceedingly rare. It’s estimated that there are over fifty entangled cohorts of astral seeds connected to the Astral, with the largest consisting of over two million seeds.
-
-It is estimated that there are over ten million Astral users worldwide.
-
-***
-
-## **Bridgers**
-
-‘Bridgers’ are Astral users who have connected multiple astral seeds to their sync hub, allowing them to function as connectors between the various cohorts. Bridging requires at least two link implants. Bridgers are almost exclusively "sleepers" who, either by preference or due to other material conditions, spend the entirety of their waking lives within virtual or astral constructs.
+Seeds are entangled together in cohorts. There were only 40 Astral seeds in the first cohort, however it is estimated that there are now over 2 million entangled astral seeds connected to the Astral.
 
 ***
 

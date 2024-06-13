@@ -14,7 +14,7 @@ layout:
 
 # Greater Atla
 
-<figure><img src="../../../.gitbook/assets/greateratla-9542.png" alt=""><figcaption><p>A static skyliner traversing the skies over a homestead in Greater Atla.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/greateratla-9542 (1).png" alt=""><figcaption><p>A static skyliner traversing the skies over a homestead in Greater Atla.</p></figcaption></figure>
 
 ## Overview
 
