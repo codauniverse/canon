@@ -14,7 +14,7 @@ layout:
 
 # Sync Raves
 
-<figure><img src="../../../.gitbook/assets/syncraves.png" alt="" width="563"><figcaption><p>Ravers in the throws of a sync.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/syncraves.png" alt=""><figcaption><p>Ravers in the throws of a sync.</p></figcaption></figure>
 
 A new phenomenon growing in popularity among the disaffected younger generations in [GATA](../) and abroad: all-night parties where a blossoming art and music scene grows in the shadows.
 
