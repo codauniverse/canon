@@ -50,20 +50,24 @@ Prominent statics manufacturers include Pegasus (GATA), Nimbus (GATA), and Gibra
 
 #### Ships
 
-Vehicles of various size with different configurations of static engines.
+Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly affordable for civilian use.
 
 #### Rafts
 
-Small, simple static platforms made for ferrying heavy cargo and equipment across shorter distances. Used widely in industrial and military contexts.
+Small, simple static platforms made for ferrying heavy cargo and equipment across shorter distances. Used widely in industrial, law enforcement, and military contexts.
 
 #### Gondolas
 
-Moving extensions of urban architecture. Gondolas are typically small static platforms with handrails, and sometimes seating.
+These moving extensions of urban architecture are a common form of public transportation in districts. Gondolas typically take the form of small platforms with handrails, and sometimes seating.
 
 #### Dart Boards
 
-Highly maneuverable personal conveyance devices with static engines. Popular among the youth, and sometimes finely tuned for performance.
+Highly maneuverable personal conveyance devices with static engines. Popular among the youth, and sometimes finely tuned for high-performance.
 
 #### Platforms
 
-Large static platforms that can serve as platforms for mobile architecture, industrial transport, or as mobile staging platforms for operations. Platforms are used to transport System Yield.
+Large static platforms that serve as staging areas for construction, industry, and military operations. The most famous static platform is the [Azure Plateau](../sol/key-locations/azure-plateau.md).
+
+#### Tankers
+
+Large static platforms used for large scale shipping. Tankers are used to transport [System Yield](../gata/politics/yield.md).
