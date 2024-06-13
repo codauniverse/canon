@@ -60,7 +60,7 @@ With practice, users can learn to fly, see through solid materials, change their
 
 Experienced users also report that there is a constraint within the astral that they refer to as "cause and effect" which can be used to engineer rational practices, objects and structures that cause the astral to behave in predictable and repeatable ways.
 
-One famous example of astral engineering is the Crystal Tower created by an early astral user that can be manifested on the horizon by simply turning around and expecting to see it. The Crystal Tower serves as a common meeting place, and lost astral frequently travelers rely on the tower whenever they become lost in the astral's unmeasurable expanse.
+One famous example of astral engineering is the Crystal Tower created by an early astral user that can be manifested on the horizon by simply turning around and expecting to see it. The Crystal Tower serves as a common meeting place, and astral travelers frequently rely on the tower whenever they become lost or disoriented in the astral's unmeasurable expanse.
 
 ***
 
