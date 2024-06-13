@@ -14,6 +14,8 @@ layout:
 
 # Greater Atla
 
+<figure><img src="../../../.gitbook/assets/greateratla-9542.png" alt=""><figcaption><p>A static skyliner traversing the skies over a homestead in Greater Atla.</p></figcaption></figure>
+
 ## Overview
 
 Greater Atla refers to the entire geographic domain of [GATA](../) and “all the lands under the light of The New Dawn.” Greater Atla encompasses [districts](districts.md), cities, townships and smaller [homesteads](homesteads.md), as well as [enterprise](../enterprise/) and military facilities, and other operations.
