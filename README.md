@@ -100,11 +100,15 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 <div>
 
-<figure><img src=".gitbook/assets/coda_story_life-on-the-ground.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coda_story_inner-frontier-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
 <figure><img src=".gitbook/assets/coda_story_first-responder-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/coda_story_life-on-the-ground.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
