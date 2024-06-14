@@ -28,7 +28,7 @@ In some cases, districts will allocate a portion of their yield to nearby homest
 
 ## Luxury Homesteads
 
-<figure><img src="../../../.gitbook/assets/nomoney420_httpss.mj.runqORvU9Km0cU_httpss.mj.run9XjrQswCGHk__320e0077-c9a1-440e-b77b-34024f576d1f_0.png" alt="" width="563"><figcaption><p>A luxury homestead where the rich and powerful often reside.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/luxuryhomesteads-8535.png" alt="" width="563"><figcaption><p>A luxury homestead where the rich and powerful often reside.</p></figcaption></figure>
 
 While most homesteads are modest residences and communities of citizens who simply prefer to live further afield of the masses, others are merely "homesteads" in name only; isolated oases of luxury and bustling exotic destinations with [enterprise](../enterprise/) services, developed infrastructure, and private defense.
 
