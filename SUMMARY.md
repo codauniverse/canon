@@ -226,3 +226,11 @@
   * [🔄 360 Environments](narrative/media/360-environments.md)
   * [💬 Chat Bots](narrative/media/chat-bots.md)
   * [🎲 Tabletop](narrative/media/tabletop.md)
+
+## Project
+
+* [Roadmap](project/roadmap.md)
+* [Community](project/community.md)
+* [Licensing](project/licensing.md)
+* [Economy](project/economy.md)
+* [On-chain Canon](project/on-chain-canon.md)
