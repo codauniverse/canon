@@ -48,7 +48,7 @@ Sprint Gear is a subset of Gear purpose-built to allow humans to reach superhuma
 
 Sprint gear can be tailored to emphasize acceleration, top speed, or agility. While top speed may be the most effective in an open field, acceleration and agility are preferable in urban environments.
 
-In recent decades, [criminal syndicates](../criminal-element/syndicates.md) have improved upon the basic design patterns and supplemented by additional gear and equipment for the purpose of [Wallrunning](../criminal-element/wallrunners.md).
+In recent decades, [criminal syndicates](../gata/criminal-element/syndicates.md) have improved upon the basic design patterns and supplemented by additional gear and equipment for the purpose of [Wallrunning](../gata/criminal-element/wallrunners.md).
 
 Sprint gear typically takes the form of leg extensions, however more extreme sprint gear can extend to full leg or lower body prosthetics, boosters, and time illegal dilation bombs derived from controlled [parallel collapse](parallel-energy.md#dangers-and-time-distortion) of [parallel reactors](parallel-energy.md).
 

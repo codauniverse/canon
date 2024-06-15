@@ -187,14 +187,14 @@
   * [Quantum Seeds](world/science-and-tech/quantum-seeds.md)
   * [Pockets](world/science-and-tech/pockets.md)
   * [Advanced Textiles](world/science-and-tech/advanced-textiles.md)
-* [🏴‍☠️ Criminal Element](world/criminal-element/README.md)
-  * [Political Corruption](world/criminal-element/political-corruption.md)
-  * [Syndicates](world/criminal-element/syndicates.md)
-  * [Gangs](world/criminal-element/gangs.md)
-  * [Scavengers](world/criminal-element/scavengers.md)
-  * [Drug Trade](world/criminal-element/drug-trade.md)
-  * [Smugglers](world/criminal-element/smugglers.md)
-  * [Wallrunners](world/criminal-element/wallrunners.md)
+* [🏴‍☠️ Criminal Element](world/gata/criminal-element/README.md)
+  * [Political Corruption](world/gata/criminal-element/political-corruption.md)
+  * [Syndicates](world/gata/criminal-element/syndicates.md)
+  * [Gangs](world/gata/criminal-element/gangs.md)
+  * [Scavengers](world/gata/criminal-element/scavengers.md)
+  * [Drug Trade](world/gata/criminal-element/drug-trade.md)
+  * [Smugglers](world/gata/criminal-element/smugglers.md)
+  * [Wallrunners](world/gata/criminal-element/wallrunners.md)
 
 ## Narrative
 

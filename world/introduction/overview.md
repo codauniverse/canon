@@ -34,7 +34,7 @@ Across the world various cultural movements churn within the masses. The Eidetic
 
 <figure><img src="../../.gitbook/assets/criminalunderworld.png" alt="" width="563"><figcaption></figcaption></figure>
 
-A cadre of influential political and [criminal syndicates](../criminal-element/syndicates.md) weave themselves through this ideological tapestry, controlling territory, manipulating The System, trading in illicit tech and information, vying for any scraps of advantage and control.
+A cadre of influential political and [criminal syndicates](../gata/criminal-element/syndicates.md) weave themselves through this ideological tapestry, controlling territory, manipulating The System, trading in illicit tech and information, vying for any scraps of advantage and control.
 
 <figure><img src="../../.gitbook/assets/syncraves.png" alt="" width="563"><figcaption></figcaption></figure>
 

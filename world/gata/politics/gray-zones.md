@@ -48,10 +48,10 @@ In Gray Zones, there is no [Local Authority](../law-and-order/local-authority.md
 
 On rare occasions, [Angelis](../military-and-defense/angelis.md) [Guardians](../military-and-defense/angelis.md#guardians) are deployed to Gray Zones by the [First Quorum](governance.md#the-first-quorum) for matters of national security and Class 1 violations of the New Dawn Accords.
 
-More often than not, the only real laws in Gray Zones are the laws of the [local gangs](../../criminal-element/gangs.md) and illegal enterprises known as [syndicates](../../criminal-element/syndicates.md).
+More often than not, the only real laws in Gray Zones are the laws of the [local gangs](../criminal-element/gangs.md) and illegal enterprises known as [syndicates](../criminal-element/syndicates.md).
 
 ### **The Criminal Element**
 
-In Gray Zones you will find a seedy ecosystem replete with brothels, illegal gambling, unlicensed [operators](../enterprise/operators.md), and [scavengers](../../criminal-element/scavengers.md) selling [illegal tech](../law-and-order/tech-regulation.md) and [Old World](../../history/the-old-world.md) paraphernalia.
+In Gray Zones you will find a seedy ecosystem replete with brothels, illegal gambling, unlicensed [operators](../enterprise/operators.md), and [scavengers](../criminal-element/scavengers.md) selling [illegal tech](../law-and-order/tech-regulation.md) and [Old World](../../history/the-old-world.md) paraphernalia.
 
-Local gangs are the law in Gray Zones and their say goes. Some gangs have more reasonable regimes than others. [Smuggling](../../criminal-element/smugglers.md), [drugs](../../criminal-element/drug-trade.md), and illegal rackets writhe beneath the surface of every day life, a network of underground alliances between syndicates, gangs, [enterprises](../enterprise/) and even [institutions](../institutions/), maintaining a different kind of order than GATA might provide.&#x20;
+Local gangs are the law in Gray Zones and their say goes. Some gangs have more reasonable regimes than others. [Smuggling](../criminal-element/smugglers.md), [drugs](../criminal-element/drug-trade.md), and illegal rackets writhe beneath the surface of every day life, a network of underground alliances between syndicates, gangs, [enterprises](../enterprise/) and even [institutions](../institutions/), maintaining a different kind of order than GATA might provide.&#x20;

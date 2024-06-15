@@ -41,7 +41,7 @@ layout:
 * The [Battle of the Mississippi Delta](../free-territories/history/historical-conflicts.md#battle-of-the-mississippi-delta).
 * The Bright Mesa Peace Agreement.
 * The Founding of [Luna City](../gata/key-locations/luna.md).
-* The rise of the Hundred Hands criminal [syndicate](../criminal-element/syndicates.md).
+* The rise of the Hundred Hands criminal [syndicate](../gata/criminal-element/syndicates.md).
 * The Quiet Rebellion, a failed revolt against URSA’s dominant kingdoms.
 * The Eden Initiative begins, a global ecological restoration program led by GATA.
 * 2073 - [The Morning Light Summit](../gata/politics/new-dawn-accords.md#the-morning-light-summit).
