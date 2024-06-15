@@ -24,6 +24,6 @@ _3rd-Person Multi-Player Action Racing Game_
 
 </div>
 
-#### Synopsis
+### Synopsis
 
 Players assume the role of a wallrunner.
