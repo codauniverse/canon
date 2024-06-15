@@ -30,9 +30,11 @@ The foundational canon of the CODA Universe is stored forever on the Bitcoin blo
 
 ***
 
+<figure><img src="../../.gitbook/assets/characters-16.jpg" alt=""><figcaption><p>Just a few of CODA's central canon characters.</p></figcaption></figure>
+
 ## 🔵 The CODA Saga
 
-**The CODA Saga** is an epic tale set in the CODA Universe.
+**The CODA Saga** is an epic tale set in the CODA Universe that weaves together the stories of all the canon characters and the best community-created content.
 
 It begins in the shadowy corners of a nascent underground sync rave scene, where skilled conduits called sync jockeys guide the crowd's minds in hallucinatory trances using illegally modified technologies.
 
@@ -40,9 +42,11 @@ There, submerged in the haze and pulsing bass frequencies, a mysterious piece of
 
 ***
 
+<figure><img src="../../.gitbook/assets/projectcoda.png" alt=""><figcaption><p>The Project CODA website homepage.</p></figcaption></figure>
+
 ## 🔵 Project CODA
 
-**Project CODA** is a community initiative dedicated to creating and funding original media set in the CODA Universe.
+**Project CODA** is a community initiative dedicated to creating and funding original media set in the CODA Universe. Project CODA helps guide the creation of the CODA Saga.
 
 Members of Project CODA contribute to the CODA Universe's ever-growing library of lore, stories, characters, art, music, 3D assets, scripts, virtual sets, and more. All contributions are attributed and, if work is used in commercial products, their creators are compensated.
 

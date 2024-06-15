@@ -34,7 +34,7 @@ Local governments enact GATA's laws and regulations on behalf of GATA, direct th
 
 The local government can also establish its own bylaws that can add to the existing legal framework of GATA, but cannot negate or override GATA's laws. In principle, the local government's legislative policies are reigned in by their constituency's continuing approval.
 
-The structure of the local government is largely dependent on the community and political organizations that formed their foundations. From refugee camp organizers, to local school administrators, or community defence brigades and even [gangs](../criminal-element/gangs.md), the founding character of the local governments (and, by extension, the Local Authority that they deputize) vary substantially and inform their operation and relationship with their constituencies.
+The structure of the local government is largely dependent on the community and political organizations that formed their foundations. From refugee camp organizers, to local school administrators, or community defence brigades and even [gangs](../../criminal-element/gangs.md), the founding character of the local governments (and, by extension, the Local Authority that they deputize) vary substantially and inform their operation and relationship with their constituencies.
 
 ### Leadership
 
@@ -52,7 +52,7 @@ District borders are enforced by [Field Walls](../borders-and-travel/field-walls
 
 Field walls are often supplemented with numerous additional deterrents and security measures to discourage illegal transit.
 
-It is nearly impossible to enter a district without being detected and intercepted, however some unlawful [operators](../enterprise/operators.md) known as [Wallrunners](../criminal-element/wallrunners.md) have made a profession of breaching district borders.
+It is nearly impossible to enter a district without being detected and intercepted, however some unlawful [operators](../enterprise/operators.md) known as [Wallrunners](../../criminal-element/wallrunners.md) have made a profession of breaching district borders.
 
 ***
 

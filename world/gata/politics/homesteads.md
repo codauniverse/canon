@@ -22,7 +22,7 @@ Dotted through the landscape of [Greater Atla](greater-atla.md) are the many hom
 
 While citizens who live in homesteads are not entitled to [yield](yield.md) from the districts, aid and support are provided by GATA, especially in emergencies.
 
-In some cases, districts will allocate a portion of their yield to nearby homesteads, making sometimes-dangerous shipments of food, medicine and other resources into contested territory where they may encounter [Free Territory](../../free-territories/) militias and criminal piracy often orchestrated by [syndicates](../criminal-element/syndicates.md).
+In some cases, districts will allocate a portion of their yield to nearby homesteads, making sometimes-dangerous shipments of food, medicine and other resources into contested territory where they may encounter [Free Territory](../../free-territories/) militias and criminal piracy often orchestrated by [syndicates](../../criminal-element/syndicates.md).
 
 ***
 
