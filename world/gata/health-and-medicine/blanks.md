@@ -14,6 +14,8 @@ layout:
 
 # Blanks
 
+<figure><img src="../../../.gitbook/assets/blanks.png" alt=""><figcaption><p>A room of identical blanks in an AKICEL cloning facility.</p></figcaption></figure>
+
 ## Overview
 
 Developed by AKICEL. Blanks are cloned human bodies with near exact replicas of template brains, but provably without consciousness.
