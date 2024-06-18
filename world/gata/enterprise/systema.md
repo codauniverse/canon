@@ -14,6 +14,8 @@ layout:
 
 # Systema
 
+<figure><img src="../../../.gitbook/assets/systema.png" alt=""><figcaption><p>Technicians working in a Systema facility.</p></figcaption></figure>
+
 ## Overview
 
 The System is maintained by Systema, a public enterprise based in Luna that uses its lunar location to maintain and update System nodes with a secure line-of-sight connection.
