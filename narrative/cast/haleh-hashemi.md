@@ -105,6 +105,8 @@ Find her hunting antique 21st century music and hardware, wall-flowering at a sy
 * Has started to give up on her dreams.
 * Can’t carry a tune with her singing voice.
 
+<figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoul_a4b7813a-f4da-4f55-9644-bba81c034a64_0.png" alt="" width="563"><figcaption><p>Haleh sync jockeying at a sync rave.</p></figcaption></figure>
+
 ## Skills
 
 * Extremely talented conduit with mastery of her link, especially with respect to syncing.
