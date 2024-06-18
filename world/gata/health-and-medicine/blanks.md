@@ -18,7 +18,7 @@ layout:
 
 Developed by AKICEL. Blanks are cloned human bodies with near exact replicas of template brains, but provably without consciousness.
 
-Blanks are envisioned as a safe and efficient alternative to robotics and artificially intelligent systems, and a potential source of cheap, reliable labor. There is significant interest to use blanks for military, resource extraction, and off-world applications.
+Blanks are envisioned as a safe and efficient alternative to robotics and artificially intelligent systems, and a potential source of cheap, reliable labor. There is significant interest to use blanks for research, medicine, military, resource extraction, and off-world applications.
 
 ***
 
