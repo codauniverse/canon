@@ -31,3 +31,5 @@ While for many in the [Old World](../history/the-old-world.md), a resigned accep
 ### AGI in the Old World
 
 While AGI had proven itself to be more reliable and inherently ethical than simply AI agents, its multimodal and cross-domain cognition made auditing or tuning its decision making nearly impossible. AGI's wholistic approach to problem solving made its implementation in democracies and private enterprise untenable for administrators and politicians beholden to populist anti-AI movements.
+
+While AGI was intentionally hobbled by denying it ultimate control, considerable advances were still being made year over year. The promise of ASI (artificial super-intelligence) continued to interest researchers, however its imminence seemed to perpetually recede as they approached it, revealing the shape of the ultimate problem; an every expanding taxonomy of 'kinds' of thinking, morphisms which proved challenging to even define let alone instantiate in code. Researchers came to believe that consciousness was the key.
