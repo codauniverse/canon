@@ -89,6 +89,7 @@
   * [✈️ Borders & Travel](world/gata/borders-and-travel/README.md)
     * [Gates](world/gata/borders-and-travel/gates.md)
     * [Field Walls](world/gata/borders-and-travel/field-walls.md)
+    * [Sentinels](world/gata/borders-and-travel/sentinels.md)
   * [🖊️ Institutions](world/gata/institutions/README.md)
     * [Atlan Information Control](world/gata/institutions/atlan-information-control.md)
     * [ALTAR](world/gata/institutions/altar.md)

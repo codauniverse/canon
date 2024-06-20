@@ -14,6 +14,8 @@ layout:
 
 # Demographics
 
+## Overview
+
 The demographics of 2125 skew young with a global median age of 21. Over sixty-five percent of the population is under 30 years old.
 
 The displacement of the last hundred years has produced a very intermingled population of ethnicities and cultures.

@@ -24,4 +24,4 @@ Greater Atla refers to the entire geographic domain of [GATA](../) and “all th
 
 Greater Atla also includes all signatories of the [New Dawn Accords](new-dawn-accords.md), however often when people mention “Greater Atla” they are just referring to the wider territory of GATA proper.
 
-All of Greater Atla is under the vigilant protection of the [First Quorum](governance.md#the-first-quorum)’s [Angelis](../military-and-defense/angelis.md), monitoring from Earth orbit and deploying units around the world, including GATA’s partner states.
+All of Greater Atla is under the vigilant protection of the [First Quorum](governance.md#the-first-quorum)’s [Angelis](../military-and-defense/angelis.md), monitoring from Earth orbit and deploying units around the world, including GATA’s [partner states](new-dawn-accords.md#signatories).

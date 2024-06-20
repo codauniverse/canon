@@ -16,7 +16,7 @@ layout:
 
 ## Overview
 
-The Akicel Therapy is a well-known treatment for age-related dysfunction across the entire body. Used in moderation, Akicel therapy significantly reduces all-cause mortality. Higher doses can have strong rejuvenative effects on superficial signs of aging.
+Developed by [AKICEL](../enterprise/akicel.md), the Akicel Therapy is a well-known treatment for age-related dysfunction across the entire body. Used in moderation, Akicel therapy significantly reduces all-cause mortality. Higher doses can have strong rejuvenative effects on superficial signs of aging.
 
 Akicel therapy is derived from the Aki Genome, the genetic code responsible for the immortal cells of Aki Koenig, AKICEL's namesake. Aki's cells demonstrate near perfect replication, bestowing upon her near perfect health and longevity. Akicel therapy introduces plasma infused with copies of these cells into a patient's bloodstream.
 

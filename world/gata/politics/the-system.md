@@ -26,7 +26,9 @@ This transformation led to operational efficiencies that produced surpluses call
 
 The System’s concerns are sometimes referred to as the 3 R’s: Resources, Risk, and Rights.
 
-### Technical Description
+***
+
+## Technical Description
 
 Under the hood, The System is an advanced, distributed state machine operating on a network of [hardcode](../../science-and-tech/hard-code.md) nodes and clients designed by [Systema](../enterprise/systema.md) using the [Asimov-complete](../../science-and-tech/asimovian-architecture.md) programming language, [LMNL](../../science-and-tech/hard-code.md#lmnl). [System Nodes](the-system.md#system-nodes) are large, facility-sized computers that house extremely secure, purpose-built [COGs](../../science-and-tech/cogs.md), capable of managing and enforcing the operation of GATA. Its architecture draws inspiration in part from Old World decentralized ledgers such as Bitcoin and Ethereum 8.0.
 
@@ -60,7 +62,7 @@ Each district has at least two “full nodes”, which are owned and maintained 
 
 When there are updates to System Core, the AIC drafts the module specification and Systema develops and installs these new modules in each district's System Nodes. Because The System is hard-coded, these updates must be done by hand. As a natural consequence, System Updates roll out slowly over time.&#x20;
 
-A draft schedule for each new version is submitted to the Second Quorum by the AIC, and the Second Quorum decide the final roll-out schedule. Customarily, the oldest districts are upgraded last. Newer districts are seen as ideal testing grounds for the latest updates.
+A draft schedule for each new version is submitted to the [Second Quorum](governance.md#the-second-quorum) by the AIC, and the Second Quorum decide the final roll-out schedule. Customarily, the oldest districts are upgraded last. Newer districts are seen as ideal testing grounds for the latest updates.
 
 ### Enterprise Nodes
 

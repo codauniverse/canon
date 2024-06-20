@@ -22,7 +22,7 @@ Districts are highly secure territories with strict borders and regulations. Dis
 
 Districts have democratically elected local governments and [Second Quorum](governance.md#the-second-quorum) representatives, sometimes referred to as governors. Local government oversees the [Local Authority](../law-and-order/local-authority.md) in its upholding of GATA law. Local governments also oversee the distribution of the district’s [System Yield](yield.md).
 
-Districts have been incorporated into The System and adhere to the regulations of the New Dawn Accords as interpreted by [the AIC](../institutions/atlan-information-control.md). By using The System, districts automatically report key metrics which are used to inform wider System operations, such as the automated supply chain, Yield calculations, and to confirm a district’s continued compliance with System requirements and laws.
+Districts have been incorporated into The System and adhere to the regulations of the [New Dawn Accords](new-dawn-accords.md) as interpreted by [the AIC](../institutions/atlan-information-control.md). By using The System, districts automatically report key metrics which are used to inform wider System operations, such as the automated supply chain, Yield calculations, and to confirm a district’s continued compliance with System requirements and laws.
 
 ***
 
@@ -34,7 +34,7 @@ Local governments enact GATA's laws and regulations on behalf of GATA, direct th
 
 The local government can also establish its own bylaws that can add to the existing legal framework of GATA, but cannot negate or override GATA's laws. In principle, the local government's legislative policies are reigned in by their constituency's continuing approval.
 
-The structure of the local government is largely dependent on the community and political organizations that formed their foundations. From refugee camp organizers, to local school administrators, or community defence brigades and even [gangs](../criminal-element/gangs.md), the founding character of the local governments (and, by extension, the Local Authority that they deputize) vary substantially and inform their operation and relationship with their constituencies.
+The structure of the local government is largely dependent on the community and political organizations that formed their foundations. From refugee camp organizers, to local school administrators, or community defense brigades and even [gangs](../criminal-element/gangs.md), the founding character of the local governments (and, by extension, the Local Authority that they deputize) vary substantially and inform their operation and relationship with their constituencies.
 
 ### Leadership
 
@@ -76,4 +76,4 @@ Further negotiations with the [African Union](../../african-union/) in the wake 
 
 These districts remain a part of their host states while being fully compatible with the operational and legal architecture of GATA. In effect, these districts become bridges between GATA and their host states, making for natural hubs for travel, cultural exchange, enterprise, and commerce.
 
-Within Bridge Districts, which enforce their own technological [paradigms](paradigms.md), GATA is willing to explore technology sharing initiatives. Even though Bridge Districts are not really part of GATA, it is customary for Bridge Districts to elect governors who serve a diplomatic and symbolic role, liaising with GATA’s [Second Quorum](governance.md#the-second-quorum) and their staff.\
+Within [Bridge Districts](districts.md#bridge-districts), which enforce their own technological [paradigms](paradigms.md), GATA is willing to explore technology sharing initiatives. Even though Bridge Districts are not really part of GATA, it is customary for Bridge Districts to elect governors who serve a diplomatic and symbolic role, liaising with GATA’s [Second Quorum](governance.md#the-second-quorum) and their staff.\

@@ -14,6 +14,8 @@ layout:
 
 # Children of Atla
 
+## Overview
+
 Orphans and child refugees who fall into the custody of the Greater Atlan Territorial Alliance (GATA). In the wake of the Dark Decade and Reconstruction, most children were born into a tumultuous context. As a result, it was not uncommon for children to not know their families, whether they were separated by death or circumstance.
 
 GATA’s policy of universally welcoming orphaned children has meant that, to this day, child refugees are frequently rescued from conflict zones, or turn up at district gates.

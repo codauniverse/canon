@@ -16,7 +16,7 @@ layout:
 
 ## Hundred Hands
 
-<figure><img src="../../../.gitbook/assets/hundredhands.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/hundredhands.png" alt=""><figcaption></figcaption></figure>
 
 The largest criminal syndicate in the world. Known to operate in all corners, the Hundred Hands are a network of secretive illegal enterprises and shot callers united in one goal; to circumvent all walls, pick all locks, and "take all that can be taken".
 

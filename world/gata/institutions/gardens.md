@@ -16,9 +16,9 @@ layout:
 
 ## **Overview**
 
-District Gardens are essential communal housing and agricultural facilities within the [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md). Established primarily to care for orphans and child refugees, these Gardens serve as safe havens where young wards of the state can grow and thrive under the supervision [of System](../politics/the-system.md)-employed caregivers and local volunteers.&#x20;
+District Gardens are essential communal housing and agricultural facilities within the [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md). Established primarily to care for orphans and child refugees, these Gardens serve as safe havens where young wards of the state can grow and thrive under the supervision of [System](../politics/the-system.md)-employed caregivers and local volunteers.&#x20;
 
-More than just residential spaces, the Gardens are also hubs of agricultural production and education, contributing significantly to the district's broader welfare.
+More than just residential spaces, the Gardens are also hubs of agricultural production and education, contributing significantly to their [district's](../politics/districts.md) broader welfare. Garden operations are overseen by a Headmaster.
 
 ***
 
@@ -40,11 +40,11 @@ The cultivation process is overseen by gardeners employed by the System, ensurin
 
 Education is a major part of a Garden's function. Garden schools, where attendance is mandatory for children under 14, provide a strong educational foundation to young residents.
 
-These schools are staffed by professional educators and supplemented with senior students from the local [Atlan Academy](the-atlan-academy-system.md).
+These schools are staffed by professional educators and supplemented with senior students from the local [Atlan Academy](the-atlan-academy-system.md), and administered by the Garden's Headmaster.
 
-Garden schools serve as a pipeline for identifying talented and promising young students are recruited into the district's prestigious Atlan Academy, furthering their education and opening up many future opportunities.
+Garden schools serve as a pipeline for identifying talented and promising young students are recruited into the district's prestigious [Atlan Academy](the-atlan-academy-system.md), furthering their education and opening up many future opportunities.
 
-Children who cannot be disciplined, or who demonstrate various destructive patterns of behavior are typically sent to an [Angelis](../military-and-defense/angelis.md)-sponsored school, where they are given a more structured, rigorous environment, with much more individual attention. Children who go this route sometimes return to their former Garden after some time, or they might continue on that path to working within GATA's martial institutions, from Angelis, to [Collections](../law-and-order/collections.md), or [Gate Patrol](../law-and-order/gate-patrol.md).
+Children who cannot be disciplined, or who demonstrate various destructive patterns of behavior are typically sent to an [Angelis](../military-and-defense/angelis.md)-sponsored school, where they are given a more structured, rigorous environment, with much more individual attention. Children who go this route sometimes return to their former Garden after some time, or they might continue on that path to working within GATA's martial institutions, from [Angelis](../military-and-defense/angelis.md), to [Collections](../law-and-order/collections.md), or [Gate Patrol](../law-and-order/gate-patrol.md).
 
 ***
 
