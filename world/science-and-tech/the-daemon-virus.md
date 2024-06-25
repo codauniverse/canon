@@ -34,12 +34,18 @@ BODYSNATCHER’s infestation of all legacy technology meant that the Old World�
 
 Research on BODYSNATCHER was critical in informing the [New Dawn Accords](../gata/politics/new-dawn-accords.md), [Asimovian architecture](asimovian-architecture.md), and the design of [The System](../gata/politics/the-system.md).
 
-Recently studies of BODYSNATCHER may confirm its long-suspected role in the onset of the [Dark Decade](../history/the-dark-decade.md), however additional research is required.
+Recent studies of BODYSNATCHER may confirm its long-suspected role in the onset of the [Dark Decade](../history/the-dark-decade.md), however additional research is required.
 
-#### Attempts to Address the Daemon
+### Attempts to Address the Daemon
 
-Researchers discovered that if one can successfully circumvent all of BODYSNATCHER’s modes of detecting if it is being watched, it is possible to “bodysnatch” BODYSNATCHER. Once overtaken, BODYSNATCHER can be compelled to self-annihilate.
+Researchers discovered that if one can successfully circumvent all of BODYSNATCHER’s methods of detecting if it has been discovered, it is possible to “bodysnatch” BODYSNATCHER. Once overtaken, BODYSNATCHER can be compelled to self-annihilate.
 
 While it was originally hoped that this technique would produce a panacea for the virus, this discovery revealed a yet-unseen behavior from the virus. When BODYSNATCHER is forced to self destruct in this way, any connected descendent infected machines also self-destruct, potentially causing a critical cascade across an entire network.
 
 It is believed by some that this could be the mechanism that initiated The Crash, however much remains unknown about the virus and its origins.
+
+### Safeguards when using Legacy Tech
+
+Today, in cases where legacy technology is still in use or being studied, a specialized filter component is attached directly to the user's interface to alert the user that the system in use is infected with the Daemon by shifting all color on the interface's display to red.
+
+It is ill-advised to create large networks of legacy systems, especially without employing filter modules at every opportunity in each node and router.

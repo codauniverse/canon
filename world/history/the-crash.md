@@ -14,6 +14,8 @@ layout:
 
 # The Crash
 
+<figure><img src="../../.gitbook/assets/crash-8345.png" alt=""><figcaption><p>A chaotic scene in a city shortly after power and communications went out.</p></figcaption></figure>
+
 ## Overview
 
 The onset of the [Dark Decade](the-dark-decade.md) is called "The Crash", sometimes also referred to somberly as “Sunset” in [GATA](../gata/); the moment the light of the [Old World](the-old-world.md) slipped beneath the horizon.

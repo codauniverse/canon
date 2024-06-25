@@ -14,6 +14,8 @@ layout:
 
 # Emitters
 
+<figure><img src="../../.gitbook/assets/emitters-534.png" alt=""><figcaption><p>A spatial emitter on a desk being used for scientific visualization.</p></figcaption></figure>
+
 ## Overview
 
 Emitters are used to project holograms.

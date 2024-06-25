@@ -14,6 +14,8 @@ layout:
 
 # Constructs
 
+<figure><img src="../../.gitbook/assets/constructs-353.png" alt=""><figcaption><p>A virtual construct running on a hard-coded system.</p></figcaption></figure>
+
 ## **Overview**
 
 Constructs are sophisticated virtual environments that users can access via headsets or links. They play a pivotal role in the daily lives of many inhabitants, serving as spaces for social interaction, entertainment, and various professional activities.
@@ -22,19 +24,31 @@ Constructs are sophisticated virtual environments that users can access via head
 
 ## **Virtual Constructs**
 
+<figure><img src="../../.gitbook/assets/constructs-646.png" alt=""><figcaption></figcaption></figure>
+
 Virtual constructs are virtual reality environments housed on hard-coded systems. These constructs are designed using Asimovian architecture, ensuring they are secure and predictable.
 
-Users can share access to virtual constructs remotely within the same district, however sharing constructs across districts is uncommon due to the prohibitively high bandwidth costs for cross-district traffic.
+Users can share access to virtual constructs remotely within the same district, however sharing constructs across districts is uncommon due to the prohibitively high bandwidth costs for cross-district traffic. This economic barrier means that most virtual constructs are confined to local use, fostering tight-knit virtual communities within individual districts.
 
-This economic barrier means that most virtual constructs are confined to local use, fostering tight-knit virtual communities within individual districts.
-
-The design of virtual constructs is highly varied, ranging from simple meeting spaces to complex simulations of real-world environments or entirely fantastical realms.&#x20;
+The design of virtual constructs is highly varied, ranging from simple meeting spaces to complex simulations of real-world environments or entirely fantastical realms. They are used for entertainment, remote meetings, law enforcement and intelligence, and education, among other uses.
 
 The security provided by the hard-coded systems underpinning these constructs ensures that they are reliable and free from the exploitative features that plagued legacy VR technologies.
+
+### Intelligence & Law Enforcement
+
+One of the most powerful and controversial applications for virtual constructs is the real-time or retrospective recreation of real-life environments for surveillance and investigations by intelligence and law enforcement.&#x20;
+
+Because of the strict regulations on sensor data and data aggregation stipulated in the WPP, in GATA and NDA-signatory states these kinds of constructs are primarily restricted to use by their highest level of intelligence.
+
+In GATA, real-time constructs are used by Angelis Watchers who also can collaborate with local governments and local authorities to provide valuable support in their operations.
+
+In the Free Territories, while there are no enshrined laws against the use of surveillance constructs, there is a strong distaste.
 
 ***
 
 ## **Astral Constructs**
+
+<figure><img src="../../.gitbook/assets/astral-4385.png" alt=""><figcaption></figcaption></figure>
 
 Astral constructs differ significantly from their virtual counterparts. Instead of being housed on computational platforms, Astral constructs exist entirely within the minds of their users.&#x20;
 
