@@ -14,7 +14,7 @@ layout:
 
 # Gear
 
-<figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt=""><figcaption><p>A Maverick in their signature white combat gear.</p></figcaption></figure>
 
 ## Overview
 
@@ -28,9 +28,9 @@ Beyond the safety of district walls, Combat Gear is significantly more prevalent
 
 ***
 
-<figure><img src="../../.gitbook/assets/nomoney420_character_standing_next_to_an_armored_combat_suit_sl_ca479467-ee05-4faa-9ed4-b20dced267bc.png" alt="" width="563"><figcaption></figcaption></figure>
-
 ## **Combat Gear**
+
+<figure><img src="../../.gitbook/assets/nomoney420_character_standing_next_to_an_armored_combat_suit_sl_ca479467-ee05-4faa-9ed4-b20dced267bc.png" alt="" width="563"><figcaption><p>Rapid Response units ready to deploy in their combat gear.</p></figcaption></figure>
 
 Combat Gear are armored suits or exoskeletons, wearable weapons platforms and advanced combat equipment. They range from minimal, powered bodysuits carrying light loadouts, to full-body armor suits and even sizable piloted mechs.
 
@@ -40,9 +40,9 @@ The prevalence of [Link Jammers](links.md#link-jammers) on the combat field has 
 
 ***
 
-<figure><img src="../../.gitbook/assets/nomoney420_extreme_closeup_of_a_man_with_advanced_leg_armor_in__084cdda1-095b-4f97-b40c-ff0da842acbb.png" alt="" width="563"><figcaption></figcaption></figure>
-
 ## Sprint Gear
+
+<figure><img src="../../.gitbook/assets/nomoney420_extreme_closeup_of_a_man_with_advanced_leg_armor_in__084cdda1-095b-4f97-b40c-ff0da842acbb.png" alt="" width="563"><figcaption><p>A wallrunner preparing to spring into action wearing sprint gear.</p></figcaption></figure>
 
 Sprint Gear is a subset of Gear purpose-built to allow humans to reach superhuman ground speed. It branches from early GATA combat gear developed during [The Reconstruction](../history/the-reconstruction.md). Sprint Gear uses joints powered by a kinetic dynamo that recycle kinetic energy into the gear's mechanical movements.
 
@@ -55,6 +55,8 @@ Sprint gear typically takes the form of leg extensions, however more extreme spr
 ***
 
 ## Boost Gear
+
+<figure><img src="../../.gitbook/assets/boostgear.png" alt="" width="563"><figcaption><p>Booster gear in action being used by Atla's local authority.</p></figcaption></figure>
 
 Boost Gear is a subset of Gear designed for propulsive movement, especially in emergency and combat scenarios. Boost gear uses propulsive jets instead of static nodes due to the latter's vulnerability to target lock.
 

@@ -42,7 +42,7 @@ However, it came at a cost; those who could endure the therapy experienced vario
 
 The Clear Serum project was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to military and intelligence applications.
 
-It is estimated that more than one hundred thousand Dark Decade and Reconstruction veterans had received some variant of the Clear Serum, most without their knowledge. Early Clear was heavily derived from Silver [Manna](../history/the-manna-flower.md) and various genetic modifications based on classified research, however the exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.
+It is estimated that more than one hundred thousand Dark Decade and Reconstruction veterans had received some variant of the Clear Serum, most without their knowledge. Early Clear was heavily derived from Silver [Manna](../../science-and-tech/the-manna-flower.md) and various genetic modifications based on classified research, however the exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.
 
 These early test subjects and their remarkable performance in the field inspired the creation of another Existence Doctrine Program; the Unassisted Decisive Asset program.
 

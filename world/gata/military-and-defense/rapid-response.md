@@ -36,7 +36,7 @@ However, Rapid Response is by its very nature an extremely dangerous job. The si
 
 As a result, mortality rate for Rapid Response is higher than standard infantry or [Guardians](guardians.md), particularly for operatives in their first few years on the job.
 
-Rapid Response are sometimes deployed with [Research Corps](../history/the-research-corps.md) field researchers whose expertise will be required in their mission. Field researchers are typically very capable tactical operators themselves, with extensive field training emphasizing information supremacy, deception, and disruption tactics that leverage their comprehensive scientific and technical knowledge and quick thinking.
+Rapid Response are sometimes deployed with [Research Corps](../../sol/institutions/the-research-corps.md) field researchers whose expertise will be required in their mission. Field researchers are typically very capable tactical operators themselves, with extensive field training emphasizing information supremacy, deception, and disruption tactics that leverage their comprehensive scientific and technical knowledge and quick thinking.
 
 
 

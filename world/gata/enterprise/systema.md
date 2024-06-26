@@ -20,7 +20,7 @@ layout:
 
 [The System](../politics/the-system.md) is maintained by Systema, a public enterprise based in [Luna](../key-locations/luna.md) that uses its lunar location to maintain and update [System nodes](../politics/the-system.md#system-nodes) with a secure line-of-sight connection.
 
-Systema began as a [Research Corps](../history/the-research-corps.md) project undertaken over the course of [the Dark Decade](../../history/the-dark-decade.md) in a nascent [Atla](../key-locations/atla.md), and was converted into a public enterprise during [GATA's](../the-basics.md) founding.
+Systema began as a [Research Corps](../../sol/institutions/the-research-corps.md) project undertaken over the course of [the Dark Decade](../../history/the-dark-decade.md) in a nascent [Atla](../key-locations/atla.md), and was converted into a public enterprise during [GATA's](../the-basics.md) founding.
 
 Systema's Earth-based technicians make up the bulk of their workforce. Systema's administrative staff live and work on the moon. At the end of their careers, some choose to take advantage of their earned lunar keys, retiring to [Sol’s](../../sol/the-basics.md) [Gemini City](../../sol/key-locations/gemini.md) on the Dark Side of the moon.
 
@@ -76,5 +76,5 @@ Systema's Earth-based technicians make up the bulk of their workforce. Systema's
 #### **Controlled Innovation:**
 
 * **Research Focus:** While conservative with core changes, Systema invests in research to stay ahead in technology and cybersecurity.
-* **Research Corps Partnership:** [The Research Corps](../history/the-research-corps.md) has been critical in helping Systema make necessary leaps in developing The System. When Systema reaches a critical impasse, The Research Corps is seemingly always there with the solution.
+* **Research Corps Partnership:** [The Research Corps](../../sol/institutions/the-research-corps.md) has been critical in helping Systema make necessary leaps in developing The System. When Systema reaches a critical impasse, The Research Corps is seemingly always there with the solution.
 * **Incremental Improvements:** Emphasizes gradual, tested improvements over radical changes to maintain stability.

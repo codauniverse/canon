@@ -26,7 +26,7 @@ layout:
 * September 2052 - Formation of the [Joint Atlantic Command](../gata/history/the-joint-atlantic-command-jac.md).
 * October 2052 - Discovery of [the Daemon Virus](../science-and-tech/the-daemon-virus.md).
 * December 2052 - Formalization of the [Existence Doctrine](../gata/military-and-defense/existence-doctrine.md).
-* 2054 - Development of the [Manna Flower](../gata/history/the-manna-flower.md).
+* 2054 - Development of the [Manna Flower](../science-and-tech/the-manna-flower.md).
 * 2056 - The founding of [Atla](../gata/key-locations/atla.md) and the [New Dawn Declaration](../gata/history/new-dawn-declaration.md).
 * 2056 - Founding of the 200 Kingdoms and [URSA](../ursa/).
 * 2061 - Official implementation of v1 of [The System](../gata/politics/the-system.md) by Atla.

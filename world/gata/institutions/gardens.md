@@ -30,7 +30,7 @@ This communal living arrangement not only ensures that the basic needs of these 
 
 ### **Manna Flower Cultivation**
 
-The most characteristic feature of a district's Garden are the vast fields and facilities dedicated to the cultivation of [Manna flowers](../history/the-manna-flower.md), a genetically engineered plant essential to life in GATA.
+The most characteristic feature of a district's Garden are the vast fields and facilities dedicated to the cultivation of [Manna flowers](../../science-and-tech/the-manna-flower.md), a genetically engineered plant essential to life in GATA.
 
 With an abundance of labor at hand, Manna flowers are grown and harvested on the large campuses of the Gardens and provide the children and wider district with a variety of products, including basic materials, nutritious food, and vital medicines.
 

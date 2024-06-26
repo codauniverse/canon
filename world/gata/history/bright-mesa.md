@@ -34,11 +34,11 @@ Several years into the Dark Decade, after its first wave of Manna Flower dispers
 
 In the years following its alignment with Atla, the encampment steadily grew until, by the time of The Reconstruction, its favelas had woven between and carved into the nearby mesas.
 
-<figure><img src="../../../.gitbook/assets/13.png" alt="" width="563"><figcaption><p>An aerial view of Bright Mesa's entertainment quarter.</p></figcaption></figure>
-
 ## Relations with GATA
 
 Because it originated in the same spirit as Atla, and served as the primary Atla-supported refugee camp in the region during the Dark Decade, assistance from the nascent GATA had always been forthcoming. Bright Mesa’s government voluntarily enforced GATA’s New Dawn Accords, and ran their own (albeit pared down) build of The System. In many ways, Bright was very much a district, even though it officially remained independent.
+
+<figure><img src="../../../.gitbook/assets/13.png" alt="" width="563"><figcaption><p>An aerial view of Bright Mesa's entertainment quarter.</p></figcaption></figure>
 
 But with a steady stream of refugees from the South and East, by the close of The Reconstruction its culture had taken on a character that was much more sympathetic to the beliefs of the Freedom movement. Growing representation by Sovereigns and the neo-luddite Eidetics continued to influence the local politics until Bright held a referendum to decide its destiny at the end of 2114.
 
@@ -46,13 +46,13 @@ But with a steady stream of refugees from the South and East, by the close of Th
 
 With tensions between GATA and the Free Territories having escalated in the region over the years, something had to give. The Texan Empire was accused of harboring organized crime syndicates that would target GATA homesteads and citizens when they enter the neutral territory outside of Bright.
 
+<figure><img src="../../../.gitbook/assets/19.png" alt="" width="563"><figcaption><p>GATA loyalists cheer on the arrival of GATA's diplomatic delegation.</p></figcaption></figure>
+
 There was a push from Atla to solidify their hold on Bright in response to this flagrant contravention of a standing agreement that Bright Mesa and its surrounding territory were to remain neutral. In truth, Bright Mesa was bound to GATA in too many ways to ever turn its back, but the leadership had to address the vocal dissent.
 
 A referendum was held, and given the definitive choice between GATA and independence, the people of Bright Mesa chose GATA with a decisive 65% voting to sign the NDA, versus 22% for Independence (with 13% undecided). The people had spoken.
 
 
-
-<figure><img src="../../../.gitbook/assets/19.png" alt="" width="563"><figcaption><p>GATA loyalists cheer on the arrival of GATA's diplomatic delegation.</p></figcaption></figure>
 
 ## The Bright Mesa Attack
 
@@ -76,6 +76,6 @@ The terrorist organization The CURE claimed responsibility for the attack. Confi
 
 * GATA Minister of the Arts
 * GATA Minister of Agriculture
-* Kyote (Folk Musician)
+* Kyote (Public Figure)
 * Soraya Kyote-Mata (Technologist)
-* Finneas Hughes (Angelis MAV)
+* Finneas Hughes (Angelis Rapid Response)

@@ -18,19 +18,19 @@ layout:
 
 ## Overview
 
-Deep within the foundations of [Atla](../key-locations/atla.md), beneath the swirling currents of the Atlantic, lies the ALTAR complex – the beating heart of the most clandestine institution in [GATA](../the-basics.md).
+Deep below the foundations of [Atla](../key-locations/atla.md), beneath the swirling currents of the Atlantic, lies the ALTAR complex – the beating heart of the most clandestine institution in [GATA](../the-basics.md).
 
 By exploring a myriad of new techniques and scientific principles, ALTAR's groundbreaking work produces a diverse ecology of technologies.
 
 This plurality of technological primitives helps the [AIC](atlan-information-control.md) maintain the [NDA’s](../politics/new-dawn-accords.md) doctrine of 'mutual incompatibility', ensuring each district's technological paradigm is [distinct](../politics/districts.md).
 
-In the world of Atla and GATA, while many secrets lurk beneath the surface, the influence of ALTAR remains undeniable.
+In the world of Atla and GATA, while many secrets lurk beneath the surface, the influence of ALTAR remains unmistakable.
 
 ***
 
 ## **History**
 
-Established concurrently with the founding of Atla as an extension of the [Research Corps](../history/the-research-corps.md), ALTAR's prime directive has always been the safeguarding and study of the mysterious ["Found Objects."](../history/found-objects.md)
+Established concurrently with the founding of Atla as an extension of the [Research Corps](../../sol/institutions/the-research-corps.md), ALTAR's prime directive has always been the safeguarding and study of the mysterious ["Found Objects."](../../science-and-tech/found-objects.md)
 
 Collected by the [Joint Atlantic Command (JAC)](../history/the-joint-atlantic-command-jac.md) in the tumultuous early days of [the Dark Decade](../../history/the-dark-decade.md), for most people around the world these anomalous objects remain shrouded in apocryphal myth.
 
@@ -40,13 +40,19 @@ Spanning a diverse size range from a mere 3cm to an imposing 155m, they have, fo
 
 ***
 
-## **GATA’s Innovation Engine**
+## Deep Sea Complex
 
 <figure><img src="../../../.gitbook/assets/altar-4843.png" alt="" width="563"><figcaption><p>A cavernous corridor deep in ALTAR's lower levels.</p></figcaption></figure>
 
-Boasting a recruitment roster that includes the most brilliant minds from not just GATA and Sol, but also from the recognized territories of [AU](../../african-union/politics/the-basics.md), [Aryabat](../../aryabat/the-basics.md), [New Imperial Japan](../../new-imperial-japan/the-basics.md), and [URSA](../../ursa/the-basics.md), ALTAR is a hive of innovation.
+***
 
-Researchers, usually working solitarily or in compact teams, unravel the mysteries of the Found Objects. While the primary motivation of their inquiries is ostensibly advancing scientific understanding, if a team's work produces new processes or technologies that are approved by ALTAR and paradigmed by Atlan Innovation Control (AIC), the researchers are rewarded with [enterprise](../enterprise/) licenses, granting them the right to transform their discoveries into cutting-edge products or license them to other qualified legal enterprises.
+## **GATA’s Innovation Engine**
+
+<figure><img src="../../../.gitbook/assets/altar-536.png" alt="" width="563"><figcaption><p>One of ALTAR's countless labs experimenting with novel science and technology.</p></figcaption></figure>
+
+Boasting a recruitment roster that includes the most brilliant minds from not just GATA and Sol, but also from the recognized territories of [AU](../../african-union/politics/the-basics.md), [Aryabat](../../aryabat/the-basics.md), [New Imperial Japan](../../new-imperial-japan/the-basics.md), and [URSA](../../ursa/the-basics.md), ALTAR is a multi-national hive of innovation and, albeit indirect, collaboration.
+
+Researchers, usually working solitarily or in compact teams, delve into the frontiers of the most top-secret research and unravel the mysteries of the Found Objects. While the primary motivation of their inquiries is ostensibly advancing scientific understanding, if a team's work produces new processes or technologies that are cleared by ALTAR and paradigmed by the AIC, the researchers are rewarded with [enterprise](../enterprise/) licenses, granting them the right to transform their discoveries into cutting-edge products or license them to qualifying legal enterprises.
 
 ***
 

@@ -36,4 +36,4 @@ Since the end of the Reconstruction, the Existence Doctrine has no longer been i
 
 As a result, many of the technologies and machinery used during The Reconstruction are no longer permitted for use within GATA.&#x20;
 
-Even still, the specter of its mythologized “secret advanced technology” derived from the mysterious [Found Objects](../history/found-objects.md) has proven immensely useful for GATA in projecting its power politically without having to reveal its true capabilities.
+Even still, the specter of its mythologized “secret advanced technology” derived from the mysterious [Found Objects](../../science-and-tech/found-objects.md) has proven immensely useful for GATA in projecting its power politically without having to reveal its true capabilities.

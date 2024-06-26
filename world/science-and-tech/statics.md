@@ -36,7 +36,7 @@ The number of nodes determines the way in which an object can orient in the grav
 
 Static nodes can range from 5 cm in diameter to 1 meter. The diameter of the node's core determines how quickly the node's resonant frequency can be entrained up or down. Smaller nodes can approach up to 90% firmness very quickly, permitting faster, more agile movement—but the last 10% of firmness would require an asymptotically higher current. Larger nodes take quite a while to reach 90% firmness, but reaching 99.9999% firmness is much faster and more energy efficient than with smaller nodes.
 
-Static nodes are made possible by advances in material sciences pioneered by Atla’s [Research Corps](../gata/history/the-research-corps.md) during [The Reconstruction](../history/the-reconstruction.md) era.
+Static nodes are made possible by advances in material sciences pioneered by Atla’s [Research Corps](../sol/institutions/the-research-corps.md) during [The Reconstruction](../history/the-reconstruction.md) era.
 
 ***
 

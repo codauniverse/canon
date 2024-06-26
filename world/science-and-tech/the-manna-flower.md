@@ -14,13 +14,13 @@ layout:
 
 # The Manna Flower
 
-<figure><img src="../../../.gitbook/assets/mannaflower-0sfhkhgf.png" alt=""><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mannaflower-0sfhkhgf.png" alt=""><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
 
 ## Overview
 
-Engineered by [Atlan](../key-locations/atla.md) scientists during the early years of the [Dark Decade](../../history/the-dark-decade.md), the Manna flower is not just a marvel of genetic engineering, but also a symbol of hope. Seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal.
+Engineered by [Atlan](../gata/key-locations/atla.md) scientists during the early years of the [Dark Decade](../history/the-dark-decade.md), the Manna flower is not just a marvel of genetic engineering, but also a symbol of hope. Seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal.
 
-Designed to develop through [three stages of maturity](the-manna-flower.md#development-cycle) during which the plant can be induced to produce a [myriad of compounds](the-manna-flower.md#variants-and-uses). These compounds formed the basis of medicines and materials that provided solace and healing to the people of the world throughout the challenging times of the Dark Decade and the subsequent [Reconstruction era](../../history/the-reconstruction.md).
+Designed to develop through [three stages of maturity](the-manna-flower.md#development-cycle) during which the plant can be induced to produce a [myriad of compounds](the-manna-flower.md#variants-and-uses). These compounds formed the basis of medicines and materials that provided solace and healing to the people of the world throughout the challenging times of the Dark Decade and the subsequent [Reconstruction era](../history/the-reconstruction.md).
 
 The Manna flower's significance extended beyond its medicinal attributes. As Atla's first real political emblem, it played a poignant role in uniting survivors. New ships wishing to join the growing Atlan fleet would fly a white flag as a sign of peace. Once accepted, these ships were given a Manna flower as a symbol of unity and were invited to adorn their flags with a blue depiction of the flower.
 
@@ -28,17 +28,17 @@ This tradition of the blue Manna flower on a white backdrop persists and has bec
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/ATLA-flag.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ATLA-flag.png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/GATA-flag (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GATA-flag (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
 ***
 
-<figure><img src="../../../.gitbook/assets/manna.png" alt="" width="563"><figcaption><p>Yellow and Blue Manna Flower specimens.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/manna.png" alt="" width="563"><figcaption><p>Yellow and Blue Manna Flower specimens.</p></figcaption></figure>
 
 ## **Variants and Uses**
 
@@ -90,7 +90,7 @@ The final phase before seed release. Different harvesting methods and precise ti
 
 ***
 
-<figure><img src="../../../.gitbook/assets/mannaflower-0sg983.png" alt="" width="563"><figcaption><p>The Manna flower, a symbol for many.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mannaflower-0sg983.png" alt="" width="563"><figcaption><p>The Manna flower, a symbol for many.</p></figcaption></figure>
 
 ## **Modern Context**
 

@@ -14,7 +14,7 @@ layout:
 
 # Psychotech
 
-<figure><img src="../../.gitbook/assets/psychotech.png" alt=""><figcaption><p>A small psychotech module that can be inserted in various link interfaces or sync hubs.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/psychotech.png" alt=""><figcaption><p>A small psychotech module that can be plugged into compatible link interfaces or sync hubs.</p></figcaption></figure>
 
 ## Overview
 
@@ -26,4 +26,4 @@ Psychotech, or "psychs" for short, contain associational data and carefully cons
 
 Unstable or corrupted psychotech can be dangerous and potentially cause irreversible long-term damage to its user.
 
-The architecture of psychotech is closely related to the design patterns found in cogs, essentially representing an extension of the users cognition that can be accessed consciously by leveraging quantum properties of its crystal-based storage.
+The architecture of psychotech is closely related to the design patterns found in [cogs](cogs.md), essentially representing an extension of the users cognition that can be accessed consciously by leveraging quantum properties of its crystal-based storage.

@@ -26,9 +26,9 @@ It imagines the New Dawn as a world of diverse political and technological parad
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_from_the_deck_of_future_celebrating_16c8eaf2-2911-4e01-8504-1ee66893afe4.png" alt="" width="563"><figcaption><p>The day of the New Dawn Declaration as the JAC votes.</p></figcaption></figure>
-
 ## History
+
+<figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_from_the_deck_of_future_celebrating_16c8eaf2-2911-4e01-8504-1ee66893afe4.png" alt="" width="563"><figcaption><p>The day of the New Dawn Declaration as the JAC votes.</p></figcaption></figure>
 
 Inspired by The Big Talk where Joint-Atlantic Command (JAC) leadership, under the Existence Doctrine, resolved to disclose a significant amount of classified information to JAC civilians. The revelations spurred an infectious spirit of hope that was ultimately crystalized into the New Dawn Declaration. The first draft was circulated among the JAC's civilian population on November 2, 2056.
 
