@@ -14,7 +14,7 @@ layout:
 
 # ALTAR
 
-<figure><img src="../../../.gitbook/assets/altar.png" alt="" width="563"><figcaption><p>ALTAR's secretive high council.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/altar-563.png" alt=""><figcaption><p>A stark hallway in the upper levels of ALTAR's deep sea facility.</p></figcaption></figure>
 
 ## Overview
 
@@ -42,6 +42,8 @@ Spanning a diverse size range from a mere 3cm to an imposing 155m, they have, fo
 
 ## **GATA’s Innovation Engine**
 
+<figure><img src="../../../.gitbook/assets/altar-4843.png" alt="" width="563"><figcaption><p>A cavernous corridor deep in ALTAR's lower levels.</p></figcaption></figure>
+
 Boasting a recruitment roster that includes the most brilliant minds from not just GATA and Sol, but also from the recognized territories of [AU](../../african-union/politics/the-basics.md), [Aryabat](../../aryabat/the-basics.md), [New Imperial Japan](../../new-imperial-japan/the-basics.md), and [URSA](../../ursa/the-basics.md), ALTAR is a hive of innovation.
 
 Researchers, usually working solitarily or in compact teams, unravel the mysteries of the Found Objects. While the primary motivation of their inquiries is ostensibly advancing scientific understanding, if a team's work produces new processes or technologies that are approved by ALTAR and paradigmed by Atlan Innovation Control (AIC), the researchers are rewarded with [enterprise](../enterprise/) licenses, granting them the right to transform their discoveries into cutting-edge products or license them to other qualified legal enterprises.
@@ -50,20 +52,20 @@ Researchers, usually working solitarily or in compact teams, unravel the mysteri
 
 ## **Leadership**
 
-ALTAR is a small council of undisclosed scientists, industrialists and military leadership who serve 10-year terms bound within the confines of the deep-ocean ALTAR complex. Some confident speculation can be made about past and present appointments, however no official confirmation has ever been provided.
+<figure><img src="../../../.gitbook/assets/altar.png" alt="" width="563"><figcaption><p>ALTAR's secretive high council.</p></figcaption></figure>
 
-At any given time, ALTAR leadership has only one Speaker, who is responsible for all communications between ALTAR and GATA leadership (generally only the [First Quorum](../politics/governance.md#the-first-quorum), with few exceptions).
+ALTAR is helmed by a small council of undisclosed scientists, industrialists and military leadership who serve 10-year terms bound within the confines of the deep-ocean ALTAR complex. Some confident speculation can be made about past and present appointments, however no official confirmation has ever been provided in its long history.
+
+At any given time, ALTAR leadership has only one Speaker, a liason who is responsible for all communications between ALTAR and GATA leadership (generally only the [First Quorum](../politics/governance.md#the-first-quorum), with few exceptions). The Speaker does not participate in deliberations and has limited insight into ALTAR's operations in order to preserve the organization's tight compartmentalization. They never meet with the rest of the council in person.
 
 Idle whispers and speculations about ALTAR's leadership permeate the corridors of Atla, and beyond. Its secretive nature is a legacy of compartmentalized programs predating the Dark Decade fueling numerous conspiracy theories, however, none have been substantiated.
 
-***
+### Interaction with Government
 
-## Operation
+ALTAR leadership works "closely" with the First Quorum, following strict protocols in all such interactions so as to preserve dangerous secrets while also providing the First Quorum with actionable information, recommendations, and abstracted choices to permit oversight.
 
-ALTAR leadership works closely with the First Quorum, and follows strict protocols in all such interactions so as to preserve dangerous secrets while also providing the First Quorum with actionable information, recommendations, and abstracted choices.
+In the event that dangerous secret information must be revealed to the First Quorum in order to facilitate a decision, one Quorum member will be required to go to the ALTAR complex in person where they will meet with the Speaker, learn the information, make a decision on behalf of the First Quorum in-situ, and in most cases, will then remain quarantined within the ALTAR complex for a period, based on the sensitivity of the information.
 
-In the event that dangerous secret information must be revealed to the First Quorum in order to facilitate a decision, one Quorum member will be required to go to the ALTAR complex in person where they will meet with The Speaker, learn the information, make a decision on behalf of the First Quorum, and remain quarantined within the ALTAR complex for up to 10 years, based on the sensitivity of the information.
-
-The policy is that First Quorum member considered most qualified for membership on ALTAR’s council would be asked to do this, creating a natural opportunity to freshen the council and begin the councilor's transition into a position in ALTAR.
+The policy is that the First Quorum member considered most qualified for membership on ALTAR’s council would be asked to do this, creating a natural opportunity to freshen the First Quorum's ranks and begin the councilor's transition into a position at ALTAR.
 
 \

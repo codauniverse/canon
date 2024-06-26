@@ -14,6 +14,8 @@ layout:
 
 # Akicel Therapy
 
+<figure><img src="../../../.gitbook/assets/akiceltherapy.png" alt=""><figcaption><p>A patient waking from their Akicel rejuvenation treatment.</p></figcaption></figure>
+
 ## Overview
 
 Developed by [AKICEL](../enterprise/akicel.md), the Akicel Therapy is a well-known treatment for age-related dysfunction across the entire body. Used in moderation, Akicel therapy significantly reduces all-cause mortality. Higher doses can have strong rejuvenative effects on superficial signs of aging.

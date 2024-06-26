@@ -14,7 +14,7 @@ layout:
 
 # Operators
 
-<figure><img src="../../../.gitbook/assets/operators.png" alt="" width="563"><figcaption><p>A crew of operators getting ready for a big job.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/operators.png" alt=""><figcaption><p>A crew of operators getting ready for a big job.</p></figcaption></figure>
 
 ## Overview
 
