@@ -22,9 +22,9 @@ Static Field technology, or statics for short, uses ‘[static nodes](statics.md
 
 ***
 
-<figure><img src="../../.gitbook/assets/staticnodes.png" alt="" width="563"><figcaption><p>A static node that can be installed inside of structures or static engines.</p></figcaption></figure>
-
 ## **Static Nodes**
+
+<figure><img src="../../.gitbook/assets/staticnodes.png" alt="" width="563"><figcaption><p>A static node that can be installed inside of structures or static engines.</p></figcaption></figure>
 
 Static nodes are small polyhedral components whose position in its surrounding gravitational field can be modulated by applying a charge to the node.
 
@@ -40,9 +40,9 @@ Static nodes are made possible by advances in material sciences pioneered by Atl
 
 ***
 
-<figure><img src="../../.gitbook/assets/staticengines.png" alt="" width="563"><figcaption><p>A large static engine inside of an industrial static tanker.</p></figcaption></figure>
-
 ## **Static Engines & Motion**
+
+<figure><img src="../../.gitbook/assets/staticengines.png" alt="" width="563"><figcaption><p>A large static engine inside of an industrial static tanker.</p></figcaption></figure>
 
 Static engines continuously modulate the charge applied to three or more nodes to produce smooth, stable movement within the Earth’s gravitational field. Static engines are essential for transporting extremely heavy loads, as demonstrated during the Reconstruction with GATA's long-defunct staging platforms that crawled the skies of Greater Atla.
 
