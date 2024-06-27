@@ -14,9 +14,11 @@ layout:
 
 # Greater Toronto
 
+<figure><img src="../../../.gitbook/assets/greatertoronto.png" alt=""><figcaption><p>A view of Greater Toronto's famed forest city.</p></figcaption></figure>
+
 ## Overview
 
-One of GATA's first districts, formed from its largest North American refugee camp. The Greater Toronto refugee camp grew to support the huge population of people who had come to live in the Great Lakes region over the course of the Dark Decade.
+GATA's second district, formed from its largest North American refugee camp. The Greater Toronto refugee camp grew to support a large population of people who had come to live in the Great Lakes region over the course of the Dark Decade.
 
 ***
 
