@@ -46,6 +46,8 @@ It is believed by some that this could be the mechanism that initiated The Crash
 
 ### Safeguards when using Legacy Tech
 
+While it has been thus far impossible to design general purpose computers and classical networks that are impervious to Daemon infection, there has been progress in prevention and detection thanks to the ubiquity of modern hard-coded filter modules.
+
 Today, in cases where legacy technology is still in use or being studied, a specialized filter component is attached directly to the user's interface to alert the user that the system in use is infected with the Daemon by shifting all color on the interface's display to red.
 
-It is ill-advised to create large networks of legacy systems, especially without employing filter modules at every opportunity in each node and router.
+It is ill-advised to create large networks of legacy systems, especially without employing these Anti-Daemon filter modules at every opportunity in each node and router.
