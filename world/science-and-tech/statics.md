@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Static Field technology, or statics for short, uses ‘[static nodes](statics.md#static-nodes)’ to position and move objects, crafts, platforms, and structures within the Earth’s gravitational field, or ‘static field’ as it relates to static technology.
+Static Field technology, or statics for short, uses ‘[static nodes](statics.md#static-nodes)’ to position and move objects, crafts, platforms, and structures within the Earth’s gravitational field, or ‘static field’ as it relates to static technology. Statics are much more prevalent in GATA's districts and across Greater Atla, however they can also be found in use within all of GATA's partner states. Conversely, they are a rarer sight in URSA and rarer still across the Free Territories.
 
 ***
 
