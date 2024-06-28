@@ -14,7 +14,7 @@ layout:
 
 # Greater Toronto
 
-<figure><img src="../../../.gitbook/assets/greatertoronto.png" alt=""><figcaption><p>A view of Greater Toronto's famed forest city.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/greatertoronto-589.png" alt=""><figcaption><p>A view of Greater Toronto's famed forest city.</p></figcaption></figure>
 
 ## Overview
 
