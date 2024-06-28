@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-GATA's second district, formed from its largest North American refugee camp. The Greater Toronto refugee camp grew to support a large population of people who had come to live in the Great Lakes region over the course of the Dark Decade.
+GATA's second district, formed from its largest North American refugee camp. The Greater Toronto refugee camp grew to support a large population of people who had come to live in the Great Lakes region over the course of the Dark Decade. Known for its lush greenery, a cultivated remnant of nature's reclamation of the city during the Dark Decade, its towering cityscape, as well as its iconic Steps rising from Lake Ontario.
 
 ***
 
@@ -30,6 +30,6 @@ The Steps, as they are referred to in Greater Toronto, are immense Atlan staging
 
 The Steps saw a brief repurposing during the late Reconstruction's boom when private enterprise was permitted in the district and the free market opened back up across GATA because the Steps have no paradigm. Increasing tensions with Free Territory sympathizers in the Great Lakes region resulted in a small but deadly raid on the Steps and the theft of expensive fabricators. After this raid, Greater Toronto’s local government tightened their enforcement of district borders at the orders of Atla and the Steps once again fell into disuse. Plans have been proposed over the years to convert them into a garden monument.&#x20;
 
-#### Resurgence in Use
+### Resurgence in Use
 
-Recently the local youth have begun taking static gondolas and dartboards out to the offshore platforms to throw raves outside of the paradigm. So far, while their escapades have frustrated local officials who have no jurisdiction on The Steps, the situation has not yet warranted the attention of any Atla’s enforcement arms or GATAs largest democratic institution, Q3 (the Third Quorum).
+Recently the local youth have begun taking statics out to the offshore platforms to throw raves outside of the district's paradigm. So far, while their escapades have frustrated local officials who have no jurisdiction on The Steps, the situation has not yet warranted the attention of any Atla’s enforcement arms or GATA's democratic institutions.
