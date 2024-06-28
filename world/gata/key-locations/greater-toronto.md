@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-GATA's second district, formed from its largest North American refugee camp. The Greater Toronto refugee camp grew to support a large population of people who had come to live in the Great Lakes region over the course of the Dark Decade. Known for its lush greenery, a cultivated remnant of nature's reclamation of the city during the Dark Decade, its towering cityscape, as well as its iconic Steps rising from Lake Ontario.
+GATA's second district, formed from its largest North American refugee camp. The Greater Toronto refugee camp grew to support a large population of people who had come to live in the Great Lakes region over the course of the Dark Decade. Known for its lush greenery, a cultivated remnant of nature's reclamation of the city during the Dark Decade, its towering cityscape interwoven by elevated promenades, as well as its iconic Steps rising from Lake Ontario.
 
 ***
 
