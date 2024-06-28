@@ -54,7 +54,7 @@ Prominent statics manufacturers include Pegasus (GATA), Nimbus (GATA), and Gibra
 
 #### Ships
 
-Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly affordable for civilian use.
+Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly affordable for civilian use. Static ships can be used in trans-medium travel, functional in air, water, and space.
 
 #### Rafts
 
