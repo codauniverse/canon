@@ -24,7 +24,7 @@ GATA's second district, formed from its largest North American refugee camp. The
 
 ## The Steps
 
-<figure><img src="../../../.gitbook/assets/thesteps.png" alt="" width="563"><figcaption><p>The Steps rising from Lake Ontario off the shore of Greater Toronto.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/thesteps-53.png" alt="" width="563"><figcaption><p>The Steps rising from Lake Ontario off the shore of Greater Toronto.</p></figcaption></figure>
 
 The Steps, as they are referred to in Greater Toronto, are immense Atlan staging platforms left over from the Reconstruction days. These platforms were built off the coast in the lake to allow GATA to deliver large shipments of materials and other resources to the fledgling district. This was necessary because even GATA is beholden to its own laws, thus nearby gray zones were often utilized as staging areas where the possession and use of unparadigmed tech was technically not a crime. When static platforms were paradigmed into the district there was no more need to ferry System shipments from the “grey zone” platforms into the city.
 
