@@ -62,40 +62,58 @@ Static vehicles come in a wide range of shapes and sizes, tailored to their inte
 
 Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly affordable for civilian use.
 
-<figure><img src="../../.gitbook/assets/staticcycle.png" alt="" width="563"><figcaption><p>A static cycle idling in a garage.</p></figcaption></figure>
+***
 
 ### Cycles
 
+<figure><img src="../../.gitbook/assets/staticcycle.png" alt="" width="563"><figcaption><p>A static cycle idling in a garage.</p></figcaption></figure>
+
 Smaller seated vehicles, typically with no enclosure surrounding the occupant(s). Designed for higher top speeds and generally only intended to carry one or two passengers. Modelled after traditional wheeled motorcycles.
 
-<figure><img src="../../.gitbook/assets/collections-sfg87.png" alt="" width="563"><figcaption></figcaption></figure>
+***
 
 ### Rafts
 
+<figure><img src="../../.gitbook/assets/collections-sfg87.png" alt="" width="563"><figcaption><p>A static raft employed by Collections to recover illegal contraband.</p></figcaption></figure>
+
 Small, simple static platforms made for ferrying heavy cargo and equipment across shorter distances. Used widely in industrial, law enforcement, and military contexts.
+
+***
 
 ### Gondolas
 
+<figure><img src="../../.gitbook/assets/gondola.png" alt="" width="563"><figcaption><p>A public gondola ready to ferry people across the city.</p></figcaption></figure>
+
 These moving extensions of urban architecture are a common form of public transportation in districts. Gondolas typically take the form of small platforms with handrails, and sometimes seating.
 
-<figure><img src="../../.gitbook/assets/staticboard-535.png" alt="" width="563"><figcaption></figcaption></figure>
+***
 
 ### Dart Boards
 
+<figure><img src="../../.gitbook/assets/staticboard-535.png" alt="" width="563"><figcaption><p>A youth exploring the wilds on a small static board.</p></figcaption></figure>
+
 Highly maneuverable personal conveyance devices with static engines. Popular among the youth, and sometimes finely tuned for high-performance.
+
+***
 
 ### Platforms
 
+<figure><img src="../../.gitbook/assets/staticplatforms.png" alt="" width="563"><figcaption><p>A static platform used for construction.</p></figcaption></figure>
+
 Large static platforms that serve as staging areas for construction, industry, and military operations. The most famous static platform is the [Azure Plateau](../sol/key-locations/azure-plateau.md).
 
-<figure><img src="../../.gitbook/assets/yield.png" alt="" width="563"><figcaption></figcaption></figure>
+***
 
 ### Tankers
 
+<figure><img src="../../.gitbook/assets/yield.png" alt="" width="563"><figcaption><p>A static tanker carrying System Yield above a district shipyard.</p></figcaption></figure>
+
 Large static vehicles used for large scale shipping. Tankers are used widely by enterprise for district-to-district shipping and are used by GATA to transport [System Yield](../gata/politics/yield.md).
 
-<figure><img src="../../.gitbook/assets/greateratla-9542 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+***
 
 ### Skyliners
+
+<figure><img src="../../.gitbook/assets/greateratla-9542 (1).png" alt="" width="563"><figcaption><p>Static skyliners traversing the skies above Greater Atla.</p></figcaption></figure>
 
 Large luxury static ships used for travel and leisure. Skyliners are a popular form of travel between districts, or to remote [luxury homesteads](../gata/politics/homesteads.md#luxury-homesteads) found across Greater Atla.
