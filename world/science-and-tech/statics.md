@@ -52,30 +52,50 @@ Smaller static vehicles are reliant on compact batteries to power their static e
 
 Prominent statics manufacturers include Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU).
 
-#### Ships
+***
 
-Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly affordable for civilian use. Static ships can be used in trans-medium travel, functional in air, water, and space.
+## Types of Static Vehicles
 
-#### Rafts
+Static vehicles come in a wide range of shapes and sizes, tailored to their intended use. Their maneuverability and carrying capacity requirements determine the number and size of static engines employed, and static vehicles can be used in trans-medium travel, functional in air, water, and space, which further informs their forms and features.
+
+### Ships
+
+Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly affordable for civilian use.
+
+<figure><img src="../../.gitbook/assets/staticcycle.png" alt="" width="563"><figcaption><p>A static cycle idling in a garage.</p></figcaption></figure>
+
+### Cycles
+
+Smaller seated vehicles, typically with no enclosure surrounding the occupant(s). Designed for higher top speeds and generally only intended to carry one or two passengers. Modelled after traditional wheeled motorcycles.
+
+<figure><img src="../../.gitbook/assets/collections-sfg87.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Rafts
 
 Small, simple static platforms made for ferrying heavy cargo and equipment across shorter distances. Used widely in industrial, law enforcement, and military contexts.
 
-#### Gondolas
+### Gondolas
 
 These moving extensions of urban architecture are a common form of public transportation in districts. Gondolas typically take the form of small platforms with handrails, and sometimes seating.
 
-#### Dart Boards
+<figure><img src="../../.gitbook/assets/staticboard-535.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Dart Boards
 
 Highly maneuverable personal conveyance devices with static engines. Popular among the youth, and sometimes finely tuned for high-performance.
 
-#### Platforms
+### Platforms
 
 Large static platforms that serve as staging areas for construction, industry, and military operations. The most famous static platform is the [Azure Plateau](../sol/key-locations/azure-plateau.md).
 
-#### Tankers
+<figure><img src="../../.gitbook/assets/yield.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Large static vehicles used for large scale shipping. Tankers are used to transport [System Yield](../gata/politics/yield.md).
+### Tankers
 
-#### Skyliners
+Large static vehicles used for large scale shipping. Tankers are used widely by enterprise for district-to-district shipping and are used by GATA to transport [System Yield](../gata/politics/yield.md).
+
+<figure><img src="../../.gitbook/assets/greateratla-9542 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Skyliners
 
 Large luxury static ships used for travel and leisure. Skyliners are a popular form of travel between districts, or to remote [luxury homesteads](../gata/politics/homesteads.md#luxury-homesteads) found across Greater Atla.
