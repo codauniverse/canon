@@ -14,7 +14,7 @@ layout:
 
 # Quantum Seeds
 
-<figure><img src="../../.gitbook/assets/quantumseeds.png" alt=""><figcaption><p>A quantum seed</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/quantumseeds-563.png" alt=""><figcaption><p>A set of entangled quantum seeds.</p></figcaption></figure>
 
 ## Overview
 
@@ -24,4 +24,4 @@ Quantum seeds are not widely [paradigmed](../gata/politics/paradigms.md) in [GAT
 
 Quantum seeds are based on the science of time crystals, regular crystalline structures that evolve over time. The internal structure of a quantum seed is a complex matrix of ever-evolving facets, and as long as it is cooled to absolute zero inside of a temperature-controlled module, each entangled quantum seed will remain physically identical to every other quantum seed in its cohort.
 
-If a quantum seed's temperature is disrupted, is physically altered from the outside, or its structure is otherwise damaged, its entanglement with its cohort is broken, rendering it useless.
+If a quantum seed's temperature is disrupted, or its structure is physically damaged, its entanglement with its cohort is broken, rendering it inert.

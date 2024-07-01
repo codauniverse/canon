@@ -68,9 +68,11 @@ One famous example of astral engineering is the Crystal Tower created by an earl
 
 <figure><img src="../../.gitbook/assets/astralseed.png" alt="" width="563"><figcaption><p>An astral module with an embedded quantum seed.</p></figcaption></figure>
 
-Astral seeds are entangled [quantum seeds](quantum-seeds.md) used by Astral users. Astral seeds are embedded in hard-coded modules that can then be connected to sync hubs, allowing Astral users to interact directly and instantly with other minds on the astral network over any distance.
+Astral seeds are entangled [quantum seeds](quantum-seeds.md) used by Astral users. Astral seeds are embedded in temperature-controlled hard-coded modules that can then be connected to sync hubs, allowing Astral users to interact directly and instantly with other minds on the astral network over any distance.
 
 Seeds are entangled together in cohorts. There were only 40 Astral seeds in the first cohort, however it is estimated that there are now over 2 million entangled astral seeds connected to the Astral.
+
+As with all quantum seeds, astral seeds must remain cooled to absolute zero in order to allow its crystalline structure to evolve and remain synchronized with the rest of its cohort of entangled seeds.
 
 ***
 
