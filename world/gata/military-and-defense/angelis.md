@@ -14,17 +14,21 @@ layout:
 
 # Angelis
 
+<figure><img src="../../../.gitbook/assets/angelis-853.png" alt=""><figcaption><p>A battalion of Angelis infantry forces.</p></figcaption></figure>
+
 ## Overview
 
-Headquartered in [Atla](../key-locations/atla.md), and staffed by more than 10 million personnel stationed around the world and in orbit, Angelis is [GATA](../the-basics.md)’s largest enterprise. Angelis provides military and intelligence services for GATA and [its partner states](../politics/new-dawn-accords.md#signatories).
+A special public-private enterprise sanctioned by [GATA](../the-basics.md), headquartered in [Atla](../key-locations/atla.md), and staffed by more than 10 million personnel stationed around the world and in orbit.
 
-Angelis was founded at the close of [The Reconstruction](../../history/the-reconstruction.md), as GATA fractured its national military into various dedicated branches, formalizing structures that had emerged naturally over its history.
+Angelis' military might is formidable, with their ranks consisting of regular and special forces units, supported by a vast intelligence apparatus. Angelis is GATA’s largest [enterprise](../enterprise/), and provides military and intelligence services for GATA and [its partner states](../politics/new-dawn-accords.md#signatories).
+
+Angelis was founded at the close of [The Reconstruction](../../history/the-reconstruction.md), as GATA fractured its national military into various dedicated branches, formalizing organizational structures that had developed naturally over its history.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/75.png" alt="" width="563"><figcaption><p>Angelis Watcher overseeing the safety of Greater Atla.</p></figcaption></figure>
-
 ## **Watchers**
+
+<figure><img src="../../../.gitbook/assets/75.png" alt="" width="563"><figcaption><p>Angelis Watcher overseeing the safety of Greater Atla.</p></figcaption></figure>
 
 Angelis strategy and intelligence. Watchers provide expert information gathering, border protection, personal protection, asset tracking, private communications, targeted downtime, and comprehensive strategic foresight. Having a Watcher on the line is an invaluable resource in a crisis.
 
@@ -40,7 +44,7 @@ Watchtowers are also where Mavericks and Angelis [Rapid Response](rapid-response
 
 ### **Overlooks**&#x20;
 
-Small orbital habitats where Rapid Response and [Mavericks](mavs.md) are dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce time to target. When Rapid Response or Maverick units are deployed on an operation, they drop from Overlooks in Aegis drop pods.
+Small orbital habitats where [Rapid Response](rapid-response.md) and [Mavericks](mavs.md) are dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce time to target. When Rapid Response or Maverick units are deployed on an operation, they typically drop from Overlooks in Aegis drop pods.
 
 ***
 
@@ -56,6 +60,6 @@ Armored drop pods that use [Static Field technology](../../science-and-tech/stat
 
 Angelis has the most advanced combat gear in the world. Angelis infantry uses more standard loadouts, but Guardians, Rapid Response, and MAVs are trained to use highly advanced gear that can be tailored to their talents and each mission’s requirements.
 
-* **Guardians:** Blue Combat Gear / Large-to-mid-size / Heavy loadout
-* **Rapid Response:** Red Combat Gear / Mid-size / Less-lethal loadout
-* **MAVs:** White Combat Gear / Small / Form-Fitting / Minimal loadout
+* [**Guardians**](guardians.md)**:** Blue Combat Gear / Large-to-mid size / Heavy loadout
+* [**Rapid Response**](rapid-response.md)**:** Red Combat Gear / Mid-to-small size / Less-lethal loadout
+* [**MAVs**](mavs.md)**:** White Combat Gear / Small, form-fitting / Minimal loadout

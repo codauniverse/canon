@@ -96,6 +96,6 @@ Known only among program administrators, personnel, and the elite soldiers thems
 
 * Dante Newton, stands as a testament to the prowess of the original UDAs. With countless deployments to his name, he is best remembered by those in-the-know for facing an entire [Free Territory](../../free-territories/) militia in North Texas to complete his mission successfully at the cost of his own life.
 
-<figure><img src="../../../.gitbook/assets/nomoney420_character_in_armored_combat_suit_sleek_angular_desig_bea394d5-1f24-4ded-96f0-cc9d39f49af1.png" alt="" width="375"><figcaption><p>PHOBOS unchained.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_character_in_armored_combat_suit_sleek_angular_desig_bea394d5-1f24-4ded-96f0-cc9d39f49af1.png" alt="" width="563"><figcaption><p>PHOBOS unchained.</p></figcaption></figure>
 
 * PHOBOS, known only by their call-sign, a much-mythologized Maverick, rumored to be the first current-generation MAV, successfully implanted with a COG relay in their brain stem.
