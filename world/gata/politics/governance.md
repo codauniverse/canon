@@ -78,7 +78,7 @@ This direct democratic practice ensures a level of citizen engagement and repres
 
 ## Key Positions
 
-### Councilor
+### High Councilor
 
 A member of the First Quorum, wielding considerable power and responsibility in steering GATA's policies and future.
 
