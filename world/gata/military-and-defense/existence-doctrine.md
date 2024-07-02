@@ -14,6 +14,8 @@ layout:
 
 # Existence Doctrine
 
+<figure><img src="../../../.gitbook/assets/existencedoctrine.png" alt=""><figcaption><p>One of many abandoned Existence Doctrine facilities scattered across Greater Atla.</p></figcaption></figure>
+
 ## Overview
 
 A strategic mindset assumed by [GATA](../the-basics.md) during [the Dark Decade](../../history/the-dark-decade.md) and [The Reconstruction](../../history/the-reconstruction.md). The [Existence Doctrine](existence-doctrine.md) holds that all other interests and concerns are subordinate to human existence.
