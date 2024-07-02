@@ -32,9 +32,9 @@ Beyond the safety of district walls, Combat Gear is significantly more prevalent
 
 <figure><img src="../../.gitbook/assets/nomoney420_character_standing_next_to_an_armored_combat_suit_sl_ca479467-ee05-4faa-9ed4-b20dced267bc.png" alt="" width="563"><figcaption><p>Rapid Response units ready to deploy in their combat gear.</p></figcaption></figure>
 
-Combat Gear are armored suits or exoskeletons, wearable weapons platforms and advanced combat equipment. They range from minimal, powered bodysuits carrying light loadouts, to full-body armor suits and even sizable piloted mechs.
+Combat Gear are armored suits or exoskeletons, wearable weapons platforms and advanced combat equipment. They range from minimal, powered bodysuits carrying light loadouts, to full-body armor suits and even sizable piloted mechs called Heavy Gear.
 
-The most advanced Combat Gear in use likely belong to Angelis, however every nation has built up their own arsenal of useful gear.
+The most advanced Combat Gear in use likely belongs to Angelis, however every nation has built up their own arsenal of formidable gear with a wide range of capabilities.
 
 The prevalence of [Link Jammers](links.md#link-jammers) on the combat field has seen combat [automata](automata.md) widely replaced or supplemented with the more reliable, human-operated Combat Gear.
 

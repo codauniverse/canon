@@ -34,9 +34,9 @@ Angelis strategy and intelligence. Watchers provide expert information gathering
 
 ### **Watchtowers**
 
-Orbital stations and surveillance platforms where orbital Angelis personnel work. Watchtower staff includes Watchers and [Guardians](guardians.md) who work closely with their ground-based counterparts to ensure the security of [Greater Atla](../politics/greater-atla.md).&#x20;
-
 <figure><img src="../../../.gitbook/assets/14.png" alt="" width="563"><figcaption><p>An Angelis Watchtower in Low Earth Orbit.</p></figcaption></figure>
+
+Orbital stations and surveillance platforms where orbital Angelis personnel work. Watchtower staff includes Watchers and [Guardians](guardians.md) who work closely with their ground-based counterparts to ensure the security of [Greater Atla](../politics/greater-atla.md).&#x20;
 
 Watchtower staff provide direct monitoring of battlefields and Red Zones using a network of secure line-of-sight relays to tap into sensor arrays distributed around the Earth in geo-synchronous orbit. Watchtowers also provide intelligence support for [districts](../politics/districts.md) with interior [Gray Zones](../politics/gray-zones.md).
 
@@ -44,13 +44,21 @@ Watchtowers are also where Mavericks and Angelis [Rapid Response](rapid-response
 
 ### **Overlooks**&#x20;
 
+<figure><img src="../../../.gitbook/assets/overlook-3636.png" alt="" width="563"><figcaption><p>Angelis infantry awaiting deployment next to a Guardian's Heavy Combat Gear.</p></figcaption></figure>
+
 Small orbital habitats where [Rapid Response](rapid-response.md) and [Mavericks](mavs.md) are dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce time to target. When Rapid Response or Maverick units are deployed on an operation, they typically drop from Overlooks in Aegis drop pods.
 
 ***
 
 ## **Aegis Drop Pods**
 
-Armored drop pods that use [Static Field technology](../../science-and-tech/statics.md) to allow for accelerated descent and a decelerated hard-landing. The Aegis pod contains mission-relevant equipment, portable external compute, a break-away shield door, and various communication and jamming capabilities. To open an Aegis pod, the shield door must be pushed out from the inside, causing the Aegis’ panels to fan open, allowing the occupant to slowly increase their visibility while retaining protection.
+<figure><img src="../../../.gitbook/assets/aegis-4526.png" alt="" width="563"><figcaption><p>An Aegis pod after a controlled impact in an abandoned facility.</p></figcaption></figure>
+
+Armored drop pods that use [Static Field technology](../../science-and-tech/statics.md) to allow for accelerated descent and a decelerated hard-landing. The Aegis pod contains mission-relevant equipment, portable external compute, a break-away shield door, and various communication and jamming capabilities.
+
+To open an Aegis pod, the shield door must be pushed out from the inside, causing the Aegis’ panels to fan open, allowing the occupant(s) to slowly increase their exposure to hostile targets while preserving some of the protection of the armored pod.
+
+Aegis drop pods are used by Angelis infantry, support, Rapid Response, and MAVs. Notably, Guardians in their Heavy Gear do not require drop pods as their gear is equipped with their own statics and life support, permitting independent orbital re-entry.
 
 ***
 
