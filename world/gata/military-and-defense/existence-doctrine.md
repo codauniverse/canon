@@ -30,9 +30,13 @@ The Existence Doctrine gave GATA exhaustive flexibility and emergency powers, pe
 
 Many reported technologies seen during the Existence Doctrine’s time were developed by the [Research Corps](../../sol/institutions/the-research-corps.md) and [ALTAR](../institutions/altar.md) special programs, and have not been seen in action since the end of the Reconstruction era. Some since-[paradigmed](../politics/paradigms.md) technology matches eye-witness accounts from the Dark Decade and Reconstruction, giving historians some sense of just how early some of GATA’s most transformative technologies were really developed.
 
+***
+
 ## Controversy
 
 Critics pointed out the irony that GATA was ostensibly founded on the principals of the [New Dawn Accords](../politics/new-dawn-accords.md) while simultaneously operating under a different set of rules. This tension led to a political swell that was reinforced by external pressure from [its partner states](../politics/new-dawn-accords.md#signatories), eventually resulting in the [Morning Light Summit](../politics/new-dawn-accords.md#the-morning-light-summit).
+
+For the duration of the Existence Doctrine, bizarre rumors spread about the discoveries and new technologies emerging from the depths of GATA's top secret research facilities.
 
 ### The End of the Existence Doctrine
 
