@@ -14,7 +14,7 @@ layout:
 
 # Rapid Response
 
-<figure><img src="../../../.gitbook/assets/nomoney420_character_standing_next_to_an_armored_combat_suit_sl_ca479467-ee05-4faa-9ed4-b20dced267bc.png" alt="" width="563"><figcaption><p>A Rapid Response unit prepares to disembark.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_character_standing_next_to_an_armored_combat_suit_sl_ca479467-ee05-4faa-9ed4-b20dced267bc.png" alt=""><figcaption><p>A Rapid Response unit prepares to disembark.</p></figcaption></figure>
 
 ## Overview
 

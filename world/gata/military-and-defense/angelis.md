@@ -56,7 +56,7 @@ When infantry, Rapid Response or Maverick units are deployed on an operation, th
 
 <figure><img src="../../../.gitbook/assets/aegis-4526.png" alt="" width="563"><figcaption><p>An Aegis pod after a controlled impact in an abandoned facility.</p></figcaption></figure>
 
-Armored drop pods that use [Static Field technology](../../science-and-tech/statics.md) to allow for accelerated descent and a decelerated hard-landing. The Aegis pod contains mission-relevant equipment, portable external compute, a break-away shield door, and various communication and jamming capabilities.
+Armored drop pods that use [Static Field technology](../../science-and-tech/statics.md) to allow for accelerated descent and a decelerated hard-landing. The Aegis drop pod contains mission-relevant equipment, portable external compute, a break-away shield door, and various communication and jamming capabilities.
 
 To open an Aegis pod, the shield door must be pushed out from the inside, causing the Aegis’ panels to fan open, allowing the occupant(s) to slowly increase their exposure to hostile targets while preserving some of the protection of the armored pod.
 
