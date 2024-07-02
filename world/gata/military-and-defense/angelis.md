@@ -46,7 +46,9 @@ Watchtowers are also where Mavericks and Angelis [Rapid Response](rapid-response
 
 <figure><img src="../../../.gitbook/assets/overlook-3636.png" alt="" width="563"><figcaption><p>Angelis infantry awaiting deployment next to a Guardian's Heavy Combat Gear.</p></figcaption></figure>
 
-Small orbital habitats where [Rapid Response](rapid-response.md) and [Mavericks](mavs.md) are dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce time to target. When Rapid Response or Maverick units are deployed on an operation, they typically drop from Overlooks in Aegis drop pods.
+Small orbital platforms with hangars and barracks where Angelis infantry, [Guardians](guardians.md), [Rapid Response](rapid-response.md) and [Mavericks](mavs.md) are posted and dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce deployment time to target.
+
+When infantry, Rapid Response or Maverick units are deployed on an operation, they typically drop from Overlooks in Aegis drop pods.
 
 ***
 
