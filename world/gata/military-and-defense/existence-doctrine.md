@@ -18,9 +18,9 @@ layout:
 
 ## Overview
 
-A strategic mindset assumed by [GATA](../the-basics.md) during [the Dark Decade](../../history/the-dark-decade.md) and [The Reconstruction](../../history/the-reconstruction.md). The [Existence Doctrine](existence-doctrine.md) holds that all other interests and concerns are subordinate to human existence.
+A strategic stance assumed by [Atla](../key-locations/atla.md) during [the Dark Decade](../../history/the-dark-decade.md) and later by [GATA](../the-basics.md) during [The Reconstruction](../../history/the-reconstruction.md). The [Existence Doctrine](existence-doctrine.md) holds that all other interests and concerns are subordinate to ensuring the continuation of human civilization. [The First Quorum](../politics/governance.md#the-first-quorum) was established with GATA's founding to hold this priority paramount and marshal the fledgling's nations power and resources to its end.
 
-When humanity’s continued existence isn’t reasonably in question, GATA is free to consider other factors when making decisions, especially rights, regulations and human flourishing.
+When a deliberation's consequences do not threaten humanity’s continued existence, GATA's leadership is free to consider other factors when making decisions, especially rights, regulations and human flourishing.
 
 ***
 

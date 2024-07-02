@@ -18,11 +18,11 @@ layout:
 
 ## Overview
 
-The New Dawn Declaration was a political and technological treatise on democracy, game theory, decentralization, regulation, compartmentalization, end-to-end encryption, and application-specific hardware, implicating each as critical threads in the weaving of a sound, secure, and prosperous global civilization. Its dissemination amongst the population of the Joint Atlantic Command flotilla directly precipitated the founding of Atla, and led to the development of The System.
+The New Dawn Declaration was a political and technological treatise on democracy, game theory, decentralization, regulation, compartmentalization, end-to-end encryption, and application-specific hardware, implicating each as critical threads in the weaving of a sound, secure, and prosperous global civilization. Its dissemination amongst the population of the [Joint Atlantic Command](the-joint-atlantic-command-jac.md) flotilla directly precipitated the founding of [Atla](../key-locations/atla.md), and led to the development of [The System](../politics/the-system.md), which embodies its values.
 
-The New Dawn Declaration sets out a vision for a system of government that aims to in some ways complete the vision of the Old World, while learning from their critical errors. It redefines government as not a singular political project, but a technology for which its optimal instrumental form is one that can underpin any political formulation, and evolve dynamically.
+The New Dawn Declaration sets out a vision for a system of government that aims to, in some ways, complete the vision of the Old World, while learning from their critical errors. It redefines government as not a singular political project, but a technology for which its optimal instrumental form is one that can underpin any political formulation, and evolve dynamically.
 
-It imagines the New Dawn as a world of diverse political and technological paradigms that maintain ["incompatible interoperability"](../politics/paradigms.md), practice ["existential responsibility"](../military-and-defense/existence-doctrine.md), and enshrine a shared set of fundamental laws codified in a decentralized protocol that incentivizes adherence to the laws with a shared bounty. While its vision is oft criticized today as simplistic, it nonetheless galvanized a latent political energy that has changed the shape of the human destiny.
+It imagines the New Dawn as a world of diverse political and technological paradigms that maintain ["incompatible interoperability"](../politics/paradigms.md), practice ["existential responsibility"](../military-and-defense/existence-doctrine.md), and enshrine a shared set of fundamental laws codified in a decentralized protocol that incentivizes adherence to the laws with a shared bounty called [the Yield](../politics/yield.md). While this early articulation of Atla's grand vision is oft criticized today as simplistic, it nonetheless galvanized a latent political energy that has since changed the shape of the human destiny.
 
 ***
 
@@ -30,7 +30,7 @@ It imagines the New Dawn as a world of diverse political and technological parad
 
 <figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_from_the_deck_of_future_celebrating_16c8eaf2-2911-4e01-8504-1ee66893afe4.png" alt="" width="563"><figcaption><p>The day of the New Dawn Declaration as the JAC votes.</p></figcaption></figure>
 
-Inspired by The Big Talk where Joint-Atlantic Command (JAC) leadership, under the Existence Doctrine, resolved to disclose a significant amount of classified information to JAC civilians. The revelations spurred an infectious spirit of hope that was ultimately crystalized into the New Dawn Declaration. The first draft was circulated among the JAC's civilian population on November 2, 2056.
+Inspired by "The Big Talk" where Joint-Atlantic Command (JAC) leadership, under the Existence Doctrine, resolved to disclose a significant amount of classified information to JAC civilians. The revelations spurred an infectious spirit of hope that was ultimately crystalized into the New Dawn Declaration. The first draft was circulated among the JAC's civilian population on November 2, 2056.
 
 While the document was a unique composite of political, legal and technological philosophy, it contained many ideas that had been widely supported by domain experts prior to The Crash, but which the old political order had failed to implement sufficiently to prevent catastrophe.
 

@@ -28,7 +28,9 @@ The Joint Atlantic Command would go on to accrue a large civilian population, an
 
 <figure><img src="../../../.gitbook/assets/jac_01.png" alt="" width="563"><figcaption></figcaption></figure>
 
-The Joint Atlantic Command went on to launch some of the first major strategic missions to secure key resources and assets, address critical threats like neutralizing nuclear power plants, securing key resources, and recovering political and academic VIPs in the first weeks and months of the Dark Decade.
+In the first weeks and months of the Dark Decade, the Joint Atlantic Command went on to launch some of the first major strategic missions to secure key resources and assets, address critical threats like neutralizing nuclear power plants, securing key resources, and recovering political and academic VIPs.
+
+During this time, JAC's military leadership had codified their priorities into a simple set of directives that they would come to call [the Existence Doctrine](../military-and-defense/existence-doctrine.md). In short, the single most critical priority in their decision-making would be to ensure the continuation of the human civilization.
 
 In addition to on-the-ground missions, special research groups set to work to assess the developing global conditions, identifying and classifying threats and capabilities, and establishing a secure provisional infrastructure for ongoing strategic operations. These research groups would later fold into [the Research Corps](../../sol/institutions/the-research-corps.md) and [ALTAR](../institutions/altar.md) after the formation of Atla.
 
@@ -52,4 +54,6 @@ During a customary community forum called The Big Talk, the existence of [the Fo
 
 <figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_from_the_deck_of_future_celebrating_16c8eaf2-2911-4e01-8504-1ee66893afe4.png" alt="" width="563"><figcaption><p>The day of the New Dawn Declaration as the JAC votes.</p></figcaption></figure>
 
-In the years prior, the makeshift society of dignitaries, scientists, military, and civilians had forged a shared identity–despite some incidents–and soon after the revelations of the Found Objects, sought to formalize their governance. Over the course of a few months, a breakaway working group had snowballed into an atmosphere of revolutionary thinking. A new world with a new order. The floating city state of Atla was founded.
+In the years prior, the makeshift society of dignitaries, scientists, military, and civilians had forged a shared identity–despite some incidents–and soon after the revelations of the Found Objects, sought to formalize their governance.&#x20;
+
+Over the course of just a few months, a breakaway working group had snowballed into an atmosphere of revolutionary thinking. A new world with a new order, detailed in [the New Dawn Declaration](new-dawn-declaration.md), a memorandum that would become the founding document of a fledgling nation. The floating city-state of Atla was founded.
