@@ -16,23 +16,27 @@ layout:
 
 ## Overview
 
-Frames are mechanized exoskeletons controlled by a conduit operator, designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
+Frames are anthropomorphic mechanized chassis' controlled by a conduit operator, designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
 
-Originating as armored "war frames" developed by the Joint Atlantic Command (JAC), they were later fielded by Atla to secure important strategic locations in combat. Frames are named for their skeletal chassis, which provides a familiar, anthropomorphic form factor that enhances dexterity and operator compatibility.
+Originating as armored "war frames" developed by the Joint Atlantic Command (JAC), they were later fielded by Atla to secure important strategic locations in combat. Frames are named for their skeletal chassis, which provides a versatile and familiar, anthropomorphic form factor that enhances dexterity and operator compatibility.
 
 ***
 
 ## History
 
-The development of Frames began during the Dark Decade, with the JAC seeking advanced armored units capable of both heavy combat and versatile field operations. These early war frames proved invaluable in holding strategic locations, and their success led to the broader application of frame technology across various sectors.
+The development of frames began during the Dark Decade, with the JAC seeking advanced armored units capable of bridging the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
 
-Over time, Frames evolved from purely military assets to essential tools in construction, resource extraction, and other fields requiring robust, adaptable machinery.
+These early war frames proved invaluable both heavy combat and versatile field operations, and were particularly impactful in holding strategic locations. Their success led to the broader application of frame technology across various sectors.
+
+Over time, frames evolved from purely military assets to essential tools in construction, resource extraction, and other fields requiring robust, adaptable machinery and great physical force.
 
 ***
 
 ## Design and Functionality
 
-Frames are characterized by their humanoid design, typically featuring arms and legs that allow them to ambulate and manipulate their environment with high precision. This design makes Frames highly intuitive for operators, leveraging natural muscle memory and proprioception for seamless control.
+Frames are characterized by their somewhat humanoid design, typically featuring arms and legs that allow them to ambulate and manipulate their environment with high precision. This design makes Frames highly intuitive for operators, leveraging natural muscle memory and proprioception for seamless control.
+
+Some frames' form factors are more familiar, with two arms and two legs, while others are constructed with multiple, unorthodox appendages, and atypical postures and ambulatory patterns. The frame's chassis is tailored to its intended function, and elite frame operators are often equipped with frames that are designed to their personal specifications.
 
 ### **Key Features:**
 
