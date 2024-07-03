@@ -24,9 +24,9 @@ Rapid Response is identifiable by their red [combat gear](../../science-and-tech
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_httpss.mj.runqAKLApLRaj4_a_guy_with_short_silver_bro_45fec055-3906-49d1-b31d-f49a25dd86fd.png" alt="" width="563"><figcaption><p>A Rapid Response operative in the heat of a crisis. </p></figcaption></figure>
-
 ## The Role of Rapid Response
+
+<figure><img src="../../../.gitbook/assets/nomoney420_httpss.mj.runqAKLApLRaj4_a_guy_with_short_silver_bro_45fec055-3906-49d1-b31d-f49a25dd86fd.png" alt="" width="563"><figcaption><p>A Rapid Response operative in the heat of a crisis. </p></figcaption></figure>
 
 Rapid Response units are deployed to conflict zones, natural disasters, and humanitarian emergencies around the world. They are often dispatched in a peacekeeping and humanitarian capacity to active warzones, and they are widely held in high regard around the world, even where GATA is unpopular.
 

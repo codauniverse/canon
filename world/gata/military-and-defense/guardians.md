@@ -32,19 +32,21 @@ Guardians are identifiable by their blue Heavy Gear, which are often in the mid-
 
 The Guardians can trace their lineage back to the JAC's Wardens, a squadron of fighters that were tasked with patrolling operation zones and preventing incursions.
 
-After the JAC established industrial operations in Northern Africa, new purpose-built armaments could be produced. Soon after, when Atla was founded, the Wardens squadron was reassigned to the defense of the fledging capitol, and a new compartment was formed under the Existence Doctrine to replicate their function using a new kind of heavy mechanized unit tailored for long-term patrol, and designed for mixed ground-and-air engagements; Heavy Gear.
+After the JAC established industrial operations in Northern Africa, new purpose-built armaments could be produced. Soon after, when Atla was founded, the Wardens squadron was reassigned to the defense of the fledging capitol, and a new compartment was formed under the Existence Doctrine to replicate their function using a new kind of heavy mechanized unit tailored for long-term patrol, and designed for mixed ground-and-air engagements called "war frames", or simply "frames" for short.
 
 <figure><img src="../../../.gitbook/assets/guardians-8345.png" alt="" width="563"><figcaption><p>An early Heavy Gear developed in the final years of the Dark Decade.</p></figcaption></figure>
 
-During the Reconstruction era, while GATA still maintained a national military (technically, an extra-territorial extension of Atla's local authority), it became standard to deploy these heavy, mechanized units to protect each of their refugee camps and nascent districts. The primary purpose of these heavy units was as a deterrence to local Sovereign militias and bandits.
+During the Reconstruction era, while GATA still maintained a national military (technically, an extra-territorial extension of Atla's local authority), it became standard to deploy these heavy, mechanized units to protect each of their refugee camps and nascent districts. The primary purpose of the war frame's imposing presence was as a deterrence to local Sovereign militias and bandits.
 
-It was during this time that GATA's growing citizenry would begin to refer to these imposing masses of metal as "guardian angels". For two decades, these guardians were a common sight across Greater Atla, and the name stuck. They proved instrumental in establishing the stability that allowed GATA and its people to flourish and rebuild. And likewise as GATA advanced, so too did the sophistication of these heavy mechanized units.
+It was during this time that GATA's growing citizenry would begin to refer to these stoic masses of metal as "guardian angels". For two decades, these frames were a common sight across Greater Atla, and the name "Guardians" stuck. They proved instrumental in establishing the stability that allowed GATA and its people to flourish and rebuild. And likewise as GATA advanced, so too did the sophistication of these heavy mechanized units.
 
-Later, following the end of the Existence Doctrine and the subsequent formation of Angelis, the Guardians branch was formally established by Angelis as a direct continuation of the compartment operating these stalwart protectors. Guardians are even the inspiration for Angelis' very name.
+#### After the Formation of Angelis
 
-Since its establishment under Angelis, Guardians have had access to an ever-progressing array of advanced technologies. Over the years they have been among the first in the world to use numerous new technologies in the field, including miniaturized static engines, links, syncing, and parallel energy.
+Later, following the end of the Existence Doctrine and the subsequent formation of Angelis, the Guardians branch was formally established by Angelis as a direct continuation of the compartment operating GATA's most iconic, stalwart protectors. These "guardians angels" are even the inspiration for Angelis' very name.
 
-Equipped with advanced technology and heavy weaponry, Guardians have since been known to dominate high-intensity combat scenarios. Their heavy loadouts and tactical versatility have seen them deployed in response to a wide range of threats and missions. To this day, the deployment of Guardians is often seen as a signal of GATA's commitment to a conflict or operation.
+Since its establishment under Angelis, the Guardians have had access to an ever-progressing array of advanced technologies. Over the years they have been among the first in the world to use numerous new technologies in the field, including miniaturized static engines, links, syncing, and parallel energy.
+
+Equipped with cutting edge frames, advanced technology and heavy weaponry, Guardians have since become known to dominate high-intensity combat scenarios. Their heavy loadouts and tactical versatility have seen them deployed in response to a wide range of threats and missions. To this day, the deployment of Guardians is often seen as a signal of GATA's firm commitment to a conflict or operation.
 
 ***
 
@@ -52,13 +54,19 @@ Equipped with advanced technology and heavy weaponry, Guardians have since been 
 
 <figure><img src="../../../.gitbook/assets/guardians-531.png" alt="" width="563"><figcaption><p>Two Guardian units deployed with Angelis infantry.</p></figcaption></figure>
 
-Guardians are typically deployed in fireteams of four, though their numbers can vary depending on the mission requirements. They are often complemented by a company or battalion of regular infantry and supported by aerial units for comprehensive battlefield dominance. In addition to their primary role in direct engagements, Guardians are frequently deployed solo to support active ground operations, such as Gate Patrol operations or partner-state conflicts. Their ability to operate independently or as part of a larger force makes them versatile assets in GATA's military strategy.
+Guardians typically operate in fireteams of four, though their numbers can vary depending on the mission requirements. Their operators are among the most highly trained and capable individuals in all of Angelis' armed forces. They are famously known for two things; waiting patiently, and striking ferociously.
 
-Guardians are typically deployed as a deterrent intended to discourage enemy advancements or attacks, so the consequences of an incursion into their operational domain must be swift and consequential. As a result, the Guardians are famously known for two things; waiting patiently, and striking ferociously. Once engaged, Guardians unleash their overwhelming force on targets, causing rapid and unrelenting devastation.
+They are sometimes complemented by a company or battalion of regular infantry and supported by aerial units for comprehensive battlefield dominance. Their ability to operate independently or as part of a larger force makes them versatile assets in GATA's military strategy, and their ability to be rapidly deployed from orbit allows for swift responses to emerging threats.
 
-Guardian teams work in concert, to decisively extinguish their target's means and will to fight. Even after defeating a target, Guardian's are trained to disable and dismantle as much of their enemy's hardware and equipment as possible, with the aim to reduce the "latent threat" to zero.
+In addition to their role in Angelis' direct engagements across land, air, sea and space, Guardians are sometimes deployed to support other operations, such as Gate Patrol emergencies, partner-state conflicts, crisis zones, or to hold sensitive locations for long durations.
 
-In addition to being deployed as deterrents, Guardian's are sometimes dispatched to active combat and crisis zones. Guardians' ability to be rapidly deployed from orbit allows for swift responses to emerging threats. Their presence can quickly stabilize volatile situations and provide immediate support to ground forces. However, due to their blunt tactics and cumbersome size, there are many situations for which Guardian's are not an appropriate solution.
+One of the longest standing assignments for Guardians is using them as a deterrent, intended to defend a given target and discourage unwanted incursions. The consequences for hostile targets crossing into their operational domain are swift and consequential. Once engaged, Guardians unleash their overwhelming force on targets, causing rapid and unrelenting devastation.
+
+#### Impact on the Battlefield
+
+Guardians work alone or in concert, to decisively extinguish their target's means and will to fight. Even after neutralizing their target, Guardian's are trained to disable and dismantle as much of their enemy's hardware and equipment as possible, with the aim to reduce the "latent threat" to zero.
+
+Their presence can quickly stabilize volatile situations and provide immediate support to ground forces. However, due to their blunt tactics and cumbersome size, there are many situations for which Guardians are not an appropriate solution.
 
 ***
 
@@ -66,9 +74,11 @@ In addition to being deployed as deterrents, Guardian's are sometimes dispatched
 
 Guardians are equipped with the most advanced technology available in GATA, thanks to Angelis' special paradigm, availing to them a wider range of technologies produced by GATA's many district's private enterprises:
 
-### Combat Gear
+### Guardian Gear
 
-Their iconic blue Heavy Gear is designed for mid-size to large-size frames, offering enhanced protection and heavy loadouts. The gear is integrated with statics for trans-medium operations, allowing Guardians to seamlessly transition between land, air, sea, and space environments. At the heart of each Guardian Gear is a rudimentary COG managing many of the Guardian's subsystems in concert with the actions of the pilot.
+Their iconic blue Heavy Gear is designed for mid-size to large-size mechanical exoskeletons called "frames", offering enhanced protection and heavier loadouts. The gear is integrated with statics for trans-medium operations, allowing Guardians to seamlessly transition between land, air, sea, and space environments.
+
+At the heart of each Guardians Gear is a rudimentary COG managing many of the Guardian's subsystems in concert with the actions of the pilot.
 
 Each Guardian's gear is tailored to their specific mission requirements, featuring cutting-edge technology such as enhanced sensory interfaces, augmented reality displays, and adaptive camouflage. This gear is designed to provide maximum operational efficiency and survivability in diverse combat scenarios.
 
@@ -78,7 +88,7 @@ Guardians have access to a wide array of firearms and weapon platforms, includin
 
 ### Enhancements
 
-#### **Quantum Communication**
+#### Quantum Communication
 
 With the development of Quantum Seeds, Guardians now have access to instantaneous communication across vast distances, enhancing coordination and strategic planning.
 
@@ -88,9 +98,22 @@ With the development of Quantum Seeds, Guardians now have access to instantaneou
 
 The training regimen for the Guardians is one of the most demanding and comprehensive in the world. It includes:
 
-* **Hand-to-Hand Combat**: As with all Angelis infantry and special forces, Guardian operatives are trained in multiple martial arts and close-quarters combat techniques, ensuring they can engage effectively in melee situations.
-* **Firearms and Weapon Platforms**: Proficiency with a broad range of firearms and heavy weapon platforms is essential. Guardians are trained to use everything from personal sidearms to large-scale ordinance with precision.
-* **Heavy Weapons and Equipment:** Proficiency with an arsenal of heavy ordinance, canons, and equipment that can be outfitted on Guardian Combat Gear.
-* **Link Proficiency**: Advanced training in Link use allows Guardians to drive their gear's operation with their thoughts, enhances their extended proprioception, their situational awareness, and their communication with the rest of their fireteam. They can interface with various systems, control drones, and access real-time battlefield data.
-* Sync Proficiency:&#x20;
-* **Combat Gear Mastery**: Guardians are experts in using and maneuvering their advanced Heavy Combat Gear, leveraging its full capabilities to gain a decisive tactical edge. This includes the use of static-powered mobility, augmented reality displays, adaptive camouflage, defensive counter-measures, and enhanced sensory interfaces.
+#### Hand-to-Hand Combat
+
+As with all Angelis infantry and special forces, Guardian operatives are trained in multiple martial arts and close-quarters combat techniques, ensuring they can engage effectively in melee situations.
+
+#### Firearms and Weapon Platforms
+
+Proficiency with a broad range of firearms and heavy weapon platforms is essential. Guardians are trained to use everything from personal sidearms to large-scale ordinance with precision.
+
+#### Heavy Weapons and Equipment
+
+Proficiency with an arsenal of heavy ordinance, canons, and equipment that can be outfitted on Guardian Combat Gear.
+
+#### Link & Syncing Proficiency
+
+Advanced training in Link use allows Guardians to drive their gear's operation with their thoughts, enhances their extended proprioception, their situational awareness, and their communication with the rest of their fireteam. They can interface with various systems, control drones, and access real-time battlefield data. Sync training allows Guardians working in fireteams to communicate non-verbally with their teammates and coordinate their actions.
+
+#### Combat Gear Mastery
+
+Guardians are experts in using and maneuvering their advanced Heavy Combat Gear, leveraging its full capabilities to gain a decisive tactical edge. This includes the use of static-powered mobility, augmented reality displays, adaptive camouflage, defensive counter-measures, and enhanced sensory interfaces.

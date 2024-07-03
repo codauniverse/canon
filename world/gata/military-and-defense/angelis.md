@@ -64,7 +64,7 @@ Armored drop pods that use [Static Field technology](../../science-and-tech/stat
 
 To open an Aegis pod, the shield door must be pushed out from the inside, causing the Aegis’ panels to fan open, allowing the occupant(s) to slowly increase their exposure to hostile targets while preserving some of the protection of the armored pod.
 
-Aegis drop pods are used by Angelis infantry, support, Rapid Response, and MAVs. Notably, Guardians in their Heavy Gear do not require drop pods as their gear is equipped with their own statics and life support, permitting independent orbital re-entry.
+Aegis drop pods are used by Angelis infantry, support personnel, Rapid Response, and MAVs. Notably, Guardians in their Heavy Gear do not require drop pods as their gear is equipped with their own statics and life support, permitting independent orbital re-entry.
 
 ***
 

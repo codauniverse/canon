@@ -31,6 +31,7 @@
   * [Sync Hubs](world/science-and-tech/sync-hubs.md)
   * [Psychotech](world/science-and-tech/psychotech.md)
   * [Gear](world/science-and-tech/gear.md)
+  * [Frames](world/science-and-tech/frames.md)
   * [Terminals](world/science-and-tech/terminals.md)
   * [Slates](world/science-and-tech/slates.md)
   * [Fabricated Tech](world/science-and-tech/fabricated-tech.md)
