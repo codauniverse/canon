@@ -14,11 +14,11 @@ layout:
 
 # Frames
 
-<figure><img src="../../.gitbook/assets/frames.png" alt=""><figcaption><p>A modern frame being serviced in an enterprise factory.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frames-902.png" alt=""><figcaption><p>A modern combat frame.</p></figcaption></figure>
 
 ## Overview
 
-Frames are anthropomorphic mechanized chassis' controlled by a conduit operator, designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
+Frames are anthropomorphic mechanized vehicles with humanoid chassis'. They're controlled by a conduit operator and are designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
 
 Originating as armored "war frames" developed by the Joint Atlantic Command (JAC), they were later fielded by Atla to secure important strategic locations in combat. Frames are named for their skeletal chassis, which provides a versatile and familiar, anthropomorphic form factor that enhances dexterity and operator compatibility.
 
@@ -26,25 +26,39 @@ Originating as armored "war frames" developed by the Joint Atlantic Command (JAC
 
 ## History
 
+<figure><img src="../../.gitbook/assets/guardians-8345.png" alt="" width="563"><figcaption></figcaption></figure>
+
 The development of frames began during the Dark Decade, with the JAC seeking advanced armored units capable of bridging the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
 
 These early war frames proved invaluable both heavy combat and versatile field operations, and were particularly impactful in holding strategic locations. Their success led to the broader application of frame technology across various sectors.
 
-Over time, frames evolved from purely military assets to essential tools in construction, resource extraction, and other fields requiring robust, adaptable machinery and great physical force.
+Over time, frames evolved from purely military assets to essential tools in construction, resource extraction, and other fields requiring robust, adaptable machinery and great physical force. They are no longer solely built by GATA, with numerous different frame manufacturers around the world, and have become a staple of military and industrial operations.
 
 ***
 
 ## Design and Functionality
 
-Frames are characterized by their somewhat humanoid design, typically featuring arms and legs that allow them to ambulate and manipulate their environment with high precision. This design makes Frames highly intuitive for operators, leveraging natural muscle memory and proprioception for seamless control.
+<figure><img src="../../.gitbook/assets/frames.png" alt="" width="563"><figcaption><p>A modern frame being serviced in an enterprise factory.</p></figcaption></figure>
 
-Some frames' form factors are more familiar, with two arms and two legs, while others are constructed with multiple, unorthodox appendages, and atypical postures and ambulatory patterns. The frame's chassis is tailored to its intended function, and elite frame operators are often equipped with frames that are designed to their personal specifications.
+Frames are characterized by their chassis' somewhat humanoid design, typically featuring arms and legs that allow them to ambulate and manipulate their environment with high precision. This design makes Frames highly intuitive for operators, leveraging natural muscle memory and proprioception for seamless control.
+
+Some frames' form factors are more familiar, with two arms and two legs, while others are constructed with multiple, unorthodox appendages and control surfaces, or atypical postures and ambulatory patterns. Transforming frames have the ability to significantly transform their shape in order to adapt to their context, for example taking on a more aerodynamic configuration, or switching from bipedal to quadrupedal stances.
+
+Ultimately, the frame's chassis is tailored to its intended function, and elite frame operators are often equipped with frames that are designed to their personal specifications.
+
+### Operating a Frame
+
+A frames outer shell opens to reveal its cockpit, called the Operator Cradle, a compact, heavily armored compartment typically concealed within the frame's torso. Modern cradles use a passive static field to provide additional protection and isolate the pilot from impacts and G-force effects, making the cradle a zero gravity environment while in operation.
+
+Older frames have cradles outfitted with a more traditional set of manual controls and a dashboard replete with buttons and switches. However, ever since the development of links, modern frames steadily been transitioning to conduit operators who drive their frames with a link, allowing for much smaller cradles.
+
+While link-driven frames are vastly superior in terms of performance, finding and training operators who are talented enough conduits to pilot them quickly became the limiting factor. But as a generation who grew up using a link are coming of age, a much deeper pool of talent is emerging.
 
 ### **Key Features:**
 
 #### Dexterity
 
-Frames can perform complex, nuanced tasks thanks to their articulated limbs and hands, making them ideal for a wide range of applications.
+Frames can perform complex, nuanced tasks thanks to their articulated limbs and hands, making them suitable for a wide range of applications.
 
 #### Versatility
 
