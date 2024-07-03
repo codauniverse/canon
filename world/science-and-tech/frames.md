@@ -14,6 +14,8 @@ layout:
 
 # Frames
 
+<figure><img src="../../.gitbook/assets/frames.png" alt=""><figcaption><p>A modern frame being serviced in an enterprise factory.</p></figcaption></figure>
+
 ## Overview
 
 Frames are anthropomorphic mechanized chassis' controlled by a conduit operator, designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.

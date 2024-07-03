@@ -18,21 +18,27 @@ layout:
 
 ## Overview
 
-Hard code modules are compiled "physical functions". Hard code is the only legal form of computational system in [GATA](../gata/) and [NDA](../gata/politics/new-dawn-accords.md)-compliant states.
+Hard code modules are made of "physical functions"; logical circuits defined by their physical structure, that can be composed and extended to form secure, application-specific physical programs. Hard code is the only legal form of computational system in [GATA](../gata/) and [NDA](../gata/politics/new-dawn-accords.md)-compliant states.
 
-Hard-coded systems are impervious to corruption because their functions are physically encoded in the shape and structure of its computational components called ‘modules’. They cannot be re-written remotely or compelled to perform functions that they were not designed with the capacity to perform.
+Hard-coded systems are impervious to corruption because their functions are physically encoded in the shape and structure of its computational components, meaning they cannot be re-written remotely or compelled to perform functions that they were not designed with the capacity to perform.
 
-By their nature, hard-coded systems are much larger than their general-purpose precursors. This is because each logical function must be physically represented by a computational module that performs only that function, and all information moving through the system must pass through relatively bulky filter modules that are also written in hard code.
+By their nature, hard-coded systems are much larger than their general-purpose precursors. This is because each logical function must be physically represented by a computational structure that performs only that function, and all information moving through the system must pass through relatively many redundant filter modules that are themselves written in hard code.
 
-The most common programming language for writing hard code is [LMNL](hard-code.md#lmnl), which is the most widely adopted open-source framework available.
+Today, the most common programming language for writing hard code is [LMNL](hard-code.md#lmnl), an open-source framework widely adopted around the world.
 
 ***
 
 ## Raw Hard Code
 
-Less commonly used today, raw hard code refers to physical functions that are not written or compiled by another system. Raw hard code is instead meticulously hand-constructed by master coders, allowing them to build more sophisticated and compact physical functions.
+<figure><img src="../../.gitbook/assets/rawcode.png" alt="" width="563"><figcaption><p>An extremely compact system built with raw hard code.</p></figcaption></figure>
 
-However, raw hard code comes at a cost; it is not Asimov-complete by default, unlike popular frameworks such as LMNL, making it more risky and expensive to build and maintain. Notably, raw hard code is all but illegal in GATA as it is not paradigmed in any of its districts.
+Less commonly utilized today, raw hard code refers to physical functions that are not written or compiled using frameworks or automation. Raw hard code is instead meticulously hand-constructed by master coders, allowing them to build more sophisticated and compact physical functions.
+
+Prior to the popularization of LMNL, all hard-coded systems were built in this way. Hand-building physical functions allows much more flexibility in the shape of logical structures, and more efficient connections between its modules.
+
+Most significantly, raw hard code allows the coder to funnel all data through a single filter module, rather than having many redundant filter modules distributed throughout the system, resulting in a dramatically more compact module or program.
+
+However, using raw hard code comes at a cost; it is not Asimov-complete by default, unlike frameworks like LMNL, making it much more risky and expensive to build and maintain. Due to these dangers, raw hard code is only allowed to be produced and maintained by licensed enterprises and operators.
 
 ***
 
