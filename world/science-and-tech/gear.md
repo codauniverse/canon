@@ -18,11 +18,13 @@ layout:
 
 ## Overview
 
-A broad term used to describe wearable technology, from sensors and mechanical components to personal compute and storage. Can be individual worn items, or fully-body, integrated suits with built-in hard-coded compute. Gear is often driven by [links](links.md), however some gear can be controlled kinetically, with voice commands, or by pairing with remote systems.
+A broad term used to describe wearable technology and equipment, from sensors and mechanical components to personal compute and storage. Gear can refer to individual worn items, or fully-body, integrated suits with built-in hard-coded compute, and even larger mechanized exoskeletons called frames, or simply "Heavy Gear". Gear is often driven by [links](links.md), however some gear can be controlled manually, kinetically, with voice commands, or by pairing with remote systems.
 
-High-end gear isn't made with LMNL, as the LMNL framework prioritizes security and modularity over the size and weight constraints that are unique to wearable gear. Instead, the best gear is constructed with raw, optimized hard code customized to the required specifications.
+Most consumer gear is tailored for [operators](../gata/enterprise/operators.md) and personal convenience, and don't require sophisticated functionality or security, allowing the gear's computational components to be built with the cheaper and more modular [LMNL](hard-code.md#lmnl) [hard code](hard-code.md).
 
-Gear such as wearable weapons and defensive equipment veers into the territory of [Combat Gear](gear.md#combat-gear). Combat Gear is generally legal to buy across [GATA](../gata/) but not legal for citizens to operate in most districts, unless authorized by the [district’s government](../gata/politics/districts.md) or the [Local Authority](../gata/law-and-order/local-authority.md) as a contracted [Operator](../gata/enterprise/operators.md).
+Conversely, the computational components in high-end gear aren't made with LMNL, as the LMNL framework prioritizes security and modularity over the size and weight constraints that are unique to wearable gear. Instead, the best gear is constructed with [raw, highly optimized, hand-compiled hard code](hard-code.md#raw-hard-code) customized to the gear's required specifications.
+
+Gear such as wearable weapons and defensive equipment veer into the territory of [Combat Gear](gear.md#combat-gear). Combat Gear is generally legal to buy across [GATA](../gata/) but not legal for citizens to actually operate within the walls of most districts, unless authorized by the [district’s government](../gata/politics/districts.md) or the [Local Authority](../gata/law-and-order/local-authority.md) as a contracted [Operator](../gata/enterprise/operators.md).
 
 Beyond the safety of district walls, Combat Gear is significantly more prevalent, especially in the Free Territories and URSA where order is fundamentally maintained through the threat of force.
 
@@ -61,3 +63,17 @@ Sprint gear typically takes the form of leg extensions, however more extreme spr
 Boost Gear is a subset of Gear designed for propulsive movement, especially in emergency and combat scenarios. Boost gear uses propulsive jets instead of static nodes due to the latter's vulnerability to target lock.
 
 Boost Gear's propulsive jets recycle kinetic energy into focused bursts that can propel the runner in any direction, and can even sustain flight for limited durations. Excellent for overcoming obstacles, dodging incoming projectiles, and freeing wallrunners from Gate Patrol jelly rounds.
+
+***
+
+## Heavy Gear
+
+Heavy Gear is a broad category that refers to any gear loadout so heavy that it requires a mechanized exoskeleton. This class of gear generally incorporates more complex systems and capabilities, and requires extremely capable conduits who are adept with link use.
+
+### Frames
+
+Heavy Gear that is so large that its wearer would more accurately be described as a pilot is referred to as a "frame". Frames trace their lineage back to the late days of the JAC and the Dark Decade, and were created to bridge the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
+
+Outfitted with static engines and/or boost gear, frames were designed for transmedium mobility across land, air, sea, and space. Passive statics built into their extremities are intended to prevent their massive, ambulatory bodies from significantly damaging or deforming the ground beneath them when they land and walk in the course of their normal operation.
+
+They're commonly used in heavy-duty applications such as military, construction, shipping, and resource extraction. They can be found in use around the world, land, air, sea and space.

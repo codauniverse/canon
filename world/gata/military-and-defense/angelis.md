@@ -22,7 +22,9 @@ A special public-private enterprise sanctioned by [GATA](../the-basics.md), head
 
 Angelis' military might is formidable, with their ranks consisting of regular and special forces units, supported by a vast intelligence apparatus. Angelis is GATA’s largest [enterprise](../enterprise/), and provides military and intelligence services for GATA and [its partner states](../politics/new-dawn-accords.md#signatories).
 
-Angelis was founded at the close of [The Reconstruction](../../history/the-reconstruction.md), as GATA fractured its national military into various dedicated branches, formalizing organizational structures that had developed naturally over its history.
+Angelis was founded at the close of [The Reconstruction](../../history/the-reconstruction.md) era. Because of the particulars of GATA's formation, Atla's [local authority](../law-and-order/local-authority.md) had functioned as GATA's de facto national military, and it was felt by a vocal cohort in the [Second Quorum](../politics/governance.md#the-second-quorum) that this was an unreasonable extension of the capitol's power across the rest of [Greater Atla](../politics/greater-atla.md).
+
+When [the Existence Doctrine](existence-doctrine.md) was phased out in the 2190's, GATA's leadership founded a public enterprise and restructured their military forces into various dedicated branches under the banner of Angelis, formalizing organizational structures, policies, and practices that had developed naturally over its history.
 
 ***
 
@@ -30,25 +32,27 @@ Angelis was founded at the close of [The Reconstruction](../../history/the-recon
 
 <figure><img src="../../../.gitbook/assets/75.png" alt="" width="563"><figcaption><p>Angelis Watcher overseeing the safety of Greater Atla.</p></figcaption></figure>
 
-Angelis strategy and intelligence. Watchers provide expert information gathering, border protection, personal protection, asset tracking, private communications, targeted downtime, and comprehensive strategic foresight. Having a Watcher on the line is an invaluable resource in a crisis.
+Angelis strategy and intelligence operatives who monitor a wide array of targets, locations and systems from orbital stations called Watchtowers.
+
+Watchers provide expert information gathering, border protection, personal protection, asset tracking, private communications, targeted downtime, and comprehensive strategic foresight. Having a Watcher on the line is an invaluable resource in a crisis, and watchers have proven to be one of Angelis' most in-demand services for private enterprise and GATA partner states.
 
 ### **Watchtowers**
 
 <figure><img src="../../../.gitbook/assets/14.png" alt="" width="563"><figcaption><p>An Angelis Watchtower in Low Earth Orbit.</p></figcaption></figure>
 
-Orbital stations and surveillance platforms where orbital Angelis personnel work. Watchtower staff includes Watchers and [Guardians](guardians.md) who work closely with their ground-based counterparts to ensure the security of [Greater Atla](../politics/greater-atla.md).&#x20;
+Orbital stations and surveillance platforms where orbital Angelis personnel work. Watchtower staff includes Angelis command, an expansive technical staff, and an army of [Watchers](angelis.md#watchers) who work closely with their ground-based counterparts to ensure the security of [Greater Atla](../politics/greater-atla.md).
 
 Watchtower staff provide direct monitoring of battlefields and Red Zones using a network of secure line-of-sight relays to tap into sensor arrays distributed around the Earth in geo-synchronous orbit. Watchtowers also provide intelligence support for [districts](../politics/districts.md) with interior [Gray Zones](../politics/gray-zones.md).
-
-Watchtowers are also where Mavericks and Angelis [Rapid Response](rapid-response.md) are garrisoned between deployments to an Overlook.
 
 ### **Overlooks**&#x20;
 
 <figure><img src="../../../.gitbook/assets/overlook-3636.png" alt="" width="563"><figcaption><p>Angelis infantry awaiting deployment next to a Guardian's Heavy Combat Gear.</p></figcaption></figure>
 
-Small orbital platforms with hangars and barracks where Angelis infantry, [Guardians](guardians.md), [Rapid Response](rapid-response.md) and [Mavericks](mavs.md) are posted and dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce deployment time to target.
+A constellation of numerous small orbital platforms with hangars and barracks where Angelis infantry, [Guardians](guardians.md), [Rapid Response](rapid-response.md) and [Mavericks](mavs.md) are posted and dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce deployment time to target.
 
-When infantry, Rapid Response or Maverick units are deployed on an operation, they typically drop from Overlooks in Aegis drop pods.
+In addition to combat units, overlooks are staffed with their own dedicated technical and support staff, and a team of elite watchers to support operations on the ground.
+
+When infantry, Rapid Response or Maverick units are deployed on an operation, they typically are deployed from overlooks. While the transmedium static frames utilized by Guardians allow Guardians to launch from overlooks directly into the field, regular infantry units, Rapid Response and MAVs are either shuttled to their destination in static ships or drop into the field in Aegis drop pods.
 
 ***
 
