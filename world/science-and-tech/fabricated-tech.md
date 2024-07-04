@@ -14,7 +14,7 @@ layout:
 
 # Fabricated Tech
 
-<figure><img src="../../.gitbook/assets/fab.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fab.png" alt=""><figcaption><p>A small fabricated device purpose-built by its user.</p></figcaption></figure>
 
 ## Overview
 

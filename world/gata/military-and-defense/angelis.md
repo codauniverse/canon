@@ -46,7 +46,7 @@ Watchtower staff provide direct monitoring of battlefields and Red Zones using a
 
 ### **Overlooks**&#x20;
 
-<figure><img src="../../../.gitbook/assets/overlook-3636.png" alt="" width="563"><figcaption><p>Angelis infantry awaiting deployment next to a Guardian's Heavy Combat Gear.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/overlook-3636.png" alt="" width="563"><figcaption><p>Angelis infantry awaiting deployment next to a Guardian frame.</p></figcaption></figure>
 
 A constellation of numerous small orbital platforms with hangars and barracks where Angelis infantry, [Guardians](guardians.md), [Rapid Response](rapid-response.md) and [Mavericks](mavs.md) are posted and dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce deployment time to target.
 
@@ -64,7 +64,7 @@ Armored drop pods that use [Static Field technology](../../science-and-tech/stat
 
 To open an Aegis pod, the shield door must be pushed out from the inside, causing the Aegis’ panels to fan open, allowing the occupant(s) to slowly increase their exposure to hostile targets while preserving some of the protection of the armored pod.
 
-Aegis drop pods are used by Angelis infantry, support personnel, Rapid Response, and MAVs. Notably, Guardians in their Heavy Gear do not require drop pods as their gear is equipped with their own statics and life support, permitting independent orbital re-entry.
+Aegis drop pods are used by Angelis infantry, support personnel, Rapid Response, and MAVs. Notably, Guardians in their [frames](../../science-and-tech/frames.md) do not require drop pods as their advanced frames are equipped with their own statics and life support, permitting them to independently traverse land, air, sea, and space.
 
 ***
 
@@ -72,8 +72,7 @@ Aegis drop pods are used by Angelis infantry, support personnel, Rapid Response,
 
 <figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt="" width="563"><figcaption><p>Advanced Combat Gear designed for GATA's most elite operatives.</p></figcaption></figure>
 
-Angelis has the most advanced combat gear in the world. Angelis infantry uses more standard loadouts, but Guardians, Rapid Response, and MAVs are trained to use highly advanced gear that can be tailored to their talents and each mission’s requirements.
+Angelis has the most advanced combat gear in the world. Angelis infantry uses more standard loadouts, but their elite operatives, like Rapid Response and MAVs, are trained to use highly advanced gear that are tailored to their talents and each mission’s requirements.
 
-* [**Guardians**](guardians.md)**:** Blue Combat Gear / Large-to-mid size / Heavy loadout
 * [**Rapid Response**](rapid-response.md)**:** Red Combat Gear / Mid-to-small size / Less-lethal loadout
 * [**MAVs**](mavs.md)**:** White Combat Gear / Small, form-fitting / Minimal loadout

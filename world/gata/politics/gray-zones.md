@@ -42,7 +42,7 @@ Gray Zones take many shapes and sizes, from expansive rural communities, to trou
 
 In Gray Zones, there is no [Local Authority](../law-and-order/local-authority.md) with jurisdiction to enforce GATA law. Occasionally, Local Authority will contract skilled [Operators](../enterprise/operators.md) to conduct operations in Gray Zones, which is technically [permissible under GATA law](../enterprise/operators.md#deputized-operators), although frowned upon in the [Second Quorum](governance.md#the-second-quorum), and comes at a political cost.
 
-[Border Patrol](../law-and-order/gate-patrol.md) are deployed to Gray Zones for incidents involving GATA’s citizens to conduct sieges and extraction operations.
+[Border Patrol](../borders-and-travel/gate-patrol.md) are deployed to Gray Zones for incidents involving GATA’s citizens to conduct sieges and extraction operations.
 
 [The AIC](../institutions/atlan-information-control.md) deploys [Collections](../law-and-order/collections.md) all around the world in its pursuit of dangerous technology, including Gray Zones.
 

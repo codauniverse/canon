@@ -36,9 +36,9 @@ Most interaction with The System is done through the [System Terminals](the-syst
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_a_sci_fi_terminal_in_a_public_place_shaped_like_an_A_8c2b2d98-edec-44f3-a850-8d3a12d5ae5a.png" alt="" width="563"><figcaption><p>System Terminals in one of GATA's districts.</p></figcaption></figure>
-
 ## System Terminals
+
+<figure><img src="../../../.gitbook/assets/nomoney420_a_sci_fi_terminal_in_a_public_place_shaped_like_an_A_8c2b2d98-edec-44f3-a850-8d3a12d5ae5a.png" alt="" width="563"><figcaption><p>System Terminals in one of GATA's districts.</p></figcaption></figure>
 
 System Terminals are public [terminals](../../science-and-tech/terminals.md) found ubiquitously across GATA’s districts. System Terminals are used by citizens to do things like send messages, search the [General Record](the-general-record.md), download information, withdraw and deposit funds, perform legal transactions, collect Yield, alert local authorities, and vote in the [Third Quorum](governance.md#the-third-quorum). Use of System Terminals requires valid [citizenship keys](keys.md#citizenship-keys).
 
@@ -48,9 +48,9 @@ If users wish to make transactions that aren't recorded on the System, they'll n
 
 ***
 
-<figure><img src="../../../.gitbook/assets/districts.png" alt="" width="563"><figcaption><p>A System Node facility in one of GATA's districts.</p></figcaption></figure>
-
 ## **System Nodes**
+
+<figure><img src="../../../.gitbook/assets/districts.png" alt="" width="563"><figcaption><p>A System Node facility in one of GATA's districts.</p></figcaption></figure>
 
 The System is secured by System Nodes, which are large, [Asimovian](../../science-and-tech/asimovian-architecture.md) compute facilities that maintain the state for GATA’s global operations.
 

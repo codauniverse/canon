@@ -26,7 +26,7 @@ Originating as armored "war frames" developed by the Joint Atlantic Command (JAC
 
 ## History
 
-<figure><img src="../../.gitbook/assets/guardians-8345.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/guardians-8345.png" alt="" width="563"><figcaption><p>An early frame built in at the end of the Dark Decade.</p></figcaption></figure>
 
 The development of frames began during the Dark Decade, with the JAC seeking advanced armored units capable of bridging the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
 
@@ -46,11 +46,15 @@ Some frames' form factors are more familiar, with two arms and two legs, while o
 
 Ultimately, the frame's chassis is tailored to its intended function, and elite frame operators are often equipped with frames that are designed to their personal specifications.
 
+Passive statics built into their extremities are intended to prevent their massive, ambulatory bodies from significantly damaging or deforming the ground beneath them when they land and walk in the course of their normal operation.
+
 ### Operating a Frame
 
 A frames outer shell opens to reveal its cockpit, called the Operator Cradle, a compact, heavily armored compartment typically concealed within the frame's torso. Modern cradles use a passive static field to provide additional protection and isolate the pilot from impacts and G-force effects, making the cradle a zero gravity environment while in operation.
 
-Older frames have cradles outfitted with a more traditional set of manual controls and a dashboard replete with buttons and switches. However, ever since the development of links, modern frames steadily been transitioning to conduit operators who drive their frames with a link, allowing for much smaller cradles.
+<figure><img src="../../.gitbook/assets/framecradle.png" alt="" width="563"><figcaption><p>A frame operator in the cradle of a larger frame.</p></figcaption></figure>
+
+Older frames have cradles outfitted with a more traditional set of manual controls and a dashboard replete with buttons and switches. However, ever since the development of links, modern frames steadily been transitioning to conduit operators who drive their frames with a link, allowing for much smaller cradles and frames.
 
 While link-driven frames are vastly superior in terms of performance, finding and training operators who are talented enough conduits to pilot them quickly became the limiting factor. But as a generation who grew up using a link are coming of age, a much deeper pool of talent is emerging.
 

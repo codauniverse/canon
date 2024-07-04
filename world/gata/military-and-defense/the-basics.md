@@ -26,7 +26,7 @@ Today, GATA does not have a monolithic standing national military. Instead, Each
 
 The [First Quorum](../politics/governance.md#the-first-quorum) serves as the board of [Angelis](angelis.md), an unrivalled martial public [enterprise](../enterprise/) based in Atla, in protecting GATA’s territorial interests across all of [Greater Atla](../politics/greater-atla.md), and beyond.
 
-[The AIC](../institutions/atlan-information-control.md) oversees [Collections](../law-and-order/collections.md), an armed enforcement branch for AIC law in accordance with the NDA, as well as [Border Patrol](../law-and-order/gate-patrol.md), the border enforcement for GATA’s many [districts](../politics/districts.md).
+[The AIC](../institutions/atlan-information-control.md) oversees [Collections](../law-and-order/collections.md), an armed enforcement branch for AIC law in accordance with the NDA, as well as [Border Patrol](../borders-and-travel/gate-patrol.md), the border enforcement for GATA’s many [districts](../politics/districts.md).
 
 Each district's [local government](../politics/districts.md#local-government) oversees their [local authority](../law-and-order/local-authority.md), which primarily servers as law enforcement within the district, however during the early Reconstruction, these local authorities functioned more like local militias. To this day, many districts maintain a highly-trained, combat-focused contingent in order to counteract terrorist attacks, violent organized crime, and [Free Territory](../../free-territories/) aggressions.
 

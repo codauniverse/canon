@@ -48,7 +48,7 @@ The local government is legitimized by votes of confidence from its citizens via
 
 Districts have fully-privileged [Gates](../borders-and-travel/gates.md) which receive regular Yield shipments automated by The System, and facilitate travel between districts for those with the requisite [keys](keys.md).&#x20;
 
-District borders are enforced by [Field Walls](../borders-and-travel/field-walls.md) and [Border Patrol](../law-and-order/gate-patrol.md). Field walls are walls of light that detect all activity crossing their path and notify [Angelis](../military-and-defense/angelis.md) [Watchers](../military-and-defense/angelis.md#watchers) who relay illegal wall transit to Border Patrol.
+District borders are enforced by [Field Walls](../borders-and-travel/field-walls.md) and [Border Patrol](../borders-and-travel/gate-patrol.md). Field walls are walls of light that detect all activity crossing their path and notify [Angelis](../military-and-defense/angelis.md) [Watchers](../military-and-defense/angelis.md#watchers) who relay illegal wall transit to Border Patrol.
 
 Field walls are often supplemented with numerous additional deterrents and security measures to discourage illegal transit.
 

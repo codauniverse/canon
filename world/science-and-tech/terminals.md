@@ -26,9 +26,9 @@ The most ubiquitous terminals found across [GATA](../gata/) are [System Terminal
 
 ***
 
-<figure><img src="../../.gitbook/assets/nomoney420_a_sci_fi_terminal_in_a_public_place_shaped_like_an_A_10345964-f958-4690-b87b-d4f1d9cb7f45.png" alt="" width="563"><figcaption><p>An older System terminal built by a private provider.</p></figcaption></figure>
-
 ## Private Terminals
+
+<figure><img src="../../.gitbook/assets/nomoney420_a_sci_fi_terminal_in_a_public_place_shaped_like_an_A_10345964-f958-4690-b87b-d4f1d9cb7f45.png" alt="" width="563"><figcaption><p>An older System terminal built by a private provider.</p></figcaption></figure>
 
 Private enterprise is relied on to deploy and maintain their own builds of System terminals in underserviced and high-demand areas.&#x20;
 

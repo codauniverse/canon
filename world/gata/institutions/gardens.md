@@ -44,7 +44,7 @@ These schools are staffed by professional educators and supplemented with senior
 
 Garden schools serve as a pipeline for identifying talented and promising young students are recruited into the district's prestigious [Atlan Academy](the-atlan-academy-system.md), furthering their education and opening up many future opportunities.
 
-Children who cannot be disciplined, or who demonstrate various destructive patterns of behavior are typically sent to an [Angelis](../military-and-defense/angelis.md)-sponsored school, where they are given a more structured, rigorous environment, with much more individual attention. Children who go this route sometimes return to their former Garden after some time, or they might continue on that path to working within GATA's martial institutions, from [Angelis](../military-and-defense/angelis.md), to [Collections](../law-and-order/collections.md), or [Gate Patrol](../law-and-order/gate-patrol.md).
+Children who cannot be disciplined, or who demonstrate various destructive patterns of behavior are typically sent to an [Angelis](../military-and-defense/angelis.md)-sponsored school, where they are given a more structured, rigorous environment, with much more individual attention. Children who go this route sometimes return to their former Garden after some time, or they might continue on that path to working within GATA's martial institutions, from [Angelis](../military-and-defense/angelis.md), to [Collections](../law-and-order/collections.md), or [Gate Patrol](../borders-and-travel/gate-patrol.md).
 
 ***
 

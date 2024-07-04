@@ -68,12 +68,4 @@ Boost Gear's propulsive jets recycle kinetic energy into focused bursts that can
 
 ## Heavy Gear
 
-Heavy Gear is a broad category that refers to any gear loadout so heavy that it requires a mechanized exoskeleton. This class of gear generally incorporates more complex systems and capabilities, and requires extremely capable conduits who are adept with link use.
-
-### Frames
-
-Heavy Gear that is so large that its wearer would more accurately be described as a pilot is referred to as a "frame". Frames trace their lineage back to the late days of the JAC and the Dark Decade, and were created to bridge the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
-
-Outfitted with static engines and/or boost gear, frames were designed for transmedium mobility across land, air, sea, and space. Passive statics built into their extremities are intended to prevent their massive, ambulatory bodies from significantly damaging or deforming the ground beneath them when they land and walk in the course of their normal operation.
-
-They're commonly used in heavy-duty applications such as military, construction, shipping, and resource extraction. They can be found in use around the world, land, air, sea and space.
+Heavy Gear is a broad category that refers to any gear loadout so heavy that it requires a mechanized exoskeleton to carry the load. This class of gear generally incorporates more complex systems and capabilities, and requires capable operators who are adept with link use.

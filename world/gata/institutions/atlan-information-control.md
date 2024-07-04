@@ -28,7 +28,7 @@ In the intricate complex of [GATA](../)’s [government](../politics/governance.
 2. **Adjudication:** Final arbiter for what is “True” as far as Atla’s [General Record](../politics/the-general-record.md) is concerned.
 3. **Enforcement:** A frontline network of operatives and investigators tirelessly combating the illicit production, trafficking, and utilization of illegal technologies.
 
-The AIC's influence extends beyond GATA’s borders. The AIC's [Border Patrol](../law-and-order/gate-patrol.md) works closely with [Angelis intelligence](../military-and-defense/angelis.md#watchers), and the AIC’s Special Paradigm carve-outs for Angelis have been pivotal, especially during their recent strategic interventions in [the Free Territories](../../free-territories/).
+The AIC's influence extends beyond GATA’s borders. The AIC's [Border Patrol](../borders-and-travel/gate-patrol.md) works closely with [Angelis intelligence](../military-and-defense/angelis.md#watchers), and the AIC’s Special Paradigm carve-outs for Angelis have been pivotal, especially during their recent strategic interventions in [the Free Territories](../../free-territories/).
 
 ***
 

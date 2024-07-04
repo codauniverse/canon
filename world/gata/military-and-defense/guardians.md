@@ -40,7 +40,7 @@ During the Reconstruction era, while GATA still maintained a national military (
 
 It was during this time that GATA's growing citizenry would begin to refer to these stoic masses of metal as "guardian angels". For two decades, these frames were a common sight across Greater Atla, and the name "Guardians" stuck. They proved instrumental in establishing the stability that allowed GATA and its people to flourish and rebuild. And likewise as GATA advanced, so too did the sophistication of these heavy mechanized units.
 
-#### After the Formation of Angelis
+### After the Formation of Angelis
 
 Later, following the end of the Existence Doctrine and the subsequent formation of Angelis, the Guardians branch was formally established by Angelis as a direct continuation of the compartment operating GATA's most iconic, stalwart protectors. These "guardians angels" are even the inspiration for Angelis' very name.
 
