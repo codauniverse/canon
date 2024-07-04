@@ -80,4 +80,4 @@ These arrays provide real-time insight into things like climate, microbial healt
 
 No raw audio or video is recorded, however extremely skilled data conduits can reconstruct partial images from sensor data. Useful for investigations into a past incident with no credible witnesses or conclusive evidence, however access to this data is difficult to have approved by the AIC.
 
-It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence for this claim exists. This would be a direct contravention of [NDA](new-dawn-accords.md) and [WPP](../institutions/atlan-information-control.md#whole-privacy-protection-act) law.
+It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence for this claim exists. This would be a direct contravention of [NDA](new-dawn-accords.md) and [WPP](../institutions/atlan-information-control-aic.md#whole-privacy-protection-act) law.

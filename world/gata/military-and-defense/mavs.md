@@ -56,7 +56,7 @@ It is believed that this very flaw was the reason that the original UDA developm
 
 ### End of the Existence Doctrine
 
-When the Clear program and original UDA program were dissolved, all related records were scrubbed from the [General Record](../politics/the-general-record.md) by the [AIC](../institutions/atlan-information-control.md). Whispers persist that the UDA program was responsible for numerous infamous scandals during the [Reconstruction Era](../../history/the-reconstruction.md), however these claims remain unsubstantiated.
+When the Clear program and original UDA program were dissolved, all related records were scrubbed from the [General Record](../politics/the-general-record.md) by the [AIC](../institutions/atlan-information-control-aic.md). Whispers persist that the UDA program was responsible for numerous infamous scandals during the [Reconstruction Era](../../history/the-reconstruction.md), however these claims remain unsubstantiated.
 
 And even darker rumors abound – some assert that ALTAR keeps retired UDAs in cryostasis, while others trade tales of renegade UDAs still operating in the shadows.
 

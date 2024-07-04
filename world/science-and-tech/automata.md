@@ -40,7 +40,7 @@ Automata are constructed using advanced materials and hard-coded components. Whi
 
 </div>
 
-Anthro is short for anthropomorphic automata. Like all other automata, they do almost no processing onboard due to the limitations imposed by [AIC regulation](../gata/institutions/atlan-information-control.md), thus requiring a separate platform to drive them (or a human conduit to embody them as surrogates). Connecting an athro to local hardware can give them a wide range of capabilities, and they are particularly popular in luxury contexts, customer service, and as companions.
+Anthro is short for anthropomorphic automata. Like all other automata, they do almost no processing onboard due to the limitations imposed by [AIC regulation](../gata/institutions/atlan-information-control-aic.md), thus requiring a separate platform to drive them (or a human conduit to embody them as surrogates). Connecting an athro to local hardware can give them a wide range of capabilities, and they are particularly popular in luxury contexts, customer service, and as companions.
 
 The use of anthros is fairly strictly regulated across GATA due to provisions in the NDA that limit the use of human resemblance in enterprise due to hard lessons learned during the mid-21st century in the Old World where fake [human identities were used to sow social and political discord](../history/the-old-world.md).
 

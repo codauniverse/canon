@@ -22,7 +22,7 @@ Deep below the foundations of [Atla](../key-locations/atla.md), beneath the swir
 
 By exploring a myriad of new techniques and scientific principles, ALTAR's groundbreaking work produces a diverse ecology of technologies.
 
-This plurality of technological primitives helps the [AIC](atlan-information-control.md) maintain the [NDA’s](../politics/new-dawn-accords.md) doctrine of 'mutual incompatibility', ensuring each district's technological paradigm is [distinct](../politics/districts.md).
+This plurality of technological primitives helps the [AIC](atlan-information-control-aic.md) maintain the [NDA’s](../politics/new-dawn-accords.md) doctrine of 'mutual incompatibility', ensuring each district's technological paradigm is [distinct](../politics/districts.md).
 
 In the world of Atla and GATA, while many secrets lurk beneath the surface, the influence of ALTAR remains unmistakable.
 

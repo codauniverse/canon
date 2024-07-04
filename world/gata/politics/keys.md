@@ -24,7 +24,7 @@ Keys are an integral part of every-day life inside of [GATA's](../the-basics.md)
 
 A key's cryptographic signature can be encoded in many different form-factors, whether it's in digital storage on data sticks, steganographically encrypted into media like art or music, embedded in the structure of physical objects, or stored in the mind and usable only by [linking](../../science-and-tech/links.md) directly with systems.
 
-When someone dies, any transferable keys they have pass according to their inheritance arrangements. This can also occur automatically after a specified duration, typically 10 years. If no inheritance is set, the keys will pass to their next of kin, and if none, they will pass into the [AIC's](../institutions/atlan-information-control.md) long-term cold storage and can be claimed via an appeal to the AIC if there is a legitimate claim.
+When someone dies, any transferable keys they have pass according to their inheritance arrangements. This can also occur automatically after a specified duration, typically 10 years. If no inheritance is set, the keys will pass to their next of kin, and if none, they will pass into the [AIC's](../institutions/atlan-information-control-aic.md) long-term cold storage and can be claimed via an appeal to the AIC if there is a legitimate claim.
 
 ### **Privileges**
 

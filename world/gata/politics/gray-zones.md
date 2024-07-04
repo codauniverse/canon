@@ -44,7 +44,7 @@ In Gray Zones, there is no [Local Authority](../law-and-order/local-authority.md
 
 [Border Patrol](../borders-and-travel/gate-patrol.md) are deployed to Gray Zones for incidents involving GATA’s citizens to conduct sieges and extraction operations.
 
-[The AIC](../institutions/atlan-information-control.md) deploys [Collections](../law-and-order/collections.md) all around the world in its pursuit of dangerous technology, including Gray Zones.
+[The AIC](../institutions/atlan-information-control-aic.md) deploys [Collections](../law-and-order/collections.md) all around the world in its pursuit of dangerous technology, including Gray Zones.
 
 On rare occasions, [Angelis](../military-and-defense/angelis.md) [Guardians](../military-and-defense/angelis.md#guardians) are deployed to Gray Zones by the [First Quorum](governance.md#the-first-quorum) for matters of national security and Class 1 violations of the New Dawn Accords.
 

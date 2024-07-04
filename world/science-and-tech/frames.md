@@ -14,7 +14,7 @@ layout:
 
 # Frames
 
-<figure><img src="../../.gitbook/assets/frames-902.png" alt=""><figcaption><p>A modern combat frame.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frames-712.png" alt=""><figcaption><p>A modern combat frame.</p></figcaption></figure>
 
 ## Overview
 

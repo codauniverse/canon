@@ -20,7 +20,7 @@ Sleepers are individuals who, for various reasons, spend the majority or entiret
 
 Sleepers are rarely seen but their presence is nonetheless felt in subtle ways across [GATA](../the-basics.md), from their influence in [politics](../politics/governance.md#the-third-quorum) and [enterprise](../enterprise/), to the ubiquitous [dormitories](sleepers.md#dormitories) that house many sleepers.
 
-In recent years, some sleepers and dormitories have fallen under scrutiny from the AIC as the illegal [Astral seeds](../../science-and-tech/the-astral.md#astral-seeds) continue to spread on the black market. [Astral](../../science-and-tech/the-astral.md) use, while still not common among the wider population, is particularly prevalent among the sleeper community. It is believed that onboarding into private Astral networks is being facilitated in offline constructs and dormitories are increasingly being monitored by [the AIC](../institutions/atlan-information-control.md) for hosting unregulated constructs.
+In recent years, some sleepers and dormitories have fallen under scrutiny from the AIC as the illegal [Astral seeds](../../science-and-tech/the-astral.md#astral-seeds) continue to spread on the black market. [Astral](../../science-and-tech/the-astral.md) use, while still not common among the wider population, is particularly prevalent among the sleeper community. It is believed that onboarding into private Astral networks is being facilitated in offline constructs and dormitories are increasingly being monitored by [the AIC](../institutions/atlan-information-control-aic.md) for hosting unregulated constructs.
 
 ***
 

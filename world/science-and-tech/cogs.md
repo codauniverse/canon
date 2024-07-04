@@ -28,7 +28,7 @@ COGs do not learn over time. They simply take any input, roll the information ar
 
 Cogs all function using the same fundamental principles of cognitive architecture (Observation, Planning, Selection, Execution).
 
-Illegal cogs that incorporate non-deterministic cognition are not unheard of, however [the AIC](../gata/institutions/atlan-information-control.md) and [Collections](../gata/law-and-order/collections.md) quickly and decisively crack down on these installations, even outside of Greater Atla's territory with the assistance of [Angelis](../gata/military-and-defense/angelis.md).
+Illegal cogs that incorporate non-deterministic cognition are not unheard of, however [the AIC](../gata/institutions/atlan-information-control-aic.md) and [Collections](../gata/law-and-order/collections.md) quickly and decisively crack down on these installations, even outside of Greater Atla's territory with the assistance of [Angelis](../gata/military-and-defense/angelis.md).
 
 ***
 

@@ -16,7 +16,7 @@ layout:
 
 ## **Overview**
 
-The Whole Privacy Protection Act (WPP) is a cornerstone piece of legislation in [Greater Atla Territorial Alliance (GATA)](../the-basics.md). It was one of the first major laws introduced by the [Atlan Information Control (AIC)](../institutions/atlan-information-control.md) and ratified by the [First Quorum](governance.md#the-first-quorum), governing data privacy, encryption, and the ethical use of technology across the GATA.
+The Whole Privacy Protection Act (WPP) is a cornerstone piece of legislation in [Greater Atla Territorial Alliance (GATA)](../the-basics.md). It was one of the first major laws introduced by the [Atlan Information Control (AIC)](../institutions/atlan-information-control-aic.md) and ratified by the [First Quorum](governance.md#the-first-quorum), governing data privacy, encryption, and the ethical use of technology across the GATA.
 
 Compliance with the WPP is mandatory for any nation wishing to adopt the [CRED currency](money.md#credits-currency) within their own [districts](districts.md), making it a fundamental requirement for signatories of the [New Dawn Accords (NDA)](new-dawn-accords.md).
 

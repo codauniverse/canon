@@ -14,9 +14,13 @@ layout:
 
 # Fusion Energy
 
+<figure><img src="../../.gitbook/assets/fusionenergy.png" alt=""><figcaption><p>An industrial fusion cell in operation.</p></figcaption></figure>
+
 ## **Overview**
 
-Fusion energy is the primary central power generation for most of [GATA](../gata/)’s [districts](../gata/politics/districts.md), as well as [New Imperial Japan](../new-imperial-japan/), [URSA](../ursa/), and [the Free Territories](../free-territories/). Fusion cells, developed and refined over decades, have become integral to the functioning of major powers like GATA and New Imperial Japan. These cells power everything from household devices to massive industrial operations, ensuring the smooth running of advanced societies.
+Fusion energy is the primary industrial power generation technology for most of [GATA](../gata/)’s [districts](../gata/politics/districts.md), as well as [New Imperial Japan](../new-imperial-japan/), [URSA](../ursa/), and [the Free Territories](../free-territories/). Fusion cells, developed and refined over decades, have become integral to the functioning of major powers like GATA and New Imperial Japan.&#x20;
+
+These cells power everything from household devices to massive industrial operations, ensuring the smooth running of sprawling metropolises and remote homesteads alike.
 
 ***
 
@@ -34,11 +38,13 @@ During the Dark Decade, the Joint Atlantic Command (JAC), which later evolved in
 
 ## GATA's Fusion Technology
 
-GATA, known for its technological prowess and meticulous engineering, utilizes large-scale fusion reactors. These reactors are powered by robust fusion cells developed during the Reconstruction Era. These cells are noted for their longevity and reliability, with many still operational decades after their initial deployment.
+<figure><img src="../../.gitbook/assets/fusionenergy-8321.png" alt="" width="563"><figcaption><p>One of GATA's large advanced fusion reactors.</p></figcaption></figure>
 
-GATA's fusion reactors are a testament to their engineering excellence, capable of providing steady power output to districts and homesteads across their territories. However, their approach to fusion creates a reliance on high-yield centralized fusion generators which has obvious limitations for smaller homesteads beyond district walls or personal use.&#x20;
+GATA, known for its technological prowess and meticulous engineering, utilizes large-scale fusion reactors. These reactors are powered by robust fusion cell technology developed during the Reconstruction Era. These cells are noted for their longevity and reliability, with many still operational decades after their initial deployment.
 
-GATA's slow rollout of new fusion generation tech is due to the conservative approach of the AIC when paradigming new technologies, combined with rising interest in the testing of parallel energy, a novel energy solution that promises greater efficiency, among other potential benefits.
+GATA's fusion reactors are a testament to their engineering excellence, capable of providing steady power output to districts and industrial facilities across their territories. However, their approach to fusion creates a reliance on high-yield centralized fusion generators which has obvious limitations for smaller homesteads beyond district walls or personal use.&#x20;
+
+GATA's slow rollout of new fusion generation tech is due to the conservative approach of the [AIC](../gata/institutions/atlan-information-control-aic.md) when [paradigming](../gata/politics/paradigms.md) new technologies, combined with rising interest in the testing of [parallel energy](parallel-energy.md), a novel energy solution that promises greater efficiency, among other potential benefits.
 
 ***
 

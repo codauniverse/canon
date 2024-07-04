@@ -22,7 +22,7 @@ The Astral is a novel kind of virtual construct that exists entirely in the mind
 
 This modification of sync hubs is illegal and connecting to the Astral is a Class 1 crime. However, this has not prevented a growing subculture of Astral users from taking root, particularly among [sleepers](../gata/people-and-culture/sleepers.md) who already spend most of their lives within [virtual constructs](constructs.md#virtual-constructs).
 
-Sleepers and others usually learn about the Astral and gain access to their secretive networks via illegal offline constructs that have been known to circulate around [dormitory communities](../gata/people-and-culture/sleepers.md#dormitories), leading to increasing scrutiny of dormitories by [the AIC](../gata/institutions/atlan-information-control.md).
+Sleepers and others usually learn about the Astral and gain access to their secretive networks via illegal offline constructs that have been known to circulate around [dormitory communities](../gata/people-and-culture/sleepers.md#dormitories), leading to increasing scrutiny of dormitories by [the AIC](../gata/institutions/atlan-information-control-aic.md).
 
 ***
 
