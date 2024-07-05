@@ -50,7 +50,7 @@ They are modified by [Astral](the-astral.md) users with difficult-to-acquire [as
 
 ### **Hives**
 
-Users of links and modified sync hubs who have allowed themselves to remain ‘synced’ together for extended periods of time.
+Users of links and modified sync hubs who have allowed themselves to remain ‘synced’ together for extended periods of time. Hives can sometimes be found in sleeper [dormitories](../gata/people-and-culture/sleepers.md#dormitories).
 
 People who participate in hives experience reduced sense of individual identity and states of euphoria, and these sensations can persist even after disconnection, resulting in extreme withdrawal symptoms, psychosis and permanent brain damage.
 

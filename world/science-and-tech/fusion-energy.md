@@ -42,13 +42,17 @@ During the Dark Decade, the Joint Atlantic Command (JAC), which later evolved in
 
 GATA, known for its technological prowess and meticulous engineering, utilizes large-scale fusion reactors. These reactors are powered by robust fusion cell technology developed during the Reconstruction Era. These cells are noted for their longevity and reliability, with many still operational decades after their initial deployment.
 
-GATA's fusion reactors are a testament to their engineering excellence, capable of providing steady power output to districts and industrial facilities across their territories. However, their approach to fusion creates a reliance on high-yield centralized fusion generators which has obvious limitations for smaller homesteads beyond district walls or personal use.&#x20;
+GATA's fusion reactors are a testament to their engineering excellence, capable of providing steady power output to districts and industrial facilities across their territories. However, their approach to fusion creates a reliance on high-yield centralized fusion generators which has obvious limitations for smaller homesteads beyond district walls or personal use.
+
+GATA does have its own miniaturized fusion power cells developed by Angelis which are competitive with New Imperial Japan's designs, however they are not paradigmed for civilian or enterprise use in any of GATA's districts, and are almost exclusively utilized in the context of Angelis' military and defense endeavors.
 
 GATA's slow rollout of new fusion generation tech is due to the conservative approach of the [AIC](../gata/institutions/atlan-information-control-aic.md) when [paradigming](../gata/politics/paradigms.md) new technologies, combined with rising interest in the testing of [parallel energy](parallel-energy.md), a novel energy solution that promises greater efficiency, among other potential benefits.
 
 ***
 
 ## New Imperial Japan's Miniaturized Fusion Cells
+
+<figure><img src="../../.gitbook/assets/fusionenergy-183.png" alt="" width="563"><figcaption><p>Technicians installing one of New Imperial Japan's miniaturized fusion cells.</p></figcaption></figure>
 
 Contrasting with GATA's large-scale approach, New Imperial Japan has always focused on miniaturized fusion cells. These smaller cells are versatile and efficient for personal and smaller-scale applications, but they do not scale well for large industrial uses.
 

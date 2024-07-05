@@ -48,6 +48,8 @@ Ultimately, the frame's chassis is tailored to its intended function, and elite 
 
 Passive statics built into their extremities are intended to prevent their massive, ambulatory bodies from significantly damaging or deforming the ground beneath them when they land and walk in the course of their normal operation.
 
+Frames can be loaded out with a wide range of equipment and technologies, and require a tremendous amount of power to operate. Today, frames are powered miniaturized [fusion power cells](fusion-energy.md), with the best cells being produced by [GATA](../gata/the-basics.md) and [New Imperial Japan](../new-imperial-japan/the-basics.md).
+
 ### Operating a Frame
 
 A frames outer shell opens to reveal its cockpit, called the Operator Cradle, a compact, heavily armored compartment typically concealed within the frame's torso. Modern cradles use a passive static field to provide additional protection and isolate the pilot from impacts and G-force effects, making the cradle a zero gravity environment while in operation.

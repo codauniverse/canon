@@ -40,7 +40,9 @@ Representatives in the [Second Quorum](../gata/politics/governance.md#the-second
 
 ## **Link Use**
 
-Links are a common fixture of life in many districts across GATA where it is widely [paradigmed](../gata/politics/paradigms.md). One of few paradigmed technologies found across so many districts—a side-effect of its ubiquity during The Reconstruction. Links are so beneficial for district performance that there is some political will to make links a “blue” technology, legal for use freely across all of [Greater Atla](../gata/politics/greater-atla.md), which would extend to all of GATA’s partner states. This would be a massive boon to private enterprise and districts looking to maximize [their Yield](../gata/politics/yield.md).
+Links are a common fixture of life in many districts across GATA where it is widely [paradigmed](../gata/politics/paradigms.md). One of few technologies paradigmed across so many districts—a side-effect of its ubiquity during The Reconstruction.
+
+Links are so beneficial for district performance that there is some political will to make links a “blue” technology, legal for use freely across all of [Greater Atla](../gata/politics/greater-atla.md), which would extend to all of GATA’s partner states. This would be a massive boon to private enterprise and districts looking to maximize [their Yield](../gata/politics/yield.md).
 
 While the average person with a link can manipulate simple systems like lights, doors, powering appliances, or interacting with [System terminals](../gata/politics/the-system.md#system-terminals), there are those who can manipulate very complex systems by training and/or aptitude. These people are called [conduits](links.md#conduits).
 
@@ -60,13 +62,19 @@ Driving is an advanced form of pushing. Driving a system involves continuously p
 
 ### **Pulling**
 
-Pulling allows a link user to intuitively interpret a system’s state. Only users with subcranial implants can pull. Pulling is considered relatively advanced, and requires deep familiarity with a given system.
+Pulling allows a link user to intuitively interpret a system’s state. Only users with subcranial implants can pull detailed information. Pulling is considered relatively advanced, and requires deep familiarity with a given system.
 
 #### **Sensing**
 
 Sensing is a precursor to pulling. Link users can open themselves up to nearby systems, including other links. This allows the user to find an endpoint that they can then connect with, or pick up on important metadata in the environment. This is one of the most fundamental link skills and can be accomplished to some degree with any link.
 
 Skilled link users can even sense other links, however sensing links isn’t like syncing–there is no direct connection between minds. But advanced link users can sense another link’s presence, or when a link is being actively engaged.
+
+#### Breaching
+
+Breaching is an advanced pulling technique allowing a link user who is synced with another link user to reach into the other user's mind and see their thoughts.
+
+The process is very invasive and nearly impossible to do without the victim's knowledge; someone whose mind is being breached can sense another presence in their head, and if they are a skilled conduit themselves, they can potentially repel the breaching conduit.
 
 ***
 

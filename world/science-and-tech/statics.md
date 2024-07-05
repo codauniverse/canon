@@ -18,7 +18,11 @@ layout:
 
 ## Overview
 
-Static Field technology, or statics for short, uses ‘[static nodes](statics.md#static-nodes)’ to position and move objects, crafts, platforms, and structures within the Earth’s gravitational field, or ‘static field’ as it relates to static technology. Statics are much more prevalent in GATA's districts and across Greater Atla, however they can also be found in use within all of GATA's partner states. Conversely, they are a rarer sight in URSA and rarer still across the Free Territories.
+Static Field technology, or statics for short, uses ‘[static nodes](statics.md#static-nodes)’ to position and move objects, crafts, platforms, and structures within the Earth’s gravitational field, or ‘static field’ as it relates to static technology.
+
+Statics are much more prevalent in [GATA's](../gata/the-basics.md) districts and across [Greater Atla](../gata/politics/greater-atla.md), however they can also be found in use within all of [GATA's partner states](../gata/politics/new-dawn-accords.md#signatories). Conversely, they are a rarer sight in [URSA](../ursa/the-basics.md) and rarer still across the [Free Territories](../free-territories/the-basics.md).
+
+Static field technology has also been essential for the development of [grabbers](grabbers.md), and it is a key element of many other innovations, such as containment fields for breathable atmospheres in space, inertial dampening fields for [frame](frames.md) operators' [cradles](frames.md#design-and-functionality), or artificial gravity environments, such as those used in the popular sport, [Gravita](../gata/people-and-culture/sports.md#gravita).
 
 ***
 
@@ -48,7 +52,7 @@ Static engines continuously modulate the charge applied to three or more nodes t
 
 With modern, miniaturized static engines, extremely fast and expressive movement can be achieved, as many have discovered with the recent rise in the popularity of [darts](statics.md#dart-boards)–static boards that have become central to an extreme [sport culture](../gata/people-and-culture/sports.md) that is intertwined with the [counterculture scene](../gata/underground-scene/).
 
-Smaller static vehicles are reliant on compact batteries to power their static engines, while larger ships and platforms employ fusion reactors to power their larger static engines. Meanwhile, New Imperial Japan, URSA and various Free Territories utilize much smaller fusion cells, giving them advantages in certain military and industrial applications where their statics can operate indefinitely.
+Smaller static vehicles are reliant on compact batteries to power their static engines, while larger ships and platforms employ [fusion reactors](fusion-energy.md) to power their larger static engines. Meanwhile, New Imperial Japan, URSA and various Free Territories utilize much smaller fusion cells [manufactured by New Imperial Japan](fusion-energy.md#new-imperial-japans-miniaturized-fusion-cells), giving them advantages in certain military and industrial applications where their statics can operate indefinitely.
 
 Prominent statics manufacturers include Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU).
 
