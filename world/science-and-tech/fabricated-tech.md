@@ -22,6 +22,8 @@ Fabricated tech refers to the recycling of existing [LMNL](hard-code.md#lmnl) mo
 
 Fabricated tech is extremely convenient due to its size (legacy components are smaller than their LMNL counterparts), customizability, and reusability. Fabricated tech makes it easy break down and recompile the technology that you need as you need it, reusing the same electronic and LMNL components.
 
+Fabrication labs, or "fab labs", can be found throughout much of the world, making fabricators and common components available to customers for a price. High-end fab labs have higher-grade fabricators, stock rarer components, and may even staff highly skilled technicians who can hand-fabricate more exotic, bespoke tech.
+
 On the market, some components can get quite expensive, such as [legacy components](../gata/law-and-order/tech-regulation.md), [COGs](cogs.md), and components made with exotic materials, like [static nodes](statics.md#static-nodes).
 
 <div>
