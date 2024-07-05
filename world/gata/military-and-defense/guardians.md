@@ -14,15 +14,15 @@ layout:
 
 # Guardians
 
-<figure><img src="../../../.gitbook/assets/guardians.png" alt=""><figcaption><p>A Guardian operative and her Combat Gear.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guardians.png" alt=""><figcaption><p>A Guardian operative and her war frame.</p></figcaption></figure>
 
 ## **Overview**
 
-[Angelis](angelis.md)’ mechanized special forces units, Guardians are the blunt force weapon of Angelis, contrasted by the versatility of [Rapid Response](rapid-response.md), and the precision of the [MAVs](mavs.md). Guardians undergo rigorous training and conditioning, and demonstrate mastery of a wide range of skills including hand-to-hand combat, use of multiple firearms and weapon platforms, [link proficiency](../../science-and-tech/links.md), and advanced ability with Heavy [Combat Gear](../../science-and-tech/gear.md#combat-gear).&#x20;
+[Angelis](angelis.md)’ mechanized special forces units, Guardians are the blunt force weapon of Angelis, contrasted by the versatility of [Rapid Response](rapid-response.md), and the precision of the [MAVs](mavs.md). Guardians undergo rigorous training and conditioning, and demonstrate mastery of a wide range of skills including hand-to-hand combat, use of multiple firearms and weapon platforms, [link proficiency](../../science-and-tech/links.md), and unparalleled talent operating [war frames](../../science-and-tech/frames.md).&#x20;
 
 Guardian units are typically deployed in fireteams of four, often complemented by a company or battalion of regular infantry, as well as aerial support, however it is not uncommon for Guardians to be deployed solo to support active engagements on the ground, such as Gate Patrol operations, or partner-state conflicts.
 
-Guardians are identifiable by their blue Heavy Gear, which are often in the mid-size to large-size range, and are outfitted with [statics](../../science-and-tech/statics.md) for trans-medium operations that span land, air, sea and space. They can be deployed directly from Angelis [Watchtowers](angelis.md#watchtowers) and [Overlooks](angelis.md#overlooks) located in Low Earth Orbit.
+Guardians are identifiable by their blue war frames, which are often in the mid-size to large-size range, and are outfitted with [statics](../../science-and-tech/statics.md) for trans-medium operations that span land, air, sea and space. They can be deployed directly from Angelis [Watchtowers](angelis.md#watchtowers) and [Overlooks](angelis.md#overlooks) located in Low Earth Orbit.
 
 ***
 
@@ -34,7 +34,7 @@ The Guardians can trace their lineage back to the JAC's Wardens, a squadron of f
 
 After the JAC established industrial operations in Northern Africa, new purpose-built armaments could be produced. Soon after, when Atla was founded, the Wardens squadron was reassigned to the defense of the fledging capitol, and a new compartment was formed under the Existence Doctrine to replicate their function using a new kind of heavy mechanized unit tailored for long-term patrol, and designed for mixed ground-and-air engagements called "war frames", or simply "frames" for short.
 
-<figure><img src="../../../.gitbook/assets/guardians-8345.png" alt="" width="563"><figcaption><p>An early Heavy Gear developed in the final years of the Dark Decade.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guardians-8345.png" alt="" width="563"><figcaption><p>An early war frame developed in the final years of the Dark Decade.</p></figcaption></figure>
 
 During the Reconstruction era, while GATA still maintained a national military (technically, an extra-territorial extension of Atla's local authority), it became standard to deploy these heavy, mechanized units to protect each of their refugee camps and nascent districts. The primary purpose of the war frame's imposing presence was as a deterrence to local Sovereign militias and bandits.
 
@@ -74,13 +74,13 @@ Their presence can quickly stabilize volatile situations and provide immediate s
 
 Guardians are equipped with the most advanced technology available in GATA, thanks to Angelis' special paradigm, availing to them a wider range of technologies produced by GATA's many district's private enterprises:
 
-### Guardian Gear
+### Guardian Frames
 
-Their iconic blue Heavy Gear is designed for mid-size to large-size mechanical exoskeletons called "frames", offering enhanced protection and heavier loadouts. The gear is integrated with statics for trans-medium operations, allowing Guardians to seamlessly transition between land, air, sea, and space environments.
+Their iconic blue war frames are designed for mid-size to large-size mechanical exoskeletons called "frames", offering enhanced protection and heavier loadouts. Their frames are integrated with statics for trans-medium operations, allowing Guardians to seamlessly transition between land, air, sea, and space environments.
 
-At the heart of each Guardians Gear is a rudimentary COG managing many of the Guardian's subsystems in concert with the actions of the pilot.
+At the heart of each Guardians war frame is a rudimentary COG managing many of the Guardian's subsystems in concert with the actions of the pilot.
 
-Each Guardian's gear is tailored to their specific mission requirements, featuring cutting-edge technology such as enhanced sensory interfaces, augmented reality displays, and adaptive camouflage. This gear is designed to provide maximum operational efficiency and survivability in diverse combat scenarios.
+Each Guardian's frame is tailored to their specific mission requirements, featuring cutting-edge technology such as enhanced sensory interfaces, augmented reality displays, and adaptive camouflage. This frame is designed to provide maximum operational efficiency and survivability in diverse combat scenarios.
 
 ### **Weaponry**
 
@@ -108,12 +108,12 @@ Proficiency with a broad range of firearms and heavy weapon platforms is essenti
 
 #### Heavy Weapons and Equipment
 
-Proficiency with an arsenal of heavy ordinance, canons, and equipment that can be outfitted on Guardian Combat Gear.
+Proficiency with an arsenal of heavy ordinance, canons, and equipment that can be outfitted on Guardian war frames.
 
 #### Link & Syncing Proficiency
 
-Advanced training in Link use allows Guardians to drive their gear's operation with their thoughts, enhances their extended proprioception, their situational awareness, and their communication with the rest of their fireteam. They can interface with various systems, control drones, and access real-time battlefield data. Sync training allows Guardians working in fireteams to communicate non-verbally with their teammates and coordinate their actions.
+Advanced training in Link use allows Guardians to drive their frame's operation with their thoughts, enhances their extended proprioception, their situational awareness, and their communication with the rest of their fireteam. They can interface with various systems, control drones, and access real-time battlefield data. Sync training allows Guardians working in fireteams to communicate non-verbally with their teammates and coordinate their actions.
 
-#### Combat Gear Mastery
+#### War Frame Mastery
 
-Guardians are experts in using and maneuvering their advanced Heavy Combat Gear, leveraging its full capabilities to gain a decisive tactical edge. This includes the use of static-powered mobility, augmented reality displays, adaptive camouflage, defensive counter-measures, and enhanced sensory interfaces.
+Guardians are experts in using and maneuvering their advanced war frames, leveraging its full capabilities to gain a decisive tactical edge. This includes the use of static-powered mobility, augmented reality displays, adaptive camouflage, defensive counter-measures, and enhanced sensory interfaces.
