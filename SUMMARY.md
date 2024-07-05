@@ -115,7 +115,6 @@
     * [Syndicates](world/gata/criminal-element/syndicates.md)
     * [Gangs](world/gata/criminal-element/gangs.md)
     * [Scavengers](world/gata/criminal-element/scavengers.md)
-    * [Drug Trade](world/gata/criminal-element/drug-trade.md)
     * [Smugglers](world/gata/criminal-element/smugglers.md)
     * [Wallrunners](world/gata/criminal-element/wallrunners.md)
   * [🕳️ Underground Scene](world/gata/underground-scene/README.md)

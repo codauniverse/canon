@@ -52,4 +52,4 @@ In GATA, these raves are absolutely taboo. Being caught participating in such an
 
 ### Origins
 
-Sync raves originated in Arcadia in LA, from an experimental art and music scene that was far from the heart of GATA, where regulations restricting uncontrolled tech often went unenforced. One of its formative artists was a performer named Willow who was controversially apprehended and ultimately [exiled](../law-and-order/exile.md) from GATA.
+Sync raves originated in an arcade called Arcadia in LA, stemming from an experimental art and music scene that was far from the heart of GATA, where regulations restricting uncontrolled tech often went unenforced. One of its formative artists was a performer named Willow who was controversially apprehended and ultimately [exiled](../law-and-order/exile.md) from GATA.

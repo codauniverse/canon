@@ -26,9 +26,9 @@ While many operators often work solo, others work in teams or small crews, and s
 
 All legal commission work is recorded on, and regulated by, The System economy. In order to be a successful operator, it is critical to have [the keys](../politics/keys.md) to do what you plan to do, carry what you intend to carry, or go where you need to go.
 
-But of course, skilled Operators with workarounds and fewer inhibitions can be hired on the black market. Illegal operator jobs are called "dark operations". Legitimate operators are often identifiable by the bright orange color of the Operators Guild, whereas an operator with no trace of orange in their garb probably offers a wider range of services.
-
 ***
+
+## Working with Operators
 
 ### The Right to Uphold
 
@@ -40,6 +40,16 @@ In practice, the [Local Authority](../law-and-order/local-authority.md) are the 
 
 ### **Deputized Operators**
 
+<figure><img src="../../../.gitbook/assets/deputizedoperators.png" alt="" width="563"><figcaption><p>A crew of deputized operators working with the local authority.</p></figcaption></figure>
+
 With the Right to Uphold outlined in the NDA, operators can function as commissioned law enforcement working directly for the local government or Local Authority. This relationship with local institutions can vary widely between each district, resulting in different culture and norms surrounding operators.
 
 Some local governments rely heavily on operators to maintain the peace and can’t afford high standards, while other [district](../politics/districts.md) governments work exclusively with a few skilled operators or enterprises that meet very high standards. It would be a rare sight to see what passes for an operator in New York City stroll through the promenades of [Atla](../key-locations/atla.md).
+
+### Dark Operators
+
+<figure><img src="../../../.gitbook/assets/darkoperators-492.png" alt="" width="563"><figcaption><p>Dark operators offering their services from a Gray Zone.</p></figcaption></figure>
+
+Skilled operators with workarounds and fewer inhibitions can be hired on the black market. Illegal operator jobs are called "dark operations". Legitimate operators are often identifiable by the bright orange color of the Operators Guild on a patch or in their wardrobe, whereas an operator with no trace of orange in their garb probably offers a wider range of services.
+
+Dark Operators can be found in Gray Zones or in the Free Territories, and their services are often much more costly. They tend to have connections with criminal syndicates, so it is best not to betray their trust or fail to pay their fees.

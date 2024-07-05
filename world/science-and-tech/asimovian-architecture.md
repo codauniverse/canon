@@ -36,6 +36,8 @@ The most essential tool in the ontology design toolkit is [the filter module](as
 
 Asimovian architecture notably introduces ‘filter modules' that scrub information passed between modules in a hard coded program. This effectively prunes a system’s ‘perception’ of reality and limits its range of behavior. Filters make it so that certain information or operations are not able to exist within a given system, and are an essential tool in ontology design.
 
+<figure><img src="../../.gitbook/assets/filtermodules.png" alt="" width="563"><figcaption><p>A filter module written in LMNL hard code.</p></figcaption></figure>
+
 Asimovian filters are especially important for the safe operation of cogs (cognitive systems). Filters make it so that certain truths are unthinkable and certain behaviors are inexpressible for cogs. Roughly 95% of the volume of modern cog architecture is dedicated to filter hard code.
 
 #### **Understanding Filter Modules**
