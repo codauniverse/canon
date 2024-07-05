@@ -14,6 +14,8 @@ layout:
 
 # Sleepers
 
+<figure><img src="../../../.gitbook/assets/sleepers-984.png" alt=""><figcaption><p>A sleeper wearing a custom link interface.</p></figcaption></figure>
+
 ## **Overview**
 
 Sleepers are individuals who, for various reasons, spend the majority or entirety of their life within [constructs](../../science-and-tech/constructs.md). While some are bedridden with various conditions, there are those who prefer life in the constructs, and others who work on, or within, the constructs.
@@ -26,6 +28,10 @@ In recent years, some sleepers and dormitories have fallen under scrutiny from t
 
 ## Dormitories
 
+<figure><img src="../../../.gitbook/assets/dormatories-421.png" alt="" width="563"><figcaption><p>Sleepers crammed together in an illegal dormitory.</p></figcaption></figure>
+
 [Dormitories](sleepers.md#dormitories) serve as purpose-built residences for individuals who spend most of their lives in [virtual constructs](../../science-and-tech/constructs.md#virtual-constructs), either due to medical conditions, personal preference, or occupational requirements.
 
-They can range widely by purpose, from rows of short-term "dive pods" found at inns, resorts, [arcades](../underground-scene/arcades.md), and pleasure houses, to long-term facilities with full-time care staff and [automata](../../science-and-tech/automata.md). These dedicated dormitories often include common areas where sleepers can move about and interact in real-life when necessary. These spaces are designed to be quiet and soothing, with amenities that promote mental health and well-being.
+They can range widely by purpose, from rows of short-term "dive pods" found at inns, resorts, [arcades](../underground-scene/arcades.md), and pleasure houses, to long-term facilities with full-time care staff and [automata](../../science-and-tech/automata.md). There are also illegal dormitories which can more often be found in [Gray Zones](../politics/gray-zones.md) or in [the Free Territories](../../free-territories/the-basics.md).
+
+Legitimate dormitories often include common areas where sleepers can move about and interact in real-life when necessary. These spaces are designed to be quiet and soothing, with amenities that promote mental health and well-being.

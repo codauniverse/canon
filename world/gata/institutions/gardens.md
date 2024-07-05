@@ -14,6 +14,8 @@ layout:
 
 # Gardens
 
+<figure><img src="../../../.gitbook/assets/gardens.png" alt=""><figcaption><p>A district garden where Manna flowers are cultivated and orphaned children are housed.</p></figcaption></figure>
+
 ## **Overview**
 
 District Gardens are essential communal housing and agricultural facilities within the [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md). Established primarily to care for orphans and child refugees, these Gardens serve as safe havens where young wards of the state can grow and thrive under the supervision of [System](../politics/the-system.md)-employed caregivers and local volunteers.&#x20;
@@ -38,6 +40,8 @@ The cultivation process is overseen by gardeners employed by the System, ensurin
 
 ### **Educational Institutions**
 
+<figure><img src="../../../.gitbook/assets/gardenschools-345.png" alt="" width="563"><figcaption><p>Children study in a Garden School.</p></figcaption></figure>
+
 Education is a major part of a Garden's function. Garden schools, where attendance is mandatory for children under 14, provide a strong educational foundation to young residents.
 
 These schools are staffed by professional educators and supplemented with senior students from the local [Atlan Academy](the-atlan-academy-system.md), and administered by the Garden's Headmaster.
@@ -49,6 +53,8 @@ Children who cannot be disciplined, or who demonstrate various destructive patte
 ***
 
 ## **Daily Life and Activities**
+
+<figure><img src="../../../.gitbook/assets/gardens-9434.png" alt="" width="563"><figcaption><p>Children tend to the Manna flowers as part of their daily chores.</p></figcaption></figure>
 
 Life in the Gardens is structured around a daily routine that balances education, agricultural work, and community activities. The children engage in regular schooling, participate in the cultivation and harvesting of Manna flowers, and take part in various skill-building exercises.
 
