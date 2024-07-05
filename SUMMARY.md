@@ -90,6 +90,7 @@
     * [Gate Patrol](world/gata/borders-and-travel/gate-patrol.md)
     * [Field Walls](world/gata/borders-and-travel/field-walls.md)
     * [Sentinels](world/gata/borders-and-travel/sentinels.md)
+    * [Spaceports](world/gata/borders-and-travel/spaceports.md)
   * [🖊️ Institutions](world/gata/institutions/README.md)
     * [Atlan Information Control (AIC)](world/gata/institutions/atlan-information-control-aic.md)
     * [The Atlan Academy System](world/gata/institutions/the-atlan-academy-system.md)
