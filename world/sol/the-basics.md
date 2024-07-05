@@ -39,7 +39,7 @@ Governed by a meritocratically selected Council of Overseers, Sol is characteriz
 
 ## The Spirit of Sol
 
-The habitats of Sol, highly secured and regimented, are models of sustainable living and technological sophistication, reflecting Sol's overarching ethos of resilience, order, and forward-thinking. At the heart of its identity, Sol is a symbol of humanity's capacity to adapt and thrive in the vastness of space, prioritizing the well-being of its citizens while playing a pivotal role in the broader interstellar community.
+The habitats of Sol, highly secured and regimented, are models of sustainable living and technological sophistication, reflecting Sol's overarching ethos of resilience, order, and forward-thinking. At the heart of its national identity, Sol is a symbol of humanity's capacity to adapt and thrive in the vastness of space, prioritizing the well-being of its citizens while playing a pivotal role in the broader interstellar community.
 
 Many would characterize life in Sol as cold and procedural, but deeply intellectually rewarding and meaningful. Citizens of Sol are unified by the belief that while GATA presides over humanity’s present, Sol will forge its future.
 

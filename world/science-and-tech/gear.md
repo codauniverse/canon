@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-A broad term used to describe wearable technology and equipment, from sensors and mechanical components to personal compute and storage. Gear can refer to individual worn items, or fully-body, integrated suits with built-in hard-coded compute, and even larger mechanized exoskeletons called frames, or simply "Heavy Gear". Gear is often driven by [links](links.md), however some gear can be controlled manually, kinetically, with voice commands, or by pairing with remote systems.
+A broad term used to describe wearable technology, equipment, and even prosthetics, from sensors and mechanical components to personal compute and storage. Gear can refer to individual worn items, or fully-body, integrated suits with built-in hard-coded compute, and mechanized exoskeletons. Gear is often driven by [links](links.md), however some gear can be controlled manually, kinetically, with voice commands, or by pairing with remote systems.
 
 Most consumer gear is tailored for [operators](../gata/enterprise/operators.md) and personal convenience, and don't require sophisticated functionality or security, allowing the gear's computational components to be built with the cheaper and more modular [LMNL](hard-code.md#lmnl) [hard code](hard-code.md).
 
@@ -34,7 +34,7 @@ Beyond the safety of district walls, Combat Gear is significantly more prevalent
 
 <figure><img src="../../.gitbook/assets/nomoney420_character_standing_next_to_an_armored_combat_suit_sl_ca479467-ee05-4faa-9ed4-b20dced267bc.png" alt="" width="563"><figcaption><p>Rapid Response units ready to deploy in their combat gear.</p></figcaption></figure>
 
-Combat Gear are armored suits or exoskeletons, wearable weapons platforms and advanced combat equipment. They range from minimal, powered bodysuits carrying light loadouts, to full-body armor suits and even sizable piloted mechs called Heavy Gear.
+Combat Gear are armored suits or exoskeletons, wearable weapons platforms and advanced combat equipment. They range from minimal, powered bodysuits carrying light loadouts, to full-body armor suits with powered mechanical exoskeletons.
 
 The most advanced Combat Gear in use likely belongs to Angelis, however every nation has built up their own arsenal of formidable gear with a wide range of capabilities.
 
@@ -62,10 +62,12 @@ Sprint gear typically takes the form of leg extensions, however more extreme spr
 
 Boost Gear is a subset of Gear designed for propulsive movement, especially in emergency and combat scenarios. Boost gear uses propulsive jets instead of static nodes due to the latter's vulnerability to target lock.
 
-Boost Gear's propulsive jets recycle kinetic energy into focused bursts that can propel the runner in any direction, and can even sustain flight for limited durations. Excellent for overcoming obstacles, dodging incoming projectiles, and freeing wallrunners from Gate Patrol jelly rounds.
+Boost Gear's propulsive jets recycle kinetic energy into focused bursts that can propel the runner in any direction, and can even sustain flight for limited durations. Excellent for overcoming obstacles, dodging incoming projectiles, and freeing wallrunners from [Gate Patrol](../gata/borders-and-travel/gate-patrol.md) jelly rounds.
 
 ***
 
 ## Heavy Gear
 
 Heavy Gear is a broad category that refers to any gear loadout so heavy that it requires a mechanized exoskeleton to carry the load. This class of gear generally incorporates more complex systems and capabilities, and requires capable operators who are adept with link use.
+
+Past a certain size, such mechanized loadouts begin to enter the territory of [frames](frames.md).

@@ -18,13 +18,13 @@ layout:
 
 ## Overview
 
-Developed by [AKICEL](../enterprise/akicel.md), the Akicel Therapy is a well-known treatment for age-related dysfunction across the entire body. Used in moderation, Akicel therapy significantly reduces all-cause mortality. Higher doses can have strong rejuvenative effects on superficial signs of aging.
+Developed by [AKICEL](../enterprise/akicel.md), the Akicel Therapy is a well-known treatment for age-related dysfunction across the entire body. The key element of Akicel Therapy is the Akicel Serum. Applied in moderation, Akicel therapy significantly reduces all-cause mortality. Higher doses can have strong rejuvenative effects on superficial signs of aging, and can speed the body's healing process.
 
-Akicel therapy is derived from the Aki Genome, the genetic code responsible for the immortal cells of Aki Koenig, AKICEL's namesake. Aki's cells demonstrate near perfect replication, bestowing upon her near perfect health and longevity. Akicel therapy introduces plasma infused with copies of these cells into a patient's bloodstream.
+Akicel Serum is derived from the Aki Genome, the genetic code responsible for the immortal cells of Aki Koenig, AKICEL's namesake. Aki's cells demonstrate near perfect replication, bestowing upon her near perfect health and longevity. Akicel therapy introduces a plasmatic serum infused with copies of these cells into a patient's bloodstream.
 
 The usual regimen for most patients is one Akicel treatment a year after the age of 16, and no more than one full treatment every two months. Akicel use at this rate reduces most individuals’ apparent rate of aging by 30-70%.
 
-Excessive use of Akicel therapy has been connected with numerous side effects. The therapy should only be administered by a trained professional in controlled settings, and patients should be monitored for 12 hours following their treatment.
+Excessive Akicel therapy treatment has been connected with numerous side effects. The therapy should only be administered by a trained professional in controlled settings, and patients should be monitored for 12 hours following their treatment.
 
 ### **Rejuvenation**
 
