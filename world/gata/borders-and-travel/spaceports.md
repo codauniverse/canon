@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Spaceports in the [Greater Atlan Territorial Alliance (GATA)](../the-basics.md) are increasingly active hubs for space-bound travel to orbit, the moon, and beyond. They are known for their stringent [NDA-compliant](../politics/new-dawn-accords.md) security protocols and state-of-the art logistical systems.
+Spaceports in the [Greater Atlan Territorial Alliance (GATA)](../the-basics.md) are increasingly active hubs for space-bound travel to orbit, the moon, and beyond. Similar to district [Gates](gates.md), they are known for their stringent, [NDA-compliant](../politics/new-dawn-accords.md) security protocols and state-of-the art logistical systems.
 
 Spaceports play a key role in bolstering the growing off-world [enterprises](../enterprise/) of GATA, [Sol](../../sol/the-basics.md), and other nations, enabling both civilian and enterprise travel while adhering to the strict security measures that are critical to preserving GATA’s territorial integrity.
 
