@@ -14,7 +14,7 @@ layout:
 
 # The Manna Flower
 
-<figure><img src="../../.gitbook/assets/mannaflower-0sfhkhgf.png" alt=""><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/mannaflower-353.png" alt=""><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
 
 ## Overview
 
@@ -24,23 +24,23 @@ Designed to develop through [three stages of maturity](the-manna-flower.md#devel
 
 The Manna flower's significance extended beyond its medicinal attributes. As Atla's first real political emblem, it played a poignant role in uniting survivors. New ships wishing to join the growing Atlan fleet would fly a white flag as a sign of peace. Once accepted, these ships were given a Manna flower as a symbol of unity and were invited to adorn their flags with a blue depiction of the flower.
 
-This tradition of the blue Manna flower on a white backdrop persists and has become the enduring flag of Atla. Of note, GATA’s first flag featured the reverse - a white Manna flower on a blue field, before the more abstracted redesign that seen today.
-
 <div>
 
-<figure><img src="../../.gitbook/assets/ATLA-flag.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ATLA-flag.png" alt="" width="375"><figcaption><p>Atla's flag.</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/GATA-flag (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GATA-flag (1).png" alt="" width="375"><figcaption><p>GATA's flag.</p></figcaption></figure>
 
 </div>
 
+This tradition of the blue Manna flower on a white backdrop persists and has become the enduring flag of Atla. Of note, GATA’s first flag featured the reverse - a white Manna flower on a blue field, before the more abstracted redesign that seen today.
+
 ***
 
-<figure><img src="../../.gitbook/assets/manna.png" alt="" width="563"><figcaption><p>Yellow and Blue Manna Flower specimens.</p></figcaption></figure>
-
 ## **Variants and Uses**
+
+<figure><img src="../../.gitbook/assets/manna.png" alt="" width="563"><figcaption><p>Yellow and Blue Manna Flower specimens.</p></figcaption></figure>
 
 By inciting specific epigenetic changes at the correct time in its development cycle, the Manna flower can metamorphose into several variants:
 
@@ -90,9 +90,9 @@ The final phase before seed release. Different harvesting methods and precise ti
 
 ***
 
-<figure><img src="../../.gitbook/assets/mannaflower-0sg983.png" alt="" width="563"><figcaption><p>The Manna flower, a symbol for many.</p></figcaption></figure>
-
 ## **Modern Context**
+
+<figure><img src="../../.gitbook/assets/mannafield.png" alt="" width="563"><figcaption><p>The Manna flower, a symbol of hope for many.</p></figcaption></figure>
 
 While many still cherish the aesthetic variants of the Manna flower, its central role in medicine has somewhat diminished in much of the world. Modern medical advances readily available across GATA and the other super-states have superseded most Manna-based treatments. As such, the Manna flower's role has receded into a more symbolic one.
 
