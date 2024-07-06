@@ -14,6 +14,8 @@ layout:
 
 # Parallel Energy
 
+<figure><img src="../../.gitbook/assets/parallelenergy-563.png" alt=""><figcaption><p>A single parallel reactor powering a massive machine.</p></figcaption></figure>
+
 ## Overview
 
 After years of perceived stagnation in GATA's energy production capabilities, parallel energy has recently gained attention as a new energy source poised to replace [fusion](fusion-energy.md) in [GATA](../gata/) and perhaps abroad. Parallel Energy is a GATA-developed technology, made possible by advances in material sciences first pioneered by Atla’s [Research Corps](../sol/institutions/the-research-corps.md#overview) during the [Dark Decade](../history/the-dark-decade.md). The [AIC](../gata/institutions/atlan-information-control-aic.md) has only recently approved several enterprises to commercialize parallel energy in a few [districts](../gata/politics/districts.md) under highly-controlled conditions.
@@ -23,6 +25,8 @@ The AIC has proposed that if it proves as safe and promising as it seems over th
 ***
 
 ## **Parallel Reactors**
+
+<figure><img src="../../.gitbook/assets/parallelenergycell-923.png" alt="" width="563"><figcaption><p>A portable parallel energy cell being installed by a technician.</p></figcaption></figure>
 
 Parallel reactors aren’t really generators per se. They are technically a new kind of power storage technology that uses charged cells across parallel universes to store power.
 

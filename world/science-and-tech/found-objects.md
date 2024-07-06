@@ -26,9 +26,9 @@ It is believed that, if the Found Objects do indeed exist, that they are being h
 
 ***
 
-<figure><img src="../../.gitbook/assets/the-phenomenon.png" alt="" width="563"><figcaption><p>A depiction of a sighting associated with The Phenomenon.</p></figcaption></figure>
-
 ## Connection with the Phenomenon
+
+<figure><img src="../../.gitbook/assets/the-phenomenon.png" alt="" width="563"><figcaption><p>A depiction of a sighting associated with The Phenomenon.</p></figcaption></figure>
 
 The Found Objects are theorized (by those so inclined) to be related to "the Phenomenon"; a vague notion derived from scattered sightings of anomalous trans-medium phenomena that have persisted throughout human history, and were particularly common throughout [the Dark Decade](../history/the-dark-decade.md).&#x20;
 
@@ -52,7 +52,7 @@ The existence of the Found Objects is particularly hard to believe for those who
 
 <figure><img src="../../.gitbook/assets/statics-0s8fg.png" alt="" width="563"><figcaption><p>A static-powered personal transport ship.</p></figcaption></figure>
 
-Today, citizens of GATA, and people around the world have grown accustomed to the advancements claimed to have been reverse-engineered from the Found Objects, like [static tech](statics.md), [parallel energy](parallel-energy.md), the UniMaPr, and [quantum seeds](quantum-seeds.md).
+Today, citizens of GATA, and people around the world have grown accustomed to the advancements claimed to have been reverse-engineered from the Found Objects, like [links](links.md), [static tech](statics.md), [parallel energy](parallel-energy.md), and [quantum seeds](quantum-seeds.md).
 
 ***
 

@@ -45,6 +45,7 @@
   * [Fusion Energy](world/science-and-tech/fusion-energy.md)
   * [Renewable Energy](world/science-and-tech/renewable-energy.md)
   * [Parallel Energy](world/science-and-tech/parallel-energy.md)
+  * [Gravity Batteries](world/science-and-tech/gravity-batteries.md)
   * [Statics](world/science-and-tech/statics.md)
   * [Quantum Seeds](world/science-and-tech/quantum-seeds.md)
   * [The Astral](world/science-and-tech/the-astral.md)
