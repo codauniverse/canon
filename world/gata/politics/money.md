@@ -14,6 +14,8 @@ layout:
 
 # Money
 
+<figure><img src="../../../.gitbook/assets/slip-3667.png" alt=""><figcaption><p>A credit transaction being set up on a slip.</p></figcaption></figure>
+
 ## **Overview**
 
 The [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md) boasts a sophisticated and thriving economy operating on [the System's](the-system.md) decentralized infrastructure. At the heart of this economy is the System's native currency, [credits](money.md#credits-currency) (CRED), which facilitate cross-district and international commerce.&#x20;
