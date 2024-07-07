@@ -33,11 +33,13 @@ Thus, the Atlan Academy was founded, initially to educate the youth of GATA's oc
 The Atlan Academy System is divided into several key components:
 
 1. **Atlan Academies**: Located in every district, these academies serve as preliminary educational institutions where students are prepared for potential admission to the High Academy in the capitol. In some cases, certain subjects can only be pursued in particular districts due to [paradigm ](../politics/paradigms.md)restrictions, meaning that in certain domains even a feeder academy can offer a better education than in the capitol.
-2. **The High Academy**: The central institution situated in Atla, the capital district of GATA. It collects the brightest minds from across [Greater Atla](../politics/greater-atla.md) and provides advanced education and training.
+2. **The High Academy**: The central institution situated in Atla, the capital district of GATA. The Atlan High Academy collects the brightest minds from across [Greater Atla](../politics/greater-atla.md) and provides the most advanced education and training in the world.
 3. **Universal Curriculum**: A standardized curriculum implemented across all feeder academies, ensuring uniformity and high standards of education throughout GATA. This curriculum includes a mix of theoretical and practical subjects designed to equip students with necessary skills and knowledge.
 4. **Administration**: The Atlan Academy System is overseen by a council of educators and administrators appointed by the [Second Quorum](../politics/governance.md#the-second-quorum). This council ensures that the curriculum is up-to-date, facilities are well-maintained, and educational standards are met.
 
 ### **Reputation**
+
+<figure><img src="../../../.gitbook/assets/atlanacademy-854.png" alt="" width="563"><figcaption><p>A graduation ceremony at the Atlan High Academy.</p></figcaption></figure>
 
 * **Elite Education**: Known for its rigorous selection process, the Atlan Academy admits only the most talented and promising students, beginning from a very young age.
 * **Social Impact:** The Atlan Academy System is intimately involved in each district's Garden, a public campus where [Manna flowers](../../science-and-tech/the-manna-flower.md) are cultivated, and orphaned children are fed, housed, and schooled by senior academy students. Many of GATA's most promising young minds are plucked from Garden schools and admitted into their district's academy.
