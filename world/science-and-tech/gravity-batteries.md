@@ -14,11 +14,11 @@ layout:
 
 # Gravity Batteries
 
-<figure><img src="../../.gitbook/assets/gravitybatteries-9843.png" alt=""><figcaption><p>Gravity battery cranes rising from a quarry housing massive blocks of stone.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gravitybatteries-209.png" alt=""><figcaption><p>Gravity battery cranes designed to lift heavy weights rising from a quarry.</p></figcaption></figure>
 
 ## Overview
 
-Gravity batteries are an advanced energy storage technology designed to harness potential energy stored in masses—typically weights or blocks—which are lifted and then allowed to fall. This mechanism converts potential energy into electrical energy using generators.
+Gravity batteries are an energy storage technology designed to harness potential energy stored in masses—typically weights or blocks—which are lifted and then allowed to fall. This mechanism converts potential energy into electrical energy using generators.
 
 This ingenious and relatively low-tech solution is comparable to pumped hydro storage, but instead of water, it uses solid masses like concrete blocks.
 
@@ -27,6 +27,8 @@ Gravity batteries pair well with renewable energy generation which has variable 
 ***
 
 ## Mechanism
+
+<figure><img src="../../.gitbook/assets/gravitybatteries-9843.png" alt="" width="563"><figcaption><p>Anchors at the end of cables that hold the gravity battery's weights.</p></figcaption></figure>
 
 The operation of gravity batteries consists of two main phases: energy storage (charging) and energy release (discharging).
 
