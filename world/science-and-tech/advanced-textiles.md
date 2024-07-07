@@ -22,7 +22,7 @@ Nanoscale structures that allow the fabrics to breathe while blocking all electr
 
 ### **Kineticord**
 
-Kineticord fabrics change form using acoustic vibrations. Clothes and other fabric objects made of kineticord can often be gently shaken or brushed to achieve the desired look. Clothes that change shape when you move, run, dance, etc. Curtains that open or close with a knowing touch.
+Kineticord fabrics change form using acoustic vibrations. Clothes and other fabric objects made of kineticord can often be gently shaken or brushed to achieve the desired look. Clothes that change shape when you move, run, dance, etc. Curtains that open or close with a knowing touch. Kineticord has a characteristic finely ridged texture.
 
 ***
 

@@ -14,6 +14,8 @@ layout:
 
 # Sports
 
+<figure><img src="../../../.gitbook/assets/sports-733.png" alt=""><figcaption><p>Children playing soccer in a field in the outskirts of a recovering city.</p></figcaption></figure>
+
 ## Overview
 
 Many traditional sports and games remain popular around the world, from team sports like football and basketball, to track and field, as well as chess and card games. However, a number of newer games have enjoyed massive growth across GATA and beyond, many of which exploit new technologies to expand the scope of the possible and create new terrain for human competition.
@@ -23,6 +25,8 @@ From high-intensity contact sports to gravity-defying races, sports play a signi
 ***
 
 ## **Gravita**
+
+<figure><img src="../../../.gitbook/assets/gravita-943.png" alt="" width="563"><figcaption><p>Gravita players prepare to make a play for the opponents' core.</p></figcaption></figure>
 
 The most popular spectator sport in GATA. A contact sport played inside of an artificial gravity field. The Defenders defend from the core, a sphere housing the static field generator that maintains the modified gravitational envelope. The Offense attempts to score points by placing, throwing, or kicking the ball into one of the receptacles on the core’s poles.
 
@@ -38,11 +42,13 @@ Static GP involves high-speed races through complex tracks using static vehicles
 
 ## **Darts**
 
-Dart boards are sports equipment based on widely paradigmed static field tech and powered by small, efficient batteries. A “dart” is a personal conveyance device in a form-factor similar to a surf board, somewhat resembling a thrown dart, that is used to convey its pilot with extreme speed and agility.
+<figure><img src="../../../.gitbook/assets/staticboard-488.png" alt="" width="563"><figcaption><p>A thrill-seeking youth tricking on a high-end dart board.</p></figcaption></figure>
 
-Dart boards must compromise between the static manifold surface area for generating thrust, dividing manifold surface area between the different flight surfaces. These interrelated compromises determine a dart board's top speed, acceleration and deceleration, maneuverability, range, and size.
+Dart boards are sports equipment based on widely paradigmed [static field tech](../../science-and-tech/statics.md) and powered by small, efficient batteries. A “dart” is a high-performance variant of the [static boards](../../science-and-tech/statics.md#static-boards) that are popular with the youth, capable of awesome displays of speed and agility.
 
-This diversity of dart board form factors has made it suitable for a wide range of sport and recreation applications, from professional tricking to racing, and rising popularity within street culture where the urban environment presents unique opportunities and challenges.
+Every dart board is tailored to its rider, who must carefully calibrate the static manifold created by their board's [static engine](../../science-and-tech/statics.md#static-engines-and-motion). These compromises determine a dart board's top speed, acceleration and deceleration, maneuverability, range, length, width, and weight.
+
+This diversity of dart board form factors has made it suitable for a wide range of extreme sports, from professional tricking to racing, and rising popularity within street culture where the urban environment presents unique opportunities and challenges.
 
 ***
 

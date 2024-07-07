@@ -38,6 +38,8 @@ Recent studies of BODYSNATCHER may confirm its long-suspected role in the onset 
 
 ### Attempts to Address the Daemon
 
+<figure><img src="../../.gitbook/assets/daemon-898.png" alt="" width="563"><figcaption><p>Angelis security researchers wrestling with the Daemon virus.</p></figcaption></figure>
+
 Researchers discovered that if one can successfully circumvent all of BODYSNATCHER’s methods of detecting if it has been discovered, it is possible to “bodysnatch” BODYSNATCHER. Once overtaken, BODYSNATCHER can be compelled to self-annihilate.
 
 While it was originally hoped that this technique would produce a panacea for the virus, this discovery revealed a yet-unseen behavior from the virus. When BODYSNATCHER is forced to self destruct in this way, any connected descendent infected machines also self-destruct, potentially causing a critical cascade across an entire network.

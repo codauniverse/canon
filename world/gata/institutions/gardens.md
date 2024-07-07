@@ -18,7 +18,7 @@ layout:
 
 ## **Overview**
 
-District Gardens are essential communal housing and agricultural facilities within the [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md). Established primarily to care for orphans and child refugees, these Gardens serve as safe havens where young wards of the state can grow and thrive under the supervision of [System](../politics/the-system.md)-employed caregivers and local volunteers.&#x20;
+District Gardens are essential communal housing and agricultural facilities within the [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md). Established primarily to care for orphans and child refugees known as the [Children of Atla](../people-and-culture/children-of-atla.md), these Gardens serve as safe havens where young wards of the state can grow and thrive under the supervision of [System](../politics/the-system.md)-employed caregivers and local volunteers.&#x20;
 
 More than just residential spaces, the Gardens are also hubs of agricultural production and education, contributing significantly to their [district's](../politics/districts.md) broader welfare. Garden operations are overseen by a Headmaster.
 

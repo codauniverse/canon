@@ -92,11 +92,11 @@ These moving extensions of urban architecture are a common form of public transp
 
 ***
 
-### Dart Boards
+### Static Boards
 
 <figure><img src="../../.gitbook/assets/staticboard-535.png" alt="" width="563"><figcaption><p>A youth exploring the wilds on a small static board.</p></figcaption></figure>
 
-Highly maneuverable personal conveyance devices with static engines. Popular among the youth, and sometimes finely tuned for high-performance.
+Highly maneuverable personal conveyance devices with static engines, particularly popular among the youth. Larger static boards that are finely tuned for high-performance and extreme sports are called [Darts](../gata/people-and-culture/sports.md#darts).
 
 ***
 
