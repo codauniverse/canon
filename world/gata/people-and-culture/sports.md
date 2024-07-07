@@ -26,7 +26,15 @@ From high-intensity contact sports to gravity-defying races, sports play a signi
 
 ## **Gravita**
 
-<figure><img src="../../../.gitbook/assets/gravita-943.png" alt="" width="563"><figcaption><p>Gravita players prepare to make a play for the opponents' core.</p></figcaption></figure>
+<div>
+
+<figure><img src="../../../.gitbook/assets/gravita-943.png" alt="" width="563"><figcaption><p>A team prepares a play.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/gravity-990.png" alt="" width="563"><figcaption><p>A guard leads an offensive play.</p></figcaption></figure>
+
+</div>
 
 The most popular spectator sport in GATA. A contact sport played inside of an artificial gravity field. The Defenders defend from the core, a sphere housing the static field generator that maintains the modified gravitational envelope. The Offense attempts to score points by placing, throwing, or kicking the ball into one of the receptacles on the core’s poles.
 
@@ -42,7 +50,15 @@ Static GP involves high-speed races through complex tracks using static vehicles
 
 ## **Darts**
 
+<div>
+
 <figure><img src="../../../.gitbook/assets/staticboard-488.png" alt="" width="563"><figcaption><p>A thrill-seeking youth tricking on a high-end dart board.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/dartracing-555.png" alt="" width="563"><figcaption><p>Dart racers speeding through a district.</p></figcaption></figure>
+
+</div>
 
 Dart boards are sports equipment based on widely paradigmed [static field tech](../../science-and-tech/statics.md) and powered by small, efficient batteries. A “dart” is a high-performance variant of the [static boards](../../science-and-tech/statics.md#static-boards) that are popular with the youth, capable of awesome displays of speed and agility.
 
