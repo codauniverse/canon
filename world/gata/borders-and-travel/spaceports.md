@@ -14,7 +14,7 @@ layout:
 
 # Spaceports
 
-<figure><img src="../../../.gitbook/assets/spaceports-356" alt=""><figcaption><p>Off-word travelers awaiting their ship at a spaceport as loading gondolas hover nearby.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nomoney420_hover_transport_coming_in_for_landing_futuristic_sol_fe392840-25d1-4e0b-bc83-3d153d946d62.png" alt=""><figcaption><p>Off-word travelers awaiting their ship at a spaceport as loading gondolas hover nearby.</p></figcaption></figure>
 
 ## Overview
 

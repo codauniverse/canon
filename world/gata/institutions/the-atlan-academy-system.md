@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# The Atlan Academy System
+# Atlan Academies
 
 ## **Overview**
 
