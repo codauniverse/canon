@@ -60,9 +60,9 @@ Bitcoin is the most prominent legacy currency remaining from the Old World. Prim
 
 ***
 
-<figure><img src="../../../.gitbook/assets/slip-8493.png" alt="" width="563"><figcaption><p>A standard slip hardware wallet.</p></figcaption></figure>
-
 ## **Slips**
+
+<figure><img src="../../../.gitbook/assets/slip-533.png" alt="" width="563"><figcaption><p>A standard slip hardware wallet.</p></figcaption></figure>
 
 Small, portable hardware wallets that function as partial nodes for the CRED component of the System's vast network. Slips enable offline transactions, making them ideal for casual commerce and areas with limited connectivity. They can store various digital assets, keys, and other data, providing flexibility and security in everyday transactions.&#x20;
 
@@ -72,7 +72,9 @@ Slips are tied to an address on the System, and if lost, can be easily replaced 
 
 ## **Paper money**
 
-Storage paper, also known as paper slates, are a resilient paper-like material that is used to store encrypted information, including digital assets.&#x20;
+<figure><img src="../../../.gitbook/assets/papermoney-845.png" alt="" width="563"><figcaption><p>Paper money used for secure offline transactions.</p></figcaption></figure>
+
+Paper money, also known as a paper wallet, is a resilient paper-like material that is used to store encrypted information, including digital assets. Paper can be adorned with a wide variety of designs, which can serve to identify at a glance the currency or information that they contain.
 
 While less physically secure than digital forms of storage, paper is valued in black market transactions for its untraceability. However, it carries other risks such as loss, theft, and destruction.
 
