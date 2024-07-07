@@ -96,7 +96,7 @@
     * [Spaceports](world/gata/borders-and-travel/spaceports.md)
   * [🖊️ Institutions](world/gata/institutions/README.md)
     * [Atlan Information Control (AIC)](world/gata/institutions/atlan-information-control-aic.md)
-    * [The Atlan Academy System](world/gata/institutions/the-atlan-academy-system.md)
+    * [Atlan Academies](world/gata/institutions/atlan-academies.md)
     * [Gardens](world/gata/institutions/gardens.md)
     * [ALTAR](world/gata/institutions/altar.md)
   * [💼 Enterprise](world/gata/enterprise/README.md)
