@@ -14,6 +14,10 @@ layout:
 
 # Church of the Sky
 
+<figure><img src="../../../.gitbook/assets/churchofthesky-345.png" alt=""><figcaption><p>A house of worship belonging to the Church of the Sky.</p></figcaption></figure>
+
+## Overview
+
 With its inception during the hardships of the [Dark Decade](../../history/the-dark-decade.md), the Church of the Sky is a spiritual movement that emerged from refugee populations taken in by indigenous tribes of North America. This multi-polar spiritual organization has evolved into a significant political voice in [the Free Territories](../), embodying for its followers the connection between the Creator and the Earth.
 
 Combining indigenous re-articulations of Judeo-Christian ideas with naturalistic spiritual practices that encode hunting, harvest cycles, and mythology, their teachings offer powerful insights into survival and deeply-rooted humanistic values.
