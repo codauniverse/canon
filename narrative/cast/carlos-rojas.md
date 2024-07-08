@@ -33,6 +33,8 @@ layout:
 * Accessories:&#x20;
 * Description:&#x20;
 
+***
+
 <figure><img src="../../.gitbook/assets/carlos-splash-sfo023w0.jpeg" alt="" width="563"><figcaption><p>Carlos standing outside a Class 1 bust.</p></figcaption></figure>
 
 ## Bio
@@ -47,6 +49,8 @@ He would go on to graduate with full honors. Carlos took naturally to on-the-gro
 
 Wherever he goes, he brings his Manna plant, grown in the soil of his childhood home, a reminder of a place to which he can never return. He’s remarkably detail oriented and observant. Polite, but not very sociable. When he has to talk, he always keeps his cards close to his chest. While he’s not long for conversation, he does occasionally quip to himself under his breath, and talks openly to his plant.
 
+***
+
 <figure><img src="../../.gitbook/assets/nomoney420_extreme_closeup_of_an_investigator_in_a_long_coat_ca_6dcbe8f5-24d1-48f2-9ec2-6ae84124e8d2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Motivations
@@ -56,23 +60,27 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 * Avoid the politics of the AIC.
 * Personal vendetta against the Hundred Hands.
 
+***
+
 ## Trivia
 
-*
+***
 
 ## **Personality & Quirks**
 
-*
+***
 
 ## Secrets
 
-*
+***
 
 ## Skills
 
-*
+***
 
 ## Family & Associates
+
+***
 
 ## Comparative Stats
 
@@ -84,6 +92,8 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 | Intelligence | 6    |
 | Wisdom       | 9    |
 | Charisma     | 5    |
+
+***
 
 ## Quotes
 

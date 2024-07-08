@@ -34,7 +34,9 @@ layout:
 * Tattoo: Small rectangular tattoo under right eye, minimalist geometric blackwork tattoos on his body and arms
 * Description: A moving statue. Cool, smooth, self-assured, moves with a determined rhythm.
 
-<figure><img src="../../.gitbook/assets/prince-splash-0sgf0s.png" alt=""><figcaption><p>Prince on the street at night.</p></figcaption></figure>
+***
+
+<figure><img src="../../.gitbook/assets/prince-splash-0sgf0s.png" alt="" width="563"><figcaption><p>Prince on the street at night.</p></figcaption></figure>
 
 ## Bio
 
@@ -50,11 +52,15 @@ At the age of 15, Prince traveled with his father to meet his mother at his big 
 
 He turns up 10 years later, just ahead of the 10-year anniversary of the Bright Mesa attacks, with a mysterious piece of hardware he simply calls the Unit.
 
+***
+
 ## Motivations
 
 * His master plan.
 * Avoid unexpected complications.
 * Keep everyone at arms length.
+
+***
 
 <figure><img src="../../.gitbook/assets/118.png" alt="" width="563"><figcaption><p>Prince's workstation where he uses illegal legacy tech to work on the Unit.</p></figcaption></figure>
 
@@ -67,6 +73,8 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 * Has a knack for linking into secure sensors and cameras and interpreting unfamiliar feeds.
 * Was expelled from Junior Atlan Academy for repeated security breaches.
 * Due to his father's touring and his mother's diplomatic keys, Prince has travelled more than most citizens of GATA ever could.
+
+***
 
 ## **Personality & Quirks**
 
@@ -86,12 +94,16 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 * Not interested in romance.
 * When he is distracted in thought, he's vulnerable to tripping up or missing something.
 
+***
+
 ## Secrets
 
 * Has a secret plan involving the Unit and the underground sync rave scene.
 * Has a dependency on mentle from working on the Unit.
 * Stands to inherit his parents keys if he renews his citizenship key, revealing to the System that he is alive after being presumed dead for nearly a decade.
 * It is unknown how he gained entry to a district without renewing his citizenship key.
+
+***
 
 <figure><img src="../../.gitbook/assets/119.png" alt="" width="563"><figcaption><p>Prince looking out over Greater Toronto.</p></figcaption></figure>
 
@@ -101,6 +113,8 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 * Exceptionally good coder and problem solver.
 * Skilled pilot of small and mid-size static ships, and static boards.
 
+***
+
 ## Family & Associates
 
 Kyote (Father)
@@ -108,6 +122,8 @@ Kyote (Father)
 Soraya Kyote-Mata (Mother)
 
 [Remi Maeda](remi-maeda.md) (Godfather)
+
+***
 
 ## Comparative Stats
 
@@ -120,6 +136,8 @@ Soraya Kyote-Mata (Mother)
 | Wisdom       | 6    |
 | Charisma     | 4    |
 
+***
+
 ## Quotes
 
 > "The world ends every day." - Prince
@@ -129,6 +147,8 @@ Soraya Kyote-Mata (Mother)
 > "..." - Prince
 
 > "You don’t need to know.” - Prince
+
+***
 
 ## Meta Self-Description
 

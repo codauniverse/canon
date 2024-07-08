@@ -33,6 +33,8 @@ layout:
 * Accessories: Polished chrome link accessories on his shaved bald head
 * Description: A sharp, angular face with piercing blue eyes that seem to look right through you. His bald head gleams, accentuated by the chrome link accessories he never removes. His lean frame and rejuvenated skin bely his true age of 58.
 
+***
+
 <figure><img src="../../.gitbook/assets/viten-splash.png" alt="" width="563"><figcaption><p>Viten watching silently from above.</p></figcaption></figure>
 
 ## **Bio**
@@ -51,6 +53,8 @@ In response, Viten moved Phasia’s operations to Atla, rebranding the enterpris
 
 Viten remains a towering figure in the scientific community, both feared and respected for his intelligence and uncompromising drive.
 
+***
+
 <figure><img src="../../.gitbook/assets/viten-anime.png" alt="" width="563"><figcaption><p>Viten's piercing gaze.</p></figcaption></figure>
 
 ## **Motivations**
@@ -60,6 +64,8 @@ Viten remains a towering figure in the scientific community, both feared and res
 * Earn recognition and respect for his vision.
 * Forget the past.
 
+***
+
 ## **Trivia**
 
 * Co-founded Phasia Industries and later renamed it Relik.
@@ -67,6 +73,8 @@ Viten remains a towering figure in the scientific community, both feared and res
 * Has been rejuvenated by AKICEL therapies to maintain a youthful appearance.
 * Viten Marsh holds many prestigious and rare keys, acquired by award and intentional collection.
 * One of the 100 richest people in GATA.
+
+***
 
 ## **Personality & Quirks**
 
@@ -79,11 +87,15 @@ Viten remains a towering figure in the scientific community, both feared and res
 * Feels a profound sense of loneliness despite his professional success and notoriety.
 * Loyal and supportive to those he cares about, though he seldom shows it.
 
+***
+
 ## **Secrets**
 
 * Has never recovered from losing Soraya, twice.
 * Feels responsible for encouraging Soraya to leave.
 * Uses work to distract himself from his isolation.
+
+***
 
 ## **Skills**
 
@@ -92,13 +104,17 @@ Viten remains a towering figure in the scientific community, both feared and res
 * Pioneer and unparalleled expert on statics.
 * Very skilled link user and conduit.
 
+***
+
 ## **Family & Associates**
 
 * Soraya Mata (Co-founder of Phasia Industries, unrequited love interest)
 * Remi Tranche (Co-founder of Phasia Industries)
 * Kyote (Soraya’s partner, source of Viten's jealousy and resentment)
 
-**Comparative Stats**
+***
+
+## **Comparative Stats**
 
 | Attribute    | Stat |
 | ------------ | ---- |
@@ -108,6 +124,8 @@ Viten remains a towering figure in the scientific community, both feared and res
 | Intelligence | 10   |
 | Wisdom       | 7    |
 | Charisma     | 8    |
+
+***
 
 ## **Quotes**&#x20;
 

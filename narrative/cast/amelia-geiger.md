@@ -31,7 +31,7 @@ layout:
 * Accessories: Smart eye glasses with thin frames
 * Description: Naturally pretty but very unassuming. Has a little bit of a slouch from coding all day. Has a somewhat flatter affect that is hard to read. Intense eyes when thinking.
 
-
+***
 
 <figure><img src="../../.gitbook/assets/amelia-gsgs8ssew.png" alt="" width="563"><figcaption><p>Amelia startled in the lab.</p></figcaption></figure>
 
@@ -47,6 +47,8 @@ Her specialization in cog design developed into a whitepaper on cog safety proto
 
 She's recently begun experimenting with link use in order to further her career. She dreams about one day earning citizenship keys for Sol, and being invited to the Research Corps.
 
+***
+
 ## Motivations
 
 * Learn as much as she can from her assignments
@@ -54,12 +56,16 @@ She's recently begun experimenting with link use in order to further her career.
 * Experience big city life
 * Curious about everything to do with links
 
+***
+
 <figure><img src="../../.gitbook/assets/amelia-splash-fho8.png" alt="" width="563"><figcaption><p>Amelia taking a break from her code.</p></figcaption></figure>
 
 ## Trivia
 
 * She can calculate almost any sum in her head, without use of a link.
 * Her imagination is very visual-spatial, and she sees numbers and equations like shapes that fit together.
+
+***
 
 ## **Personality & Quirks**
 
@@ -74,10 +80,14 @@ She's recently begun experimenting with link use in order to further her career.
 * Chews on her pens and pencils.
 * Clumsy.
 
+***
+
 ## Secrets
 
 * Frustrated that her rising career is taking her away from the topics that interest her most.
 * Wants to try syncing.
+
+***
 
 <figure><img src="../../.gitbook/assets/0_1.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -87,13 +97,17 @@ She's recently begun experimenting with link use in order to further her career.
 * Specialized in cog safety and ontology design.
 * Novice link user, but does show some notable aptitude for starting so old.
 
+***
+
 ## Family & Associates
 
 Siobhan (Mother) - Relationship somewhat strained due to political disagreements.
 
 Rian (Brother) - Good relationship. He's her only non-genius hero.
 
-Iris (AIC Vice Chair) - Hand-picked Amelia for her assignment
+Iris (AIC Vice Chair) - Hand-picked Amelia for her assignment.
+
+***
 
 ## Comparative Stats
 
@@ -105,6 +119,8 @@ Iris (AIC Vice Chair) - Hand-picked Amelia for her assignment
 | Intelligence | 10   |
 | Wisdom       | 6    |
 | Charisma     | 5    |
+
+***
 
 ## Quotes
 

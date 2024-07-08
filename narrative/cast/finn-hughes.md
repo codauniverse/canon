@@ -30,9 +30,10 @@ layout:
 * **Body Type:** Athletic, muscular
 * **Accessories:** Red Rapid Response combat gear
 * **Description:** Finn has a commanding presence with sharp, focused eyes that miss nothing. His rugged features and defined jawline add to his authoritative aura. Always seen in his Rapid Response uniform, his movements are precise and deliberate, exuding confidence and readiness.
-*
 
-    <figure><img src="../../.gitbook/assets/finn-splash.png" alt="" width="563"><figcaption><p>Finn preparing to deploy from an Angelis hangar in a Watchtower.</p></figcaption></figure>
+***
+
+<figure><img src="../../.gitbook/assets/finn-splash.png" alt="" width="563"><figcaption><p>Finn preparing to deploy from an Angelis hangar in a Watchtower.</p></figcaption></figure>
 
 ## **Bio**
 
@@ -48,7 +49,11 @@ His missions often brought him into contact with sovereigns from the Free Territ
 
 In time, Finn took on a mentorship role for younger Rapid Response recruits, sharing his extensive experience and wisdom while guiding them through their own struggles and challenges, and working to bring out the best in his teammates. However, he remained known for his self-assured, decisive, no-nonsense attitude in the field, which some less familiar with him sometimes mistook for arrogance.
 
-Tragically, Finn's life ended during the Bright Mesa terrorist attack, where he heroically confronted and defeated the terrorist known as the Butcher of Bright Mesa. His sacrifice doubtlessly saved countless lives, cementing his legacy as the greatest Rapid Response operative in history. He was posthumously awarded the White Flower Medal the highest honor by GATA for his heroism in Bright Mesa, and his story has been adapted into various forms of media, from holo-novels to constructs.
+Tragically, Finn's life ended during the Bright Mesa terrorist attack, where he heroically confronted and defeated the terrorist known as the Butcher of Bright Mesa. His sacrifice doubtlessly saved countless lives, cementing his legacy as the greatest Rapid Response operative in history.
+
+He was posthumously awarded the White Flower Medal the highest honor by GATA for his heroism in Bright Mesa, and his story has been adapted into various forms of media, from holo-novels to constructs.
+
+***
 
 <figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runqAKLApLRaj4_a_guy_with_short_silver_bro_45fec055-3906-49d1-b31d-f49a25dd86fd (1).png" alt="" width="563"><figcaption><p>Finn facing off with hostage takers in an active crisis zone.</p></figcaption></figure>
 
@@ -58,6 +63,8 @@ Tragically, Finn's life ended during the Bright Mesa terrorist attack, where he 
 * Lead with honor and integrity.
 * Strive to prevent conflicts and disasters.
 * Remember and honor those who have fallen.
+
+***
 
 ## Trivia
 
@@ -70,6 +77,8 @@ Tragically, Finn's life ended during the Bright Mesa terrorist attack, where he 
 * Finn's sacrifice in Bright Mesa is a cornerstone of Rapid Response lore.
 * Received numerous accolades and commendations for his bravery and service, though he often downplayed their significance.
 * In his youth, was sometimes ostracized by other UDA recruits and dismissed as a "boy scout".
+
+***
 
 ## Personality & Quirks
 
@@ -84,12 +93,16 @@ Tragically, Finn's life ended during the Bright Mesa terrorist attack, where he 
 * Finn often feels guilty for surviving while many of his comrades and those he tried to save did not.
 * Wrestles with the legacy of the UDA program, questioning the ethics of the genetic enhancements that have both empowered and cursed him.
 
+***
+
 ## Secrets
 
 * Struggles with the moral implications of the Clear therapy.
 * Fears that his slowed aging is more curse than blessing.
 * Sometimes questions his choice to reject the Maverick program.
 * Haunted by the faces of those he couldn't save.
+
+***
 
 ## Skills
 
@@ -100,11 +113,15 @@ Tragically, Finn's life ended during the Bright Mesa terrorist attack, where he 
 * Trained extensively in first aid and emergency medical procedures.
 * Underwent psychological conditioning to manage stress and trauma.
 
+***
+
 ## Family & Associates
 
 * **General Ford:** The guardian who recruited him as an adolescent and instilled in him the values of protection and service.
 * **Rapid Response Teammates:** His extended family, bound by duty.
 * **Lara Park (Love Interest):** A medic he met while in Rapid Response.
+
+***
 
 ## Comparative Stats
 
@@ -114,6 +131,8 @@ Tragically, Finn's life ended during the Bright Mesa terrorist attack, where he 
 * **Intelligence:** 7
 * **Wisdom:** 7
 * **Charisma:** 5
+
+***
 
 ## Quotes
 

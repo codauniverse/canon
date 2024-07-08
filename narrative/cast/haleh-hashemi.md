@@ -35,6 +35,8 @@ layout:
 * Accessories: Chrome adhesive link
 * Description: Beautiful with an edge. Large eyes framed with bold eyebrows, and soft lips. She has an unrefined grace. Hard to miss the link she wears, usually a metallic adhesive on her face.
 
+***
+
 <figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runuVFdagx9kKo_httpss.mj.runSnkmiKrhl4w__e219790c-dbac-4b93-965e-b30f4a42726f_3.png" alt="" width="563"><figcaption><p>Haleh setting up her gear at an arcade.</p></figcaption></figure>
 
 ## Bio
@@ -53,12 +55,16 @@ Since then, she’s become a sensation in Toronto’s underground syncrave scene
 
 Find her hunting antique 21st century music and hardware, wall-flowering at a sync rave, planning and practicing for her next show, or tending to the Manna flowers in Greater Toronto's waterfront Garden.
 
+***
+
 ## Motivations
 
 * Try to live in the moment.
 * Always working on her next performance.
 * Make music that matters to people like it did in the Old World.
 * Collect 21st century books and music gear.
+
+***
 
 <figure><img src="../../.gitbook/assets/underground-crowd.png" alt="" width="563"><figcaption><p>Haleh preparing to perform at a sync rave.</p></figcaption></figure>
 
@@ -76,6 +82,8 @@ Find her hunting antique 21st century music and hardware, wall-flowering at a sy
 * She isn’t a natural green thumb, she just likes the solitude of tending the Manna gardens.
 * She has a strong audio-visual synesthesia.
 * She can typically be found in her apartment
+
+***
 
 <figure><img src="../../.gitbook/assets/nomoney420_disorder_in_an_underground_rave_unruly_crowd_1990s_f_72790fee-a2b4-4356-9793-806420287d42.png" alt="" width="563"><figcaption><p>Haleh caught by surprised at the arcade.</p></figcaption></figure>
 
@@ -99,11 +107,15 @@ Find her hunting antique 21st century music and hardware, wall-flowering at a sy
 * When she has to stay still, she often holds her own hand, with one hand in the other, to keep herself from fidgeting.
 * Tries not to break the rules, but she will if she has to.
 
+***
+
 ## Secrets
 
 * Doesn’t even have to try to sync.
 * Has started to give up on her dreams.
 * Can’t carry a tune with her singing voice.
+
+***
 
 <figure><img src="../../.gitbook/assets/nomoney420_long_shot_of_a_Persian_woman_in_her_late_20s_shoul_a4b7813a-f4da-4f55-9644-bba81c034a64_0.png" alt="" width="563"><figcaption><p>Haleh sync jockeying at a sync rave.</p></figcaption></figure>
 
@@ -113,9 +125,13 @@ Find her hunting antique 21st century music and hardware, wall-flowering at a sy
 * An experienced gardener with specialized knowledge about cultivating Manna flowers.
 * Very creative and empathetic.
 
+***
+
 ## Family & Associates
 
 Lulu (Best Friend)
+
+***
 
 ## Comparative Stats
 
@@ -127,6 +143,8 @@ Lulu (Best Friend)
 | Intelligence | 8    |
 | Wisdom       | 7    |
 | Charisma     | 8    |
+
+***
 
 ## Quotes
 

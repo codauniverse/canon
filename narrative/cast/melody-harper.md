@@ -31,6 +31,8 @@ layout:
 * **Accessories:** Empatherapy link headset, full-body sleepsuit
 * **Description:** Kind and serene, Melody's presence both in the Astral and the real world was defined by the calming peace that radiated from her. In life, her frailty was evident, but in the astral, she was a powerful and graceful force of patience and will.
 
+***
+
 <figure><img src="../../.gitbook/assets/melody-83235.png" alt="" width="563"><figcaption><p>Melody manifesting a construct in the astral.</p></figcaption></figure>
 
 ## **Bio**
@@ -49,6 +51,8 @@ It was only a matter of time before her disease reached her brainstem. Melody su
 
 Some claim to still see her in the astral on occasion, a spectral figure on the balcony of the Crystal Tower, but whenever they investigate, she is nowhere to be found.
 
+***
+
 <figure><img src="../../.gitbook/assets/melody-splash.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Motivations**
@@ -56,6 +60,8 @@ Some claim to still see her in the astral on occasion, a spectral figure on the 
 * Nurture the fledgling astral into something more
 * Create a sanctuary for those seeking connection
 * Preserve the history and stories of her friends
+
+***
 
 ## **Trivia**
 
@@ -66,6 +72,8 @@ Some claim to still see her in the astral on occasion, a spectral figure on the 
 * Known for her soothing voice and calming presence, both in life and in the Astral.
 * Despite her physical limitations, she had a keen intellect and a deep understanding of her own mind.
 * Melody's funeral in the Astral was the largest single gathering in the Astral to date.
+
+***
 
 <figure><img src="../../.gitbook/assets/melody-anime.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -79,11 +87,15 @@ Some claim to still see her in the astral on occasion, a spectral figure on the 
 * A bit of a perfectionist, often revisiting and refining her creations.
 * Known for her thoughtful and reflective nature, often pondering deep questions about what it means to be alive versus to live.
 
+***
+
 ## **Secrets**
 
 * Melody's mother was her sole caretaker and her biggest supporter.
 * The Astral gave her a sense of limitless potential she never knew in the physical world.
 * She felt like she was only her true self in the Astral.
+
+***
 
 ## **Skills**
 
@@ -94,10 +106,14 @@ Some claim to still see her in the astral on occasion, a spectral figure on the 
 * One of the most experienced astral users.
 * Deep understanding of history and storytelling.
 
-**Family & Associates**
+***
+
+## Family & Associates
 
 * **Mother:** A singer and Melody's primary caregiver.
 * **Friends:** Numerous, many of whom still visit the Crystal Tower in her memory.
+
+***
 
 ## **Comparative Stats**
 
@@ -109,6 +125,8 @@ Some claim to still see her in the astral on occasion, a spectral figure on the 
 | Intelligence | 9    |
 | Wisdom       | 8    |
 | Charisma     | 7    |
+
+***
 
 ## **Quotes**
 

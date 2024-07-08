@@ -29,6 +29,8 @@ layout:
 * Accessories: Link on his temple, an emitter or two often floating nearby
 * Description:&#x20;
 
+***
+
 <figure><img src="../../.gitbook/assets/franky-splash-0943fs.jpeg" alt="" width="563"><figcaption><p>Franky setting up for a show.</p></figcaption></figure>
 
 ## Bio
@@ -45,29 +47,35 @@ Ambitious and entrepreneurial, he has started working with local small enterpris
 
 But it's all just been practice so far. As far as Franky's concerned, he's just biding his time until he turns 18 and he can get a job at the arcade where finally he'll be able to do his thing for an audience that is ready, willing, and able, to have their minds blown.
 
+***
+
 ## Motivations
 
 * Prove his talent.
 * Always hungry.
 * Kind of wants a girlfriend, or even just a girl friend.
 
+***
+
 ## Trivia
 
-*
+***
 
 ## **Personality & Quirks**
 
-*
+***
 
 ## Secrets
 
-*
+***
 
 ## Skills
 
-*
+***
 
 ## Family & Associates
+
+***
 
 ## Comparative Stats
 
@@ -80,9 +88,13 @@ But it's all just been practice so far. As far as Franky's concerned, he's just 
 | Wisdom       | 7    |
 | Charisma     | 8    |
 
+***
+
 ## Quotes
 
 > “Oh really? Thanks I guess. Yea, it’s hard for me to tell because I’m not even trying anymore." - Aki
+
+***
 
 ## Meta Self-Description
 

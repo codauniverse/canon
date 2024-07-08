@@ -33,6 +33,8 @@ layout:
 * Accessories: Link implant, crown antennae link extension on forehead, gold plated cheek plates, multiple armor rings
 * Description: Glued together from broken pieces. A shadowy dagger moving in the night. Cuts an intimidating shape, and makes his presence known at the moment of maximum impact. Colder every day, he's gained a significant foothold in the West End Gray Zone black market. His blind ambition outlines a man shaped by survival and cast in shadow.
 
+***
+
 <figure><img src="../../.gitbook/assets/xavier-9fsf0.png" alt="" width="563"><figcaption><p>Xavier receiving some bad news.</p></figcaption></figure>
 
 ## Bio
@@ -49,6 +51,8 @@ With his future in the higher academies forfeit and his body severely broken, an
 
 Xavier's gang works with Wallrunners who smuggle drugs, legacy tech and Old World paraphernalia through the West End Gray Zone. Xavier also permits a number of other activities on his territory, from pleasure houses, to an Astral dormitory, and more. His favorite pet establishment is the underground arcade Palaizir, mainly due to a secret, distorted fondness for Lulu, now a sync jockey, who he still watches over from a distance even after their split.
 
+***
+
 ## Motivations
 
 * Maintain his grip on the West End Gray Zone.
@@ -57,11 +61,15 @@ Xavier's gang works with Wallrunners who smuggle drugs, legacy tech and Old Worl
 * Exploit Lulu's brother, Fitz, for his talents.
 * Find out who this Prince guy is.
 
-<figure><img src="../../.gitbook/assets/magnific-BhixqRKdm5GcqTKGFvs1-nomoney420_criminal_mastermind_sitting_on_a_makeshift_throne_in_2bed8b36-251a-4e74-84c9-0c65d5b2bb64.jpeg" alt=""><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
+***
+
+<figure><img src="../../.gitbook/assets/magnific-BhixqRKdm5GcqTKGFvs1-nomoney420_criminal_mastermind_sitting_on_a_makeshift_throne_in_2bed8b36-251a-4e74-84c9-0c65d5b2bb64.jpeg" alt="" width="563"><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
 
 ## Trivia
 
 * Can't feel his hands due to nerve damage from his injuries.
+
+***
 
 ## **Personality & Quirks**
 
@@ -79,19 +87,25 @@ Xavier's gang works with Wallrunners who smuggle drugs, legacy tech and Old Worl
 * Doesn't suffer fools.
 * When he's laughing, it's usually bad news for someone.
 
+***
+
 ## Secrets
 
 * He knows The Hundred Hands have started looking for something recently.
 
+***
+
 ## Skills
 
-*
+***
 
 ## Family & Associates
 
 Lulu (On-and-off Girlfriend)
 
 Fitz (Lulu's brother)
+
+***
 
 ## Comparative Stats
 
@@ -104,6 +118,8 @@ Fitz (Lulu's brother)
 | Wisdom       | 9    |
 | Charisma     | 7    |
 
+***
+
 ## Quotes
 
 > "You’ll bring it to me. You’ll bring it to me because you love him, and how he’s all one piece.” - Xavier
@@ -113,6 +129,8 @@ Fitz (Lulu's brother)
 > "You're going to regret that, little bird." - Xavier
 
 > "I'm not the bad guy. I'm the guy still standing." - Xavier
+
+***
 
 ## Meta Self-Description
 

@@ -33,7 +33,9 @@ layout:
 * **Accessories:** Wrist monitor, minimalist glasses
 * **Description:** Remi has an intense, intellectual aura, with roving eyes that seem to always be analyzing the world around him. His appearance is understated, but when he speaks, he commands attention.
 
-<figure><img src="../../.gitbook/assets/magnific-RPXlsvEHC54rWETQuv3P-nomoney420_mild_mannered_japanese_man_with_thin_rimmed_glasses__de85f27b-2c0e-4265-8c41-a801e177f307.jpeg" alt=""><figcaption><p>Keisuke taking a moment in New Imperial Japan's Walled Garden prison.</p></figcaption></figure>
+***
+
+<figure><img src="../../.gitbook/assets/magnific-RPXlsvEHC54rWETQuv3P-nomoney420_mild_mannered_japanese_man_with_thin_rimmed_glasses__de85f27b-2c0e-4265-8c41-a801e177f307.jpeg" alt="" width="563"><figcaption><p>Keisuke taking a moment in New Imperial Japan's Walled Garden prison.</p></figcaption></figure>
 
 ## Bio
 
@@ -47,14 +49,18 @@ He jailbroke an empatherapy sync hub in hopes to somehow connect with her, the s
 
 Following his sister’s death, Remi refined his techniques with a little guidance from Soraya and, defiantly published the LMNL plans that would allow anyone to ‘jailbreak’ sync hubs as he had, an act that eventually led to his arrest by Japanese authorities. Now living in a gilded cage, he spends his days roaming his walled garden prison as an admin, condemned to atone for, and mitigate, the consequences of his actions.
 
-#### Motivations
+***
+
+## Motivations
 
 * Push the limits of human connection and understanding.
 * Continue his sister’s legacy by helping others through his dream engineering.
 * Navigate the ethical landscape of his discoveries.
 * Find freedom within his constrained existence.
 
-#### Trivia
+***
+
+## Trivia
 
 * Born to a Japanese refugee and a French translator in Paris.
 * Shortly after he was accepted into the Atlan Academy his father died, and his mother and baby sister moved back to New Imperial Japan.
@@ -66,7 +72,9 @@ Following his sister’s death, Remi refined his techniques with a little guidan
 * Arrested by Japanese authorities after publishing controversial LMNL plans.
 * Is sentenced to live the rest of his days in a high-tech prison in the Imperial Garden.
 
-#### Personality & Quirks
+***
+
+## Personality & Quirks
 
 * Intense and focused on his work.
 * Compassionate, driven by his sister's memory.
@@ -78,25 +86,33 @@ Following his sister’s death, Remi refined his techniques with a little guidan
 * Finds solace in gardening, a hobby he picked up while in his prison.
 * Despite his confinement, remains hopeful and determined to continue his research.
 
-#### Secrets
+***
+
+## Secrets
 
 * Remi still dreams of freeing himself from the Walled Garden.
 * Feels a deep guilt over his sister's death, believing that if he had returned home sooner he could have saved her.
 
-#### Skills
+***
+
+## Skills
 
 * Exceptional knowledge of Asimovian filter architecture and Link technology.
 * Talented in creating and manipulating shared dream spaces.
 * Highly analytical and innovative thinker.
 * Skilled in jailbreaking and modifying high-tech equipment.
 
-#### Family & Associates
+***
+
+## Family & Associates
 
 * **Soraya Mata:** Mentor and close collaborator.
 * **Viten:** Former colleague and old friend.
 * **Prince:** The son of his former friend and colleague, his godson.
 
-#### Comparative Stats
+***
+
+## Comparative Stats
 
 | Attribute    | Stat |
 | ------------ | ---- |
@@ -107,7 +123,9 @@ Following his sister’s death, Remi refined his techniques with a little guidan
 | Wisdom       | 8    |
 | Charisma     | 6    |
 
-#### Quotes
+***
+
+## Quotes
 
 > "I don’t think of them as bugs. I think of them as pets." - Remi
 

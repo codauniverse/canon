@@ -33,6 +33,8 @@ layout:
 * Accessories: None
 * Description: Stunning. Mischievous smile. Moves with the flourishes of someone who knows she's being watched.
 
+***
+
 <figure><img src="../../.gitbook/assets/magnific-r6uf28vcgV1R4SuBjMP7-nomoney420_photograph_of_extremely_attractive_half-japanese_hal_c56966a3-3647-402b-b6cd-16135a4b9ace.jpeg" alt="" width="563"><figcaption><p>Tamaki in one of her ad-hoc refuges.</p></figcaption></figure>
 
 ## Bio
@@ -47,12 +49,16 @@ Thanks to her dual citizenship, there were no road blocks to Tamaki travelling t
 
 For the last decade, Tamaki's star has risen, and she has become the biggest music superstar in GATA. Her stage show is a huge production, and she is always surrounded by handlers and assistants. She's adapted to find her calm in the storm by settling on a goal. Some conquest. And she will not be denied, as she's all but forgotten what the word "no" even sounds like.
 
+***
+
 ## Motivations
 
 * Indulge her every whim and desire.
 * Loves a challenge.
 * Always leave them before they leave you.
 * Silence the haters.
+
+***
 
 ## Trivia
 
@@ -62,6 +68,8 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 * Her favorite food is a hot dog with kimchi and wasabi.
 * Her favorite color is red.
 * Her favorite metal is rose gold.
+
+***
 
 ## **Personality & Quirks**
 
@@ -91,12 +99,16 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 * When she's overwhelmed or melancholy she recedes from the world.
 * When she was a kid she made bed forts, and she is still known to sometimes seek refuge from the chaos in makeshift forts made out of spare stage materials.
 
+***
+
 ## Secrets
 
 * She's seen things GATA officials have done that she can't talk about.
 * She knows a lot of sensitive details about powerful men.
 * How her music is made.
 * She likes it when people tell her what to do.
+
+***
 
 ## Skills
 
@@ -105,7 +117,11 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 * Excellent but expensive taste.
 * She knows what people want.
 
+***
+
 ## Family & Associates
+
+***
 
 ## Comparative Stats
 
@@ -118,11 +134,15 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 | Wisdom       | 7    |
 | Charisma     | 10   |
 
+***
+
 ## Quotes
 
 > "The rules don't apply to all of us." - Tamaki
 
 > “You can't say no." - Tamaki
+
+***
 
 ## Meta Self-Description
 

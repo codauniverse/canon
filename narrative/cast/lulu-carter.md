@@ -32,6 +32,8 @@ layout:
 * Make-up: Smoky eyeshadow and Black Cherry lipstick
 * Description: Her silhouette is thin and angular, and elegant. Intense and captivating light a flame tenuously flickering.
 
+***
+
 <figure><img src="../../.gitbook/assets/lulu-f0sf78.png" alt="" width="563"><figcaption><p>Lulu in some dark corner of the West End Gray Zone.</p></figcaption></figure>
 
 ## Bio
@@ -50,6 +52,8 @@ Though she was happy to be reunited with her brother, her break with Xavier and 
 
 Through their friendship, Haleh helped Lulu re-discover her childhood passion for singing, with Lulu eventually becoming a capable sync jockey herself. Even though she is much more behaved these days, and still has a dark cloud hanging over her, Lulu's shows are always big parties. And the featured performer is always Haleh aka SOULJOURNER.
 
+***
+
 ## Motivations
 
 * Escape Xavier's dark influence.
@@ -58,30 +62,38 @@ Through their friendship, Haleh helped Lulu re-discover her childhood passion fo
 * Try to match up to Haleh's talent.
 * Protect her little brother.
 
+***
+
 <figure><img src="../../.gitbook/assets/lulu-splash-sf090g.png" alt="" width="563"><figcaption><p>Lulu's gaze piercing through the crowd at a sync rave.</p></figcaption></figure>
+
+***
 
 ## Trivia
 
-*
+***
 
 ## **Personality & Quirks**
 
 * She hates to feel like she’s a bother.
 * Keeps her struggles private, except _maybe_ to Haleh.
 
+***
+
 ## Secrets
 
-*
+
+
+***
 
 <figure><img src="../../.gitbook/assets/nomoney_beautiful_woman_with_short_red_hair_dancing_from_behind_4929ac1d-7f93-47a1-91f0-e15767e59494.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Skills
 
-*
+***
 
 ## Family & Associates
 
-*
+***
 
 ## Comparative Stats
 
@@ -93,6 +105,8 @@ Through their friendship, Haleh helped Lulu re-discover her childhood passion fo
 | Intelligence | 5    |
 | Wisdom       | 7    |
 | Charisma     | 9    |
+
+***
 
 ## Quotes
 
