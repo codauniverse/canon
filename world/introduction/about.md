@@ -30,7 +30,7 @@ The foundational canon of the CODA Universe is stored forever on the Bitcoin blo
 
 ***
 
-<figure><img src="../../.gitbook/assets/characters-16.jpg" alt=""><figcaption><p>Just a few of CODA's central canon characters.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CODA_character-feats-20-small.jpg" alt=""><figcaption><p>Just a few of the CODA Saga's central canon characters.</p></figcaption></figure>
 
 ## 🔵 The CODA Saga
 
