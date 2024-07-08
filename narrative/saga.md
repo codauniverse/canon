@@ -14,6 +14,8 @@ layout:
 
 # 🌀 Saga
 
+<figure><img src="../.gitbook/assets/CODA_character-feats-20-small.jpg" alt=""><figcaption><p>A few of the CODA Saga's central canon characters.</p></figcaption></figure>
+
 ## Introduction
 
 **The CODA Saga** is an epic tale set in an interactive storyworld that weaves together the stories of all the canon characters and the best community-created content.

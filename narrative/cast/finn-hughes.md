@@ -55,7 +55,7 @@ He was posthumously awarded the White Flower Medal the highest honor by GATA for
 
 ***
 
-<figure><img src="../../.gitbook/assets/rapidresponse-3454" alt="" width="563"><figcaption><p>Finn facing off with hostage takers in an active crisis zone.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runqAKLApLRaj4_a_guy_with_short_silver_bro_45fec055-3906-49d1-b31d-f49a25dd86fd (1).png" alt="" width="563"><figcaption><p>Finn facing off with hostage takers in an active crisis zone.</p></figcaption></figure>
 
 ## Motivations
 
