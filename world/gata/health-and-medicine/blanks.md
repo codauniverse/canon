@@ -28,6 +28,8 @@ Blanks are currently in the process of being trialed by [Angelis](../military-an
 
 ## Blank Production
 
+<figure><img src="../../../.gitbook/assets/blanks-994.png" alt="" width="563"><figcaption><p>A completed blank being lifted out of the nanofluid.</p></figcaption></figure>
+
 In order to create a blank, a deceased brain must be ‘flipped’, a process similar to embalming or injection molding, however using a nano-fluid that floods every feature of the brain and holds its state as a lattice for [AKICEL](../enterprise/akicel.md) cell cultures during the clone maturation process. The flipping process destroys the original brain.
 
 Critically, the microtubule structures found in the neurons of a natural human brain are not preserved in the flipping process. These nano-scale structures are responsible for the quantum effects that produce the subjective experience known as human consciousness.&#x20;
