@@ -62,6 +62,7 @@
     * [Atla](world/gata/key-locations/atla.md)
     * [Greater Toronto](world/gata/key-locations/greater-toronto.md)
     * [Luna](world/gata/key-locations/luna.md)
+    * [New York City](world/gata/key-locations/new-york-city.md)
   * [🌐 Politics](world/gata/politics/README.md)
     * [Governance](world/gata/politics/governance.md)
     * [New Dawn Accords](world/gata/politics/new-dawn-accords.md)
