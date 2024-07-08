@@ -36,6 +36,8 @@ Parallel energy systems are advanced storage solutions that function more like s
 
 Parallel cells use quantum effects to access energy on-demand from parallel universes where the cells have not yet been discharged. Cells from parallel universes are known as "threads," with the cell in our universe termed the "origin thread."
 
+### Tapping Parallel Universes
+
 To harness energy, the origin thread must first be "primed" by charging it. Once primed, the origin thread can tap into the near-infinite reservoir of energy stored across the other threads.
 
 The reactor's hard-coded system architecture regulates the flow of power from the other threads to the origin thread. When the origin thread depletes its energy, the reactor sequentially taps into the other threads to recharge it, ensuring a consistent, stable, and theoretically inexhaustible power supply. Reactors can be designed to house one or more cells.
