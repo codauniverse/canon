@@ -68,6 +68,12 @@ If you don’t have an older nano immune system, it can be deadly to use Max.
 
 ***
 
+### Crimson
+
+Derived from the highly-difficult to cultivate [Red variant](../../science-and-tech/the-manna-flower.md#red) of the [Manna Flower](../../science-and-tech/the-manna-flower.md).
+
+***
+
 ### **Naze**
 
 A small device used to deliver drugs into the nostril. A naze can produce nearly any drug molecule, however the [Asimovian](../../science-and-tech/asimovian-architecture.md) filter prevents the synthesis of banned substances. But it is common for the youth and those on the margins to bypass the filter with cartridge mods.

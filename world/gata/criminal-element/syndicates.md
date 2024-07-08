@@ -46,6 +46,6 @@ Hands are the avatars of the organization; when you are visited by a Hand, you a
 
 <figure><img src="../../../.gitbook/assets/sovereignmilitias-094343ds.png" alt="" width="563"><figcaption></figcaption></figure>
 
-The River syndicate controls the Mississippi River and much of the North American interior, and operates more like a collective of well-equipped and organized militias. They're the only known supplier of Crimson, a street drug produced from the difficult-to-cultivate Red Manna flower. Their source and production methods remain a well guarded secret.
+The River Syndicate is a [Sovereign-aligned](../../free-territories/people-and-culture/sovereigns.md) organization that controls the Mississippi River and much of the North American interior, and operates more like a collective of well-equipped and organized militias. They're the only known supplier of Crimson, a street drug produced from the difficult-to-cultivate [Red Manna flower](../../science-and-tech/the-manna-flower.md#red). Their source and production methods remain a well guarded secret.
 
-Their network of distributors can be found around the world, and they have a tenuous but long-standing truce with the Hundred Hands, established after a long and bloody conflict between the two syndicates.
+Their network of distributors can be found around the world, and they have a tenuous but long-standing truce with the [Hundred Hands](syndicates.md#hundred-hands), established after a long and bloody conflict between the two syndicates.
