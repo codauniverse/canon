@@ -18,9 +18,9 @@ layout:
 
 ## Overview
 
-Frames are anthropomorphic mechanized vehicles with humanoid chassis'. They're controlled by a [conduit](links.md#conduits) operator and are designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
+Frames are anthropomorphic mechanized vehicles with humanoid chassis'. They're controlled by a [conduit](links.md#conduits) pilot and are designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
 
-Originating as armored "war frames" developed by the [Joint Atlantic Command (JAC)](../gata/history/the-joint-atlantic-command-jac.md), they were later fielded by [Atla](../gata/key-locations/atla.md) and [GATA](../gata/the-basics.md) to secure important strategic locations in combat. Frames are named for their skeletal chassis, which provides a versatile and familiar, anthropomorphic form factor that enhances dexterity and operator compatibility.
+Originating as armored "war frames" developed by the [Joint Atlantic Command (JAC)](../gata/history/the-joint-atlantic-command-jac.md), they were later fielded by [Atla](../gata/key-locations/atla.md) and [GATA](../gata/the-basics.md) to secure important strategic locations in combat. Frames are named for their skeletal chassis, which provides a versatile and familiar, anthropomorphic form factor that enhances dexterity and pilot compatibility.
 
 Due to the success of the frame design, many nations and enterprises around the world have dramatically accelerated their frame-based R\&D efforts, developing a wide range of frames, representing a challenge to GATA's monopoly on technology. As a result, frame-on-frame combat has seen a dramatic rise in recent years, as even [Free Territories](../free-territories/the-basics.md) and [Sovereign militias](../free-territories/military-defense/sovereign-militias.md) have acquired a formidable cohort of war frames and pilots.
 
@@ -42,11 +42,11 @@ Over time, frames evolved from purely military assets to essential tools in cons
 
 <figure><img src="../../.gitbook/assets/frames.png" alt="" width="563"><figcaption><p>A modern frame being serviced in an enterprise factory.</p></figcaption></figure>
 
-Frames are characterized by their chassis' somewhat humanoid design, typically featuring arms and legs that allow them to ambulate and manipulate their environment with high precision. This design makes Frames highly intuitive for operators, leveraging natural muscle memory and proprioception for seamless control.
+Frames are characterized by their chassis' somewhat humanoid design, typically featuring arms and legs that allow them to ambulate and manipulate their environment with high precision. This design makes Frames highly intuitive for pilot , leveraging natural muscle memory and proprioception for seamless control.
 
 Some frames' form factors are more familiar, with two arms and two legs, while others are constructed with multiple, unorthodox appendages and control surfaces, or atypical postures and ambulatory patterns. Transforming frames have the ability to significantly transform their shape in order to adapt to their context, for example taking on a more aerodynamic configuration, or switching from bipedal to quadrupedal stances.
 
-Ultimately, the frame's chassis is tailored to its intended function, and elite frame operators are often equipped with frames that are designed to their personal specifications.
+Ultimately, the frame's chassis is tailored to its intended function, and elite frame pilots are often equipped with frames that are designed to their personal specifications.
 
 <div>
 
