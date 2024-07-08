@@ -18,9 +18,11 @@ layout:
 
 ## Overview
 
-Frames are anthropomorphic mechanized vehicles with humanoid chassis'. They're controlled by a conduit operator and are designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
+Frames are anthropomorphic mechanized vehicles with humanoid chassis'. They're controlled by a [conduit](links.md#conduits) operator and are designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
 
-Originating as armored "war frames" developed by the Joint Atlantic Command (JAC), they were later fielded by Atla to secure important strategic locations in combat. Frames are named for their skeletal chassis, which provides a versatile and familiar, anthropomorphic form factor that enhances dexterity and operator compatibility.
+Originating as armored "war frames" developed by the [Joint Atlantic Command (JAC)](../gata/history/the-joint-atlantic-command-jac.md), they were later fielded by [Atla](../gata/key-locations/atla.md) and [GATA](../gata/the-basics.md) to secure important strategic locations in combat. Frames are named for their skeletal chassis, which provides a versatile and familiar, anthropomorphic form factor that enhances dexterity and operator compatibility.
+
+Due to the success of the frame design, many nations and enterprises around the world have dramatically accelerated their frame-based R\&D efforts, developing a wide range of frames, representing a challenge to GATA's monopoly on technology. As a result, frame-on-frame combat has seen a dramatic rise in recent years, as even [Free Territories](../free-territories/the-basics.md) and [Sovereign militias](../free-territories/military-defense/sovereign-militias.md) have acquired a formidable cohort of war frames and pilots.
 
 ***
 
@@ -28,7 +30,7 @@ Originating as armored "war frames" developed by the Joint Atlantic Command (JAC
 
 <figure><img src="../../.gitbook/assets/guardians-8345.png" alt="" width="563"><figcaption><p>An early frame built in at the end of the Dark Decade.</p></figcaption></figure>
 
-The development of frames began during the Dark Decade, with the JAC seeking advanced armored units capable of bridging the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
+The development of frames began during [the Dark Decade](../history/the-dark-decade.md), with the JAC seeking advanced armored units capable of bridging the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
 
 These early war frames proved invaluable both heavy combat and versatile field operations, and were particularly impactful in holding strategic locations. Their success led to the broader application of frame technology across various sectors.
 
@@ -46,7 +48,21 @@ Some frames' form factors are more familiar, with two arms and two legs, while o
 
 Ultimately, the frame's chassis is tailored to its intended function, and elite frame operators are often equipped with frames that are designed to their personal specifications.
 
-Passive statics built into their extremities are intended to prevent their massive, ambulatory bodies from significantly damaging or deforming the ground beneath them when they land and walk in the course of their normal operation.
+<div>
+
+<figure><img src="../../.gitbook/assets/frame-333.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/frame-959.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/frame-4646.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Passive [statics](statics.md) built into their extremities are intended to prevent their massive, ambulatory bodies from significantly damaging or deforming the ground beneath them when they land and walk in the course of their normal operation.
 
 Frames can be loaded out with a wide range of equipment and technologies, and require a tremendous amount of power to operate. Today, frames are powered miniaturized [fusion power cells](fusion-energy.md), with the best cells being produced by [GATA](../gata/the-basics.md) and [New Imperial Japan](../new-imperial-japan/the-basics.md).
 
@@ -56,7 +72,7 @@ A frames outer shell opens to reveal its cockpit, called the Operator Cradle, a 
 
 <figure><img src="../../.gitbook/assets/framecradle.png" alt="" width="563"><figcaption><p>A frame operator in the cradle of a larger frame.</p></figcaption></figure>
 
-Older frames have cradles outfitted with a more traditional set of manual controls and a dashboard replete with buttons and switches. However, ever since the development of links, modern frames steadily been transitioning to conduit operators who drive their frames with a link, allowing for much smaller cradles and frames.
+Older frames have cradles outfitted with a more traditional set of manual controls and a dashboard replete with buttons and switches. However, ever since the development of [links](links.md), modern frames steadily been transitioning to conduit operators who drive their frames with a link, allowing for much smaller cradles and frames.
 
 While link-driven frames are vastly superior in terms of performance, finding and training operators who are talented enough conduits to pilot them quickly became the limiting factor. But as a generation who grew up using a link are coming of age, a much deeper pool of talent is emerging.
 
@@ -72,7 +88,7 @@ Frames can be re-equipped with different tools and weapons, allowing for rapid a
 
 #### Strength
 
-The strong structural chassis of Frames allows them to carry heavy loads and withstand significant stress, making them suitable for demanding environments.
+The strong structural chassis of frames allows them to carry heavy loads and withstand significant stress, making them suitable for demanding environments.
 
 ***
 
@@ -90,7 +106,7 @@ The strong structural chassis of Frames allows them to carry heavy loads and wit
 
 ### Shipping and Logistics
 
-* **Loader Frames**: Designed to handle heavy cargo, equipped with gripping mechanisms and conveyor systems for loading and unloading shipments.
+* **Loader Frames**: Designed to handle heavy cargo, equipped with [grabbers](grabbers.md), gripping mechanisms and conveyor systems for loading and unloading shipments.
 * **Transport Frames**: Capable of carrying large containers and supplies over rough terrain, reducing reliance on traditional vehicles.
 
 ### Resource Extraction
@@ -100,7 +116,7 @@ The strong structural chassis of Frames allows them to carry heavy loads and wit
 
 ### Transmedium Capabilities
 
-When equipped with statics and life support systems, Frames become highly versatile transmedium vehicles. They can operate in air, land, sea, and space, providing unmatched flexibility in various environments.
+When equipped with statics and life support systems, frames become highly versatile transmedium vehicles. They can operate in air, land, sea, and space, providing unmatched flexibility in various environments.
 
 **Key Technologies:**
 

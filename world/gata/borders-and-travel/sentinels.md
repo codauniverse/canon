@@ -22,7 +22,7 @@ Sentinels are [GATA's](../the-basics.md) autonomous border defenses found at the
 
 Sentinels support [Gate Patrol](gate-patrol.md) operations, and provide critical sensor information, and house air-to-ground weapon systems and other deterrents. In addition to its weapon platforms and sensor arrays, a significant proportion of a Sentinel's mass is made up of its onboard [cogs](../../science-and-tech/cogs.md), allowing each sentinel to safely operate independently in compliance with GATA's [strict regulations](../politics/new-dawn-accords.md) restricting the use of [technology](../law-and-order/tech-regulation.md) and [data](../politics/whole-privacy-protection-wpp.md).
 
-When incursions, threats, or other anomalies are detected beyond a district's perimeter, sentinels intelligently redistribute themselves along the border.
+When incursions, threats, or other anomalies are detected beyond a district's perimeter, sentinels intelligently redistribute themselves along the border. They were designed as an autonomous solution to reduce reliance on [Guardians](../military-and-defense/guardians.md), who are increasingly in demand across the globe in crisis and conflict zones.
 
 ***
 
