@@ -20,7 +20,9 @@ layout:
 
 After years of perceived stagnation in GATA's energy production capabilities, parallel energy has recently gained attention as a new energy source poised to replace [fusion](fusion-energy.md) in [GATA](../gata/) and perhaps abroad.
 
-Parallel Energy is a GATA-developed technology, made possible by advances in applied physics and material sciences first pioneered by [Atla’s](../gata/key-locations/atla.md) [Research Corps](../sol/institutions/the-research-corps.md#overview) during [the Reconstruction](../history/the-reconstruction.md) under the [Existence Doctrine](../gata/military-and-defense/existence-doctrine.md). In recent years parallel energy has been trialed in the field by Angelis, and the [AIC](../gata/institutions/atlan-information-control-aic.md) has only recently approved a handful of enterprises to commercialize the technology in a few [districts](../gata/politics/districts.md) under highly-controlled conditions.
+Parallel Energy is a GATA-developed technology, made possible by advances in applied physics and material sciences first pioneered by [Atla’s](../gata/key-locations/atla.md) [Research Corps](../sol/institutions/the-research-corps.md#overview) during [the Reconstruction](../history/the-reconstruction.md) under the [Existence Doctrine](../gata/military-and-defense/existence-doctrine.md).&#x20;
+
+Parallel energy is presently being trialed in the field by Angelis, in partnership with the London-based enterprise ParaCell who have pioneered the manufacture of parallel cells and reactors. However, the [AIC](../gata/institutions/atlan-information-control-aic.md) has yet to officially paradigm the technology for enterprise or civilian use anywhere in [Greater Atla](../gata/politics/greater-atla.md).
 
 The AIC has proposed that if it proves as safe and promising as it seems over the trial period, they will move to share the technology with partner states. This has caused some friction between GATA, [URSA](../ursa/) and [New Imperial Japan](../new-imperial-japan/), as these two other states have enjoyed a long-standing energy partnership which may be under threat.
 
