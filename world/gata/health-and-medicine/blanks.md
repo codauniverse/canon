@@ -14,7 +14,7 @@ layout:
 
 # Blanks
 
-<figure><img src="../../../.gitbook/assets/blanks.png" alt=""><figcaption><p>A room of identical blanks in an AKICEL cloning facility.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/blanks-344.png" alt=""><figcaption><p>A room of identical blanks in an AKICEL cloning facility.</p></figcaption></figure>
 
 ## Overview
 
@@ -42,7 +42,7 @@ As per the AIC's developing regulations for blanks, blanks must be visually diff
 
 ## Understanding Blanks
 
-Blanks are a contentious development, given that they are living human tissue, however just one conversation with a blank often rids people of their reservations; blanks are stoic, nearly motionless when at rest, and entirely without affect.
+Blanks are a contentious development, given that they are living human tissue, however a conversation with a blank often softens some of their strongest reservations; blanks are stoic, nearly motionless when at rest, and entirely without affect.
 
 When asked directly if they are conscious, a blank would reply that they are not. Using [scanners](../../science-and-tech/scanners.md) calibrated to detect signals of consciousness confirm as much. They possess all of the knowledge and capabilities of their ‘template’, but they lack an inner experience, or any spark of intentionality, due to precise modifications of their brain's structure. These features of blanks raise significant philosophical questions about the nature of human free will.
 
