@@ -28,23 +28,23 @@ The AIC has proposed that if it proves as safe and promising as it seems over th
 
 ***
 
-## **Parallel Reactors**
+## **Design & Usage**
 
 <figure><img src="../../.gitbook/assets/parallelenergycell-923.png" alt="" width="563"><figcaption><p>A portable parallel energy cell being installed by a technician.</p></figcaption></figure>
 
-Unlike fusion reactors, parallel cells do not actually generate energy; they are technically more akin to supercapacitors, and use charged cells arrayed across parallel universes to store and supply power. Before they are can be tapped for power, they must first be charged.
+Parallel energy systems are advanced storage solutions that function more like supercapacitors than traditional generators. They consist of parallel cells, which use quantum effects to store and supply power, and parallel reactors which house the cells.
 
-Parallel cells use quantum effects to access energy on-demand from parallel universes where the cells have not yet been discharged. These parallel universe cells are called ‘threads’ and the cell in the observer's universe is called the ‘origin thread’.
+Parallel cells use quantum effects to access energy on-demand from parallel universes where the cells have not yet been discharged. Cells from parallel universes are known as "threads," with the cell in our universe termed the "origin thread."
 
-These cells are installed in Parallel reactor units, which regulate the flow of energy. By installing and charging multiple cells in a reactor unit, more threads become available to be tapped.
+To harness energy, the origin thread must first be "primed" by charging it. Once primed, the origin thread can tap into the near-infinite reservoir of energy stored across the other threads.
 
-Cells from parallel universes are systematically tapped to power the origin thread cell. While the power available in the reactor's reservoir is constantly fluctuating as the cells in the parallel universes can also draw power from the reservoir, the power supply available to to be tapped by the origin thread at any given time is extremely stable and exponentially higher than the energy used to charge it.
+The reactor's hard-coded system architecture regulates the flow of power from the other threads to the origin thread. When the origin thread depletes its energy, the reactor sequentially taps into the other threads to recharge it, ensuring a consistent, stable, and theoretically inexhaustible power supply. Reactors can be designed to house one or more cells.
 
-The energy reservoir accessible across the near-infinite parallel threads can in turn be used to charge additional cells installed in the reactor, exponentially increasing the energy in the reactor's energy reservoir.
+Because the parallel universes diverge from the causal chain in our universe, the other threads do not all draw on the cell's power reservoir at the same time. This probabilistic design ensures that the power available to the origin thread remains stable despite fluctuations in the total energy reservoir due to concurrent draw from the cells in some of the parallel universes.
 
-Parallel energy can be spent almost instantaneously, like a supercapacitor, making it perfect for many industrial and military applications. Because energy is stored across parallel universes, parallel reactors and their individual cells are remarkably compact for their massive power output.
+This system allows for the massive and nearly instantaneous release of energy, making it highly suitable for industrial and military applications.
 
-There is not much room for further miniaturization using any other known technology, so generating more power will always require bigger reactors with more cells until some new method is discovered (or revealed by [ALTAR](../gata/institutions/altar.md) if it already exists).
+Parallel reactors can be scaled by installing multiple cells, thereby accessing more threads and significantly increasing the energy available in the reactor's reservoir. This scalability makes parallel reactors compact yet powerful.
 
 ***
 
