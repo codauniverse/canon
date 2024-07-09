@@ -112,6 +112,8 @@ On every Guarda card is a 6x6 grid and a single arrow or other directional indic
 
 The direction that a card's arrow is pointing (toward the player or away from the player) when it is activated determines whether the card is attacking or defending. When a player plays a card with the arrow pointing away from themselves, they are attacking. When a player plays a card with the arrow pointing toward themselves, they are defending. The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
 
+<figure><img src="../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>The Guarda game board with its 6x6 grid.</p></figcaption></figure>
+
 In the center of the play area is the game board with a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow pointing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 5 cards.
 
 ### Turn Phases
