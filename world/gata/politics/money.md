@@ -74,9 +74,9 @@ Slips are tied to an address on the System, and if lost, can be easily replaced 
 
 <figure><img src="../../../.gitbook/assets/papermoney-845.png" alt="" width="563"><figcaption><p>Paper money used for secure offline transactions.</p></figcaption></figure>
 
-Paper money, also known as a paper wallet, is a resilient paper-like material that is used to store encrypted information, including digital assets. Paper can be adorned with a wide variety of designs, which can serve to identify at a glance the currency or information that they contain.
+Paper money, also known as a paper wallet or simply "paper", is a common use of [paper slates](../../science-and-tech/slates.md#paper-slates), a resilient paper-like nanomaterial that is used to store encrypted information, including digital assets. Paper can be adorned with a wide variety of designs, which can serve to identify at a glance the currency or information that they contain.
 
-While less physically secure than digital forms of storage, paper is valued in black market transactions for its untraceability. However, it carries other risks such as loss, theft, and destruction.
+While less physically secure than digital transactions, paper is valued in black market transactions for its untraceability. However, it carries other risks such as loss, theft, and destruction.
 
 ***
 

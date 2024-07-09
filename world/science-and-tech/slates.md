@@ -30,6 +30,6 @@ Translucent displays that can read data sticks and interface with local terminal
 
 ### Paper Slates
 
-These paper-thin displays (colloquially referred to simply as "paper") are one of the most common varieties of slate. The ‘paper’ material is not really paper, but a highly resilient [hard-code](hard-code.md) nanostructure with a paper-like texture. Usually, one paper slate is stacked with multiple regular sheets of storage “paper” that can be explored via the paper slate’s interface.
+These paper-thin displays (colloquially referred to simply as "paper") are one of the most common varieties of slate. The ‘paper’ material is not really paper, but a highly resilient [hard-code](hard-code.md) nanostructure with a paper-like texture.
 
-Paper slates are commonly used for extremely sensitive information, and is particularly useful in the criminal underworld, and more clandestine enterprises. Paper is also commonly used as a medium of exchange in financial transactions, and for storage backups for critical data.
+Paper slates are commonly used for extremely sensitive information, and is particularly useful in the criminal underworld, and more clandestine enterprises. Paper is also commonly used as [a medium of exchange in financial transactions](../gata/politics/money.md#paper-money), and for storage backups for critical data.
