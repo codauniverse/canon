@@ -112,21 +112,21 @@ The cards consist of a central 6x6 grid and a single arrow or other directional 
 
 The direction that the arrow is pointing when it is activated determines whether the card is attacking or defending. When a player plays a card with the arrow facing away from themselves, they are attacking. When a player plays a card with the arrow facing toward themselves, they are defending. The cells indicated in the card's grid indicate which spaces are being attacked, or which spaces are being defended.
 
-In the center of the play area is a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow facing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 4 cards.
+In the center of the play area is a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow facing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 5 cards.
 
 Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Prepare.
 
-1. During the draw phase, the player simply draws a card. If they have fewer than 4 cards, the player continues to draw until they hold 4 cards. If a player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 4 cards.
+1. During the draw phase, the player simply draws a card. If they have fewer than 5 cards, the player continues to draw until they hold 5 cards. If a player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
 2. During the move phase, a player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space per card, but only in the same direction.
 3. During the Act phase, the player may play one and only one card, face up or face down. If they play their card face up, it is immediately activated. This is only done to attack, as there is nothing for the player to defend against. If the player has multiple cards attacking the target space, they can play them all at once to deal one additional damage per card. After a card is spent, it is placed in the discard pile face down.\
    \
-   If they play their Act phase card face down (which is called a "guard"), it remains face down on the play surface in front of them to be activated at a later time when the player is under attack. Players may only have one guard at any time, and may replace their guard as their action if they wish. Playing a face up card during subsequent turns does not affect their guard. Players can check their guard card at any time if they have forgotten what card it is.\
+   If the player chooses to play their Act phase card face down (which is called a "guard"), it remains face down on the play surface in front of them to be activated at a later time when the player is under attack. Players may only have one guard at any time, and may re-orient their guard as their action if they wish. Players can check their guard card at any time if they have forgotten which way it is oriented.\
 
 4. During the preparation phase, the player may discard as many cards as they wish, but they cannot draw until their next turn, leaving them potentially vulnerable to attack.
 
-If the card's arrow faces the central board, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow faces themselves, they are protected from any attacks if they are one of the indicated cells.
+### Combat
 
-#### Defending
+If a card is played with its arrow pointing toward the central board, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow faces themselves, they are protected from any attacks as long as they are one of the indicated cells.
 
 When attacked, a player may play any card(s) in their hand as a defense if their piece occupies one of the indicated spaces on the card(s) (when the card is oriented with its arrow pointed toward themselves). They cannot counter-attack with cards in their hand.
 
@@ -140,10 +140,16 @@ The attacking player cannot play their guard to defend against a counter-attack,
 
 ### Winning the Game
 
+Guarda can be played with a variety of win conditions.
+
 #### Elimination
 
-In standard play each player begins the game with 6 health points. Players take turns until there is only one player, or team, left standing.
+The most common style of play. In standard play each player begins the game with 6 health points. Players take turns until there is only one player, or team, left standing.
 
 #### Victory
 
 In standard play each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 6 points wins.
+
+#### Exhaustion
+
+When a player runs out of cards in their draw pile they are defeated.
