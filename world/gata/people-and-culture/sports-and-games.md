@@ -96,7 +96,7 @@ Neurochess tournaments are major events, drawing large audiences who follow the 
 
 ## Guarda
 
-<figure><img src="../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guarda-53.png" alt=""><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
 
 A card game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction.
 
@@ -105,6 +105,8 @@ It can be played with 2-4 players in a free-for-all, or it can be played with up
 ### Playing Guarda
 
 Each player has their own Guarda deck. Every Guarda deck is identical, and contains 36 different Guarda cards.
+
+<figure><img src="../../../.gitbook/assets/guardiacard.jpg" alt="" width="375"><figcaption><p>A Guarda card displaying its target spaces and orientation.</p></figcaption></figure>
 
 The cards consist of a central 6x6 grid and a single arrow or other directional indicator. On each card there is one horizontal line in the grid filling up 6 cells horizontally in one of the rows, and there is one vertical line filling up 6 cells vertically in one of the columns. The different combinations of the 6 possible horizontal and vertical lines produce the 36 different possible Guarda cards.
 
