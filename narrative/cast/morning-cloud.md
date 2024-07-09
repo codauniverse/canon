@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 👤 Morning
+# 👤 Morning Cloud
 
 <figure><img src="../../.gitbook/assets/morning-portrait.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
@@ -39,9 +39,17 @@ layout:
 
 Morning was born into a prominent Lakota family within the Church of the Sky, a powerful hybrid religious organization formed during the Dark Decade. Their father, a revered preacher, and their mother, a devout follower, expected Morning to uphold the family's legacy.
 
-From a young age, Morning was deeply involved in the Church's activities, displaying a devout faith. This changed at age 13, when they witnessed their father making a shameful deal with a high-ranking GATA official, diverting church funds for personal gain. This betrayal shattered Morning's faith, replacing it with a belief in human greed as the true driving force.
+From a young age, Morning was deeply involved in the Church's activities, displaying a devout faith, and showing an deep understanding of both traditional Lakota teachings and the blended doctrines of the Church of the Sky. This early dedication won them many admirers within the congregation.
 
-Despite being poised to inherit the Church's leadership, Morning is skeptical of its doctrines. They focus instead on building a network of informants across GATA and the Free Territories, collecting secrets and compromising material to use as leverage when leadership of the Church falls to them.
+This changed at age 13, when they witnessed their father making a corrupt arrangement with a GATA representative, diverting church funds for personal gain and political advantage.
+
+The realization that their father, a revered spiritual leader, could be so easily corrupted by greed and power deeply affected Morning. This disillusionment shattered Morning's faith, replacing it with a belief in human greed as the true driving force, and led to a gradual withdrawal from active participation in the Church’s communal life.
+
+As their faith in the Church's teachings waned, Morning's belief in human greed and manipulation grew. They began to see the Church not as a spiritual sanctuary but as a tool for power and influence. This shift in perspective drove them to build a network of informants across the Free Territories, collecting secrets and compromising material to use as leverage.
+
+Morning has several siblings, each with distinct personalities and more devout involvement in the Church's day-to-day functioning. They have a particular soft spot for their youngest sister, who shared in Morning’s games and mischief growing up. However, since her marriage to another prominent figure in the Church, their relationship has become strained. This isolation has exacerbated Morning's antipathy towards others.
+
+Despite being poised to inherit the Church's leadership, Morning remains detached from its doctrines. They focus instead on building a network of informants across GATA and the Free Territories, collecting secrets and compromising material to use as leverage when leadership of the Church falls to them.
 
 ***
 
