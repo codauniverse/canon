@@ -114,7 +114,7 @@
     * [Work](world/gata/people-and-culture/work.md)
     * [Expression](world/gata/people-and-culture/recreation.md)
     * [Sleepers](world/gata/people-and-culture/sleepers.md)
-    * [Sports](world/gata/people-and-culture/sports.md)
+    * [Sports & Games](world/gata/people-and-culture/sports-and-games.md)
     * [Education](world/gata/people-and-culture/education.md)
   * [🏴‍☠️ Criminal Element](world/gata/criminal-element/README.md)
     * [Political Corruption](world/gata/criminal-element/political-corruption.md)
