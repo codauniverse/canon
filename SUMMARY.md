@@ -222,6 +222,7 @@
   * [👤 Sasha Cache](narrative/cast/sasha-cache.md)
   * [👤 Melody Harper](narrative/cast/melody-harper.md)
   * [👤 Finn Hughes](narrative/cast/finn-hughes.md)
+  * [👤 Morning](narrative/cast/morning.md)
   * [👤 Soraya Mata](narrative/cast/soraya-mata.md)
 * [📚 Stories](narrative/stories/README.md)
   * [📘 CODA Saga](narrative/stories/coda-saga.md)
