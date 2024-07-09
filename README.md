@@ -100,7 +100,7 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 <div>
 
-<figure><img src=".gitbook/assets/coda_story_newfuture-cover-0b.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coda_story_newfuture-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
