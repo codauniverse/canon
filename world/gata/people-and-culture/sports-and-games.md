@@ -100,7 +100,7 @@ Neurochess tournaments are major events, drawing large audiences who follow the 
 
 A card game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction.
 
-It can be played with 2-4 players in a free-for-all, or it can be played with up to 8 players in duos, with teammates sitting opposite from each other.
+Guarda can be played with 2-4 players in a free-for-all, or it can be played with up to 8 players in duos, with teammates sitting opposite from each other.
 
 ### Playing Guarda
 
@@ -112,11 +112,11 @@ The cards consist of a central 6x6 grid and a single arrow or other directional 
 
 The direction that the arrow is pointing when it is activated determines whether the card is attacking or defending. When a player plays a card with the arrow facing away from themselves, they are attacking. When a player plays a card with the arrow facing toward themselves, they are defending. The cells indicated in the card's grid indicate which spaces are being attacked, or which spaces are being defended.
 
-In the center of the play area is a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow facing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 6 cards.
+In the center of the play area is a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow facing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 4 cards.
 
 Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Prepare.
 
-1. During the draw phase, the player simply draws a card. If they have fewer than 6 cards, the player continues to draw until they hold 6 cards. If a player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 6 cards.
+1. During the draw phase, the player simply draws a card. If they have fewer than 4 cards, the player continues to draw until they hold 4 cards. If a player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 4 cards.
 2. During the move phase, a player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space per card, but only in the same direction.
 3. During the Act phase, the player may play one and only one card, face up or face down. If they play their card face up, it is immediately activated. This is only done to attack, as there is nothing for the player to defend against. If the player has multiple cards attacking the target space, they can play them all at once to deal one additional damage per card. After a card is spent, it is placed in the discard pile face down.\
    \
