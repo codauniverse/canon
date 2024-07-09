@@ -98,7 +98,7 @@ Neurochess tournaments are major events, drawing large audiences who follow the 
 
 <figure><img src="../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
 
-A strategic card-and-board game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction.
+A strategic card-and-board game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction. It was inspired by the I Ching and has enjoyed some popularity as a divination tool during its existence as well, particularly in the Free Territories.
 
 Guarda can be played with 2-4 players in a free-for-all, or it can be played with up to 8 players in duos, with teammates sitting opposite from each other.
 
@@ -130,17 +130,21 @@ Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Prepare.
 
 ### Combat
 
-If a card is played with its arrow pointing toward the central board, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow points to themselves, they are protected from any attacks as long as they are one of the indicated cells.
+If a card is played with its arrow pointing away from themselves, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow points toward themselves, they are defending against attacks on the indicated cells.
 
-When attacked, a player may play any card(s) in their hand as a defense if their piece occupies one of the indicated spaces on the card(s) (when the card is oriented with its arrow pointed toward themselves). They cannot counter-attack with cards in their hand.
+Players can make a single attack with multiple cards, dealing one damage per attacking card.
 
-Alternatively, they may reveal their face-down "guard" card if they wish, but they cannot change the card's directional orientation, meaning they must choose when they originally place the guard if it will be an counter-offensive or defensive card. The card's grid is irrelevant for the guard; all that matters is if it is in the counter-attack or defend orientation.
+When attacked, a player may play any card(s) in their hand as a defense. They cannot counter-attack with cards in their hand.
 
-If the defending player defends with their guard, the attack is unsuccessful, regardless of the number of cards used in the attack. If the defending player counter-attacks with their guard, they only take one point of damage no matter how many cards they attacking player has played attacking them, and the attacking player instead takes damage equal to the number of cards they attacked with.
+Alternatively, they may reveal their face-down "guard" card if they wish, but they cannot change the card's directional orientation at the same time. The card's grid is irrelevant for the guard; all that matters is if it is in the counter-attack or defend orientation.
 
-Unless the player being attacked can defend (or counter-attack with their guard), the attack is successful and the player loses one health point. The defending player cannot defend with cards from their hand and their guard; they must choose which to use against the attack.
+If the defending player defends with their guard, the attack is unsuccessful, regardless of the number of cards used in the attack.
 
-The attacking player cannot play their guard to defend against a counter-attack, but they can play cards from their hand to defend themselves if their piece occupies one of the indicated spaces on the card(s).
+If the defending player counter-attacks with their guard, they only take one point of damage no matter how many cards they attacking player has played attacking them, and the attacking player instead takes damage equal to the number of cards they attacked with.
+
+Unless the player being attacked can defend (or counter-attack with their guard), the attack is successful and the player loses one health point for each attacking card. They cannot defend against the same attack with cards from their hand and their guard; they must choose which to use against the attack.
+
+The attacking player cannot play their guard to defend against a counter-attack, but they can play cards from their hand to defend themselves.
 
 ### Winning the Game
 
@@ -148,12 +152,24 @@ Guarda can be played with a variety of win conditions.
 
 #### Elimination
 
-The most common style of play. In standard play each player begins the game with 6 health points. Players take turns until there is only one player, or team, left standing.
+The most common style of play. Each player begins the game with 6 health points. Players take turns until there is only one player, or team, left standing.
+
+#### Bounty (Gambling)
+
+The same as Elimination, except each player must ante up with the table stake (called a "bounty"). When a player defeats an opponent, they claim that player's bounty.
 
 #### Victory
 
-In standard play each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 6 points wins.
+Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 6 points wins.
+
+#### Spoils of War (Gambling)
+
+The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
 
 #### Exhaustion
 
 When a player runs out of cards in their draw pile they are defeated.
+
+#### Scavenger (Gambling)
+
+The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the board, and the first player to move to the same space claims their loot.
