@@ -247,4 +247,6 @@
 * [🏘️ Community](project/community.md)
 * [📝 Licensing](project/licensing.md)
 * [🪙 Token](project/token.md)
-* [🗃️ Onchain Canon](project/onchain-canon.md)
+* [🗃️ Resources](project/resources/README.md)
+  * [🗂️ Onchain Canon](project/resources/onchain-canon.md)
+  * [🗂️ Templates](project/resources/templates.md)

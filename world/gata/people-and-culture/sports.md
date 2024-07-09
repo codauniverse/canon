@@ -74,7 +74,15 @@ This diversity of dart board form factors has made it suitable for a wide range 
 
 ## Neurochess
 
-<figure><img src="../../../.gitbook/assets/neurochess.png" alt="" width="563"><figcaption><p>Two players engrossed in a game of neurochess.</p></figcaption></figure>
+<div>
+
+<figure><img src="../../../.gitbook/assets/neurochess.png" alt="" width="563"><figcaption><p>A player explaining neurochess.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/neurochess-787.png" alt="" width="563"><figcaption><p>A player contemplates their move.</p></figcaption></figure>
+
+</div>
 
 Neurochess is a cerebral sport that evolves traditional chess-like play with link use. Players connect to the neurochess board, allowing them to visualize and manipulate the chessboard with their minds. The game can be played on a holographic game board or inside of a virtual construct.&#x20;
 
