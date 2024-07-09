@@ -59,6 +59,7 @@ Despite being poised to inherit the Church's leadership, Morning is skeptical of
 * Enjoys playing a skin drum to calm their mind and aid in contemplation.
 * Has a soft spot for their youngest sister, despite a strained relationship due to her marriage.
 * Prefers to keep people at arm's length, making few genuine connections.
+* Deeply curious about people's secret selves, seeing them as the true currency of power, and the key to animating their greed.
 
 ***
 
@@ -109,12 +110,12 @@ Despite being poised to inherit the Church's leadership, Morning is skeptical of
 
 ## Comparative Stats
 
-| Strength     | 6 |
+| Strength     | 5 |
 | ------------ | - |
-| Defense      | 6 |
-| Dexterity    | 8 |
+| Defense      | 5 |
+| Dexterity    | 6 |
 | Intelligence | 9 |
-| Wisdom       | 7 |
+| Wisdom       | 6 |
 | Charisma     | 9 |
 
 ***
