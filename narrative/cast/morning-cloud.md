@@ -37,9 +37,9 @@ layout:
 
 ## Bio
 
-Morning was born into a prominent Lakota family within the Church of the Sky, a powerful hybrid religious organization formed during the Dark Decade. Their father, a revered preacher, and their mother, a devout follower, expected Morning to uphold the family's legacy.
+Morning was born into a prominent Lakota family within the Church of the Sky, a powerful religious organization formed during the Dark Decade. Their father, a revered preacher, and their mother, a devout follower, expected Morning to uphold the family's legacy.
 
-From a young age, Morning was deeply involved in the Church's activities, displaying a devout faith, and showing an deep understanding of both traditional Lakota teachings and the blended doctrines of the Church of the Sky. This early dedication won them many admirers within the congregation.
+From a young age, the winkte Morning was deeply involved in the Church's activities, displaying a devout faith, and showing an deep understanding of both traditional Lakota teachings and the blended doctrines of the Church of the Sky. This early dedication won them many admirers within the congregation.
 
 This changed at age 13, when they witnessed their father making a corrupt arrangement with a GATA representative, diverting church funds for personal gain and political advantage.
 
@@ -63,7 +63,7 @@ Despite being poised to inherit the Church's leadership, Morning remains detache
 
 ## Trivia
 
-* Two-spirit, using gender neutral pronouns.
+* Winkte. Two-spirit, using gender neutral pronouns.
 * Enjoys playing a skin drum to calm their mind and aid in contemplation.
 * Has a soft spot for their youngest sister, despite a strained relationship due to her marriage.
 * Prefers to keep people at arm's length, making few genuine connections.
