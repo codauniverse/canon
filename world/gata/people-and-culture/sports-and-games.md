@@ -104,15 +104,15 @@ Guarda can be played with 2-4 players in a free-for-all, or it can be played wit
 
 ### How to Play
 
-Each player has their own Guarda deck. Every Guarda deck is identical, and contains 36 different Guarda cards representing every possible combination of horizontal and vertical lines on the card/game board's 6x6 grid.
+Each player has their own Guarda deck. Every Guarda deck is identical, and contains 36 different Guarda cards representing every possible combination of horizontal and vertical lines on the card/game board's 6x6 grid. Each player also has a singular game piece which they move around the board throughout the game.
 
 <figure><img src="../../../.gitbook/assets/guardiacard.jpg" alt="" width="375"><figcaption><p>A Guarda card displaying its target spaces and orientation.</p></figcaption></figure>
 
-The cards consist of a central 6x6 grid and a single arrow or other directional indicator. On each card there is one horizontal line in the grid filling up 6 cells horizontally in one of the rows, and there is one vertical line filling up 6 cells vertically in one of the columns. The different combinations of the 6 possible horizontal and vertical lines produce the 36 different possible Guarda cards.
+On every Guarda card is a 6x6 grid and a single arrow or other directional indicator. On each card there is one horizontal line in the grid filling up 6 cells horizontally in one of the rows, and there is one vertical line filling up 6 cells vertically in one of the columns. The different combinations of the 6 possible horizontal and vertical lines produce the 36 different possible Guarda cards.
 
-The direction that the arrow is pointing when it is activated determines whether the card is attacking or defending. When a player plays a card with the arrow facing away from themselves, they are attacking. When a player plays a card with the arrow facing toward themselves, they are defending. The cells indicated in the card's grid indicate which spaces are being attacked, or which spaces are being defended.
+The direction that a card's arrow is pointing (toward the player or away from the player) when it is activated determines whether the card is attacking or defending. When a player plays a card with the arrow pointing away from themselves, they are attacking. When a player plays a card with the arrow pointing toward themselves, they are defending. The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
 
-In the center of the play area is a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow facing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 5 cards.
+In the center of the play area is the game board with a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow pointing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 5 cards.
 
 ### Turn Phases
 
@@ -128,7 +128,7 @@ Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Prepare.
 
 ### Combat
 
-If a card is played with its arrow pointing toward the central board, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow faces themselves, they are protected from any attacks as long as they are one of the indicated cells.
+If a card is played with its arrow pointing toward the central board, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow points to themselves, they are protected from any attacks as long as they are one of the indicated cells.
 
 When attacked, a player may play any card(s) in their hand as a defense if their piece occupies one of the indicated spaces on the card(s) (when the card is oriented with its arrow pointed toward themselves). They cannot counter-attack with cards in their hand.
 
