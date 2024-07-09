@@ -64,7 +64,9 @@ Static GP is a high-stakes, prestigious sport with a significant following, know
 
 </div>
 
-Dart boards are sports equipment based on widely paradigmed [static field tech](../../science-and-tech/statics.md) and powered by small, efficient batteries. A “dart” is a high-performance variant of the [static boards](../../science-and-tech/statics.md#static-boards) that are popular with the youth, capable of awesome displays of speed and agility.
+A “dart” is a high-performance variant of the [static boards](../../science-and-tech/statics.md#static-boards) that are popular with the youth, capable of awesome displays of speed and agility. Darts use the widely paradigmed [static field tech](../../science-and-tech/statics.md) to surf the Earth's gravitational field.
+
+Riders use links to drive their dart's static engine, and hone their skills in various dart techniques, based on their style and preferences. One of the most fundamental dart skills that dart riding emphasizes over standard static boards is static drifting; de-coupling one or more of the board's static nodes to fluidly slide through turns and other maneuvers.
 
 Every dart board is tailored to its rider, who must carefully calibrate the static manifold created by their board's [static engine](../../science-and-tech/statics.md#static-engines-and-motion). These compromises determine a dart board's top speed, acceleration and deceleration, maneuverability, range, length, width, and weight.
 
@@ -97,3 +99,43 @@ Neurochess tournaments are major events, drawing large audiences who follow the 
 <figure><img src="../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
 
 A card game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction.
+
+It can be played with 2-4 players in a free-for-all, or it can be played with up to 8 players in duos, with teammates sitting opposite from each other.
+
+### Playing Guarda
+
+Each player has their own Guarda deck. Every Guarda deck is identical, and contains 36 different Guarda cards.
+
+The cards consist of a central 6x6 grid and a single arrow or other directional indicator. On each card there is one horizontal line in the grid filling up 6 cells horizontally in one of the rows, and there is one vertical line filling up 6 cells vertically in one of the columns. The different combinations of the 6 possible horizontal and vertical lines produce the 36 different possible Guarda cards.
+
+The direction that the arrow is pointing when it is activated determines whether the card is attacking or defending. When a player plays a card with the arrow facing away from themselves, they are attacking. When a player plays a card with the arrow facing toward themselves, they are defending. The cells indicated in the card's grid indicate which spaces are being attacked, or which spaces are being defended.
+
+In the center of the play area is a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow facing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 6 cards.
+
+Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Prepare.
+
+1. During the draw phase, the player simply draws a card. If they have fewer than 6 cards, the player continues to draw until they hold 6 cards. If a player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 6 cards.
+2. During the move phase, a player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space per card, but only in the same direction.
+3. During the Act phase, the player may play one and only one card, face up or face down. If they play their card face up, it is immediately activated. This is only done to attack, as there is nothing for the player to defend against. If the player has multiple cards attacking the target space, they can play them all at once to deal one additional damage per card. After a card is spent, it is placed in the discard pile face down.\
+   \
+   If they play their Act phase card face down (which is called a "guard"), it remains face down on the play surface in front of them to be activated at a later time when the player is under attack. Players may only have one guard at any time, and may replace their guard as their action if they wish. Playing a face up card during subsequent turns does not affect their guard. Players can check their guard card at any time if they have forgotten what card it is.\
+
+4. During the preparation phase, the player may discard as many cards as they wish, but they cannot draw until their next turn, leaving them potentially vulnerable to attack.
+
+If the card's arrow faces the central board, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow faces themselves, they are protected from any attacks if they are one of the indicated cells.
+
+#### Defending
+
+When attacked, a player may play any card(s) in their hand as a defense if their piece occupies one of the indicated spaces on the card(s) (when the card is oriented with its arrow pointed toward themselves). They cannot counter-attack with cards in their hand.
+
+Alternatively, they may reveal their face-down "guard" card if they wish, but they cannot change the card's directional orientation, meaning they must choose when they originally place the guard if it will be an counter-offensive or defensive card. The card's grid is irrelevant for the guard; all that matters is if it is in the counter-attack or defend orientation.
+
+If the defending player defends with their guard, the attack is unsuccessful, regardless of the number of cards used in the attack. If the defending player counter-attacks with their guard, they only take one point of damage no matter how many cards they attacking player has played attacking them, and the attacking player instead takes damage equal to the number of cards they attacked with.
+
+Unless the player being attacked can defend (or counter-attack with their guard), the attack is successful and the player loses one health point. The defending player cannot defend with cards from their hand and their guard; they must choose which to use against the attack.
+
+The attacking player cannot play their guard to defend against a counter-attack, but they can play cards from their hand to defend themselves if their piece occupies one of the indicated spaces on the card(s).
+
+#### Winning the Game
+
+It is standard for each player begins the game with 6 health points, however players can agree in advance how many health points they would like to start with.
