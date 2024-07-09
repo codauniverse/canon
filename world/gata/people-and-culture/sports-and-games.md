@@ -96,7 +96,7 @@ Neurochess tournaments are major events, drawing large audiences who follow the 
 
 ## Guarda
 
-<figure><img src="../../../.gitbook/assets/guarda-53.png" alt=""><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
 
 A card game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction.
 
