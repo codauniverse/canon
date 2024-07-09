@@ -104,7 +104,7 @@ Guarda can be played with 2-4 players in a free-for-all, or it can be played wit
 
 ### How to Play
 
-Each player has their own Guarda deck. Every Guarda deck is identical, and contains 36 different Guarda cards representing every possible combination of horizontal and vertical lines on the card/game board's grid.
+Each player has their own Guarda deck. Every Guarda deck is identical, and contains 36 different Guarda cards representing every possible combination of horizontal and vertical lines on the card/game board's 6x6 grid.
 
 <figure><img src="../../../.gitbook/assets/guardiacard.jpg" alt="" width="375"><figcaption><p>A Guarda card displaying its target spaces and orientation.</p></figcaption></figure>
 
