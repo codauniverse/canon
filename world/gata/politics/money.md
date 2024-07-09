@@ -66,9 +66,9 @@ Bitcoin is the most prominent legacy currency remaining from the Old World. Prim
 
 Small, portable hardware wallets that function as partial nodes for the CRED component of the System's vast network. Slips enable offline transactions, making them ideal for casual commerce and areas with limited connectivity. They can store various digital assets, keys, and other data, providing flexibility and security in everyday transactions.&#x20;
 
-Slips can be configured in different ways to limit various permissions, such as adding a spending limit, or limiting particular assets to signing-only as a safeguard against theft.&#x20;
+Slips can be configured in different ways to limit various permissions, such as biometric verification, adding a spending limit, or limiting particular assets to signing-only as a safeguard against theft.&#x20;
 
-Slips are tied to an address on the System, and if lost, can be easily replaced so long as its owner has the pre-designated credentials. Slips without recovery credentials are often used for off-the-books transactions, as the lack of recovery method ensures the exchange is secure.
+Slips are tied to an address on the System, and if lost, can be easily replaced so long as its owner has their recovery credentials. Slips without recovery credentials are sometimes used for off-the-books transactions, as the lack of recovery method ensures the exchange is secure.
 
 ## **Paper money**
 
