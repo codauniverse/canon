@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Sports
+# Sports & Games
 
 <figure><img src="../../../.gitbook/assets/sports-733.png" alt=""><figcaption><p>Children playing soccer in a field in the outskirts of a recovering city.</p></figcaption></figure>
 
@@ -136,6 +136,12 @@ Unless the player being attacked can defend (or counter-attack with their guard)
 
 The attacking player cannot play their guard to defend against a counter-attack, but they can play cards from their hand to defend themselves if their piece occupies one of the indicated spaces on the card(s).
 
-#### Winning the Game
+### Winning the Game
 
-It is standard for each player begins the game with 6 health points, however players can agree in advance how many health points they would like to start with.
+#### Elimination
+
+In standard play each player begins the game with 6 health points. Players take turns until there is only one player, or team, left standing.
+
+#### Victory
+
+In standard play each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 6 points wins.
