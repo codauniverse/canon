@@ -98,7 +98,7 @@ Neurochess tournaments are major events, drawing large audiences who follow the 
 
 <figure><img src="../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
 
-A card game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction.
+A strategic card-and-board game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction.
 
 Guarda can be played with 2-4 players in a free-for-all, or it can be played with up to 8 players in duos, with teammates sitting opposite from each other.
 
@@ -118,9 +118,9 @@ In the center of the play area is the game board with a 6x6 grid. At the beginni
 
 Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Prepare.
 
-1. During the draw phase, the player simply draws a card. If they have fewer than 5 cards, the player continues to draw until they hold 5 cards. If a player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
-2. During the move phase, a player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space per card, but only in the same direction.
-3. During the Act phase, the player may play one and only one card, face up or face down. If they play their card face up, it is immediately activated. This is only done to attack, as there is nothing for the player to defend against. If the player has multiple cards attacking the target space, they can play them all at once to deal one additional damage per card. After a card is spent, it is placed in the discard pile face down.\
+1. During the draw phase, the player draws a card. If they have more than 5 cards, they must discard until they have only 5 cards. If they have fewer than 5 cards, the player continues to draw until they hold 5 cards. If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
+2. During the move phase, the player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in one direction.
+3. During the Act phase, the player may play a card face up or face down. If they play their card face up, it is immediately activated. This is only done to attack, as there is nothing for the player to defend against. If the player has multiple cards attacking the target space, they may play as many of them as they like at once to deal one additional damage per card. After a card is spent, it is placed in the discard pile face down.\
    \
    If the player chooses to play their Act phase card face down (which is called a "guard"), it remains face down on the play surface in front of them to be activated at a later time when the player is under attack. Players may only have one guard at any time, and may re-orient their guard as their action if they wish. Players can check their guard card at any time if they have forgotten which way it is oriented.\
 
