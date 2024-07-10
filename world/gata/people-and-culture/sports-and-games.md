@@ -139,9 +139,9 @@ Each of the twelve different card types depict one of the different possible str
 * 6 cards depicting the 6 possible vertical lines.
 * 6 cards depicting the 6 possible horizontal lines.
 
-<figure><img src="../../../.gitbook/assets/guardiacard.jpg" alt="" width="375"><figcaption><p>The Guarda card grid and orientation indicator.</p></figcaption></figure>
-
 The direction that a card's arrow is pointing (towards the grid or towards the player) when it is played determines whether the card is attacking or defending.&#x20;
+
+<figure><img src="../../../.gitbook/assets/guardiacards.jpg" alt="" width="563"><figcaption><p>Example of Guarda cards in offensive and defensive orientations.</p></figcaption></figure>
 
 When a player plays a card with the arrow pointing towards the grid, they are attacking.
 
@@ -229,6 +229,8 @@ If no more actions are to be taken, and the attacking player remains in the game
 
 ### Winning the Game
 
+<figure><img src="../../../.gitbook/assets/guarda-955 (1).png" alt="" width="563"><figcaption><p>A street kid hoping to finish the game with an attack.</p></figcaption></figure>
+
 Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
 
 #### Standard (No Stakes):
@@ -245,5 +247,8 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 
 ### Notes:
 
-* It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to design irregular grids for their games, if they choose.
+* In Guarda games with a large number of players, guard cards are played face-down directly on the grid, placed beneath the players game piece, and are moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
+* It is typical in street games of Guarda for players to use a 10-sided die as their game piece in order to track their health or victory points. Other common game pieces include stones with chalk numbers written on them, or hard-coded game pieces with digital counters. However, when playing in tournaments or on dedicated game boards, game stats are tracked in other ways, freeing players to use whatever game piece they'd like.
+* It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to design irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their specifications on a surface, or scratch it into the dirt.
+* Paper slate cards are expensive, but are common in gaming establishments and in high-end decks of Guarda cards, allowing cards to change color based on their orientation, and feature animations when in play.
 * In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards as their foundation. However, none are nearly as popular as classic Guarda.
