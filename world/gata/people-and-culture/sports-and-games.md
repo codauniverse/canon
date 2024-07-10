@@ -106,7 +106,11 @@ It is not known who first started using the lei cards as a game, but before long
 
 After [the Morning Light Summit](../politics/new-dawn-accords.md#the-morning-light-summit) and the nearby LA camp's subsequent [districting](../politics/districts.md#the-path-to-districthood) by the fledging GATA, people began to, slowly, and then suddenly, travel great distances once again. The mass, voluntary relocation of a huge number of refugees under [Atla's](../key-locations/atla.md) [Existence Doctrine](../military-and-defense/existence-doctrine.md) spread the game far and wide at the very onset of the Reconstruction.
 
-"Guarda" as it was then called, (a Spanish-language reference to Atla's symbolic [Guardian](../military-and-defense/guardians.md) [war frames](../../science-and-tech/frames.md)), quickly became the most popular new table game since the rise of poker in the 20th century.
+"Guarda" as it was then called, (a Spanish-language reference to Atla's symbolic [Guardian](../military-and-defense/guardians.md) [war frames](../../science-and-tech/frames.md)), quickly became the most popular new table game since the rise of poker in the 20th century.&#x20;
+
+Because of its fast-paced gameplay, short matches, and simple theory, Guarda appeals to a wide audience, however it is for these same reasons that it is not as valued by the academic elites.&#x20;
+
+Nonetheless, even the world's top neurochess champs can't defeat the Guarda pros, highlighting the fundamental difference between strategy and tactics, or computers and human behavior.
 
 ### The Basics
 
@@ -120,55 +124,92 @@ On every Guarda card is the same 6x6 grid, as well as a single arrow or other di
 
 Players take turns clockwise, drawing cards, moving, and playing their cards (attacking and defending) until a winner is decided.
 
+Uniquely, each player can set a secret card called a "guard" face-down in front of them, waiting to be activated. A well-constructed hand, strategic movement, and the tactical use of the trap-like guard are the signatures of the fast-paced, competitive phenomenon that is Guarda.
+
 ### The Cards
 
-Each player has their own Guarda deck. Though different decks may have different visual designs, the decks are identical in terms of their composition.
+Each player has their own Guarda deck. Though different decks may have different visual designs, the decks are identical in terms of their card composition.
 
-Every Guarda deck contains three copies of each of the 12 different Guarda cards.
+Every Guarda deck contains 3x copies of each of the 12 different Guarda cards.
 
-Half of the cards depict the six complete vertical lines that can be drawn on the game's 6x6 grid. The other half depict the six complete horizontal lines that can be drawn on the game's 6x6 grid.
+Each of the twelve different card types depict one of the different possible straight-line patterns that can be formed with the cells on the game's 6x6 grid:
+
+* 6 cards depicting the 6 possible vertical lines.
+* 6 cards depicting the 6 possible horizontal lines.
 
 <figure><img src="../../../.gitbook/assets/guardiacard.jpg" alt="" width="375"><figcaption><p>The Guarda card grid and orientation indicator.</p></figcaption></figure>
 
 The direction that a card's arrow is pointing (towards the grid or towards the player) when it is played determines whether the card is attacking or defending.&#x20;
 
-When a player plays a card with the arrow pointing towards the grid, they are attacking. When a player plays a card with the arrow pointing toward themselves, they are defending. The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
+When a player plays a card with the arrow pointing towards the grid, they are attacking.
+
+When a player plays a card with the arrow pointing toward themselves, they are defending.
+
+The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
 
 ### Getting Started
 
-Before the game begins, a player is selected to draw first. Each player then takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the grid.
+Before the game begins, a player is selected to draw first.
 
-Once a player has drawn two cards with overlapping spaces, they then place their game piece on a space in the grid where the horizontal and vertical lines on their cards' grid patterns intersect. If that space is already occupied by another player, they draw until they draw an unoccupied intersecting space.&#x20;
+Each player then takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the grid.
 
-After placing their piece, the player places any cards drawn in this process face down in their discard pile. Once every player's piece is placed, players each draw a hand of 5 cards.
+Once a player has drawn two cards with overlapping spaces, they then place their game piece on a space in the grid where the horizontal and vertical lines on their cards' grid patterns intersect.
+
+If that space is already occupied by another player, they draw until they draw an unoccupied intersecting space.
+
+After placing their piece, the player places any cards drawn in this process face down in their discard pile.
+
+Once every player's piece is placed, players each draw a hand of 5 cards.
 
 ### Turn Phases
 
-Each turn has 4 short phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
+Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, and (4) Settle.
 
-1. During the Draw phase, the player draws a card. If they have more than 5 cards in their hand they must discard until they have only 5 cards. If they have fewer than 5 cards, the player continues to draw until they hold 5 cards. If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
-2. During the Move phase, the player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in one direction.
+1. During the Draw phase, the player draws a card.\
+   \
+   If they have more than 5 cards in their hand they must discard until they have only 5 cards.\
+   \
+   If they have fewer than 5 cards, the player continues to draw until they hold 5 cards.\
+   \
+   If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
+2. During the Move phase, the player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally.\
+   \
+   The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in one direction.
 3. During the Act phase, the player may play a card face up or face down.\
    \
-   If a player plays their card face up, this is an attack. Attacking cards are played offensively with the arrow pointing toward the grid. The attacking player must announce an occupied space as their target, and may use multiple cards to attack the same target, dealing one damage for each attacking card, as long as the grid pattern on the attacking card(s) overlap the target space.\
+   If a player plays their card face up, this is an attack. Attacking cards are played offensively with the arrow pointing toward the grid.\
    \
-   The attacks will deal damage to any and all opponents on spaces overlapped by the attacking card(s) grid pattern. Players on affected spaces may then react by blocking, counter-attacking, or activating their guard, if they are able.\
+   The attacking player may attack any one target space, and may use multiple cards to attack the same target space, dealing one damage for each attacking card, so long as the grid pattern on the attacking cards overlap that target space.\
    \
-   If the player chooses to play their card face down, this is called setting their "guard". It remains face down on the play surface in front of them, to be activated at a later time when the player is under attack.\
+   The attacks will deal damage to any and all opponents on spaces overlapped by the attacking card(s) grid pattern. Players on affected spaces may then react, in clockwise order, by blocking, counter-attacking, or activating their guard (if it has been set).\
    \
-   Players may only have one guard at any time, and may re-orient their guard as their sole action during their turn if they wish. Players can check their guard card at any time if they have forgotten which way it is oriented.\
+   If the player chooses to play their card face down, this is called "preparing" their "guard". When the guard is preparing, it is played face down and sideways.\
+   \
+   At the beginning of the player's next turn, the guard remains face down, but is oriented as desired by the player. This is called "setting" their guard. It remains face down, ready to be activated at a later time when the player is under attack.\
+   \
+   Players may only have one guard at any time, and may re-orient their guard as their sole action during their turn if they wish. (Note: Players can check their guard card at any time if they have forgotten which way it is oriented.)\
 
-4. During the Settle phase, the player discards any cards played face down during their turn, and may discard as many additional cards as they wish (Note: discarded cards during the Settle phase do not grant movement). The player will draw replacement cards at the beginning of their next turn.
+4. During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards as they wish (Note: discarded cards during the Settle phase do not grant movement).\
+   \
+   The player will draw replacement cards at the beginning of their next turn.
 
 ### Combat
 
-If a card is played with its arrow pointing toward the grid, the player is attacking any other player whose piece is on one of the indicated spaces. If the arrow points toward its owner, they are defending against attacks on the indicated spaces.
+When a card is played with its arrow pointing toward the grid, it is attacking.\
+\
+When a card is played with its arrow pointing toward its owner, it is defending.\
+\
+When either attacking or defending, a card can only be played if its grid pattern overlaps with target(s) of an attack.
 
 #### React Phase
 
 If an attack is made, the React phase begins and any player(s) being attacked may choose to react by Blocking, Counter-Attacking, or activating their guard.
 
-During the React phase, any defending player(s) may play any card(s) in their hand as a defense, so long as the card's grid pattern overlaps with the defending player's piece on the grid when played defensively (with the arrow facing themselves). They cannot counter-attack with cards in their hand.
+During the React phase, any defending player(s) may play any card(s) in their hand as a defense, so long as the card's grid pattern overlaps with their own piece on the grid when played defensively (with the arrow facing themselves).\
+\
+If players are playing in teams, they may also play cards in their hands defensively to defend their teammates.\
+\
+Defending players cannot counter-attack with cards in their hand.
 
 Alternatively, they may reveal and activate their face-down "guard", but they cannot change the card's orientation at the same time. The card's grid is irrelevant for the guard; all that matters is if it is in an offensive or defensive orientation.
 
