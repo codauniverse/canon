@@ -241,7 +241,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * **Spoils of War:** The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
 * **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
 
-Notes:
+### Notes:
 
 * It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to design irregular grids for their games, if they choose.
 * In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards as their foundation. However, none are nearly as popular as classic Guarda.
