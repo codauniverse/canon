@@ -208,9 +208,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
 
 If an attack is made, the React phase begins and any player(s) being attacked may choose to react by activating their guard, or defending with cards from their hand.
 
-Players can defend against an attack with cards in their hand so long as the card's grid pattern overlaps with their own piece's position on the field (when oriented defensively with the arrow facing themselves). Defending players cannot counter-attack with cards in their hand.\
-\
-If players are playing in teams, they may also play cards in their hands defensively to defend their teammates.
+Players can defend against an attack with cards in their hand so long as the card's grid pattern overlaps with their own piece's position on the field (when oriented defensively with the arrow facing themselves). Defending players cannot counter-attack with cards in their hand.
 
 #### Activating your Guard
 
@@ -250,15 +248,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * **Spoils of War:** The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
 * **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
 
-<div>
-
 <figure><img src="../../../.gitbook/assets/guarda-999.png" alt="" width="563"><figcaption><p>A high-stakes Guarda table in a private club.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/guarda-323.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 ### Notes:
 
