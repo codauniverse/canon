@@ -150,7 +150,7 @@ Each turn has 4 short phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    If a player plays their card face up, this is an attack. Attacking cards are played offensively with the arrow pointing toward the grid. The attacking player must announce an occupied space as their target, and may use multiple cards to attack the same target, dealing one damage for each attacking card, as long as the grid pattern on the attacking card(s) overlap the target space.\
    \
-   The attacks will deal damage to any players on spaces overlapped by the attacking card(s) grid pattern. Players on affected spaces may then react by blocking, counter-attacking, or activating their guard, if they are able.\
+   The attacks will deal damage to any and all opponents on spaces overlapped by the attacking card(s) grid pattern. Players on affected spaces may then react by blocking, counter-attacking, or activating their guard, if they are able.\
    \
    If the player chooses to play their card face down, this is called setting their "guard". It remains face down on the play surface in front of them, to be activated at a later time when the player is under attack.\
    \
