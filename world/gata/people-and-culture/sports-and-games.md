@@ -98,43 +98,65 @@ Neurochess tournaments are major events, drawing large audiences who follow the 
 
 <figure><img src="../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
 
-A strategic card-and-board game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction. It was inspired by the I Ching and has enjoyed some popularity as a divination tool during its existence as well, particularly in the Free Territories.
+A strategic card game originating from Atlan refugee camps during the Dark Decade that grew in popularity during GATA's expansion over the course of the Reconstruction.
 
-Guarda can be played with 2-4 players in a free-for-all, or it can be played with up to 8 players in duos, with teammates sitting opposite from each other.
+Guarda cards were originally called "leis", and were created by a Chinese-American software engineer two years after the Crash in Bright Mesa. They were inspired by the I Ching and enjoyed some early popularity in the South West as a divination system during the Dark Decade. Lei divination remains popular to this day, particularly in the Free Territories.
 
-### How to Play
+It is not known who first started using the lei cards as a game, but soon children were drawing a grid in the dirt and using the cards to attack and defend. By the end of the Dark Decade the rules had been refined, and it had become wildly popular among the youth of Bright Mesa.
 
-Each player has their own Guarda deck. Every Guarda deck is identical, and contains 36 different Guarda cards representing every possible combination of horizontal and vertical lines on the card/game board's 6x6 grid. Each player also has a singular game piece which they move around the board throughout the game.
+After the Morning Light Summit and the LA camp's subsequent districting by the fledging GATA, people began to, slowly, and then suddenly, travel great distances once again. The mass, voluntary relocation of a huge number of GATA refugees under Atla's Existence Doctrine spread the game far and wide. "Guarda" as it was then called (a reference to the Atla's symbolic Guardian war frames), quickly became the most popular new table game since the rise of poker in the 20th century.
 
-<figure><img src="../../../.gitbook/assets/guardiacard.jpg" alt="" width="375"><figcaption><p>A Guarda card displaying its target spaces and orientation.</p></figcaption></figure>
+### The Basics
 
-On every Guarda card is a 6x6 grid and a single arrow or other directional indicator. On each card there is one horizontal line in the grid filling up 6 cells horizontally in one of the rows, and there is one vertical line filling up 6 cells vertically in one of the columns. The different combinations of the 6 possible horizontal and vertical lines produce the 36 different possible Guarda cards.
+<figure><img src="../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda with its 6x6 grid.</p></figcaption></figure>
 
-The direction that a card's arrow is pointing (toward the player or away from the player) when it is activated determines whether the card is attacking or defending. When a player plays a card with the arrow pointing away from themselves, they are attacking. When a player plays a card with the arrow pointing toward themselves, they are defending. The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
+Guarda can be played with 2-8 players in free-for-all or teams, with teammates sitting opposite from each other.
 
-<figure><img src="../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>The Guarda game board with its 6x6 grid.</p></figcaption></figure>
+In the center of the play area is a 6x6 grid. Each player has a singular game piece which they will move around this grid throughout the game.
 
-In the center of the play area is the game board with a 6x6 grid. At the beginning of the game, players draw a single card from the top of their shuffled deck and place it face up with the arrow pointing toward the board, and where the horizontal and vertical lines on the card's grid intersect is the position on the board that that player's piece will start on. If it is already occupied by another player, they draw until they draw an unoccupied square. After placing their piece, the player places the card(s) they drew in this process face down in their discard pile. Once each player's piece is placed, players each draw a hand of 5 cards.
+On every Guarda card is the same 6x6 grid, as well as a single arrow or other directional indicator. The card's grid either displays a horizontal line filling up 6 consecutive horizontal grid cells in one of the rows, or a vertical line filling up 6 consecutive vertical grid cells in one of the columns.
+
+Players take turns clockwise, drawing cards, moving, and playing their cards (attacking and defending) until a winner is decided.
+
+### The Cards
+
+Each player has their own Guarda deck. Though different decks may have different visual designs, the decks are identical in terms of their composition. Every Guarda deck contains three copies of each of the 12 different Guarda cards.
+
+Half of the cards depict the six complete vertical lines that can be drawn on the game's 6x6 grid. The other half depict the six complete horizontal lines that can be drawn on the game's 6x6 grid.
+
+<figure><img src="../../../.gitbook/assets/guardiacard.jpg" alt="" width="375"><figcaption><p>The Guarda card grid and orientation indicator.</p></figcaption></figure>
+
+The direction that a card's arrow is pointing (toward the player or away from the player) when it is played determines whether the card is attacking or defending.&#x20;
+
+When a player plays a card with the arrow pointing away from themselves, they are attacking. When a player plays a card with the arrow pointing toward themselves, they are defending. The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
+
+### Getting Started
+
+Before the game begins, a player is selected to draw first. Each player takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the grid.
+
+Once a player has drawn both a horizontal and vertical card, they can then place their game piece in the space on the grid where the horizontal and vertical lines on their cards' grids intersect. If that space is already occupied by another player, they draw until they draw an unoccupied intersecting space.&#x20;
+
+After placing their piece, the player(s) place the card(s) they drew in this process face down in their discard pile. Once every player's piece is placed, players each draw a hand of 5 cards.
 
 ### Turn Phases
 
-Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Prepare.
+Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
 
-1. During the draw phase, the player draws a card. If they have more than 5 cards, they must discard until they have only 5 cards. If they have fewer than 5 cards, the player continues to draw until they hold 5 cards. If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
-2. During the move phase, the player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in one direction.
+1. During the Draw phase, the player draws a card. If they have more than 5 cards, they must discard until they have only 5 cards. If they have fewer than 5 cards, the player continues to draw until they hold 5 cards. If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
+2. During the Move phase, the player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in one direction.
 3. During the Act phase, the player may play a card face up or face down. If they play their card face up, it is immediately activated. This is only done to attack, as there is nothing for the player to defend against. If the player has multiple cards attacking the target space, they may play as many of them as they like at once to deal one additional damage per card. After a card is spent, it is placed in the discard pile face down.\
    \
    If the player chooses to play their Act phase card face down (which is called a "guard"), it remains face down on the play surface in front of them to be activated at a later time when the player is under attack. Players may only have one guard at any time, and may re-orient their guard as their action if they wish. Players can check their guard card at any time if they have forgotten which way it is oriented.\
 
-4. During the preparation phase, the player may discard as many cards as they wish, but they cannot draw until their next turn, leaving them potentially vulnerable to attack.
+4. During the Settle phase, the player may discard as many cards as they wish, but they do not draw again until their next turn, leaving them potentially vulnerable to attack.
 
 ### Combat
 
 If a card is played with its arrow pointing away from themselves, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow points toward themselves, they are defending against attacks on the indicated cells.
 
-Players can make a single attack with multiple cards, dealing one damage per attacking card.
+During their Act phase, a player can make a single attack from their hand. They may use multiple cards to attack the same space if able, dealing one damage per attacking card.
 
-When attacked, a player may play any card(s) in their hand as a defense. They cannot counter-attack with cards in their hand.
+If an attack is made, the React phase begins and any player(s) being attacked may choose to react by Blocking, Counter-Attacking, or . During the React phase, any attacked player(s) may play any card(s) in their hand as a defense, if able. They cannot counter-attack with cards in their hand.
 
 Alternatively, they may reveal their face-down "guard" card if they wish, but they cannot change the card's directional orientation at the same time. The card's grid is irrelevant for the guard; all that matters is if it is in the counter-attack or defend orientation.
 
@@ -142,25 +164,25 @@ If the defending player defends with their guard, the attack is unsuccessful, re
 
 If the defending player counter-attacks with their guard, they only take one point of damage no matter how many cards they attacking player has played attacking them, and the attacking player instead takes damage equal to the number of cards they attacked with.
 
-Unless the player being attacked can defend (or counter-attack with their guard), the attack is successful and the player loses one health point for each attacking card. They cannot defend against the same attack with cards from their hand and their guard; they must choose which to use against the attack.
+Unless the player being attacked can defend (or counter-attack with their guard), the attack is successful and the player loses one health point for each attacking card. The player cannot defend against the same attack with cards from their hand and their guard; they must choose which to use against the attack, even if the attack is made with multiple cards.
 
-The attacking player cannot play their guard to defend against a counter-attack, but they can play cards from their hand to defend themselves.
+The attacking player cannot play their guard to defend against the defending player's counter-attack, but they can play cards from their hand to defend against a counter-attack.
 
 ### Winning the Game
 
-Guarda can be played with a variety of win conditions.
+Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
 
 #### Elimination
 
-The most common style of play. Each player begins the game with 6 health points. Players take turns until there is only one player, or team, left standing.
+The most common style of play. Each player begins the game with 10 health points. Players take turns until there is only one player, or team, left standing.
 
 #### Bounty (Gambling)
 
-The same as Elimination, except each player must ante up with the table stake (called a "bounty"). When a player defeats an opponent, they claim that player's bounty.
+The same as Elimination, except each player must ante up with the table stake (called their "bounty"). When a player defeats an opponent, they claim that player's bounty.
 
 #### Victory
 
-Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 6 points wins.
+Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 10 points wins.
 
 #### Spoils of War (Gambling)
 
@@ -168,8 +190,8 @@ The same as Victory, except each player must ante up with the table stake (calle
 
 #### Exhaustion
 
-When a player runs out of cards in their draw pile they are defeated.
+Players do not reshuffle their discard pile when they exhaust their draw pile. When a player runs out of cards in their draw pile, they are defeated.
 
 #### Scavenger (Gambling)
 
-The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the board, and the first player to move to the same space claims their loot.
+The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
