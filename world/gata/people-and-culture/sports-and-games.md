@@ -245,9 +245,11 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * **Spoils of War:** The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
 * **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
 
+<figure><img src="../../../.gitbook/assets/guarda-999.png" alt="" width="563"><figcaption><p>A high-stakes Guarda table in a private club.</p></figcaption></figure>
+
 ### Notes:
 
-* In Guarda games with a large number of players, guard cards are played face-down directly on the grid, placed beneath the players game piece, and are moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
+* In Guarda games with high-stakes or a large number of players, a player's guard card is played face-down directly on the grid, placed beneath their game piece, and is moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
 * It is typical in street games of Guarda for players to use a 10-sided die as their game piece in order to track their health or victory points. Other common game pieces include stones with chalk numbers written on them, or hard-coded game pieces with digital counters. However, when playing in tournaments or on dedicated game boards, game stats are tracked in other ways, freeing players to use whatever game piece they'd like.
 * It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to design irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their specifications on a surface, or scratch it into the dirt.
 * Paper slate cards are expensive, but are common in gaming establishments and in high-end decks of Guarda cards, allowing cards to change color based on their orientation, and feature animations when in play.
