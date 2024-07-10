@@ -128,15 +128,15 @@ Half of the cards depict the six complete vertical lines that can be drawn on th
 
 <figure><img src="../../../.gitbook/assets/guardiacard.jpg" alt="" width="375"><figcaption><p>The Guarda card grid and orientation indicator.</p></figcaption></figure>
 
-The direction that a card's arrow is pointing (toward the player or away from the player) when it is played determines whether the card is attacking or defending.&#x20;
+The direction that a card's arrow is pointing (towards the grid or towards the player) when it is played determines whether the card is attacking or defending.&#x20;
 
-When a player plays a card with the arrow pointing away from themselves, they are attacking. When a player plays a card with the arrow pointing toward themselves, they are defending. The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
+When a player plays a card with the arrow pointing towards the grid, they are attacking. When a player plays a card with the arrow pointing toward themselves, they are defending. The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
 
 ### Getting Started
 
 Before the game begins, a player is selected to draw first. Each player then takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the grid.
 
-Once a player has drawn both a horizontal and vertical card, they can then place their game piece in the space on the grid where the horizontal and vertical lines on their cards' grids intersect. If that space is already occupied by another player, they draw until they draw an unoccupied intersecting space.&#x20;
+Once a player has drawn two cards with overlapping spaces, they then place their game piece on a space in the grid where the horizontal and vertical lines on their cards' grid patterns intersect. If that space is already occupied by another player, they draw until they draw an unoccupied intersecting space.&#x20;
 
 After placing their piece, the player places any cards drawn in this process face down in their discard pile. Once every player's piece is placed, players each draw a hand of 5 cards.
 
