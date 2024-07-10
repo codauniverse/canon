@@ -139,7 +139,7 @@ Each of the twelve different card types depict one of the different possible str
 * 6 cards depicting the 6 possible vertical lines.
 * 6 cards depicting the 6 possible horizontal lines.
 
-The direction that a card's arrow is pointing (towards the grid or towards the player) when it is played determines whether the card is attacking or defending.&#x20;
+The direction that a card's arrow is pointing (towards the grid or towards the player) when it is played determines whether the card is attacking or defending.
 
 <figure><img src="../../../.gitbook/assets/guardiacards.jpg" alt="" width="563"><figcaption><p>Example of Guarda cards in offensive and defensive orientations.</p></figcaption></figure>
 
@@ -207,19 +207,21 @@ When either attacking or defending, a card can only be played if its grid patter
 
 If an attack is made, the React phase begins and any player(s) being attacked may choose to react by Blocking, Counter-Attacking, or activating their guard.
 
-During the React phase, any defending player(s) may play any card(s) in their hand as a defense, so long as the card's grid pattern overlaps with their own piece on the grid when played defensively (with the arrow facing themselves).\
+During the React phase, any defending player(s) may play any card(s) in their hand as a defense, so long as the card's grid pattern overlaps with their own piece on the grid when played defensively (with the arrow facing themselves). Defending players cannot counter-attack with cards in their hand.\
 \
-If players are playing in teams, they may also play cards in their hands defensively to defend their teammates.\
-\
-Defending players cannot counter-attack with cards in their hand.
+If players are playing in teams, they may also play cards in their hands defensively to defend their teammates.
 
-Alternatively, they may reveal and activate their face-down "guard", but they cannot change the card's orientation at the same time. The card's grid is irrelevant for the guard; all that matters is if it is in an offensive or defensive orientation.
+#### Activating their Guard
 
-If the defending player's activated guard defends, the attack is unsuccessful, regardless of the number of cards used in the attack.
+Alternatively, when reacting to an attack, the defending player may reveal and activate their concealed "guard" card. They cannot change the card's offensive/defensive orientation at the same time as activating it. The guard's effect depends on if it is in an offensive or defensive orientation. The card's grid pattern is irrelevant for the guard's effect.
 
-If the defending player's activated guard counter-attacks, the defending player only takes one point of damage no matter how many cards the attacking player has played attacking them, and the attacking player instead takes that damage.
+If the defending player's guard defends, the attack is unsuccessful, regardless of the number of cards used in the attack.
 
-If the defending player activated their guard, it is discarded afterwards.
+If the defending player's guard counter-attacks, the defending player only takes one point of damage no matter how many cards the attacking player has played attacking them, and the attacking player instead takes damage equal to the number of attacking cards they played.
+
+If the defending player activates their card it is discarded immediately after taking effect.
+
+<figure><img src="../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>A player getting crushed by an opponent guard's counter-attack.</p></figcaption></figure>
 
 Unless the player being attacked can defend or counter-attack, the attack is successful and the player loses one health point for each attacking card. The player cannot defend against the same attack with cards from their hand and their guard; they must choose which to use against the attack, even if the attack is made with multiple cards.
 
@@ -245,12 +247,21 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * **Spoils of War:** The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
 * **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
 
+<div>
+
 <figure><img src="../../../.gitbook/assets/guarda-999.png" alt="" width="563"><figcaption><p>A high-stakes Guarda table in a private club.</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/guarda-323.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Notes:
 
+* Players usually provide their own Guarda decks. They fan out their cards at the beginning of the game to prove that their deck is regulation.
 * In Guarda games with high-stakes or a large number of players, a player's guard card is played face-down directly on the grid, placed beneath their game piece, and is moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
 * It is typical in street games of Guarda for players to use a 10-sided die as their game piece in order to track their health or victory points. Other common game pieces include stones with chalk numbers written on them, or hard-coded game pieces with digital counters. However, when playing in tournaments or on dedicated game boards, game stats are tracked in other ways, freeing players to use whatever game piece they'd like.
-* It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to design irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their specifications on a surface, or scratch it into the dirt.
+* It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to easily build irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their preference on a surface, or scratch it into the dirt.
 * Paper slate cards are expensive, but are common in gaming establishments and in high-end decks of Guarda cards, allowing cards to change color based on their orientation, and feature animations when in play.
-* In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards as their foundation. However, none are nearly as popular as classic Guarda.
+* In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards and/or the Guarda Classic mechanics as their foundation.
