@@ -120,13 +120,15 @@ Nonetheless, even the world's top neurochess champs can't defeat the Guarda pros
 
 Guarda is a strategic card game that can be played with 2-8 players in free-for-all or teams.
 
-In the center of the play area is a 6x6 grid. Players each sit facing one side of the grid. Each player has a singular game piece which they will move around this grid throughout the game.
+In the center of the play area is a 6x6 grid called "the field". Players each sit facing one side of the field. Each player has a singular game piece which they will move around the field throughout the game.
 
-On every Guarda card is the same 6x6 grid, as well as a single arrow or other directional indicator. The card's grid either displays a horizontal line filling up 6 consecutive horizontal grid cells in one of the rows, or a vertical line filling up 6 consecutive vertical grid cells in one of the columns.
+On every Guarda card is the same 6x6 grid as on the the field, and a single arrow (or other directional indicator). The card's grid either displays a line filling up all consecutive horizontal cells in one of the grid's rows, or a line filling up all consecutive vertical cells in one of the grid's columns.
 
-Players take turns clockwise, drawing cards, moving, and playing their cards (attacking and defending) until a winner is decided.
+Players take turns clockwise, drawing cards, moving their piece on the field, and combating their opponents on the field with their cards until a winner is decided.
 
-Uniquely, each player can set a secret card called a "guard" face-down in front of them, waiting to be activated. A well-constructed hand, strategic movement, and the tactical use of the trap-like guard are the signatures of the fast-paced, competitive phenomenon that is Guarda.
+Uniquely, each player can set a secret card called a "guard" face-down in front of them, waiting to be activated. Well-managed hands, strategic movement, and the tactical use of the trap-like guard are the signatures of Guarda.
+
+Anticipate your opponents movements, attack when their guard isn't set,
 
 ### The Cards
 
@@ -134,28 +136,28 @@ Each player has their own Guarda deck. Though different decks may have different
 
 Every Guarda deck contains 3x copies of each of the 12 different Guarda cards.
 
-Each of the twelve different card types depict one of the different possible straight-line patterns that can be formed with the cells on the game's 6x6 grid:
+Each of the twelve different card types depict one of the different possible straight-line patterns that can be formed with the cells of the card's 6x6 grid:
 
 * 6 cards depicting the 6 possible vertical lines.
 * 6 cards depicting the 6 possible horizontal lines.
 
-The direction that a card's arrow is pointing (towards the grid or towards the player) when it is played determines whether the card is attacking or defending.
+The direction that a card's arrow is pointing (towards the field or towards the player) when it is played determines whether the card is attacking or defending.
 
 <figure><img src="../../../.gitbook/assets/guardiacards.jpg" alt="" width="563"><figcaption><p>Example of Guarda cards in offensive and defensive orientations.</p></figcaption></figure>
 
-When a player plays a card with the arrow pointing towards the grid, they are attacking.
+When a player plays a card with the arrow pointing towards the field, they are attacking.
 
 When a player plays a card with the arrow pointing toward themselves, they are defending.
 
-The grid cells that are highlighted on the card indicate which spaces are being attacked or defended.
+The grid cells that are highlighted on the card indicate which spaces on the field are being attacked or defended.
 
 ### Getting Started
 
 Before the game begins, a player is selected to draw first.
 
-Each player then takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the grid.
+Each player then takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the field.
 
-Once a player has drawn two cards with overlapping spaces, they then place their game piece on a space in the grid where the horizontal and vertical lines on their cards' grid patterns intersect.
+Once a player has drawn two cards with overlapping spaces, they then place their game piece on a space in the field where the horizontal and vertical lines on their cards' grid patterns intersect.
 
 If that space is already occupied by another player, they draw until they draw an unoccupied intersecting space.
 
@@ -174,56 +176,57 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
    If they have fewer than 5 cards, the player continues to draw until they hold 5 cards.\
    \
    If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
-2. During the Move phase, the player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally.\
+2. During the Move phase, the player may move their piece to an adjacent square on the field if they wish, but they may not move diagonally.\
    \
    The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in one direction.
-3. During the Act phase, the player may play a card face up or face down.\
+3. During the Act phase the player may prepare a guard or attack the field.\
    \
-   If a player plays their card face up, this is an attack. Attacking cards are played offensively with the arrow pointing toward the grid.\
+   The player prepares their guard by playing a card from their hand face down. It is turned sideways to indicate it is still preparing.\
    \
-   The attacking player may attack any one target space, and may use multiple cards to attack the same target space, dealing one damage for each attacking card, so long as the grid pattern on the attacking cards overlap that target space.\
+   At the beginning of the player's next Act phase, the player "sets" their guard, secretly orienting it offensively or defensively. The guard's orientation will determine if it will perform a block or a counter-attack when activated.\
    \
-   The attacks will deal damage to any and all opponents on spaces overlapped by the attacking card(s) grid pattern. Players on affected spaces may then react, in clockwise order, by blocking, counter-attacking, or activating their guard (if it has been set).\
+   When the player sets their guard, the guard remains face down, its orientation a secret to their opponents, ready to be activated at a later time when the player is under attack. (Note: Players are free to check their own guard's orientation at any time during their turn if they have forgotten which way it is oriented.)\
    \
-   If the player chooses to play their card face down, this is called "preparing" their "guard". When the guard is preparing, it is played face down and sideways.\
+   Players can only have one guard at any time. If they set a new guard with their Act phase the existing guard is discarded. The new guard is in the preparation state until their next turn.\
    \
-   At the beginning of the player's next turn, the guard remains face down, but is oriented as desired by the player. This is called "setting" their guard. It remains face down, ready to be activated at a later time when the player is under attack.\
+   The player attacks by playing one or more cards face up and pointing toward the field.\
    \
-   Players may only have one guard at any time, and may re-orient their guard as their sole action during their turn if they wish. (Note: Players can check their guard card at any time if they have forgotten which way it is oriented.)\
-
+   The player can attack any one target space, and may play any cards that target that same space, so long as the grid pattern on all attacking cards overlap that same target space.\
+   \
+   The attacks will deal one damage to any and all opponents for each attack overlapping their position on the field.\
+   \
+   If a player is attacked with two or more cards while their guard is preparing, their guard is broken and the guard.\
+   \
+   Players who are under attack [may then react](sports-and-games.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).
 4. During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards as they wish (Note: discarded cards during the Settle phase do not grant movement).\
    \
    The player will draw replacement cards at the beginning of their next turn.
 
-### Combat
+### Reacting to Attacks
 
-When a card is played with its arrow pointing toward the grid, it is attacking.\
-\
-When a card is played with its arrow pointing toward its owner, it is defending.\
-\
-When either attacking or defending, a card can only be played if its grid pattern overlaps with target(s) of an attack.
+#### Defending with your Hand
 
-#### React Phase
+If an attack is made, the React phase begins and any player(s) being attacked may choose to react by activating their guard, or defending with cards from their hand.
 
-If an attack is made, the React phase begins and any player(s) being attacked may choose to react by Blocking, Counter-Attacking, or activating their guard.
-
-During the React phase, any defending player(s) may play any card(s) in their hand as a defense, so long as the card's grid pattern overlaps with their own piece on the grid when played defensively (with the arrow facing themselves). Defending players cannot counter-attack with cards in their hand.\
+Players can defend against an attack with cards in their hand so long as the card's grid pattern overlaps with their own piece's position on the field (when oriented defensively with the arrow facing themselves). Defending players cannot counter-attack with cards in their hand.\
 \
 If players are playing in teams, they may also play cards in their hands defensively to defend their teammates.
 
-#### Activating their Guard
+#### Activating your Guard
 
-Alternatively, when reacting to an attack, the defending player may reveal and activate their concealed "guard" card. They cannot change the card's offensive/defensive orientation at the same time as activating it. The guard's effect depends on if it is in an offensive or defensive orientation. The card's grid pattern is irrelevant for the guard's effect.
+When reacting to an attack, a defending player may activate their concealed guard.
 
-If the defending player's guard defends, the attack is unsuccessful, regardless of the number of cards used in the attack.
+Once activated, the guard's effect is determined by its orientation.
 
-If the defending player's guard counter-attacks, the defending player only takes one point of damage no matter how many cards the attacking player has played attacking them, and the attacking player instead takes damage equal to the number of attacking cards they played.
+If the guard is in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack.
 
-If the defending player activates their card it is discarded immediately after taking effect.
+If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the card's grid pattern, the attacking player takes one additional point of damage.
+
+When a defending player activates their guard, it is discarded immediately after taking effect.
 
 <figure><img src="../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>A player getting crushed by an opponent guard's counter-attack.</p></figcaption></figure>
 
-Unless the player being attacked can defend or counter-attack, the attack is successful and the player loses one health point for each attacking card. The player cannot defend against the same attack with cards from their hand and their guard; they must choose which to use against the attack, even if the attack is made with multiple cards.
+If the player being attacked cannot or does not react, the attack is successful and the player loses one health point for each attacking card.
 
 The attacking player cannot play their guard to defend against the defending player's counter-attack, but they can play cards from their hand to defend against a counter-attack.
 
@@ -264,4 +267,6 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * It is typical in street games of Guarda for players to use a 10-sided die as their game piece in order to track their health or victory points. Other common game pieces include stones with chalk numbers written on them, or hard-coded game pieces with digital counters. However, when playing in tournaments or on dedicated game boards, game stats are tracked in other ways, freeing players to use whatever game piece they'd like.
 * It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to easily build irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their preference on a surface, or scratch it into the dirt.
 * Paper slate cards are expensive, but are common in gaming establishments and in high-end decks of Guarda cards, allowing cards to change color based on their orientation, and feature animations when in play.
-* In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards and/or the Guarda Classic mechanics as their foundation.
+* In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards and/or the Guarda Classic mechanics as their foundation.\
+  \
+  One of the most popular variants, "Grda", is a 4x4 variant played using a standard deck, but removing all copies of the 12 unnecessary card types (the outermost horizontal and vertical lines), reducing the deck to 18 cards, reducing hands to 3 cards, and increasing the player's health points to 20. The guard is unaffected.
