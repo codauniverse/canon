@@ -120,7 +120,9 @@ Players take turns clockwise, drawing cards, moving, and playing their cards (at
 
 ### The Cards
 
-Each player has their own Guarda deck. Though different decks may have different visual designs, the decks are identical in terms of their composition. Every Guarda deck contains three copies of each of the 12 different Guarda cards.
+Each player has their own Guarda deck. Though different decks may have different visual designs, the decks are identical in terms of their composition.
+
+Every Guarda deck contains three copies of each of the 12 different Guarda cards.
 
 Half of the cards depict the six complete vertical lines that can be drawn on the game's 6x6 grid. The other half depict the six complete horizontal lines that can be drawn on the game's 6x6 grid.
 
@@ -132,41 +134,53 @@ When a player plays a card with the arrow pointing away from themselves, they ar
 
 ### Getting Started
 
-Before the game begins, a player is selected to draw first. Each player takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the grid.
+Before the game begins, a player is selected to draw first. Each player then takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the grid.
 
 Once a player has drawn both a horizontal and vertical card, they can then place their game piece in the space on the grid where the horizontal and vertical lines on their cards' grids intersect. If that space is already occupied by another player, they draw until they draw an unoccupied intersecting space.&#x20;
 
-After placing their piece, the player(s) place the card(s) they drew in this process face down in their discard pile. Once every player's piece is placed, players each draw a hand of 5 cards.
+After placing their piece, the player places any cards drawn in this process face down in their discard pile. Once every player's piece is placed, players each draw a hand of 5 cards.
 
 ### Turn Phases
 
-Each turn has 4 phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
+Each turn has 4 short phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
 
-1. During the Draw phase, the player draws a card. If they have more than 5 cards, they must discard until they have only 5 cards. If they have fewer than 5 cards, the player continues to draw until they hold 5 cards. If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
+1. During the Draw phase, the player draws a card. If they have more than 5 cards in their hand they must discard until they have only 5 cards. If they have fewer than 5 cards, the player continues to draw until they hold 5 cards. If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
 2. During the Move phase, the player may move their piece to an adjacent square on the grid if they wish, but they may not move diagonally. The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in one direction.
-3. During the Act phase, the player may play a card face up or face down. If they play their card face up, it is immediately activated. This is only done to attack, as there is nothing for the player to defend against. If the player has multiple cards attacking the target space, they may play as many of them as they like at once to deal one additional damage per card. After a card is spent, it is placed in the discard pile face down.\
+3. During the Act phase, the player may play a card face up or face down.\
    \
-   If the player chooses to play their Act phase card face down (which is called a "guard"), it remains face down on the play surface in front of them to be activated at a later time when the player is under attack. Players may only have one guard at any time, and may re-orient their guard as their action if they wish. Players can check their guard card at any time if they have forgotten which way it is oriented.\
+   If a player plays their card face up, this is an attack. Attacking cards must be played offensively with the arrow pointing toward their opponent(s) and away from themselves.  They may use multiple cards to attack the same target player, as long as the grid pattern on the attacking card(s) overlap the target player's space, dealing one damage for each attacking card.\
+   \
+   The target player may then react by blocking, counter-attacking, or activating their guard, if they are able.\
+   \
+   If the player chooses to play their card face down, this is called setting their "guard". It remains face down on the play surface in front of them, to be activated at a later time when the player is under attack.\
+   \
+   Players may only have one guard at any time, and may re-orient their guard as their sole action during their turn if they wish. Players can check their guard card at any time if they have forgotten which way it is oriented.\
 
-4. During the Settle phase, the player may discard as many cards as they wish, but they do not draw again until their next turn, leaving them potentially vulnerable to attack.
+4. During the Settle phase, the player discards any cards played face down during their turn, and may discard as many additional cards as they wish (Note: discarded cards during the Settle phase do not grant movement). The player will draw replacement cards at the beginning of their next turn.
 
 ### Combat
 
-If a card is played with its arrow pointing away from themselves, the player is attacking any other player whose piece is on one of the indicated cells. If the arrow points toward themselves, they are defending against attacks on the indicated cells.
+If a card is played with its arrow pointing away from its owner, the player is attacking any other player whose piece is on one of the indicated spaces. If the arrow points toward its owner, they are defending against attacks on the indicated spaces.
 
-During their Act phase, a player can make a single attack from their hand. They may use multiple cards to attack the same space if able, dealing one damage per attacking card.
+#### React Phase
 
-If an attack is made, the React phase begins and any player(s) being attacked may choose to react by Blocking, Counter-Attacking, or . During the React phase, any attacked player(s) may play any card(s) in their hand as a defense, if able. They cannot counter-attack with cards in their hand.
+If an attack is made, the React phase begins and any player(s) being attacked may choose to react by Blocking, Counter-Attacking, or activating their guard.
 
-Alternatively, they may reveal their face-down "guard" card if they wish, but they cannot change the card's directional orientation at the same time. The card's grid is irrelevant for the guard; all that matters is if it is in the counter-attack or defend orientation.
+During the React phase, any defending player(s) may play any card(s) in their hand as a defense, so long as the card's grid pattern overlaps with the defending player's piece on the grid when played defensively (with the arrow facing the defending player). They cannot counter-attack with cards in their hand.
 
-If the defending player defends with their guard, the attack is unsuccessful, regardless of the number of cards used in the attack.
+Alternatively, they may reveal their face-down "guard" card if they wish, but they cannot change the card's directional orientation at the same time. The card's grid is irrelevant for the guard; all that matters is if it is in an offensive or defensive orientation.
 
-If the defending player counter-attacks with their guard, they only take one point of damage no matter how many cards they attacking player has played attacking them, and the attacking player instead takes damage equal to the number of cards they attacked with.
+If the defending player's guard defends, the attack is unsuccessful, regardless of the number of cards used in the attack.
 
-Unless the player being attacked can defend (or counter-attack with their guard), the attack is successful and the player loses one health point for each attacking card. The player cannot defend against the same attack with cards from their hand and their guard; they must choose which to use against the attack, even if the attack is made with multiple cards.
+If the defending player's guard counter-attacks, the defending player only takes one point of damage no matter how many cards the attacking player has played attacking them, and the attacking player instead takes that damage.
+
+If the defending player activates their guard, it is discarded afterwards.
+
+Unless the player being attacked can defend or counter-attack, the attack is successful and the player loses one health point for each attacking card. The player cannot defend against the same attack with cards from their hand and their guard; they must choose which to use against the attack, even if the attack is made with multiple cards.
 
 The attacking player cannot play their guard to defend against the defending player's counter-attack, but they can play cards from their hand to defend against a counter-attack.
+
+If no more actions are to be taken, and the attacking player remains in the game, the React phase concludes and the attacking player's turn continues to its Settle phase.
 
 ### Winning the Game
 
