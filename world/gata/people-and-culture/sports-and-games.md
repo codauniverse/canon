@@ -88,7 +88,7 @@ This diversity of dart board form factors has made it suitable for a wide range 
 
 Neurochess is a cerebral sport that evolves traditional chess-like play with link use. Players connect to the neurochess board, allowing them to visualize and manipulate the chessboard with their minds. The game can be played on a holographic game board or inside of a virtual construct.&#x20;
 
-The game expands the field of play into a three-dimensional grid, making it far more complex than traditional chess. Strategies are extremely nuanced, and require very strong visual-spatial intelligence.
+The game adapts signature chess mechanics and expands the field of play into a three-dimensional cube grid, making it far more complex than traditional chess. Strategies are extremely nuanced, and require very strong visual-spatial intelligence.
 
 Neurochess tournaments are major events, drawing large audiences who follow the games through immersive virtual constructs.
 
@@ -110,7 +110,7 @@ After the Morning Light Summit and the LA camp's subsequent districting by the f
 
 <figure><img src="../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda with its 6x6 grid.</p></figcaption></figure>
 
-Guarda can be played with 2-8 players in free-for-all or teams.
+Guarda is a strategic card game that can be played with 2-8 players in free-for-all or teams.
 
 In the center of the play area is a 6x6 grid. Players each sit facing one side of the grid. Each player has a singular game piece which they will move around this grid throughout the game.
 
@@ -186,26 +186,14 @@ If no more actions are to be taken, and the attacking player remains in the game
 
 Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
 
-#### Elimination
+#### Standard (No Stakes):
 
-The most common style of play. Each player begins the game with 10 health points. Players take turns until there is only one player, or team, left standing.
+* **Elimination:** The most common style of play. Each player begins the game with 10 health points. Players take turns until there is only one player, or team, left standing.
+* **Victory:** Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 10 points wins.
+* **Exhaustion:** Players do not reshuffle their discard pile when they exhaust their draw pile. When a player runs out of cards in their draw pile, they are defeated.
 
-#### Bounty (Gambling)
+#### Gambling (Stakes):
 
-The same as Elimination, except each player must ante up with the table stake (called their "bounty"). When a player defeats an opponent, they claim that player's bounty.
-
-#### Victory
-
-Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 10 points wins.
-
-#### Spoils of War (Gambling)
-
-The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
-
-#### Exhaustion
-
-Players do not reshuffle their discard pile when they exhaust their draw pile. When a player runs out of cards in their draw pile, they are defeated.
-
-#### Scavenger (Gambling)
-
-The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
+* **Bounty:** The same as Elimination, except each player must ante up with the table stake (called their "bounty"). When a player defeats an opponent, they claim that player's bounty.
+* **Spoils of War:** The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
+* **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
