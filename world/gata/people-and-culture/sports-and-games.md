@@ -46,7 +46,7 @@ Gravita is known for its complex spatial strategy and hard-hitting action. The G
 
 Static GP involves high-speed races through complex tracks using static vehicles of varying size classes. The races take place on courses filled with tight turns, vertical drops, and aerial sections.
 
-Pilots must master the art of static drifting—decoupling one or more of their static nodes and sliding through turns with precision—to maintain speed and control. Vehicles are equipped with advanced static engines for enhanced responsiveness and maneuverability.
+Pilots must master the art of static drifting—decoupling one or more of their [static nodes](../../science-and-tech/statics.md#static-nodes) and sliding through turns with precision—to maintain speed and control. Vehicles are equipped with advanced [static engines](../../science-and-tech/statics.md#static-engines-and-motion) for enhanced responsiveness and maneuverability.
 
 Static GP is a high-stakes, prestigious sport with a significant following, known for its breathtaking displays of skill and daring, as well as its high-value prize pools which include [credits](../politics/money.md#credits-currency) and [keys](../politics/keys.md).
 
