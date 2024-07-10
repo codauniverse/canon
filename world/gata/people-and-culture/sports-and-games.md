@@ -220,11 +220,11 @@ Once activated, the guard's effect is determined by its orientation.
 
 If the guard is in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack.
 
+<figure><img src="../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
+
 If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the card's grid pattern, the attacking player takes one additional point of damage.
 
 When a defending player activates their guard, it is discarded immediately after taking effect.
-
-<figure><img src="../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>A player getting crushed by an opponent guard's counter-attack.</p></figcaption></figure>
 
 If the player being attacked cannot or does not react, the attack is successful and the player loses one health point for each attacking card.
 
