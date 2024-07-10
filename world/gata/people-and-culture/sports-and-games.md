@@ -100,6 +100,8 @@ Neurochess tournaments are major events within academic and upper-class circles,
 
 A tactical card game originating during [the Dark Decade](../../history/the-dark-decade.md) that grew in popularity during [GATA's](../the-basics.md) expansion over the course of [the Reconstruction](../../history/the-reconstruction.md).&#x20;
 
+### Historical Context
+
 The cards used in Guarda predate the game by several years. The cards were originally called "léi" (雷, pronounced "lei", meaning "thunder"), and were created by a Chinese-American software engineer in [Bright Mesa](../history/bright-mesa.md), two years after [the Crash](../../history/the-crash.md). Inspired by the I Ching, the cards enjoyed some early popularity in the American South West as a divination system during the Dark Decade. Léi divination remains popular to this day, particularly in [the Free Territories](../../free-territories/the-basics.md) of North America and China.
 
 It is not known who first started using the lei cards as a game, but before long, the children of Bright Mesa were drawing grids in the dirt and using the cards to attack and defend. By the end of the Dark Decade the rules had been refined, and it had become wildly popular, even among the adults who had come to enjoy gambling on the game.
