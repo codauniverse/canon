@@ -229,7 +229,7 @@ If no more actions are to be taken, and the attacking player remains in the game
 
 ### Winning the Game
 
-<figure><img src="../../../.gitbook/assets/guarda-955 (1).png" alt="" width="563"><figcaption><p>A street kid hoping to finish the game with an attack.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guarda-955.png" alt="" width="563"><figcaption><p>A street kid hoping to finish the game with an attack.</p></figcaption></figure>
 
 Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
 
