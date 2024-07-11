@@ -30,7 +30,7 @@ While originally played using a 6x6 grid, a number of variants have become popul
 
 <figure><img src="../../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda with its 6x6 grid.</p></figcaption></figure>
 
-Guarda is a strategic card game that can be played with 2-8 players in free-for-all or teams.
+Guarda can be played with 2-8 players in free-for-all or teams.
 
 In the center of the play area is a 6x6 grid called "the field". Players each sit facing one side of the field. Each player has a singular game piece which they will move around the field throughout the game.
 
