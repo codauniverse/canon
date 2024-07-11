@@ -106,9 +106,9 @@ The cards used in Guarda predate the game by several years. The cards were origi
 
 It is not known who first started using the lei cards as a game, but before long, the children of Bright Mesa were drawing grids in the dirt and using the cards to attack and defend. By the end of the Dark Decade the rules had been refined, and it had become wildly popular, even among the adults who had come to enjoy gambling on the game.
 
-After [the Morning Light Summit](../politics/new-dawn-accords.md#the-morning-light-summit) and the nearby LA camp's subsequent [districting](../politics/districts.md#the-path-to-districthood) by the fledging GATA, people began to, slowly, and then suddenly, travel great distances once again. The mass, voluntary relocation of a huge number of refugees under [Atla's](../key-locations/atla.md) [Existence Doctrine](../military-and-defense/existence-doctrine.md) spread the game far and wide at the very onset of the Reconstruction.
+After [the Morning Light Summit](../politics/new-dawn-accords.md#the-morning-light-summit) and the nearby LA camp's subsequent [districting](../politics/districts.md#the-path-to-districthood) by the fledging GATA, people began to, slowly, and then suddenly, cross great distances and intermingle once again. The mass, voluntary relocation of a huge number of refugees under [Atla's](../key-locations/atla.md) [Existence Doctrine](../military-and-defense/existence-doctrine.md) spread the game far and wide at the very onset of the Reconstruction.
 
-"Guarda" as it was then called, (a Spanish-language reference to Atla's symbolic [Guardian](../military-and-defense/guardians.md) [war frames](../../science-and-tech/frames.md)), quickly became the most popular new table game since the rise of poker in the 20th century.&#x20;
+"Guarda" as it had then come to be called, (a Spanish-language reference to Atla's symbolic [Guardian](../military-and-defense/guardians.md) [war frames](../../science-and-tech/frames.md)), quickly became the most popular new table game since the rise of poker in the 20th century.&#x20;
 
 Because of its fast-paced gameplay, short matches, and simple theory, Guarda appeals to a wide audience, however it is for these same reasons that it is not as valued by the academic elites.&#x20;
 
