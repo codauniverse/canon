@@ -36,11 +36,9 @@ In the center of the play area is a grid called "the field" (6x6 in standard pla
 
 On every Guarda card is the same grid as on the field, and a single arrow (or other directional indicator). The card's grid either displays a line filling up all consecutive horizontal cells in one of the grid's rows, or a line filling up all consecutive vertical cells in one of the grid's columns.
 
-Players take turns clockwise, drawing cards, moving their piece on the field, and combating their opponents on the field with their cards until a winner is decided.
+Players take turns drawing, moving, and fighting on the field until a winner is decided.
 
 Uniquely, each player can set a secret card called a "guard" face-down in front of them, waiting to be activated. Well-managed hands, strategic movement, and the tactical use of the trap-like guard are the signatures of Guarda.
-
-Anticipate your opponents movements, attack when their guard isn't set, and try not to get caught with your guard down.
 
 ***
 
@@ -48,7 +46,7 @@ Anticipate your opponents movements, attack when their guard isn't set, and try 
 
 Each player has their own Guarda deck. Though different decks may have different visual designs, every standard Guarda deck is identical in terms of card composition.
 
-Standard Guarda decks contains 3x copies of each of the 12 different Guarda cards that can be played on the standard 6x6 field.
+Standard Guarda decks contains 4x copies of each of the 12 different Guarda cards that can be played on the standard 6x6 field.
 
 Each of the twelve different card types depict one of the different possible straight-line patterns that can be formed with the cells of the card's 6x6 grid:
 
@@ -182,7 +180,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 ## Notes:
 
 * Players usually provide their own Guarda decks. They fan out their cards at the beginning of the game to prove that their deck is regulation.
-* Guarda hand size is determined by the size of the field grid. A 5x5 field means a 5 card hand size. If a player has played a guard, their guard still counts toward their hand size.
+* Guarda hand size is determined by the size of the field grid. For example, a 5x5 field means a 5-card hand size (including the guard).
 * In Guarda games with high-stakes or a large number of players, a player's guard card is played face-down directly on the grid, placed beneath their game piece, and is moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
 * It is typical in street games of Guarda for players to use a 10-sided die as their game piece in order to track their health or victory points. Other common game pieces include stones with chalk numbers written on them, or hard-coded game pieces with digital counters. However, when playing in tournaments or on dedicated game boards, game stats are tracked in other ways, freeing players to use whatever game piece they'd like.
 * It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to easily build irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their preference on a surface, or scratch it into the dirt.
