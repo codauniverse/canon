@@ -187,7 +187,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
    \
    When the player sets their guard, the guard remains face down, its orientation a secret to their opponents, ready to be activated at a later time when the player is under attack. (Note: Players are free to check their own guard's orientation at any time during their turn if they have forgotten which way it is oriented.)\
    \
-   Players can only have one guard at any time. If they set a new guard with their Act phase the existing guard is discarded. The new guard is in the preparation state until their next turn.\
+   Players can only have one guard at any time and its orientation cannot be changed. If they set a new guard, their existing guard is discarded, and the new guard is in the preparation state until their next turn.\
    \
    The player attacks by playing one or more cards face up and pointing toward the field.\
    \
