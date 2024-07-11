@@ -195,7 +195,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
    \
    The attacks will deal one damage to any and all opponents for each attack overlapping their position on the field.\
    \
-   If a player is attacked with two or more cards while their guard is preparing, their guard is broken and the guard.\
+   If a player is attacked with two or more cards while their guard is preparing, their guard is broken and the guard is moved to the discard pile.\
    \
    Players who are under attack [may then react](sports-and-games.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).
 4. During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards as they wish (Note: discarded cards during the Settle phase do not grant movement).\
