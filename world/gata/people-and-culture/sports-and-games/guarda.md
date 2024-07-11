@@ -161,6 +161,8 @@ If no more actions are to be taken, and the attacking player remains in the game
 
 ## Winning the Game
 
+<figure><img src="../../../../.gitbook/assets/guarda-955.png" alt="" width="563"><figcaption><p>A street kid hoping to finish the game with an attack.</p></figcaption></figure>
+
 Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
 
 ### Standard (No Stakes):
@@ -168,8 +170,6 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * **Elimination:** The most common style of play. Each player begins the game with 10 health points. Players take turns until there is only one player, or team, left standing.
 * **Victory:** Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 10 points wins.
 * **Exhaustion:** Players do not reshuffle their discard pile when they exhaust their draw pile. When a player runs out of cards in their draw pile, they are defeated.
-
-<figure><img src="../../../../.gitbook/assets/guarda-955.png" alt="" width="563"><figcaption><p>A street kid hoping to finish the game with an attack.</p></figcaption></figure>
 
 ### Gambling (Stakes):
 
