@@ -55,7 +55,7 @@ Each of the twelve different card types depict one of the different possible str
 * 6 cards depicting the 6 possible vertical lines.
 * 6 cards depicting the 6 possible horizontal lines.
 
-The direction that a card's arrow is pointing (towards the field or towards the player) when it is played determines whether the card is attacking or defending.
+The direction that a card's arrow is pointing when it is played (towards the field or towards the player) determines whether the card is attacking or defending.
 
 <figure><img src="../../../../.gitbook/assets/guardiacards.jpg" alt="" width="563"><figcaption><p>Example of Guarda cards in offensive and defensive orientations.</p></figcaption></figure>
 
