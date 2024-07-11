@@ -18,7 +18,9 @@ layout:
 
 ## Overview
 
-Orphans and child refugees who fall into the custody of the [Greater Atlan Territorial Alliance (GATA)](../the-basics.md). In the wake of the [Dark Decade](../../history/the-dark-decade.md) and [Reconstruction](../../history/the-reconstruction.md), most children were born into a tumultuous world. As a result, it was not uncommon for children to not know their families, whether they were separated by death or circumstance.
+Orphans and child refugees who fall into the custody of the [Greater Atlan Territorial Alliance (GATA)](../the-basics.md).&#x20;
+
+In the wake of the [Dark Decade](../../history/the-dark-decade.md) and [Reconstruction](../../history/the-reconstruction.md), most children were born into a tumultuous life. As a result, it was not uncommon for children to not know their families, whether they were separated by death or circumstance.
 
 GATA’s policy of universally welcoming orphaned children has meant that, to this day, child refugees are frequently rescued from conflict zones, or turn up at [district](../politics/districts.md) [gates](../borders-and-travel/gates.md).
 
