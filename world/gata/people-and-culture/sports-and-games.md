@@ -220,7 +220,7 @@ When reacting to an attack, a defending player may activate their concealed guar
 
 Guards can either block or counter. The guard's effect is determined by its orientation.
 
-If a player is attacked with two or more cards while their guard is preparing (placed sideways), their guard is broken and the guard is moved to the discard pile, and one point of damage is negated.
+If a player is attacked with two or more cards while their guard is preparing (placed sideways), their guard is broken, the card is moved to the discard pile, and one point of damage is negated.
 
 **Block:** If the guard is in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the guard is returned to the player's hand and the player may prepare another guard immediately, which can be set on their next turn.
 
