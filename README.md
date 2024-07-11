@@ -118,9 +118,29 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 ***
 
+## Tabletop Games
+
+### 🃏 Guarda
+
+<div>
+
+<figure><img src=".gitbook/assets/guarda-53.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/guarda-777.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+{% content-ref url="world/gata/people-and-culture/sports-and-games/guarda.md" %}
+[guarda.md](world/gata/people-and-culture/sports-and-games/guarda.md)
+{% endcontent-ref %}
+
+***
+
 ## 3D Games (Concepts)
 
-### Wallrunner (PC & Console)
+### 🎮 Wallrunner (PC & Console)
 
 <figure><img src=".gitbook/assets/wallrunners-9328592.png" alt=""><figcaption></figcaption></figure>
 
