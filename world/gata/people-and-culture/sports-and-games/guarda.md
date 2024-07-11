@@ -116,11 +116,11 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
    \
    The player will draw replacement cards at the beginning of their next turn.
 
-### Reacting to Attacks
+## Reacting to Attacks
 
 If an attack is made, the React phase begins and any player(s) being attacked may choose to react by activating their guard, or defending with cards from their hand.
 
-#### Defending with your Hand
+### Defending with your Hand
 
 Players can defend against an attack with cards in their hand so long as the card's grid pattern overlaps with their own piece's position on the field (when oriented defensively with the arrow facing themselves).
 
@@ -128,7 +128,9 @@ Each card played defensively negates one point of damage.
 
 Defending players cannot counter-attack with cards in their hand.
 
-#### Activating your Guard
+<figure><img src="../../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
+
+### Activating your Guard
 
 When reacting to an attack, a defending player may activate their concealed guard.
 
@@ -137,8 +139,6 @@ Guards can either block or counter. The guard's effect is determined by its orie
 If a player is attacked with two or more cards while their guard is preparing (placed sideways), their guard is broken, the card is moved to the discard pile, and one point of damage is negated.
 
 **Block:** If the guard is in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the guard is returned to the player's hand and the player may prepare another guard immediately, which can be set on their next turn.
-
-<figure><img src="../../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
 
 **Counter:** If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
 
@@ -154,7 +154,7 @@ If no more actions are to be taken, and the attacking player remains in the game
 
 Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
 
-#### Standard (No Stakes):
+### Standard (No Stakes):
 
 * **Elimination:** The most common style of play. Each player begins the game with 10 health points. Players take turns until there is only one player, or team, left standing.
 * **Victory:** Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 10 points wins.
@@ -162,7 +162,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 
 <figure><img src="../../../../.gitbook/assets/guarda-955.png" alt="" width="563"><figcaption><p>A street kid hoping to finish the game with an attack.</p></figcaption></figure>
 
-#### Gambling (Stakes):
+### Gambling (Stakes):
 
 * **Bounty:** The same as Elimination, except each player must ante up with the table stake (called their "bounty"). When a player defeats an opponent, they claim that player's bounty.
 * **Spoils of War:** The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
@@ -170,7 +170,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 
 <figure><img src="../../../../.gitbook/assets/guarda-999.png" alt="" width="563"><figcaption><p>A high-stakes Guarda table in a private club.</p></figcaption></figure>
 
-### Notes:
+## Notes:
 
 * Players usually provide their own Guarda decks. They fan out their cards at the beginning of the game to prove that their deck is regulation.
 * In Guarda games with high-stakes or a large number of players, a player's guard card is played face-down directly on the grid, placed beneath their game piece, and is moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
