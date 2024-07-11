@@ -145,7 +145,7 @@ Guards can either (a) block OR (b) counter. The guard's effect is determined by 
 
 If a player is attacked with two or more cards while their guard is still preparing (laid sideways), their guard is broken, the card is moved to the discard pile, and one point of damage is negated.
 
-a) **Block:** If the guard is set in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the guard is returned to the player's hand and the player may prepare another guard immediately, which can be set on their next turn.
+a) **Block:** If the guard is set in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the defending player gains one health and the guard is returned to the player's hand; the player may prepare another guard immediately, which can be set on their next turn.
 
 b) **Counter:** If the guard is set in the offensive orientation then it counter-attacks; the defending player negates one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
 
