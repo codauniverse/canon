@@ -14,7 +14,7 @@ layout:
 
 # Guarda
 
-<figure><img src="../../../../.gitbook/assets/guarda-53.png" alt=""><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guarda-53.png" alt=""><figcaption><p>A player carefully considering their next move.</p></figcaption></figure>
 
 ## Overview
 
