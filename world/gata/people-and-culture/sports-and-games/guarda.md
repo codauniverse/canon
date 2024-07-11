@@ -93,13 +93,15 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they have 6 cards.\
 
-2. **Move Phase:** During the Move phase, the player may choose to discard as many cards as they wish from their hand in order to move one space for each discarded card. They may only move in a straight line.\
+2. **Move Phase:** During the Move phase, the player may choose to burn as many cards as they wish from their hand in order to move one space for each burned card. They may only move in a straight line. \
+   \
+   Cards burned for movement are placed in their discard pile.\
 
 3. **Act Phase:** During the Act phase the player may (a) prepare their guard OR (b) attack the field.\
    \
    a) **Preparing a Guard**\
    \
-   The player prepares their guard by playing a card from their hand face down. It is turned sideways to indicate it is still preparing.\
+   The player prepares their guard by playing a card from their hand face down. It is laid sideways to indicate it is still preparing.\
    \
    At the beginning of the player's next Act phase, the player "sets" their guard, secretly orienting it offensively or defensively. The guard's orientation will determine if it will perform a block or a counter-attack when activated.\
    \
@@ -111,9 +113,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    The player attacks by playing one or more cards face up and pointing toward the field.\
    \
-   The player can attack any one target space, and may play any cards that target that same space, so long as the grid pattern on all attacking cards overlap that same target space.\
-   \
-   The attacks will deal one damage to any and all opponents for each attack overlapping their position on the field.\
+   The attack will deal one damage to any and all opponents for each attacking card overlapping that opponent's position on the field.\
    \
    Players who are under attack [may then react](guarda.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).\
 
@@ -143,11 +143,11 @@ When reacting to an attack, a defending player may activate their concealed guar
 
 Guards can either (a) block OR (b) counter. The guard's effect is determined by its set orientation.
 
-If a player is attacked with two or more cards while their guard is still preparing (laid sideways), their guard is broken, the card is moved to the discard pile, and one point of damage is negated.
+If a player is attacked with two or more cards while their guard is still preparing (laid sideways), their guard is broken, the card is moved to their discard pile, and one point of damage is negated.
 
 a) **Block:** If the guard is set in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the defending player gains one health and the guard is returned to the player's hand; the player may prepare another guard immediately, which can be set on their next turn.
 
-b) **Counter:** If the guard is set in the offensive orientation then it counter-attacks; the defending player negates one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
+b) **Counter:** If the guard is set in the offensive orientation then it counter-attacks; one point of damage is negated, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
 
 When a defending player activates their guard, it is discarded immediately after taking effect (except in the case of a critical block).
 
