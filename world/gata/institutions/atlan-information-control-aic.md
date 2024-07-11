@@ -7,12 +7,12 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
 
-# Atlan Information Control
+# Atlan Information Control (AIC)
 
 <figure><img src="../../../.gitbook/assets/aic2.png" alt=""><figcaption><p>An empty lower court in the AIC Headquarters in Atla.</p></figcaption></figure>
 

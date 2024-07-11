@@ -7,10 +7,10 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
 
-# 🗺 Key Locations
+# 🗺️ Key Locations
 
