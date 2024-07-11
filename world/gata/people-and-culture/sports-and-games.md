@@ -128,7 +128,7 @@ Players take turns clockwise, drawing cards, moving their piece on the field, an
 
 Uniquely, each player can set a secret card called a "guard" face-down in front of them, waiting to be activated. Well-managed hands, strategic movement, and the tactical use of the trap-like guard are the signatures of Guarda.
 
-Anticipate your opponents movements, attack when their guard isn't set,
+Anticipate your opponents movements, attack when their guard isn't set, and try not to get caught with your guard down.
 
 ### The Cards
 
