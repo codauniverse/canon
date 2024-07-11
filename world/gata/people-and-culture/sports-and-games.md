@@ -179,7 +179,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
 2. During the Move phase, the player may move their piece to an adjacent square on the field if they wish, but they may not move diagonally.\
    \
    The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in one direction.
-3. During the Act phase the player may prepare a guard or attack the field.\
+3. During the Act phase the player may do one of the following: prepare their guard OR attack the field.\
    \
    The player prepares their guard by playing a card from their hand face down. It is turned sideways to indicate it is still preparing.\
    \
