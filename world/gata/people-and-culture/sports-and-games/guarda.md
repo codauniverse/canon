@@ -122,9 +122,11 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
 
 ## Reacting to Attacks
 
-If an attack is made, the React phase begins and any player(s) being attacked may choose to react by activating their guard, or defending with cards from their hand.
+If an attack is made, any player(s) being attacked may choose to react by (1) defending with cards from their hand OR (2) activating their guard.
 
-### Defending with your Hand
+If the player being attacked cannot or does not react, then the attack is successful and the player loses one health point for each attacking card.
+
+### 1. Defending with your Hand
 
 Players can defend against an attack with cards in their hand so long as the card's grid pattern overlaps with their own piece's position on the field (when oriented defensively with the arrow facing themselves).
 
@@ -134,7 +136,7 @@ Defending players cannot counter-attack with cards in their hand.
 
 <figure><img src="../../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
 
-### Activating your Guard
+### 2. Activating your Guard
 
 When reacting to an attack, a defending player may activate their concealed guard.
 
@@ -148,11 +150,9 @@ b) **Counter:** If the guard is set in the offensive orientation then it counter
 
 When a defending player activates their guard, it is discarded immediately after taking effect (except in the case of a critical block).
 
-If the player being attacked cannot or does not react, the attack is successful and the player loses one health point for each attacking card.
+The attacking player cannot play their guard to defend against a defending player's counter-attack, but they can play cards from their hand to defend against a counter-attack.
 
-The attacking player cannot play their guard to defend against the defending player's counter-attack, but they can play cards from their hand to defend against a counter-attack.
-
-If no more actions are to be taken, and the attacking player remains in the game, the React phase concludes, and the attacking player's turn continues to its Settle phase.
+If no more actions are to be taken, and the attacking player remains in the game, the attacking player's turn continues to its Settle phase.
 
 ## Winning the Game
 
