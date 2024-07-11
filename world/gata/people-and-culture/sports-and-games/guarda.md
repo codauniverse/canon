@@ -22,7 +22,7 @@ A tactical card game originating during [the Dark Decade](../../../history/the-d
 
 Known for its fast-paced gameplay, short matches, and its signature trap-like card called a "guard". Guarda is easy to learn, but difficult to master, as evidenced by the tactical complexity displayed at the peak of competitive play.
 
-While originally played using a 6x6 grid, a number of variants have become popular in recent years, including the 4x4 variant called "Grda", as well as 5x5 and 10x10 variants.
+While originally played using a 6x6 grid, a number of variants have become popular in recent years, including the 4x4 variant called "Grda", as well as 5x5 and 9x9 variants.
 
 ***
 
