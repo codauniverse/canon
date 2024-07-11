@@ -22,19 +22,19 @@ A tactical card game originating during [the Dark Decade](../../../history/the-d
 
 Known for its fast-paced gameplay, short matches, and its signature trap-like card called a "guard". Guarda is easy to learn, but difficult to master, as evidenced by the tactical complexity displayed at the peak of competitive play.
 
-While originally played using a 6x6 grid, a number of variants have become popular in recent years, including the 4x4 variant called "Grda", as well as 5x5 and 9x9 variants.
+While it is standard to play using a 6x6 grid, a number of variants have become popular in recent years, including the 4x4 variant called "Grda", as well as 5x5 and 9x9 variants.
 
 ***
 
 ## How to Play
 
-<figure><img src="../../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda with its 6x6 grid.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda being played with a 6x6 grid.</p></figcaption></figure>
 
 Guarda can be played with 2-8 players in free-for-all or teams.
 
-In the center of the play area is a 6x6 grid called "the field". Players each sit facing one side of the field. Each player has a singular game piece which they will move around the field throughout the game.
+In the center of the play area is a grid called "the field" (6x6 in standard play). Players each sit facing one side of the field. Each player has a singular game piece which they will move around the field throughout the game.
 
-On every Guarda card is the same 6x6 grid as on the field, and a single arrow (or other directional indicator). The card's grid either displays a line filling up all consecutive horizontal cells in one of the grid's rows, or a line filling up all consecutive vertical cells in one of the grid's columns.
+On every Guarda card is the same grid as on the field, and a single arrow (or other directional indicator). The card's grid either displays a line filling up all consecutive horizontal cells in one of the grid's rows, or a line filling up all consecutive vertical cells in one of the grid's columns.
 
 Players take turns clockwise, drawing cards, moving their piece on the field, and combating their opponents on the field with their cards until a winner is decided.
 
@@ -46,9 +46,9 @@ Anticipate your opponents movements, attack when their guard isn't set, and try 
 
 ## The Cards
 
-Each player has their own Guarda deck. Though different decks may have different visual designs, the decks are identical in terms of their card composition.
+Each player has their own Guarda deck. Though different decks may have different visual designs, every standard Guarda deck is identical in terms of card composition.
 
-Every Guarda deck contains 3x copies of each of the 12 different Guarda cards.
+Standard Guarda decks contains 3x copies of each of the 12 different Guarda cards that can be played on the standard 6x6 field.
 
 Each of the twelve different card types depict one of the different possible straight-line patterns that can be formed with the cells of the card's 6x6 grid:
 
@@ -79,7 +79,7 @@ If the space is already occupied by another player, they draw until they get an 
 
 After placing their piece, the player places any cards drawn in this process face down in their discard pile.
 
-Once every player's piece is placed, players each draw a hand of 5 cards.
+Once every player's piece is placed, players each draw a hand of 6 cards.
 
 ## Turn Phases
 
@@ -87,11 +87,13 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
 
 1. **Draw Phase:** During the Draw phase, the player draws a card.\
    \
-   If they have more than 5 cards in their hand they must discard until they have only 5 cards.\
+   If they have more than 6 cards, the player discards until they have only 6 cards.\
    \
-   If they have fewer than 5 cards, the player continues to draw until they hold 5 cards.\
+   If they have fewer than 6 cards, the player continues to draw until they have 6 cards.\
    \
-   If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.\
+   If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they have 6 cards.\
+   \
+   If a player has played a guard, their guard still counts toward their hand size.\
 
 2. **Move Phase:** During the Move phase, the player may move their piece to an adjacent square on the field if they wish, but they may not move diagonally.\
    \
@@ -185,4 +187,5 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to easily build irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their preference on a surface, or scratch it into the dirt.
 * Paper slate cards are expensive, but are common in gaming establishments and in high-end decks of Guarda cards, allowing cards to change color based on their orientation, and feature animations when in play.
 * In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards and/or the Guarda Classic mechanics as their foundation.
-* One of the most popular variants, "Grda", is a 4x4 variant played using a standard deck, but removing all copies of the 12 unused card types (the outermost horizontal and vertical lines), reducing the deck to 18 cards, reducing hands to 3 cards, and increasing the player's health points to 20. The guard's rules are unaffected.
+* Guarda hand size is determined by the size of the field grid. A 5x5 field means a 5 card hand size. If a player has played a guard, their guard still counts toward their hand size.
+* One of the most popular variants, "Grda", is a 4x4 variant played using a standard deck, but removing all copies of the 12 unused card types (the outermost horizontal and vertical lines), reducing the deck to 18 cards, reducing hands to 4 cards (including the guard), and increasing the player's health points to 20. The guard's rules are unaffected.
