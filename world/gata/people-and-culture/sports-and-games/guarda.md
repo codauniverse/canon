@@ -73,9 +73,9 @@ Before the game begins, a player is selected to draw first.
 
 Each player then takes clockwise turns drawing a single card from the top of their shuffled deck and placing it face up in front of themselves with the arrow pointing toward the field.
 
-Once a player has drawn two cards with overlapping spaces, they then place their game piece on a space in the field where the horizontal and vertical lines on their cards' grid patterns intersect.
+Once a player has drawn two cards with overlapping spaces, they then place their game piece on a space in the field where the patterns overlap.
 
-If that space is already occupied by another player, they draw until they draw an unoccupied intersecting space.
+If the space is already occupied by another player, they draw until they get an unoccupied starting space.
 
 After placing their piece, the player places any cards drawn in this process face down in their discard pile.
 
@@ -105,7 +105,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    When the player sets their guard, the guard remains face down, its orientation a secret to their opponents, ready to be activated at a later time when the player is under attack. (Note: Players are free to check their own guard's orientation at any time during their turn if they have forgotten which way it is oriented.)\
    \
-   Players can only have one guard at any time and its orientation cannot be changed. If they set a new guard, their existing guard is placed in their discard pile, and the new guard is in the preparation state until their next turn.\
+   Players can only have one guard at any time and its set orientation cannot be changed. If they set a new guard, their existing guard is placed in their discard pile, and the new guard is in the preparation state until their next turn.\
    \
    b) **Attack**\
    \
@@ -138,13 +138,13 @@ Defending players cannot counter-attack with cards in their hand.
 
 When reacting to an attack, a defending player may activate their concealed guard.
 
-Guards can either (a) block OR (b) counter. The guard's effect is determined by its orientation.
+Guards can either (a) block OR (b) counter. The guard's effect is determined by its set orientation.
 
-If a player is attacked with two or more cards while their guard is preparing (placed sideways), their guard is broken, the card is moved to the discard pile, and one point of damage is negated.
+If a player is attacked with two or more cards while their guard is still preparing (laid sideways), their guard is broken, the card is moved to the discard pile, and one point of damage is negated.
 
-a) **Block:** If the guard is in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the guard is returned to the player's hand and the player may prepare another guard immediately, which can be set on their next turn.
+a) **Block:** If the guard is set in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the guard is returned to the player's hand and the player may prepare another guard immediately, which can be set on their next turn.
 
-b) **Counter:** If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
+b) **Counter:** If the guard is set in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
 
 When a defending player activates their guard, it is discarded immediately after taking effect (except in the case of a critical block).
 
