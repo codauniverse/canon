@@ -224,7 +224,7 @@ If the guard is in the defensive orientation then it blocks; the defending playe
 
 <figure><img src="../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
 
-If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the card's grid pattern, the attacking player takes one additional point of damage.
+If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, the attacking player takes one additional point of damage.
 
 When a defending player activates their guard, it is discarded immediately after taking effect.
 
