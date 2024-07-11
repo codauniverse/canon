@@ -95,9 +95,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    If a player has played a guard, their guard still counts toward their hand size.\
 
-2. **Move Phase:** During the Move phase, the player may move their piece to an adjacent square on the field if they wish, but they may not move diagonally.\
-   \
-   The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in a straight line.\
+2. **Move Phase:** During the Move phase, the player may choose to discard as many cards as they wish from their hand in order to move one space for each discarded card. They may only move in a straight line.\
 
 3. **Act Phase:** During the Act phase the player may (a) prepare their guard OR (b) attack the field.\
    \
