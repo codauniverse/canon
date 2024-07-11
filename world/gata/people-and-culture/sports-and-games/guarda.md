@@ -87,13 +87,13 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
 
 1. **Draw Phase:** During the Draw phase, the player draws a card.\
    \
+   If they still have fewer than 6 cards, the player continues to draw until they have 6 cards.\
+   \
    If they have more than 6 cards, the player discards until they have only 6 cards.\
    \
-   If they have fewer than 6 cards, the player continues to draw until they have 6 cards.\
+   If the player has a guard, it counts toward their hand size.\
    \
    If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they have 6 cards.\
-   \
-   If a player has played a guard, their guard still counts toward their hand size.\
 
 2. **Move Phase:** During the Move phase, the player may choose to discard as many cards as they wish from their hand in order to move one space for each discarded card. They may only move in a straight line.\
 
