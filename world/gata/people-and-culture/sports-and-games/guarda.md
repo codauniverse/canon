@@ -107,7 +107,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    Players can only have one guard at any time and its set orientation cannot be changed. If they set a new guard, their existing guard is placed in their discard pile, and the new guard is in the preparation state until their next turn.\
    \
-   b) **Attack**\
+   b) **Attacking**\
    \
    The player attacks by playing one or more cards face up and pointing toward the field.\
    \
