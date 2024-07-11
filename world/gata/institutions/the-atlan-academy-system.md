@@ -44,7 +44,7 @@ The Atlan Academy System is divided into several key components:
 * **Elite Education**: Known for its rigorous selection process, the Atlan Academy admits only the most talented and promising students, beginning from a very young age.
 * **Social Impact:** The Atlan Academy System is intimately involved in each district's Garden, a public campus where [Manna flowers](../../science-and-tech/the-manna-flower.md) are cultivated, and orphaned children are fed, housed, and schooled by senior academy students. Many of GATA's most promising young minds are plucked from Garden schools and admitted into their district's academy.
 * **Advanced Facilities**: The academy boasts state-of-the-art facilities, including research labs, libraries, and technological resources, enabling students to engage in cutting-edge research and learning.
-* **Holistic Development**: The curriculum emphasizes not only academic excellence but also physical, emotional, and social development. Students participate in various extracurricular activities, [sports](../people-and-culture/sports-and-games.md), and community service.
+* **Holistic Development**: The curriculum emphasizes not only academic excellence but also physical, emotional, and social development. Students participate in various extracurricular activities, [sports](../people-and-culture/sports-and-games/), and community service.
 * **Integration with The System**: The academy is closely integrated with The System, GATA's automated logistical infrastructure, allowing their academic performance to seamlessly unlock prestigious keys and opportunities.
 
 ***

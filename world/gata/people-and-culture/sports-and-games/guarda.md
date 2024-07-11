@@ -12,113 +12,21 @@ layout:
     visible: true
 ---
 
-# Sports & Games
+# Guarda
 
-<figure><img src="../../../.gitbook/assets/sports-733.png" alt=""><figcaption><p>Children playing soccer in a field in the outskirts of a recovering city.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guarda-53.png" alt=""><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
 
 ## Overview
 
-Many traditional sports and games remain popular around the world, from team sports like football and basketball, to track and field, as well as chess and card games. However, a number of newer games have enjoyed massive growth across [GATA](../the-basics.md) and beyond, many of which exploit new technologies to expand the scope of the possible and create new terrain for human competition.
+A tactical card game originating during [the Dark Decade](../../../history/the-dark-decade.md) that grew in popularity during [GATA's](../../the-basics.md) expansion over the course of [the Reconstruction](../../../history/the-reconstruction.md).
 
-From high-intensity contact sports to gravity-defying races, sports play a significant role in the cultural identities of GATA's various [districts](../politics/districts.md) and other peoples, offering both entertainment and a means of fostering collaboration and friendly competition with other states.
-
-***
-
-## **Gravita**
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/gravita-943.png" alt="" width="563"><figcaption><p>A team prepares a play.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/gravity-990.png" alt="" width="563"><figcaption><p>A guard leads an offensive play.</p></figcaption></figure>
-
-</div>
-
-The most popular spectator sport in GATA. A contact sport played inside of an artificial gravity field.
-
-The Defenders defend from the core; a sphere housing the [static field](../../science-and-tech/statics.md) generator that maintains the modified gravitational envelope. The Offense attempts to score points by placing, throwing, or kicking the ball into one of the receptacles on the opposing team's core.
-
-Gravita is known for its complex spatial strategy and hard-hitting action. The Gravita field is dotted with small static fixtures that players can use to steady or redirect themselves, obscure the enemy team's line-of-sight, or to bank the ball to teammates.
+Known for its fast-paced gameplay, short matches, and its signature trap-like card called a "guard". Guarda is easy to learn, but difficult to master, as evidenced by the tactical complexity displayed at the peak of competitive play.
 
 ***
 
-## **Static GP**
+## How to Play
 
-Static GP involves high-speed races through complex tracks using static vehicles of varying size classes. The races take place on courses filled with tight turns, vertical drops, and aerial sections.
-
-Pilots must master the art of static drifting—decoupling one or more of their [static nodes](../../science-and-tech/statics.md#static-nodes) and sliding through turns with precision—to maintain speed and control. Vehicles are equipped with advanced [static engines](../../science-and-tech/statics.md#static-engines-and-motion) for enhanced responsiveness and maneuverability.
-
-Static GP is a high-stakes, prestigious sport with a significant following, known for its breathtaking displays of skill and daring, as well as its high-value prize pools which include [credits](../politics/money.md#credits-currency) and [keys](../politics/keys.md).
-
-***
-
-## **Darts**
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/staticboard-488.png" alt="" width="563"><figcaption><p>A thrill-seeking youth tricking on a high-end dart board.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/dartracing-555.png" alt="" width="563"><figcaption><p>Dart racers speeding through a district.</p></figcaption></figure>
-
-</div>
-
-A “dart” is a high-performance variant of the [static boards](../../science-and-tech/statics.md#static-boards) that are popular with the youth, capable of awesome displays of speed and agility. Darts use the widely paradigmed [static field tech](../../science-and-tech/statics.md) to surf the Earth's gravitational field.
-
-Riders use links to drive their dart's static engine, and hone their skills in various dart techniques, based on their style and preferences. One of the most fundamental dart skills that dart riding emphasizes over standard static boards is static drifting; de-coupling one or more of the board's static nodes to fluidly slide through turns and other maneuvers.
-
-Every dart board is tailored to its rider, who must carefully calibrate the static manifold created by their board's [static engine](../../science-and-tech/statics.md#static-engines-and-motion). These compromises determine a dart board's top speed, acceleration and deceleration, maneuverability, range, length, width, and weight.
-
-This diversity of dart board form factors has made it suitable for a wide range of extreme sports, from professional tricking to racing, and rising popularity within street culture where the urban environment presents unique opportunities and challenges.
-
-***
-
-## Neurochess
-
-<div>
-
-<figure><img src="../../../.gitbook/assets/neurochess.png" alt="" width="563"><figcaption><p>A player explaining neurochess.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/neurochess-787.png" alt="" width="563"><figcaption><p>A player contemplates their move.</p></figcaption></figure>
-
-</div>
-
-Neurochess is a cerebral sport that evolves traditional chess-like play with [link use](../../science-and-tech/links.md). Players connect to the neurochess board, allowing them to visualize and manipulate the chessboard with their minds. The game can be played on a holographic game board or inside of a [virtual construct](../../science-and-tech/constructs.md#virtual-constructs).&#x20;
-
-The game adapts signature chess mechanics and expands the field of play into a three-dimensional cube grid, making it far more complex than traditional chess. Strategies are extremely nuanced, and require very strong visual-spatial intelligence. Naturally, [psychotech](../../science-and-tech/psychotech.md) is not permitted during play.
-
-Neurochess tournaments are major events within academic and upper-class circles, drawing large audiences who follow the games through immersive virtual constructs. Neurochess is easily the most competitive and prestigious game or sport across all of the [Atlan Academies](../institutions/the-atlan-academy-system.md), and success in neurochess is a sure path to recognition within and without the academy's higher ranks.
-
-***
-
-## Guarda
-
-<figure><img src="../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering playing their next card.</p></figcaption></figure>
-
-A tactical card game originating during [the Dark Decade](../../history/the-dark-decade.md) that grew in popularity during [GATA's](../the-basics.md) expansion over the course of [the Reconstruction](../../history/the-reconstruction.md).&#x20;
-
-### Historical Context
-
-The cards used in Guarda predate the game by several years. The cards were originally called "léi" (雷, pronounced "lay", meaning "thunder"), and were created by a Chinese-American software engineer in [Bright Mesa](../history/bright-mesa.md), two years after [the Crash](../../history/the-crash.md). Inspired by the I Ching, the cards enjoyed some early popularity in the American South West as a divination system during the Dark Decade. Léi divination remains popular to this day, particularly in [the Free Territories](../../free-territories/the-basics.md) of North America and China.
-
-It is not known who first started using the lei cards as a game, but before long, the children of Bright Mesa were drawing grids in the dirt and using the cards to attack and defend. By the end of the Dark Decade the rules had been refined, and it had become wildly popular, even among the adults who had come to enjoy gambling on the game.
-
-After [the Morning Light Summit](../politics/new-dawn-accords.md#the-morning-light-summit) and the nearby LA camp's subsequent [districting](../politics/districts.md#the-path-to-districthood) by the fledging GATA, people began to, slowly, and then suddenly, cross great distances and intermingle once again. The mass, voluntary relocation of a huge number of refugees under [Atla's](../key-locations/atla.md) [Existence Doctrine](../military-and-defense/existence-doctrine.md) spread the game far and wide at the very onset of the Reconstruction.
-
-"Guarda" as it had then come to be called, (a Spanish-language reference to Atla's symbolic [Guardian](../military-and-defense/guardians.md) [war frames](../../science-and-tech/frames.md)), quickly became the most popular new table game since the rise of poker in the 20th century.&#x20;
-
-Because of its fast-paced gameplay, short matches, and simple theory, Guarda appeals to a wide audience, however it is for these same reasons that it is not as valued by the academic elites.&#x20;
-
-Nonetheless, even the world's top neurochess champs can't defeat the Guarda pros, highlighting the fundamental difference between strategy and tactics, or computers and human behavior.
-
-### The Basics
-
-<figure><img src="../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda with its 6x6 grid.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda with its 6x6 grid.</p></figcaption></figure>
 
 Guarda is a strategic card game that can be played with 2-8 players in free-for-all or teams.
 
@@ -132,7 +40,9 @@ Uniquely, each player can set a secret card called a "guard" face-down in front 
 
 Anticipate your opponents movements, attack when their guard isn't set, and try not to get caught with your guard down.
 
-### The Cards
+***
+
+## The Cards
 
 Each player has their own Guarda deck. Though different decks may have different visual designs, the decks are identical in terms of their card composition.
 
@@ -145,7 +55,7 @@ Each of the twelve different card types depict one of the different possible str
 
 The direction that a card's arrow is pointing (towards the field or towards the player) when it is played determines whether the card is attacking or defending.
 
-<figure><img src="../../../.gitbook/assets/guardiacards.jpg" alt="" width="563"><figcaption><p>Example of Guarda cards in offensive and defensive orientations.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guardiacards.jpg" alt="" width="563"><figcaption><p>Example of Guarda cards in offensive and defensive orientations.</p></figcaption></figure>
 
 When a player plays a card with the arrow pointing towards the field, they are attacking.
 
@@ -153,7 +63,9 @@ When a player plays a card with the arrow pointing toward themselves, they are d
 
 The grid cells that are highlighted on the card indicate which spaces on the field are being attacked or defended.
 
-### Getting Started
+***
+
+## Getting Started
 
 Before the game begins, a player is selected to draw first.
 
@@ -167,7 +79,7 @@ After placing their piece, the player places any cards drawn in this process fac
 
 Once every player's piece is placed, players each draw a hand of 5 cards.
 
-### Turn Phases
+## Turn Phases
 
 Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, and (4) Settle.
 
@@ -197,7 +109,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
    \
    The attacks will deal one damage to any and all opponents for each attack overlapping their position on the field.\
    \
-   Players who are under attack [may then react](sports-and-games.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).
+   Players who are under attack [may then react](guarda.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).
 4. During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards from their hand as they wish (Note: discarded cards during the Settle phase do not grant movement).\
    \
    The player will draw replacement cards at the beginning of their next turn.
@@ -224,7 +136,7 @@ If a player is attacked with two or more cards while their guard is preparing (p
 
 **Block:** If the guard is in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the guard is returned to the player's hand and the player may prepare another guard immediately, which can be set on their next turn.
 
-<figure><img src="../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
 
 **Counter:** If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
 
@@ -236,7 +148,7 @@ The attacking player cannot play their guard to defend against the defending pla
 
 If no more actions are to be taken, and the attacking player remains in the game, the React phase concludes, and the attacking player's turn continues to its Settle phase.
 
-### Winning the Game
+## Winning the Game
 
 Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
 
@@ -246,7 +158,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * **Victory:** Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 10 points wins.
 * **Exhaustion:** Players do not reshuffle their discard pile when they exhaust their draw pile. When a player runs out of cards in their draw pile, they are defeated.
 
-<figure><img src="../../../.gitbook/assets/guarda-955.png" alt="" width="563"><figcaption><p>A street kid hoping to finish the game with an attack.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guarda-955.png" alt="" width="563"><figcaption><p>A street kid hoping to finish the game with an attack.</p></figcaption></figure>
 
 #### Gambling (Stakes):
 
@@ -254,7 +166,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * **Spoils of War:** The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
 * **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
 
-<figure><img src="../../../.gitbook/assets/guarda-999.png" alt="" width="563"><figcaption><p>A high-stakes Guarda table in a private club.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guarda-999.png" alt="" width="563"><figcaption><p>A high-stakes Guarda table in a private club.</p></figcaption></figure>
 
 ### Notes:
 

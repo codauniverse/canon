@@ -22,7 +22,7 @@ Static Field technology, or statics for short, uses ‘[static nodes](statics.md
 
 Statics are much more prevalent in [GATA's](../gata/the-basics.md) districts and across [Greater Atla](../gata/politics/greater-atla.md), however they can also be found in use within all of [GATA's partner states](../gata/politics/new-dawn-accords.md#signatories). Conversely, they are a rarer sight in [URSA](../ursa/the-basics.md) and rarer still across the [Free Territories](../free-territories/the-basics.md).
 
-Static field technology has also been essential for the development of [grabbers](grabbers.md), and it is a key element of many other innovations, such as containment fields for breathable atmospheres in space, inertial dampening fields for [frame](frames.md) operators' [cradles](frames.md#design-and-functionality), or artificial gravity environments, such as those used in the popular sport, [Gravita](../gata/people-and-culture/sports-and-games.md#gravita).
+Static field technology has also been essential for the development of [grabbers](grabbers.md), and it is a key element of many other innovations, such as containment fields for breathable atmospheres in space, inertial dampening fields for [frame](frames.md) operators' [cradles](frames.md#design-and-functionality), or artificial gravity environments, such as those used in the popular sport, [Gravita](../gata/people-and-culture/sports-and-games/#gravita).
 
 ***
 
@@ -50,7 +50,7 @@ Static nodes are made possible by advances in material sciences pioneered by Atl
 
 Static engines continuously modulate the charge applied to three or more nodes to produce smooth, stable movement within the Earth’s gravitational field. Static engines are essential for transporting extremely heavy loads, as demonstrated during the Reconstruction with GATA's long-defunct staging platforms that crawled the skies of Greater Atla.
 
-With modern, miniaturized static engines, extremely fast and expressive movement can be achieved, as many have discovered with the recent rise in the popularity of [darts](statics.md#dart-boards)–static boards that have become central to an extreme [sport culture](../gata/people-and-culture/sports-and-games.md) that is intertwined with the [counterculture scene](../gata/underground-scene/).
+With modern, miniaturized static engines, extremely fast and expressive movement can be achieved, as many have discovered with the recent rise in the popularity of [darts](statics.md#dart-boards)–static boards that have become central to an extreme [sport culture](../gata/people-and-culture/sports-and-games/) that is intertwined with the [counterculture scene](../gata/underground-scene/).
 
 Smaller static vehicles are reliant on compact batteries to power their static engines, while larger ships and platforms employ [fusion reactors](fusion-energy.md) to power their larger static engines. Meanwhile, New Imperial Japan, URSA and various Free Territories utilize much smaller fusion cells [manufactured by New Imperial Japan](fusion-energy.md#new-imperial-japans-miniaturized-fusion-cells), giving them advantages in certain military and industrial applications where their statics can operate indefinitely.
 
@@ -96,7 +96,7 @@ These moving extensions of urban architecture are a common form of public transp
 
 <figure><img src="../../.gitbook/assets/staticboard-535.png" alt="" width="563"><figcaption><p>A youth exploring the wilds on a small static board.</p></figcaption></figure>
 
-Highly maneuverable personal conveyance devices with static engines, particularly popular among the youth. Larger static boards that are finely tuned for high-performance and extreme sports are called [Darts](../gata/people-and-culture/sports-and-games.md#darts).
+Highly maneuverable personal conveyance devices with static engines, particularly popular among the youth. Larger static boards that are finely tuned for high-performance and extreme sports are called [Darts](../gata/people-and-culture/sports-and-games/#darts).
 
 ***
 
