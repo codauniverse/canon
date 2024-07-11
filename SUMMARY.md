@@ -236,7 +236,7 @@
   * [📘 Black Out](narrative/stories/black-out.md)
 * [💿 Media](narrative/media/README.md)
   * [📽️ Video & Animation](narrative/media/video-and-animation.md)
-  * [🎮 Games](narrative/media/games.md)
+  * [🎮 Video Games](narrative/media/video-games.md)
   * [🔄 360 Environments](narrative/media/360-environments.md)
   * [💬 Chat Bots](narrative/media/chat-bots.md)
   * [🎲 Tabletop](narrative/media/tabletop.md)
