@@ -40,7 +40,9 @@ In the shadows of Greater Atla's glistening towers an underground scene has take
 
 In the haze, amidst the ecstatic rediscovery of revelry, drugs, and lawlessness, a crack has formed.
 
-A _NEW FUTURE_ is already leaking in.
+A _NEW FUTURE_ is already leaking in...
+
+
 
 {% content-ref url="../../" %}
 [..](../../)
