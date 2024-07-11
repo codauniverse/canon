@@ -36,9 +36,11 @@ From high-intensity contact sports to gravity-defying races, sports play a signi
 
 </div>
 
-The most popular spectator sport in GATA. A contact sport played inside of an artificial gravity field. The Defenders defend from the core, a sphere housing the [static field](../../science-and-tech/statics.md) generator that maintains the modified gravitational envelope. The Offense attempts to score points by placing, throwing, or kicking the ball into one of the receptacles on the opposing team's core.
+The most popular spectator sport in GATA. A contact sport played inside of an artificial gravity field.
 
-Gravita is known for its complex spatial strategy and hard-hitting action. The Gravita "field" is dotted with small static fixtures that players can use to steady or redirect themselves, obscure the enemy team's line-of-sight, or to bank the ball to teammates.
+The Defenders defend from the core; a sphere housing the [static field](../../science-and-tech/statics.md) generator that maintains the modified gravitational envelope. The Offense attempts to score points by placing, throwing, or kicking the ball into one of the receptacles on the opposing team's core.
+
+Gravita is known for its complex spatial strategy and hard-hitting action. The Gravita field is dotted with small static fixtures that players can use to steady or redirect themselves, obscure the enemy team's line-of-sight, or to bank the ball to teammates.
 
 ***
 
