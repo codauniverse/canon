@@ -198,17 +198,21 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
    If a player is attacked with two or more cards while their guard is preparing, their guard is broken and the guard is moved to the discard pile.\
    \
    Players who are under attack [may then react](sports-and-games.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).
-4. During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards as they wish (Note: discarded cards during the Settle phase do not grant movement).\
+4. During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards from their hand as they wish (Note: discarded cards during the Settle phase do not grant movement).\
    \
    The player will draw replacement cards at the beginning of their next turn.
 
 ### Reacting to Attacks
 
-#### Defending with your Hand
-
 If an attack is made, the React phase begins and any player(s) being attacked may choose to react by activating their guard, or defending with cards from their hand.
 
-Players can defend against an attack with cards in their hand so long as the card's grid pattern overlaps with their own piece's position on the field (when oriented defensively with the arrow facing themselves). Defending players cannot counter-attack with cards in their hand.
+#### Defending with your Hand
+
+Players can defend against an attack with cards in their hand so long as the card's grid pattern overlaps with their own piece's position on the field (when oriented defensively with the arrow facing themselves).
+
+Each card played defensively negates one point of damage.
+
+Defending players cannot counter-attack with cards in their hand.
 
 #### Activating your Guard
 
