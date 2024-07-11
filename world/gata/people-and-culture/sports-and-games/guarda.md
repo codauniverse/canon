@@ -202,7 +202,7 @@ If you plan to move on your next turn, consider where you'd like to move and if 
 {% endhint %}
 
 {% hint style="info" %}
-#### 🗑 Know when to Fold 'Em
+#### 🗑 Know When to Fold 'Em
 
 If you still have undesirable cards at the end of your turn, remember to discard them so that you can draw more new cards on your next turn.
 {% endhint %}
