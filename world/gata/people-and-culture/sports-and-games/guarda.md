@@ -184,7 +184,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 These are some beginner strategies to consider when playing Guarda:
 
 {% hint style="success" %}
-#### Hand Management
+#### 🤲 Hand Management
 
 When you draw your hand, orient all of the cards in your hand in the offensive orientation with the arrow pointing toward the field.
 
@@ -196,25 +196,25 @@ The remaining cards can be burned for movement, or might be useful as a guard.
 {% endhint %}
 
 {% hint style="info" %}
-#### Know When to Hold 'Em
+#### 🔮 Know When to Hold 'Em
 
 If you plan to move on your next turn, consider where you'd like to move and if any of your remaining cards will become useful when you are on that space.
 {% endhint %}
 
 {% hint style="info" %}
-#### Know when to Fold 'Em
+#### 🗑 Know when to Fold 'Em
 
 If you still have undesirable cards at the end of your turn, remember to discard them so that you can draw more new cards on your next turn.
 {% endhint %}
 
 {% hint style="warning" %}
-#### Lightning Never Strikes Twice
+#### ⚡ Lightning Never Strikes Twice
 
 If you were attacked by your opponent on your previous turn, it is not likely they still have cards that would attack your space, so it may be strategic to remain still.
 {% endhint %}
 
 {% hint style="warning" %}
-#### Like Looking in a Mirror
+#### ↔ It Cuts Both Ways
 
 Consider where your opponent is on the board, and avoid resting on the inverse space as them, as they may be collecting cards to play defensively that they can then repurpose to launch a devastating attack.
 
