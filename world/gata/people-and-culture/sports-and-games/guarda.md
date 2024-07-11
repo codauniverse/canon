@@ -85,17 +85,19 @@ Once every player's piece is placed, players each draw a hand of 5 cards.
 
 Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
 
-1. During the Draw phase, the player draws a card.\
+1. **Draw Phase:** During the Draw phase, the player draws a card.\
    \
    If they have more than 5 cards in their hand they must discard until they have only 5 cards.\
    \
    If they have fewer than 5 cards, the player continues to draw until they hold 5 cards.\
    \
-   If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.
-2. During the Move phase, the player may move their piece to an adjacent square on the field if they wish, but they may not move diagonally.\
+   If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they hold 5 cards.\
+
+2. **Move Phase:** During the Move phase, the player may move their piece to an adjacent square on the field if they wish, but they may not move diagonally.\
    \
-   The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in a straight line.
-3. During the Act phase the player may (a) prepare their guard OR (b) attack the field.\
+   The player can choose to discard as many cards as they wish from their hand in order to move an additional space for each discarded card, but they may only move in a straight line.\
+
+3. **Act Phase:** During the Act phase the player may (a) prepare their guard OR (b) attack the field.\
    \
    a) **Preparing a Guard**\
    \
@@ -115,16 +117,17 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    The attacks will deal one damage to any and all opponents for each attack overlapping their position on the field.\
    \
-   Players who are under attack [may then react](guarda.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).
-4. During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards from their hand as they wish (Note: discarded cards during the Settle phase do not grant movement).\
+   Players who are under attack [may then react](guarda.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).\
+
+4. **Settle Phase:** During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards from their hand as they wish (Note: discarded cards during the Settle phase do not grant movement).\
    \
    The player will draw replacement cards at the beginning of their next turn.
 
 ## Reacting to Attacks
 
-If an attack is made, any player(s) being attacked may choose to react by (1) defending with cards from their hand OR (2) activating their guard.
+If an attack is made, any players being attacked may choose to react by (1) defending with cards from their hand OR (2) activating their guard.
 
-If the player being attacked cannot or does not react, then the attack is successful and the player loses one health point for each attacking card.
+If a player being attacked cannot or does not react, then the attack is successful and the attacked player loses one health point for each attacking card.
 
 ### 1. Defending with your Hand
 
