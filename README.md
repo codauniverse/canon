@@ -138,7 +138,7 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 ***
 
-## 3D Games (Concepts)
+## Video Games
 
 ### 🎮 Wallrunner (PC & Console)
 
