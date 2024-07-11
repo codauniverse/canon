@@ -42,7 +42,7 @@ There, submerged in the haze and pulsing bass frequencies, a mysterious piece of
 
 ***
 
-<figure><img src="../../.gitbook/assets/projectcoda.png" alt=""><figcaption><p>The Project CODA website homepage.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/projectcoda.png" alt="" width="563"><figcaption><p>The Project CODA website homepage.</p></figcaption></figure>
 
 ## 🔵 Project CODA
 
