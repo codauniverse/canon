@@ -157,6 +157,8 @@ The attacking player cannot play their guard to defend against a defending playe
 
 If no more actions are to be taken, and the attacking player remains in the game, the attacking player's turn continues to its Settle phase.
 
+***
+
 ## Winning the Game
 
 Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
