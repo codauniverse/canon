@@ -197,8 +197,6 @@ Each turn has the following phases; (1) Draw, (2) Move, (3a) Act, (3b) React, an
    \
    The attacks will deal one damage to any and all opponents for each attack overlapping their position on the field.\
    \
-   If a player is attacked with two or more cards while their guard is preparing, their guard is broken and the guard is moved to the discard pile.\
-   \
    Players who are under attack [may then react](sports-and-games.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).
 4. During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards from their hand as they wish (Note: discarded cards during the Settle phase do not grant movement).\
    \
@@ -220,15 +218,17 @@ Defending players cannot counter-attack with cards in their hand.
 
 When reacting to an attack, a defending player may activate their concealed guard.
 
-Once activated, the guard's effect is determined by its orientation.
+Guards can either block or counter. The guard's effect is determined by its orientation.
 
-If the guard is in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack.
+If a player is attacked with two or more cards while their guard is preparing (placed sideways), their guard is broken and the guard is moved to the discard pile, and one point of damage is negated.
+
+**Block:** If the guard is in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the guard is returned to the player's hand and the player may prepare another guard immediately, which can be set on their next turn.
 
 <figure><img src="../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
 
-If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, the attacking player takes one additional point of damage.
+**Counter:** If the guard is in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
 
-When a defending player activates their guard, it is discarded immediately after taking effect.
+When a defending player activates their guard, it is discarded immediately after taking effect (except in the case of a critical block).
 
 If the player being attacked cannot or does not react, the attack is successful and the player loses one health point for each attacking card.
 
