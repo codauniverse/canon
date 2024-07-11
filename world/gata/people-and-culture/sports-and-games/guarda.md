@@ -22,7 +22,7 @@ A tactical card game originating during [the Dark Decade](../../../history/the-d
 
 Known for its fast-paced gameplay, short matches, and its signature trap-like card called a "guard". Guarda is easy to learn, but difficult to master, as evidenced by the tactical complexity displayed at the peak of competitive play.
 
-While it is standard to play using a 6x6 grid, a number of variants have become popular in recent years, including the 4x4 variant called "Grda", as well as 5x5 and 9x9 variants.
+While it is standard to play using a 6x6 grid and 6-card hand, a number of variants have become popular in recent years, including the 4x4 variant called "Grda", as well as 5x5 and 9x9 variants.
 
 ***
 
@@ -182,10 +182,10 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 ## Notes:
 
 * Players usually provide their own Guarda decks. They fan out their cards at the beginning of the game to prove that their deck is regulation.
+* Guarda hand size is determined by the size of the field grid. A 5x5 field means a 5 card hand size. If a player has played a guard, their guard still counts toward their hand size.
 * In Guarda games with high-stakes or a large number of players, a player's guard card is played face-down directly on the grid, placed beneath their game piece, and is moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
 * It is typical in street games of Guarda for players to use a 10-sided die as their game piece in order to track their health or victory points. Other common game pieces include stones with chalk numbers written on them, or hard-coded game pieces with digital counters. However, when playing in tournaments or on dedicated game boards, game stats are tracked in other ways, freeing players to use whatever game piece they'd like.
 * It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to easily build irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their preference on a surface, or scratch it into the dirt.
 * Paper slate cards are expensive, but are common in gaming establishments and in high-end decks of Guarda cards, allowing cards to change color based on their orientation, and feature animations when in play.
 * In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards and/or the Guarda Classic mechanics as their foundation.
-* Guarda hand size is determined by the size of the field grid. A 5x5 field means a 5 card hand size. If a player has played a guard, their guard still counts toward their hand size.
 * One of the most popular variants, "Grda", is a 4x4 variant played using a standard deck, but removing all copies of the 12 unused card types (the outermost horizontal and vertical lines), reducing the deck to 18 cards, reducing hands to 4 cards (including the guard), and increasing the player's health points to 20. The guard's rules are unaffected.
