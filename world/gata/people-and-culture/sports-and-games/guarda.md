@@ -121,6 +121,8 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    The player will draw replacement cards at the beginning of their next turn.
 
+<figure><img src="../../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
+
 ## Reacting to Attacks
 
 If an attack is made, any players being attacked may choose to react by (1) defending with cards from their hand OR (2) activating their guard.
@@ -135,8 +137,6 @@ Each card played defensively negates one point of damage.
 
 Defending players cannot counter-attack with cards in their hand.
 
-<figure><img src="../../../../.gitbook/assets/guarda-323.png" alt="" width="563"><figcaption><p>An attacker devastated by a guard's counter-attack.</p></figcaption></figure>
-
 ### 2. Activating your Guard
 
 When reacting to an attack, a defending player may activate their concealed guard.
@@ -147,7 +147,7 @@ If a player is attacked with two or more cards while their guard is still prepar
 
 a) **Block:** If the guard is set in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the guard is returned to the player's hand and the player may prepare another guard immediately, which can be set on their next turn.
 
-b) **Counter:** If the guard is set in the offensive orientation then it counter-attacks; the defending player takes one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
+b) **Counter:** If the guard is set in the offensive orientation then it counter-attacks; the defending player negates one point of damage, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
 
 When a defending player activates their guard, it is discarded immediately after taking effect (except in the case of a critical block).
 
@@ -176,6 +176,52 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 * **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
 
 <figure><img src="../../../../.gitbook/assets/guarda-999.png" alt="" width="563"><figcaption><p>A high-stakes Guarda table in a private club.</p></figcaption></figure>
+
+***
+
+## Strategy
+
+These are some beginner strategies to consider when playing Guarda:
+
+{% hint style="info" %}
+#### Hand Management
+
+When you draw your hand, orient all of the cards in your hand in the offensive orientation with the arrow pointing toward the field.
+
+Determine if you have any cards that attack your opponent(s), and separate those to one side of your hand.
+
+Then flip the remaining cards to the defensive orientation and determine if any of the remaining cards will successfully defend you. If so, separate those to the side as well.
+
+The remaining cards can be burned for movement, or might be useful as a guard.
+{% endhint %}
+
+{% hint style="info" %}
+#### Know When to Hold 'Em
+
+If you plan to move on your next turn, consider where you'd like to move and if any of your remaining cards will become useful when you are on that space.
+{% endhint %}
+
+{% hint style="info" %}
+#### Know when to Fold 'Em
+
+If you still have undesirable cards at the end of your turn, remember to discard them so that you can draw more new cards on your next turn.
+{% endhint %}
+
+{% hint style="info" %}
+#### Lightning Never Strikes Twice
+
+If you were attacked by your opponent on your previous turn, it is not likely they still have cards that would attack your space, so it may be strategic to remain still.
+{% endhint %}
+
+{% hint style="info" %}
+#### Like Looking in a Mirror
+
+Consider where your opponent is on the board, and avoid resting on the inverse space as them, as they may be collecting cards to play defensively that they can then repurpose to launch a devastating attack.
+
+Alternatively, you can use that same principle to bait them into wasting those cards by activating your guard.
+{% endhint %}
+
+***
 
 ## Notes:
 
