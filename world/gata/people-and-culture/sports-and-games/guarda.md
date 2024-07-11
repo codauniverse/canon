@@ -213,7 +213,7 @@ If you still have undesirable cards at the end of your turn, remember to discard
 If you were attacked by your opponent on your previous turn, it is not likely they still have cards that would attack your space, so it may be strategic to remain still.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 #### ↔ It Cuts Both Ways
 
 Consider where your opponent is on the board, and avoid resting on the inverse space as them, as they may be collecting cards to play defensively that they can then repurpose to launch a devastating attack.
