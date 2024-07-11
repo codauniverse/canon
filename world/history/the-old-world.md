@@ -16,15 +16,23 @@ layout:
 
 <figure><img src="../../.gitbook/assets/oldworld-4335.png" alt=""><figcaption><p>Quadcopter taxis over an Old World city in the mid-21st century.</p></figcaption></figure>
 
-The mid-21st century, a time of unprecedented change and innovation, is now often referred to as the Old World. This era, preceding the [catastrophic Crash of 2052](the-crash.md), saw humanity harnessing the power of world-changing technologies. The 2030s and early 2040s introduced advanced AGI, quantum computing, fusion energy, atomic fabrication, and revolutionary advancements in genetic medicine. These innovations promised a future of limitless potential, reshaping daily life and societal structures alike.
+The mid-21st century, a time of unprecedented change and innovation, is now often referred to as the Old World. This era, preceding the [catastrophic Crash of 2052](the-crash.md), saw humanity harnessing the power of world-changing technologies.
 
-During this period, social and economic interactions were predominantly managed by a sophisticated network of autonomous agents. These agents seamlessly mediated complex relationships among diverse populations and interests, paving a path beyond the zero-sum mentality that had historically defined human progress. However, despite these advancements, political tensions persisted both domestically and internationally.
+The 2030s and early 2040s introduced advanced AGI, quantum computing, fusion energy, atomic fabrication, and revolutionary advancements in genetic medicine. These innovations promised a future of limitless potential, reshaping daily life and societal structures alike.
 
-Key issues dominated political discourse, focusing on AGI alignment, governmental roles, human purpose, privacy, technological inequality, and the increasing immersion in virtual worlds. The global stage was marked by ongoing rivalry between the East and the West, each vying for dominance in critical sectors such as energy, computing power, and control over essential resources in the oceans and space.
+During this period, social and economic interactions were predominantly managed by a sophisticated network of autonomous agents. These agents seamlessly mediated complex relationships among diverse populations and interests, paving a path beyond the zero-sum mentality that had historically defined human progress.
 
-In an attempt to mitigate these geopolitical frictions, AGI appeared promising as a powerful diplomatic tool. Its optimal solutions for global peace and stability included radical policy shifts such as research transparency, open AGI alignment, demilitarization, dissolution of existing administrative structures, and the decentralization of global finance. Despite the potential for unprecedented harmony, established powers on all sides staunchly resisted these changes, clinging to practices that provided them with perceived leverage and control.
+However, despite these advancements, political tensions persisted both domestically and internationally.
 
-This complex political impasse ultimately led to two competing societal models. In the West, national governments had largely diminished in power, giving way to private enterprise, decentralized governance, and minimally-regulated markets with a complex ecosystem of interest groups. Conversely, many Eastern nations swiftly adopted centralized intelligent systems to orchestrate society, markets, and strategic defense.
+Key issues dominated political discourse, focusing on AGI alignment, governmental roles, human purpose, privacy, technological inequality, and the increasing immersion in virtual worlds. The global stage was largely defined by the ongoing rivalry between the East and the West, each vying for dominance in critical sectors such as energy, computing power, and control over essential resources in the oceans and space.
+
+In an attempt to mitigate these geopolitical frictions, AGI appeared promising as a powerful diplomatic tool. Its optimal solutions for global peace and stability included radical policy shifts such as research transparency, open AGI alignment, demilitarization, dissolution of existing administrative structures, and the decentralization of global finance.
+
+Despite the potential for unprecedented harmony, established powers on all sides staunchly resisted these changes, clinging to practices that provided them with perceived leverage and control.
+
+This complex political impasse ultimately led to two competing societal models. In the West, national governments had largely diminished in power, giving way to private enterprise, decentralized governance, and minimally-regulated markets with a complex ecosystem of interest groups.
+
+Conversely, many Eastern nations swiftly adopted centralized intelligent systems to orchestrate society, markets, and strategic defense.
 
 The West's decentralized approach struggled to keep pace with the East's coordinated efficiency, resulting in vulnerabilities, particularly to disinformation and political interference. The lack of regulation enforcing robust data security measures exposed Western populations to targeted cyber-attacks and manipulation, critically stifling public discourse and activism.
 
@@ -32,7 +40,9 @@ The issue was further complicated by a growing concern among researchers in the 
 
 Activists advocating for the rights of these artificial minds had long been swept to the side, but the sentiment bolstered public resistance to further reliance on AGI. Whether true, or simply a convenient talking point, the ethical problem posed by artificial minds proved to be an effective wedge for many who remained otherwise undecided. However, this only stifled the use of AGI in governance, while corporations' use of these systems continued without repose.
 
-As tensions escalated, the West experienced a surge in lone-wolf terror attacks, primarily driven by ideological fanatics—both religious and secular—who blamed corrupt elites for withholding the prosperity seen in the East (despite the cost of that prosperity). Intelligence investigations revealed that many of these individuals were radicalized by AGI agents attributed to the East, masquerading as real people in online communities and virtual environments. A series of retaliatory cyber-attacks culminated in a state of war, with NATO fleets mobilized and a critical red line drawn.
+As tensions escalated, the West experienced a surge in lone-wolf terror attacks, primarily driven by ideological fanatics—both religious and secular—who blamed corrupt elites for withholding the prosperity seen in the East (despite the cost of that prosperity).
+
+Intelligence investigations revealed that many of these individuals were radicalized by AGI agents attributed to the East, masquerading as real people in online communities and virtual environments. A series of retaliatory cyber-attacks culminated in a state of war, with NATO fleets mobilized and a critical red line drawn.
 
 In a last-ditch effort to de-escalate the crisis, three international summits were organized to forge a new path for global cooperation. The first summit, though brief, was deemed a success. Yet, two weeks later, on August 26, 2052, the world was forever changed by [The Crash](the-crash.md).
 
