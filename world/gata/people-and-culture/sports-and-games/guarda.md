@@ -105,7 +105,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    Cards burned to move/push are placed in their discard pile.\
 
-3. **Act Phase:** During the Act phase the player may (a) prepare their guard OR (b) attack the field.\
+3. **Act Phase:** During the Act phase the player may either (a) prepare their guard OR (b) attack the field.\
    \
    a) **Preparing a Guard**\
    \
