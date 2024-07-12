@@ -133,6 +133,8 @@ If an attack is made, any players being attacked may choose to react by (1) defe
 
 If a player being attacked cannot or does not react, then the attack is successful and the attacked player loses one health point for each attacking card.
 
+If a player is attacked with two or more cards while their guard is still preparing (laid sideways), their guard is "broken", the card is moved to their discard pile, and one point of damage is negated.
+
 ### 1. Defending with your Hand
 
 Players can defend against an attack with cards in their hand so long as the card's grid pattern overlaps with their own piece's position on the field (when oriented defensively with the arrow facing themselves).
@@ -146,8 +148,6 @@ Defending players cannot counter-attack with cards in their hand.
 When reacting to an attack, a defending player may activate their concealed guard.
 
 Guards can either (a) block OR (b) counter. The guard's effect is determined by its set orientation.
-
-If a player is attacked with two or more cards while their guard is still preparing (laid sideways), their guard is broken, the card is moved to their discard pile, and one point of damage is negated.
 
 a) **Block:** If the guard is set in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the defending player gains one health and the guard is returned to the player's hand; the player may prepare another guard immediately, which can be set on their next turn.
 
