@@ -185,7 +185,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 
 ## Strategy
 
-These are some beginner strategies to consider when playing Guarda:
+These are some strategic concepts to consider when playing Guarda:
 
 {% hint style="success" %}
 #### 🤲 Hand Management
