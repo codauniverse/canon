@@ -22,7 +22,7 @@ A tactical card game originating during [the Dark Decade](../../../history/the-d
 
 Known for its fast-paced gameplay, short matches, and its signature trap-like card called a "guard". Guarda is easy to learn, but difficult to master, as evidenced by the tactical complexity displayed at the peak of competitive play.
 
-While it is standard to play using a 6x6 grid and 6-card hand, a number of variants have become popular in recent years, including the 4x4 variant called "Grda", as well as 5x5 and 9x9 variants.
+While it is traditional to play using a 6x6 grid and 6-card hand, a number of variants have become popular in the years since its creation, including the 4x4 variant called "Grda", as well as 5x5 and 9x9 variants.
 
 ***
 
@@ -89,13 +89,15 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    If they have more than 6 cards, the player discards until they have only 6 cards.\
    \
-   If the player has a guard, it counts toward their hand size.\
+   If the player has a guard, it does not counts toward their hand size.\
    \
    If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they have 6 cards.\
 
-2. **Move Phase:** During the Move phase, the player may choose to burn as many cards as they wish from their hand in order to move one space for each burned card. They may only move in a straight line. \
+2. **Move Phase:** During the Move phase, the player may choose to burn as many cards as they wish from their hand in order to move one space for each card burned. They may only move in a straight line.\
    \
-   Cards burned for movement are placed in their discard pile.\
+   If the player is on a space adjacent to an opponent, they may burn cards from their hand to "push" their opponent, moving the opponent one space in the opposite direction for each card burned.\
+   \
+   Cards burned to move/push are placed in their discard pile.\
 
 3. **Act Phase:** During the Act phase the player may (a) prepare their guard OR (b) attack the field.\
    \
@@ -226,7 +228,7 @@ Alternatively, you can use that same principle to bait them into wasting those c
 ## Notes:
 
 * Players usually provide their own Guarda decks. They fan out their cards at the beginning of the game to prove that their deck is regulation.
-* Guarda hand size is determined by the size of the field grid. For example, a 5x5 field means a 5-card hand size (including the guard). A 9x9 grid means a 9-card hand.
+* Guarda hand size is determined by the size of the field grid. For example, a 5x5 field means a 5-card hand size (not including the guard). A 9x9 grid means a 9-card hand.
 * In Guarda games with high-stakes or a large number of players, a player's guard card is played face-down directly on the grid, placed beneath their game piece, and is moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
 * It is typical in street games of Guarda for players to use a 10-sided die as their game piece in order to track their health or victory points. Other common game pieces include stones with chalk numbers written on them, or hard-coded game pieces with digital counters. However, when playing in tournaments or on dedicated game boards, game stats are tracked in other ways, freeing players to use whatever game piece they'd like.
 * It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to easily build irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their preference on a surface, or scratch it into the dirt.
