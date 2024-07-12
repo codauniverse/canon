@@ -95,7 +95,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
 
 2. **Move Phase:** During the Move phase, the player may choose to burn as many cards as they wish from their hand in order to move one space for each card burned. They may only move in a straight line.\
    \
-   If the player is on a space adjacent to an opponent, they may burn cards from their hand to "push" their opponent, moving the opponent one space in the opposite direction for each card burned.\
+   If the player is on a space adjacent to an opponent, they may burn cards from their hand to "push" their opponent, moving the opponent one space in the opposing direction for each card burned.\
    \
    Cards burned to move/push are placed in their discard pile.\
 
@@ -207,6 +207,18 @@ If you plan to move on your next turn, consider where you'd like to move and if 
 #### 🗑 Know When to Fold 'Em
 
 If you still have undesirable cards at the end of your turn, remember to discard them so that you can draw more new cards on your next turn.
+{% endhint %}
+
+{% hint style="info" %}
+#### 🤜  Push and Shove
+
+Pushing opponents is a key strategic move, allowing you to put then where you want them for a follow up attack, or to disrupt their defensive options.
+{% endhint %}
+
+{% hint style="info" %}
+#### 🌊 Be Water
+
+Prepare yourself for other players to push you by considering which direction you are likely to be pushed based on your positioning. Favor defensive cards that follow that line, ensuring you can still react to their follow-up attack.
 {% endhint %}
 
 {% hint style="warning" %}
