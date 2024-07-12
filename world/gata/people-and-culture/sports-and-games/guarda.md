@@ -93,9 +93,11 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they have 6 cards.\
 
-2. **Move Phase:** During the Move phase, the player may choose to burn as many cards as they wish from their hand in order to move one space for each card burned. They may only move in a straight line.\
+2. **Move Phase:** During the Move phase, the player may choose to burn as many cards as they wish from their hand in order to move one space for each card burned.\
    \
    If the player is on a space adjacent to an opponent, they may burn cards from their hand to "push" their opponent, moving the opponent one space in the opposing direction for each card burned.\
+   \
+   They may only move/push in a straight line.\
    \
    Cards burned to move/push are placed in their discard pile.\
 
