@@ -133,7 +133,7 @@ If an attack is made, any players being attacked may choose to react by (1) defe
 
 If a player being attacked cannot or does not react, then the attack is successful and the attacked player loses one health point for each attacking card.
 
-If a player is attacked with two or more cards while their guard is still preparing (laid sideways), their guard is "broken", the card is moved to their discard pile, and one point of damage is negated.
+If a player is attacked with two or more cards while their guard is still preparing (laid sideways), their guard is "broken" and moved to their discard pile. One point of damage is negated.
 
 ### 1. Defending with your Hand
 
