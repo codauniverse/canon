@@ -177,7 +177,7 @@ Guarda can be played with a variety of win conditions, and is sometimes played w
 
 * **Bounty:** The same as Elimination, except each player must ante up with the table stake (called their "bounty"). When a player defeats an opponent, they claim that player's bounty.
 * **Spoils of War:** The same as Victory, except each player must ante up with the table stake (called their "spoils"). The winning player or team takes all.
-* **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their piece remains on the grid, and the first player to move to the same space claims their loot.
+* **Scavenger:** The same as Exhaustion, except each player must ante up with the table stake (called their "loot"). When a player is defeated, their loot remains on the field, and the first player to move to the same space claims their loot.
 
 <figure><img src="../../../../.gitbook/assets/guarda-999.png" alt="" width="563"><figcaption><p>A high-stakes Guarda table in a private club.</p></figcaption></figure>
 
@@ -243,9 +243,9 @@ Alternatively, you can use that same principle to bait them into wasting those c
 
 * Players usually provide their own Guarda decks. They fan out their cards at the beginning of the game to prove that their deck is regulation.
 * Guarda hand size is determined by the size of the field grid. For example, a 5x5 field means a 5-card hand size (not including the guard). A 9x9 grid means a 9-card hand.
-* In Guarda games with high-stakes or a large number of players, a player's guard card is played face-down directly on the grid, placed beneath their game piece, and is moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
+* In Guarda games with high-stakes or a large number of players, a player's guard card is played face-down directly on the field, placed beneath their game piece, and is moved with the game piece. This prevents cheating, and makes it easier for players and spectators to see the state of the game at a glance.
 * It is typical in street games of Guarda for players to use a 10-sided die as their game piece in order to track their health or victory points. Other common game pieces include stones with chalk numbers written on them, or hard-coded game pieces with digital counters. However, when playing in tournaments or on dedicated game boards, game stats are tracked in other ways, freeing players to use whatever game piece they'd like.
-* It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 grid for play area. This also allows players to easily build irregular grids for their games, if they choose. However, players can also simply draw a Guarda grid to their preference on a surface, or scratch it into the dirt.
+* It is common for the back side of standard Guarda cards to depict a 2x3 grid of square cells, so that six spare cards can be laid to produce a 6x6 field. This also allows players to easily build irregular fields for their games, if they choose. However, players can also simply draw a Guarda field to their preference on a surface, or scratch it into the dirt.
 * Paper slate cards are expensive, but are common in gaming establishments and in high-end decks of Guarda cards, allowing cards to change color based on their orientation, and feature animations when in play.
 * In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards and/or the Guarda Classic mechanics as their foundation.
 * One of the most popular variants, "Grda", is a 4x4 variant played using a standard deck, but removing all copies of the 12 unused card types (the outermost horizontal and vertical lines), reducing the deck to 18 cards, reducing hands to 4 cards (including the guard), and increasing the player's health points to 20. The guard's rules are unaffected.
