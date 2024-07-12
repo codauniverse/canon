@@ -20,9 +20,11 @@ layout:
 
 A tactical card game originating during [the Dark Decade](../../../history/the-dark-decade.md) that grew in popularity during [GATA's](../../the-basics.md) expansion over the course of [the Reconstruction](../../../history/the-reconstruction.md).
 
-Known for its fast-paced gameplay, short matches, and its signature trap-like card called a "guard". Guarda is easy to learn, but difficult to master, as evidenced by the tactical complexity displayed at the peak of competitive play.
+Known for its direct, competitive gameplay, short matches, and its signature trap-like card called a "guard".
 
-While it is traditional to play using a 6x6 grid and 6-card hand, a number of variants have become popular in the years since its creation, including the 4x4 variant called "Grda", as well as 5x5 and 9x9 variants.
+Guarda is easy to learn, but difficult to master, as evidenced by the tactical sophistication displayed at the peak of competitive play.
+
+While it was traditionally played with a 6x6 grid and 6-card hand, a number of variants have become popular over the years, including the modern, fast-paced 5x5 variant.
 
 ***
 
@@ -32,13 +34,15 @@ While it is traditional to play using a 6x6 grid and 6-card hand, a number of va
 
 Guarda can be played with 2-8 players in free-for-all or teams.
 
-In the center of the play area is a grid called "the field" (6x6 in standard play). Players each sit facing one side of the field. Each player has a singular game piece which they will move around the field throughout the game.
+In the center of the play area is a grid called "the field" (6x6 in standard play). Players each sit facing one side of the field, and control a singular game piece which they will move around the field throughout the game.
 
-On every Guarda card is the same grid as on the field, and a single arrow (or other directional indicator). The card's grid either displays a line filling up all consecutive horizontal cells in one of the grid's rows, or a line filling up all consecutive vertical cells in one of the grid's columns.
+On every Guarda card is the same grid as on the field, and a single arrow (or other directional indicator). The grid displays a pattern corresponding to spaces on the field the card affects when it is played.
 
 Players take turns drawing, moving, and fighting on the field until a winner is decided.
 
-Uniquely, each player can set a secret card called a "guard" face-down in front of them, waiting to be activated. Well-managed hands, strategic movement, and the tactical use of the trap-like guard are the signatures of Guarda.
+Uniquely, each player can set a secret card called a "guard" face-down, waiting to be activated.
+
+Well-managed hands, strategic movement, and the tactical use of the trap-like guard are the signatures of Guarda.
 
 ***
 
@@ -149,7 +153,7 @@ When reacting to an attack, a defending player may activate their concealed guar
 
 Guards can either (a) block OR (b) counter. The guard's effect is determined by its set orientation.
 
-a) **Block:** If the guard is set in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the defending player gains one health and the guard is returned to the player's hand; the player may prepare another guard immediately, which can be set on their next turn.
+a) **Block:** If the guard is set in the defensive orientation then it blocks; the defending player takes no damage regardless of the number of cards used in the attack. If the defending player is on a space overlapped by the guard card's grid pattern, this is a "critical block"; the defending player gains one health point and the guard is returned to the player's hand; the player may prepare another guard immediately, which can be set on their next turn.
 
 b) **Counter:** If the guard is set in the offensive orientation then it counter-attacks; one point of damage is negated, and the attacking player takes two damage. If the attacking player is on a space overlapped by the guard card's grid pattern, this is a "critical counter"; the attacking player takes one additional point of damage.
 
