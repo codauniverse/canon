@@ -20,7 +20,7 @@ layout:
 
 A tactical card game originating during [the Dark Decade](../../../history/the-dark-decade.md) that grew in popularity during [GATA's](../../the-basics.md) expansion over the course of [the Reconstruction](../../../history/the-reconstruction.md).
 
-Known for its direct, competitive gameplay, short matches, and its signature trap-like card called a "guard".
+Known for its direct, competitive gameplay, short matches, and its signature trap-like mechanic called a "guard".
 
 Guarda is easy to learn, but difficult to master, as evidenced by the tactical sophistication displayed at the peak of competitive play.
 
@@ -171,9 +171,9 @@ If no more actions are to be taken, and the attacking player remains in the game
 
 Guarda can be played with a variety of win conditions, and is sometimes played with stakes.
 
-### Standard (No Stakes):
+### Win Conditions:
 
-* **Elimination:** The most common style of play. Each player begins the game with 10 health points. Players take turns until there is only one player, or team, left standing.
+* **Elimination (Standard):** The most common style of play. Each player begins the game with 10 health points. Players take turns until there is only one player, or team, left standing. Vary health points to control play duration.
 * **Victory:** Each successful attack on an opponent earns the attacking player, or team, a point. First player or team to 10 points wins.
 * **Exhaustion:** Players do not reshuffle their discard pile when they exhaust their draw pile. When a player runs out of cards in their draw pile, they are defeated.
 
