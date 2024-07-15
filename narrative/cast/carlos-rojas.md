@@ -25,13 +25,15 @@ layout:
 * Height: 5'11"
 * Weight: 175lbs
 * Hair Color: Black
-* Hair style:&#x20;
+* Hair style: Short and neatly trimmed
 * Eye Color: Brown
 * Skin Type: Tan
 * Face Shape: Square
-* Body Type:&#x20;
-* Accessories:&#x20;
-* Description:&#x20;
+* Body Type: Lean and muscular, scarred
+* Accessories: Always carries a worn leather satchel containing his tools
+* Description: Carlos has a rugged, weathered appearance, with sharp features that convey both strength and exhaustion. His eyes are often focused, scanning his surroundings with meticulous detail.
+
+***
 
 ***
 
@@ -51,6 +53,8 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 
 ***
 
+***
+
 <figure><img src="../../.gitbook/assets/nomoney420_extreme_closeup_of_an_investigator_in_a_long_coat_ca_6dcbe8f5-24d1-48f2-9ec2-6ae84124e8d2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Motivations
@@ -64,21 +68,57 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 
 ## Trivia
 
+* His family fled Colombia due to gang violence, settling in LA.
+* Inspired by GATA's Reconstruction efforts in LA as a child.
+* Decided to become an Operator at age 12.
+* After the Free Territory attack on the LA district, he decided to join Collections.
+* Graduated with full honors from the Intelligence Academy.
+* Has a personal vendetta against the Hundred Hands.
+* Always carries his Manna plant, a reminder of home and the family he lost.
+* Talks to his plant more than he does to people, as if talking to someone specific.
+* Very detail-oriented and observant.
+
 ***
 
-## **Personality & Quirks**
+## Personality & Quirks
+
+* Polite but not sociable.
+* Keeps his cards close to his chest.
+* Occasionally quips under his breath, as if talking to someone specific.
+* Extremely detail-oriented.
+* Fiercely determined but weary.
+* Can be sarcastic when frustrated.
+* Always keeps a worn leather satchel with him.
+* Prefers solitude and avoids political maneuvering within the AIC.
+* Has a dark sense of humor.
+* Sometimes overly cautious, bordering on paranoid.
 
 ***
 
 ## Secrets
 
+* Struggles with the trauma of his past and the loss of his homeland.
+* Feels a deep sense of guilt over his inability to protect his family.
+* Nearly gave up on humanity after the Northern Cascadia attack.
+* Has considered leaving the AIC due to its politics.
+
 ***
 
 ## Skills
 
+* Expert in on-the-ground investigation.
+* Sixth sense for detecting contraband technology.
+* Mastery of various investigative tools and techniques.
+* Highly observant and detail-oriented.
+* Skilled in the use of advanced links and interfaces.
+
 ***
 
 ## Family & Associates
+
+* No known living family.
+* Close professional relationships within the AIC.
+* Has a mentor from the Intelligence Academy who still advises him.
 
 ***
 
@@ -86,12 +126,12 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 
 | Attribute    | Stat |
 | ------------ | ---- |
-| Strength     | 7    |
-| Defense      | 7    |
-| Dexterity    | 8    |
-| Intelligence | 6    |
-| Wisdom       | 9    |
-| Charisma     | 5    |
+| Strength     | 8    |
+| Defense      | 8    |
+| Dexterity    | 5    |
+| Intelligence | 8    |
+| Wisdom       | 8    |
+| Charisma     | 3    |
 
 ***
 
