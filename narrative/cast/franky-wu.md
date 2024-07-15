@@ -27,7 +27,7 @@ layout:
 * Face Shape: Round
 * Body Type: Slim
 * Accessories: Link on his temple, an emitter or two often floating nearby
-* Description:&#x20;
+* Description: Franky’s appearance is as dynamic as his personality. With his striking dark teal hair and slim frame draping his savvy street style, he makes an effort to stand out. His link is prominently displayed on his temple, often accompanied by floating emitters that project his light displays wherever he goes.
 
 ***
 
@@ -51,29 +51,64 @@ But it's all just been practice so far. As far as Franky's concerned, he's just 
 
 ## Motivations
 
-* Prove his talent.
-* Always hungry.
+* Prove his talent—to his parents and the world.
+* Always hungry with a bottom-less stomach.
 * Kind of wants a girlfriend, or even just a girl friend.
 
 ***
 
 ## Trivia
 
+* Built his first DIY emitter setup at 16.
+* Parents are successful engineers in Greater Toronto.
+* Never left the Greater Toronto district.
+* Fascinated by conduits since a young age.
+* Known for his outspoken and opinionated nature.
+* His light displays are both mesmerizing and occasionally overwhelming.
+* Always carries a notebook to jot down new design ideas.
+
 ***
 
 ## **Personality & Quirks**
+
+* Energetic and self-assured.
+* Rambunctious and opinionated.
+* Outspoken and not afraid to share his thoughts.
+* Loves to experiment with light and color.
+* Can be overly ambitious, often biting off more than he can chew.
+* Highly creative, always thinking of new ideas and projects.
+* Sometimes struggles with focus and technical details.
+* Has a tendency to annoy people with his constant need for attention.
+* Deeply passionate about his work, often losing track of time while designing.
+* Always looking for validation and recognition.
 
 ***
 
 ## Secrets
 
+* Fears that he might never achieve the recognition he craves.
+* Sometimes doubts his abilities despite his confident exterior.
+* Struggles with the pressure of living up to his parents' success.
+* Has a secret sketchbook where he draws his more personal and experimental designs.
+
 ***
 
 ## Skills
 
+* Natural conduit with a talent for dazzling the crowd.
+* Proficient with emitters and creating reactive light displays.
+* Strong creative vision and innovative thinking.
+* Scrappy and pragmatic.
+* Entrepreneurial mindset, always looking for opportunities.
+* Good at networking and making connections, if a bit naïve and inexperienced.
+
 ***
 
 ## Family & Associates
+
+* **Parents:** Both successful engineers in Greater Toronto.
+* **Mentor:** Local arcade owner who sees potential in Franky’s designs.
+* **Friends:** A small group of like-minded creatives who share his passion for experience design.
 
 ***
 
@@ -85,14 +120,16 @@ But it's all just been practice so far. As far as Franky's concerned, he's just 
 | Defense      | 5    |
 | Dexterity    | 7    |
 | Intelligence | 8    |
-| Wisdom       | 7    |
+| Wisdom       | 4    |
 | Charisma     | 8    |
 
 ***
 
 ## Quotes
 
-> “Oh really? Thanks I guess. Yea, it’s hard for me to tell because I’m not even trying anymore." - Aki
+> "I don’t just make lights; I create memories." - Franky&#x20;
+>
+> "I’m just waiting for the world to catch up." - Franky
 
 ***
 
