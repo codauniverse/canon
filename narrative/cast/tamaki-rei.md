@@ -121,6 +121,8 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 
 ## Family & Associates
 
+* No known friends or family
+
 ***
 
 ## Comparative Stats
