@@ -120,7 +120,7 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 ## Tabletop Games
 
-### 🃏 Guarda
+### 🃏 Guarda - Competitive Card Game
 
 <div>
 

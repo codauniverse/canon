@@ -14,11 +14,25 @@ layout:
 
 # Pockets
 
+<figure><img src="../../.gitbook/assets/pockets-943.png" alt=""><figcaption><p>An activated pocket ring hooked up to a power supply.</p></figcaption></figure>
+
 ## Overview
 
 Among the numerous novel space-time manipulating technologies developed by ALTAR.
 
-Pockets are discreet spaces that appear at precise energetic thresholds that open up small manifolds in spacetime–essentially, small, reproducible pocket universes–to create hyperbolic storage space.
+Pockets are discreet spaces that appear at precise energetic thresholds that open up small manifolds in space-time–essentially, small, reproducible pocket universes–to create hyperbolic storage space.
+
+***
+
+## Design & Usage
+
+A ring-shaped apparatus called a "ring" or "pocket ring" is tuned to a specific energetic frequency called an "address", allowing it to access a specific pocket. Because the range of possible pockets is virtually infinite, accessing a pocket's address requires a ring tuned to the correct address.
+
+Rings can theoretically be constructed in any size, however the energy required increases geometrically, constraining the currently known prototype rings to a maximum diameter of roughly 30cm.
+
+***
+
+## Ongoing Research
 
 Pockets are being actively studied by the Research Corps in Sol, however they are not paradigmed anywhere in GATA, not even Atla, but as with any mysterious thing, unsubstantiated rumors of this technology being seen in the wild occasionally circulate.
 
