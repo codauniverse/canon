@@ -66,6 +66,8 @@ When a human dies at peace, a new star is born, and they return to the Heavens w
 
 The Church of the Sky teaches that there is no real Hell, and that it is a misunderstood concept. Hells exist only within the theatre of experience for a Self, which is an inherently personal and un-real place. In other words, a Hell is a place of one's own creation; a product of living in misalignment with the Creator and one's true Self. But with the gift of time bestowed on the Earth by the moon, all Hells can be escaped, and all balance can be restored.
 
+The most common burial rite for devotees in the Church of the Sky is the funeral pyre, however graveyards remain common in many regions, and it is also very common for remains to be interred at the base of saplings.
+
 ***
 
 ## **Influence and Power**
