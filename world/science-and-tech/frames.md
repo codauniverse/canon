@@ -14,7 +14,7 @@ layout:
 
 # Frames
 
-<figure><img src="../../.gitbook/assets/frames-712.png" alt=""><figcaption><p>A modern combat frame.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frames-944.png" alt=""><figcaption><p>A modern war frame idling near an industrial facility in Greater Atla.</p></figcaption></figure>
 
 ## Overview
 
@@ -96,8 +96,11 @@ The strong structural chassis of frames allows them to carry heavy loads and wit
 
 ### Military
 
-* **War Frames**: Equipped with advanced weaponry and armor, used in combat to hold strategic positions and engage enemy forces.
-* **Recon Frames**: Outfitted with advanced sensors and stealth technology for surveillance and reconnaissance missions.
+<figure><img src="../../.gitbook/assets/frames-712.png" alt="" width="563"><figcaption><p>A modern field frame.</p></figcaption></figure>
+
+* **War Frames**: Larger combat frames equipped with advanced weaponry and armor, used to hold strategic positions and engage enemy forces head-on. War frames can vary significantly in size and load-out.
+* **Field Frames**: Mid-sized, faster, and more dexterous combat frames, well-suited for dynamic conditions and missions requiring hands-on precision. Particularly effective up-close against other frames. Typically have a standard humanoid design with hands, allowing them to easily carry and swap a wide range of weapons and gear, or otherwise manipulate their environment.
+* **Ghost Frames**: Outfitted with advanced sensors and stealth technology for surveillance and reconnaissance missions. On the battlefield, ghost frames are focused on establishing informational supremacy, and in combat they are small, fast, and opportunistic.
 
 ### Construction
 
@@ -114,7 +117,9 @@ The strong structural chassis of frames allows them to carry heavy loads and wit
 * **Miner Frames**: Outfitted with drills, saws, and excavation tools for mining operations.
 * **Harvest Frames**: Used in forestry and agricultural sectors, equipped with cutting and processing tools for harvesting resources.
 
-### Transmedium Capabilities
+***
+
+## Transmedium Capabilities
 
 When equipped with statics and life support systems, frames become highly versatile transmedium vehicles. They can operate in air, land, sea, and space, providing unmatched flexibility in various environments.
 
