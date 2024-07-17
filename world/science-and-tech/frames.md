@@ -14,11 +14,9 @@ layout:
 
 # Frames
 
-<figure><img src="../../.gitbook/assets/frames-944.png" alt=""><figcaption><p>A modern war frame idling near an industrial facility in Greater Atla.</p></figcaption></figure>
-
 ## Overview
 
-Frames are anthropomorphic mechanized vehicles with humanoid chassis'. They're controlled by a [conduit](links.md#conduits) pilot and are designed for a multitude of applications, from military operations to construction, shipping, and resource extraction.
+Frames are anthropomorphic mechanized vehicles characterized by their humanoid chassis' and articulating limbs. They're piloted by highly-trained [conduits](links.md#conduits), and are designed for a multitude of applications, from military to industry.
 
 Originating as armored "war frames" developed by the [Joint Atlantic Command (JAC)](../gata/history/the-joint-atlantic-command-jac.md), they were later fielded by [Atla](../gata/key-locations/atla.md) and [GATA](../gata/the-basics.md) to secure important strategic locations in combat. Frames are named for their skeletal chassis, which provides a versatile and familiar, anthropomorphic form factor that enhances dexterity and pilot compatibility.
 
@@ -96,7 +94,15 @@ The strong structural chassis of frames allows them to carry heavy loads and wit
 
 ### Military
 
+<div>
+
+<figure><img src="../../.gitbook/assets/guardians-531.png" alt="" width="563"><figcaption><p>A couple war frames ready for deployment.</p></figcaption></figure>
+
+ 
+
 <figure><img src="../../.gitbook/assets/frames-712.png" alt="" width="563"><figcaption><p>A modern field frame.</p></figcaption></figure>
+
+</div>
 
 * **War Frames**: Larger combat frames equipped with advanced weaponry and armor, used to hold strategic positions and engage enemy forces head-on. War frames can vary significantly in size and load-out.
 * **Field Frames**: Mid-sized, faster, and more dexterous combat frames, well-suited for dynamic conditions and missions requiring hands-on precision. Particularly effective up-close against other frames. Typically have a standard humanoid design with hands, allowing them to easily carry and swap a wide range of weapons and gear, or otherwise manipulate their environment.
