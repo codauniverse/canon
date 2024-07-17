@@ -26,9 +26,11 @@ Combining indigenous re-articulations of Judeo-Christian ideas with naturalistic
 
 ## **Historical Context**
 
-Amid the chaos of the Dark Decade, many across North America fled population centers. Many either accidentally wandered into, or intentionally sought refuge in First Nations reserves. Those who went with peace and humility were often taken in, and while the outside world fell into despair, they lived well. The tribes provided shelter, knowledge, and a way of life that was compatible with the unforgiving reality of nature.
+Amid the chaos of the Dark Decade, people across North America fled population centers. Many either accidentally wandered into, or intentionally sought refuge in First Nations reserves. Those who went with peace and humility were often welcomed, and while the outside world fell into despair, they lived relatively well.
 
-This pattern of desperate people seeking refuge among indigenous populations was common worldwide. As the Dark Decade continued, these indigenous tribes emerged as indispensable teachers and deep wells of knowledge about the local land.
+The tribes provided shelter, sustainable food production, and critical knowledge about the local ecological and seasonal concerns. Refugees were exposed to a dignified way of life that was compatible with the unforgiving reality of nature.
+
+This pattern of desperate people seeking refuge among indigenous populations was common worldwide. As the Dark Decade continued, these indigenous tribes emerged as spiritual leaders, indispensable teachers, and deep wells of knowledge about the local land.
 
 In South Dakota, a large population of Christian refugees had taken shelter with the Lakota. Beginning with a small group in this community of refugees, tribal teachings and rites were blended with Judeo-Christian concepts, and eventually came to be known as the "Teachings of the Sky". After several years, the notion of a pilgrimage to each First Nations community to proselytize this "new gospel" took form, and many small groups ventured off.
 
