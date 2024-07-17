@@ -46,13 +46,19 @@ In their teachings, the Sun is also of the sky, and is humanity's bridge to the 
 
 The moon, which governs the tides and illuminates the night, is the lover of the Earth. She represents the rhythm and order of the universe. The cycles of the moon give time to the Earth, and is the source of change, as well as the source of aging and mortality.
 
-The stars are the souls of the righteous, both ancestors and descendants, watching over and guiding humanity. When a star dies, a soul is born on the Earth, when a human dies, a new star is born. For the church's adherent's, gazing at the night sky conjures a deep sense of hope, continuity, and the vast landscape of who we really are.
+The stars are the souls of the righteous, both ancestors and descendants, watching over and guiding humanity from the Heavens. When a star dies, a soul is born on the Earth, when a human dies, a new star is born. For the church's adherent's, gazing at the night sky conjures a deep sense of hope, continuity, and the vast landscape of who we really are.
 
 In general, their spiritual rituals and practices are heavily influenced by the cycles of nature—seasons, celestial movements, and the life cycles of flora and fauna, overlaid with Judeo-Christian motifs. They believe in living in harmony with the Earth, advocating for sustainable hunting and gathering practices that honor the spirit of the land and its creatures, and finding balance, or "lightness" within oneself.
 
 Their deep convictions regarding the sanctity of nature occasionally place them at odds with the interests of [GATA](../../gata/the-basics.md), who actively modify the weather and engineered the invasive [Manna flower](../../science-and-tech/the-manna-flower.md), as well as other factions within the Free Territories who disregard the future of the land in pursuit of short-term exploitation.
 
 Borrowing from numerous indigenous teachings, their mythology is rich with tales that are not only entertaining but also serve as allegories for survival, morality, and the human condition. These stories often feature characters and spirits from traditional lore, adapted to the teachings of the organization to guide followers in wisdom and ethics.
+
+### Places of Worship
+
+It is typical for a particular church to be dedicated to the Earth, the Sky, or the Heavens. The beliefs espoused in all of them are largely similar, however the emphasis of their sermons and the focus of their rituals and spiritual practices are heavily influenced by this alignment.
+
+Generally speaking, a church dedicated to the Earth most resembles a traditional Abrahamic house of worship, whereas a church dedicated to the Sky is typically a larger, gold ornamented, semi-enclosed structure with an open roof, and modest wooden pews arrayed in a grass courtyard. A church dedicated to the Heavens is simply indicated by a golden pillar planted in an open field, or atop a mountain.
 
 ***
 
