@@ -24,13 +24,15 @@ Wallrunners are named for the most common breaching method; running really fast.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/wallrunners-fsg9s0.png" alt="" width="563"><figcaption></figcaption></figure>
-
 ## Wallrunning
+
+<figure><img src="../../../.gitbook/assets/wallrunners-9232.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Most wallrunners employ [Sprint Gear](../../science-and-tech/gear.md#sprint-gear), [wearable gear](../../science-and-tech/gear.md) or prosthetics that allow them to achieve superhuman speed and agility while also relying heavily on strategy, deception and misdirection. Sprint Gear can be augmented with other gear to allow for boosting, stealth, misdirection, and projectile defenses. Wallrunners don't employ [static technology](../../science-and-tech/statics.md) because [static nodes](../../science-and-tech/statics.md#static-nodes) are easy to track and target without heavy shielding.
 
 One of the most important aspects of wallrunning is building and maintaining momentum. With more kinetic energy, and the right gear loadout, wallrunners can power through many deterrents, and more easily enter a flow state, where their attention and reflexes are more attuned. Momentum allows runners to leap and slide greater distances, and increases the power available to their gear and equipment.
+
+<figure><img src="../../../.gitbook/assets/wallrunners-fsg9s0.png" alt="" width="563"><figcaption><p>A wallrunner boosting toward the city.</p></figcaption></figure>
 
 [Boost Gear](../../science-and-tech/gear.md#boost-gear) gives wallrunners the ability to quickly evade projectiles and avoid target lock. Boost gear allows wallrunners to boost in any direction, with some loadouts allowing a wallrunner to make their entire approach from the air.
 
