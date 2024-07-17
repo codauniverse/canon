@@ -40,9 +40,15 @@ By the final years of the Dark Decade, missionaries professing the Teachings of 
 
 ## **Cultural and Spiritual Beliefs**
 
-The Church of the Sky professes a deep respect for nature, viewing it as a sacred entity with two aspects; the Earth and the Heavens, with humanity existing in the space between them—the sky.
+The Church of the Sky professes a deep respect for nature, viewing it as a sacred entity with two aspects: the Earth and the Heavens, with humanity existing in the space between them—the sky.&#x20;
 
-Their spiritual practices are heavily influenced by the cycles of nature—seasons, celestial movements, and the life cycles of flora and fauna, overlaid with Judeo-Christian motifs. They believe in living in harmony with the Earth, advocating for sustainable hunting and gathering practices that honor the spirit of the land and its creatures, and finding balance, or "lightness" within oneself.
+In their teachings, the Sun is also of the sky, and is humanity's bridge to the sacred; the only knowable face of God. It is directly associated with Jesus Christ, symbolizing enlightenment, guidance, and the life-giving force of the Creator.
+
+The moon, which governs the tides and illuminates the night, is the lover of the Earth. She represents the rhythm and order of the universe. The cycles of the moon give time to the Earth, and is the source of change, as well as the source of aging and mortality.
+
+The stars are the souls of the righteous, both ancestors and descendants, watching over and guiding humanity. When a star dies, a soul is born on the Earth, when a human dies, a new star is born. For the church's adherent's, gazing at the night sky conjures a deep sense of hope, continuity, and the vast landscape of who we really are.
+
+In general, their spiritual rituals and practices are heavily influenced by the cycles of nature—seasons, celestial movements, and the life cycles of flora and fauna, overlaid with Judeo-Christian motifs. They believe in living in harmony with the Earth, advocating for sustainable hunting and gathering practices that honor the spirit of the land and its creatures, and finding balance, or "lightness" within oneself.
 
 Their deep convictions regarding the sanctity of nature occasionally place them at odds with the interests of [GATA](../../gata/the-basics.md), who actively modify the weather and engineered the invasive [Manna flower](../../science-and-tech/the-manna-flower.md), as well as other factions within the Free Territories who disregard the future of the land in pursuit of short-term exploitation.
 
