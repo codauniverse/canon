@@ -30,6 +30,8 @@ A ring-shaped apparatus called a "ring" or "pocket ring" is tuned to a specific 
 
 Rings can theoretically be constructed in any size, however the energy required increases geometrically, constraining the currently known prototype rings to a maximum diameter of roughly 30cm.
 
+While the ring itself is portable, it must be connected to a huge supply of power in order to open up its addressed pocket, making their practical use highly restrictive. If a ring is damaged or destroyed, its pocket will be rendered lost, ostensibly forever.
+
 ***
 
 ## Ongoing Research
