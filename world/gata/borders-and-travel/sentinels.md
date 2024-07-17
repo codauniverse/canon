@@ -18,16 +18,16 @@ layout:
 
 ## Overview
 
-Sentinels are [GATA's](../the-basics.md) autonomous border defenses found at the [field wall](field-walls.md) perimeter of many [districts](../politics/districts.md), particularly around more remote districts where [wallrunner](../criminal-element/wallrunners.md) and [Sovereign militia](../../free-territories/military-defense/sovereign-militias.md) activity is more prevalent. They're large airborne pillar-like structures that use [static technology](../../science-and-tech/statics.md) to move through the Earth's gravitational field.
+Sentinels are [GATA's](../the-basics.md) mobile, autonomous, static-powered defensive platforms. They are typically seen arrayed around the [field wall](field-walls.md) perimeter of [districts](../politics/districts.md), particularly around the more remote districts where [wallrunner](../criminal-element/wallrunners.md) and [Sovereign militia](../../free-territories/military-defense/sovereign-militias.md) activity is more prevalent. They're large airborne pillar-like structures that use [statics](../../science-and-tech/statics.md) to move through the Earth's gravitational field.
 
-Sentinels support [Gate Patrol](gate-patrol.md) operations, and provide critical sensor information, and house air-to-ground weapon systems and other deterrents. In addition to its weapon platforms and sensor arrays, a significant proportion of a Sentinel's mass is made up of its onboard [cogs](../../science-and-tech/cogs.md), allowing each sentinel to safely operate independently in compliance with GATA's [strict regulations](../politics/new-dawn-accords.md) restricting the use of [technology](../law-and-order/tech-regulation.md) and [data](../politics/whole-privacy-protection-wpp.md).
+Sentinels function as passive defenses for districts and support [Gate Patrol](gate-patrol.md) operations. These airborne platforms collect critical sensor information, and house air-to-ground and air-to-air defensive weapon systems and other deterrents.
 
-When incursions, threats, or other anomalies are detected beyond a district's perimeter, sentinels intelligently redistribute themselves along the border. They were designed as an autonomous solution to reduce reliance on [Guardians](../military-and-defense/guardians.md), who are increasingly in demand across the globe in crisis and conflict zones.
+In addition to its weapon systems and sensor arrays, a significant proportion of a Sentinel's mass is made up of its onboard [cogs](../../science-and-tech/cogs.md), allowing each sentinel to safely operate independently in compliance with GATA's [strict regulations](../politics/new-dawn-accords.md) restricting the use of [technology](../law-and-order/tech-regulation.md) and [data](../politics/whole-privacy-protection-wpp.md).
+
+When incursions, threats, or other anomalies are detected beyond a district's perimeter, sentinels intelligently redistribute themselves along the border. They were designed as an autonomous solution to reduce reliance on [Guardians](../military-and-defense/guardians.md), who are increasingly in demand across the globe in active crisis and conflict zones.
 
 ***
 
 ## Capabilities
 
-There are a variety of Sentinels in the field with varying configurations.
-
-Sentinels possess a number of onboard capabilities, depending on their configuration.
+There are a variety of different Sentinel models in the field with varying configurations that determine their capabilities.&#x20;
