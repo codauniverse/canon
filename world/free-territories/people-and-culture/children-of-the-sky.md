@@ -26,21 +26,29 @@ Combining indigenous re-articulations of Judeo-Christian ideas with naturalistic
 
 ## **Historical Context**
 
+<figure><img src="../../../.gitbook/assets/churchofthesky-399.png" alt="" width="563"><figcaption><p>Panicked masses seeking refuge with indigenous communities after the Crash.</p></figcaption></figure>
+
 Amid the chaos of the Dark Decade, people across North America fled population centers. Many either accidentally wandered into, or intentionally sought refuge in First Nations reserves. Those who went with peace and humility were often welcomed, and while the outside world fell into despair, they lived relatively well.
 
 The tribes provided shelter, sustainable food production, and critical knowledge about the local ecological and seasonal concerns. Refugees were exposed to a dignified way of life that was compatible with the unforgiving reality of nature.
 
 This pattern of desperate people seeking refuge among indigenous populations was common worldwide. As the Dark Decade continued, these indigenous tribes emerged as spiritual leaders, indispensable teachers, and deep wells of knowledge about the local land.
 
+<figure><img src="../../../.gitbook/assets/churchofthesky-0355.png" alt="" width="563"><figcaption><p>A thriving refugee camp on a First Nations reserve.</p></figcaption></figure>
+
 In South Dakota, a large population of Christian refugees had taken shelter with the Lakota. Beginning with a small group in this community of refugees, tribal teachings and rites were blended with Judeo-Christian concepts, and eventually came to be known as the "Teachings of the Sky". After several years, the notion of a pilgrimage to each First Nations community to proselytize this "new gospel" took form, and many small groups ventured off.
 
 When these groups reached their destinations, they often found similar circumstances as with the Lakota, with the indigenous peoples teaching and sheltering large populations of displaced peoples. The accumulated gratitude and reverence for indigenous teachings by refugee populations living with the tribes was fertile soil for their message.
+
+<figure><img src="../../../.gitbook/assets/churchofthesky-333.png" alt="" width="563"><figcaption><p>A believer in the Teachings of the Sky proselytizing to a community of survivors.</p></figcaption></figure>
 
 By the final years of the Dark Decade, missionaries professing the Teachings of the Sky had found their way to most of the First Nations reserves and Atlan refugee camps in North America. Their rapidly increasing numbers ultimately led to the formal establishment of the "Church of the Sky" during the Reconstruction, a loose religious organization with congregations led by indigenous teachers who incorporate Judeo-Christian beliefs and iconography into sermons based on their traditional beliefs.
 
 ***
 
 ## **Cultural and Spiritual Beliefs**
+
+<figure><img src="../../../.gitbook/assets/churchofthesky-9434.png" alt="" width="563"><figcaption><p>A modern church for the Church of the Sky.</p></figcaption></figure>
 
 The Church of the Sky professes a deep respect for nature, viewing it as a sacred entity with two aspects: the Earth and the Heavens, with humanity existing in the space between them—the sky.&#x20;
 
@@ -58,13 +66,27 @@ Borrowing from numerous indigenous teachings, their mythology is rich with tales
 
 ### Places of Worship
 
+<div>
+
+<figure><img src="../../../.gitbook/assets/churchofthesky-833.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/churchofthesky-554.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/churchofthesky-843.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 It is typical for a particular church to be dedicated to the Earth, the Sky, or the Heavens. The beliefs espoused in all of them are largely similar, however the emphasis of their sermons and the focus of their rituals and spiritual practices are heavily influenced by this alignment.
 
 Generally speaking, a church dedicated to the Earth most resembles a traditional Abrahamic house of worship, whereas a church dedicated to the Sky is typically a larger, gold ornamented, semi-enclosed structure with an open roof, and modest wooden pews arrayed in a grass courtyard. A church dedicated to the Heavens is simply indicated by a golden pillar planted in an open field, or atop a mountain.
 
 ### Death
 
-When a human dies at peace, a new star is born, and they return to the Heavens where they will watch over and guide humanity from outside of time, which is given to the Earth by the Moon. If a human should die with unfinished work, they do not return to the Heavens, but rather reincarnate as an animal, where they can see their work done.
+When one dies with their soul at peace, a new star is born, and they return to the Heavens where they will watch over and guide humanity from outside of time, which is given to the Earth by the Moon. However, should one die with unfinished work, they do not return to the Heavens, but rather reincarnate in the form of an animal, to see their work done.
 
 The Church of the Sky teaches that there is no real Hell, and that it is a misunderstood concept. Hells exist only within the theatre of experience for a Self, which is an inherently personal and un-real place. In other words, a Hell is a place of one's own creation; a product of living in misalignment with the Creator and one's true Self. But with the gift of time bestowed on the Earth by the moon, all Hells can be escaped, and all balance can be restored.
 
@@ -74,6 +96,8 @@ The most common burial rite for devotees in the Church of the Sky is the funeral
 
 ## **Influence and Power**
 
+<figure><img src="../../../.gitbook/assets/churchofthesky-353.png" alt="" width="563"><figcaption><p>A believer comes before the congregation to make an appeal.</p></figcaption></figure>
+
 Since its inception, the Church of the Sky have grown dramatically in size and influence, now recognized as a significant spiritual authority within the Free Territories and beyond. Adherents hold positions of power in numerous institutions and enterprises, advocating for modest lifestyles, ecological sustainability and respect for the Earth, Sky, and Heavens. Their influence is also cultural, affecting arts, music, and public life.
 
 As a result of their far reaching influence, many organizations affiliated with the Church of the Sky have amassed fortune and favor. Evangelical preachers preside over congregations that number in the tens of thousands, and can bend the ear of very influential people.
@@ -82,4 +106,4 @@ Today, the Church of the Sky are at the forefront of ecological and spiritual ed
 
 While many of the secular youth in the Free Territories today reject the theistic religious beliefs of the past, they are sympathetic to the teachings of the Church of the Sky. The Church of the Sky also finds common cause with many Eidetics, and some even contend that they are in league with the extremist militant group known as The Cure.
 
-In reality, the Church of the Sky is not a singular unified organization, but rather many tribes each with their own interests and affiliations, from the [local governments](../../gata/politics/districts.md#local-government) of [districts](../../gata/politics/districts.md), to criminal syndicates, Sovereign militias, and more.
+In reality, the Church of the Sky is not a singular unified organization, but rather many tribes and organizations each with their own interests and affiliations. These various factions often must deal and align with many different parties, from the [local governments](../../gata/politics/districts.md#local-government) of [districts](../../gata/politics/districts.md), to criminal syndicates, Sovereign militias, and more.
