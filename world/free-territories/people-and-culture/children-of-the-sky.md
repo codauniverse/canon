@@ -20,7 +20,7 @@ layout:
 
 With its inception during the hardships of the [Dark Decade](../../history/the-dark-decade.md), the Church of the Sky spearhead a spiritual movement that emerged from refugee populations taken in by indigenous tribes of North America. This multi-polar spiritual organization has evolved into a significant political voice in [the Free Territories](../), embodying for its followers the connection between the Creator and the Earth.
 
-Combining indigenous re-articulations of Judeo-Christian ideas with naturalistic spiritual practices that encode hunting, harvest cycles, and mythology, their teachings offer powerful insights into survival and deeply-rooted humanistic values.
+Combining indigenous re-articulations of Judeo-Christian ideas with naturalistic spiritual practices that encode hunting, harvest cycles, and mythology, their teachings offer powerful insights into survival and deeply-rooted humanistic values. The church freely incorporates religious symbols and teachings from all schools, attempting to translate concepts into the language of nature and its many spirits, the Earth, the sky, and the Heavens.
 
 ***
 
@@ -42,11 +42,11 @@ By the final years of the Dark Decade, missionaries professing the Teachings of 
 
 The Church of the Sky professes a deep respect for nature, viewing it as a sacred entity with two aspects: the Earth and the Heavens, with humanity existing in the space between them—the sky.&#x20;
 
-In their teachings, the Sun is also of the sky, and is humanity's bridge to the sacred; the only knowable face of God. It is directly associated with Jesus Christ, symbolizing enlightenment, guidance, and the life-giving force of the Creator.
+In their teachings, the Sun is also of the sky, and is humanity's bridge to the sacred; the only knowable face of God. It is directly associated with Jesus Christ, symbolizing enlightenment, guidance, and the life-giving force of the Creator. The spirits that emerge from, and animate the elements of the Earth are interchangeably referred to as angels.
 
-The moon, which governs the tides and illuminates the night, is the lover of the Earth. She represents the rhythm and order of the universe. The cycles of the moon give time to the Earth, and is the source of change, as well as the source of aging and mortality.
+The moon, which governs the tides and illuminates the night, is the lover of the Earth. She represents the rhythm and order of the universe. The cycles of the moon give time to the Earth, and is the source of all change and growth, as well as the source of aging and mortality.
 
-The stars are the souls of the righteous, both ancestors and descendants, watching over and guiding humanity from the Heavens. When a star dies, a soul is born on the Earth, when a human dies, a new star is born. For the church's adherent's, gazing at the night sky conjures a deep sense of hope, continuity, and the vast landscape of who we really are.
+The stars are the souls of the righteous, both ancestors and descendants, watching over and guiding the living from the Heavens. When a star dies, a soul is born on the Earth, and when a human dies, a new star is born. For the church's adherent's, gazing at the night sky conjures a deep sense of hope, continuity, and the vast landscape of who we really are.
 
 In general, their spiritual rituals and practices are heavily influenced by the cycles of nature—seasons, celestial movements, and the life cycles of flora and fauna, overlaid with Judeo-Christian motifs. They believe in living in harmony with the Earth, advocating for sustainable hunting and gathering practices that honor the spirit of the land and its creatures, and finding balance, or "lightness" within oneself.
 
@@ -59,6 +59,12 @@ Borrowing from numerous indigenous teachings, their mythology is rich with tales
 It is typical for a particular church to be dedicated to the Earth, the Sky, or the Heavens. The beliefs espoused in all of them are largely similar, however the emphasis of their sermons and the focus of their rituals and spiritual practices are heavily influenced by this alignment.
 
 Generally speaking, a church dedicated to the Earth most resembles a traditional Abrahamic house of worship, whereas a church dedicated to the Sky is typically a larger, gold ornamented, semi-enclosed structure with an open roof, and modest wooden pews arrayed in a grass courtyard. A church dedicated to the Heavens is simply indicated by a golden pillar planted in an open field, or atop a mountain.
+
+### Death
+
+When a human dies at peace, a new star is born, and they return to the Heavens where they will watch over and guide humanity from outside of time, which is given to the Earth by the Moon. If a human should die with unfinished work, they do not return to the Heavens, but rather reincarnate as an animal, where they can see their work done.
+
+The Church of the Sky teaches that there is no real Hell, and that it is a misunderstood concept. Hells exist only within the theatre of experience for a Self, which is an inherently personal and un-real place. In other words, a Hell is a place of one's own creation; a product of living in misalignment with the Creator and one's true Self. But with the gift of time bestowed on the Earth by the moon, all Hells can be escaped, and all balance can be restored.
 
 ***
 
