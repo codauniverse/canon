@@ -45,5 +45,3 @@ Outside of the district walls, wallrunners contend with autonomous static weapon
 In recent years, more lethal equipment has been approved by [the Second Quorum](../politics/governance.md#the-second-quorum) as Wallrunning has contributed significantly to an increase in tech crime across the most affected districts.
 
 In response to this, much more advanced Sprint Gear and counter-measures have been developed, in a constant escalatory battle between GATA and the [criminal syndicates](syndicates.md) who incentivize wallrunning activity.
-
-\
