@@ -18,11 +18,11 @@ layout:
 
 ## **Overview**
 
-[Angelis](angelis.md)’ mechanized special forces units, Guardians are the blunt force weapon of Angelis, contrasted by the versatility of [Rapid Response](rapid-response.md), and the precision of the [MAVs](mavs.md). Guardians undergo rigorous training and conditioning, and demonstrate mastery of a wide range of skills including hand-to-hand combat, use of multiple firearms and weapon platforms, [link proficiency](../../science-and-tech/links.md), and unparalleled talent operating [war frames](../../science-and-tech/frames.md).&#x20;
+[Angelis](angelis.md)’ mechanized special forces units, Guardians are GATA's most devastating blunt-force weapon, contrasted by the versatility of [Rapid Response](rapid-response.md), and the precision tactics of the [MAVs](mavs.md). Guardians undergo rigorous training and conditioning, and demonstrate mastery of a wide range of skills including hand-to-hand combat, use of multiple firearms and weapon platforms, [link proficiency](../../science-and-tech/links.md), and unparalleled talent operating [war frames](../../science-and-tech/frames.md).&#x20;
 
 Guardian units are typically deployed in fireteams of four, often complemented by a company or battalion of regular infantry, as well as aerial support, however it is not uncommon for Guardians to be deployed solo to support active engagements on the ground, such as Gate Patrol operations, or partner-state conflicts.
 
-Guardians are identifiable by their blue war frames, which are often in the mid-size to large-size range, and are outfitted with [statics](../../science-and-tech/statics.md) for trans-medium operations that span land, air, sea and space. They can be deployed directly from Angelis [Watchtowers](angelis.md#watchtowers) and [Overlooks](angelis.md#overlooks) located in Low Earth Orbit.
+Guardians are identifiable by their blue war frames, which are often in the mid-size to large-size range, and are outfitted with [statics](../../science-and-tech/statics.md) for trans-medium operations that span land, air, sea and space. They can be deployed directly from Angelis' [Watchtowers](angelis.md#watchtowers) and [Overlooks](angelis.md#overlooks) located in Low Earth Orbit.
 
 ***
 
@@ -30,7 +30,7 @@ Guardians are identifiable by their blue war frames, which are often in the mid-
 
 <figure><img src="../../../.gitbook/assets/wardens (1).png" alt="" width="563"><figcaption><p>The Warden squadron that preceded the Guardians.</p></figcaption></figure>
 
-The Guardians can trace their lineage back to the JAC's Wardens, a squadron of fighters that were tasked with patrolling operation zones and preventing incursions.
+The Guardians can trace their lineage back to the [Joint-Atlantic Command's](../history/the-joint-atlantic-command-jac.md) Wardens, a squadron of fighters that were tasked with patrolling operation zones and preventing incursions.
 
 After the JAC established industrial operations in Northern Africa, new purpose-built armaments could be produced. Soon after, when Atla was founded, the Wardens squadron was reassigned to the defense of the fledging capitol, and a new compartment was formed under the Existence Doctrine to replicate their function using a new kind of heavy mechanized unit tailored for long-term patrol, and designed for mixed ground-and-air engagements called "war frames", or simply "frames" for short.
 

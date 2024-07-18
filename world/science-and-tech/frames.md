@@ -30,7 +30,7 @@ Due to the success of the frame design, many nations and enterprises around the 
 
 The development of frames began during [the Dark Decade](../history/the-dark-decade.md), with the JAC seeking advanced armored units capable of bridging the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
 
-These early war frames proved invaluable both heavy combat and versatile field operations, and were particularly impactful in holding strategic locations. Their success led to the broader application of frame technology across various sectors.
+These early war frames proved invaluable both heavy combat and versatile field operations, and were particularly impactful in holding strategic locations. Their success led to the broader application of frame technology across various sectors, and led to the creation of Angelis' [Guardian](../gata/military-and-defense/guardians.md) branch, an elite war frame fighting force sworn to defend the far corners of Greater Atla.
 
 Over time, frames evolved from purely military assets to essential tools in construction, resource extraction, and other fields requiring robust, adaptable machinery and great physical force. They are no longer solely built by GATA, with numerous different frame manufacturers around the world, and have become a staple of military and industrial operations.
 
