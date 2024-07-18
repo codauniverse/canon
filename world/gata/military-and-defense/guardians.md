@@ -14,7 +14,7 @@ layout:
 
 # Guardians
 
-<figure><img src="../../../.gitbook/assets/guardians.png" alt=""><figcaption><p>A Guardian operative and her war frame.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guardians.png" alt=""><figcaption><p>A Guardian pilot and her war frame.</p></figcaption></figure>
 
 ## **Overview**
 
