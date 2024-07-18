@@ -18,25 +18,25 @@ layout:
 
 ## Overview
 
-Deep below the foundations of [Atla](../key-locations/atla.md), beneath the swirling currents of the Atlantic, lies the ALTAR complex – the beating heart of the most clandestine institution in [GATA](../the-basics.md).
+Deep below the foundations of [Atla](../key-locations/atla.md), beneath the swirling currents of the Atlantic, lies the ALTAR complex – the headquarters of the most clandestine institution in [GATA](../the-basics.md).
 
-By exploring a myriad of new techniques and scientific principles, ALTAR's groundbreaking work produces a diverse ecology of technologies.
+ALTAR explores new techniques and scientific principles, and their groundbreaking work has produced an awe-inspiring array of new technologies.
 
-This plurality of technological primitives helps the [AIC](atlan-information-control-aic.md) maintain the [NDA’s](../politics/new-dawn-accords.md) doctrine of 'mutual incompatibility', ensuring each district's technological paradigm is [distinct](../politics/districts.md).
+Their careful investigation and cataloguing of these new technological primitives helps safeguard humanity against the threats posed by technological innovation. ALTAR works closely with the [AIC](atlan-information-control-aic.md) in order to introduce new tech, and maintain the [NDA’s](../politics/new-dawn-accords.md) doctrine of 'mutual incompatibility', ensuring each district's technological paradigm is [distinct](../politics/districts.md).
 
-In the world of Atla and GATA, while many secrets lurk beneath the surface, the influence of ALTAR remains unmistakable.
+In GATA's halls of power many secrets lurk beneath the surface, however the unseen influence of ALTAR remains undeniable.
 
 ***
 
 ## **History**
 
-Established concurrently with the founding of Atla as an extension of the [Research Corps](../../sol/institutions/the-research-corps.md), ALTAR's prime directive has always been the safeguarding and study of the mysterious ["Found Objects."](../../science-and-tech/found-objects.md)
+Established concurrently with the founding of Atla as an extension of the [Research Corps](../../sol/institutions/the-research-corps.md) intended to handle all programs that were only permitted under the Existence Doctrine. Since its founding, ALTAR's public mandate has always been to protect humanity against the threats posed by unregulated innovation.&#x20;
 
-Collected by the [Joint Atlantic Command (JAC)](../history/the-joint-atlantic-command-jac.md) in the tumultuous early days of [the Dark Decade](../../history/the-dark-decade.md), for most people around the world these anomalous objects remain shrouded in apocryphal myth.
+However, those closer to the seat of power purport to know an unspoken truth; ALTAR's true prime directive is the safeguarding and study of the mysterious ["Found Objects."](../../science-and-tech/found-objects.md)
 
-The origins of these 67 objects, of which 21 are mere fragments, remain uncertain, though many speculate an extraterrestrial connection.
+Believed to have been collected by the [Joint Atlantic Command (JAC)](../history/the-joint-atlantic-command-jac.md) in the tumultuous early days of [the Dark Decade](../../history/the-dark-decade.md), for most people around the world these anomalous objects remain shrouded in myth and fiction. The origins of these rumored artifacts remain uncertain, though many boldly speculate an extraterrestrial connection.
 
-Spanning a diverse size range from a mere 3cm to an imposing 155m, they have, for millennia been secretly coveted by black budget operations, governments, empires, and religions.
+It is said that the Objects range in size from a mere 3cm to an imposing 155m, that they have been the source of ALTAR's tremendous innovations, and that they have been secretly coveted by black budget operations, governments, empires, and religions for all of recorded history.
 
 ***
 
@@ -52,7 +52,9 @@ Spanning a diverse size range from a mere 3cm to an imposing 155m, they have, fo
 
 Boasting a recruitment roster that includes the most brilliant minds from not just GATA and Sol, but also from the recognized territories of [AU](../../african-union/politics/the-basics.md), [Aryabat](../../aryabat/the-basics.md), [New Imperial Japan](../../new-imperial-japan/the-basics.md), and [URSA](../../ursa/the-basics.md), ALTAR is a multi-national hive of innovation and, albeit indirect, collaboration.
 
-Researchers, usually working solitarily or in compact teams, delve into the frontiers of the most top-secret research and unravel the mysteries of the Found Objects. While the primary motivation of their inquiries is ostensibly advancing scientific understanding, if a team's work produces new processes or technologies that are cleared by ALTAR and paradigmed by the AIC, the researchers are rewarded with [enterprise](../enterprise/) licenses, granting them the right to transform their discoveries into cutting-edge products or license them to qualifying legal enterprises.
+Researchers, usually working solitarily or in compact teams, delve into the frontiers of the most top-secret research and unravel the mysteries concealed within ALTAR's deep-sea complex.
+
+While the primary motivation of their inquiries is ostensibly advancing scientific understanding, if a team's work produces new processes or technologies that are cleared by ALTAR and paradigmed by the AIC, the researchers are rewarded with [enterprise](../enterprise/) licenses, granting them the right to transform their discoveries into cutting-edge products or license them to qualifying legal enterprises.
 
 ***
 

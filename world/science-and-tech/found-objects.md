@@ -50,7 +50,7 @@ Despite many first-hand and historical accounts in citizen publications claiming
 
 The existence of the Found Objects is particularly hard to believe for those who did not see the way Atla, and later, GATA, operated during the Existence Doctrine days, when they openly used extremely advanced, experimental systems in the field.
 
-<figure><img src="../../.gitbook/assets/statics-0s8fg.png" alt="" width="563"><figcaption><p>A static-powered personal transport ship.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/world3.png" alt="" width="563"><figcaption><p>A static-powered personal transport ship.</p></figcaption></figure>
 
 Today, citizens of GATA, and people around the world have grown accustomed to the advancements claimed to have been reverse-engineered from the Found Objects, like [links](links.md), [static tech](statics.md), [parallel energy](parallel-energy.md), and [quantum seeds](quantum-seeds.md).
 
@@ -58,7 +58,7 @@ Today, citizens of GATA, and people around the world have grown accustomed to th
 
 ## **Found Object Research**
 
-It is believed that over the course of [the Dark Decade](../history/the-dark-decade.md) and [Reconstruction](../history/the-reconstruction.md), 124 Found Objects were collected by Atla.
+It is believed that over the course of [the Dark Decade](../history/the-dark-decade.md) and [Reconstruction](../history/the-reconstruction.md), a large number of Found Objects were collected by Atla.
 
 Some of these Found Objects are small centimeter-sized fragments of larger objects, while the largest known Found Objects is as large as a football field.
 

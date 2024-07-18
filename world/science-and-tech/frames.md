@@ -94,18 +94,16 @@ The strong structural chassis of frames allows them to carry heavy loads and wit
 
 ### Military
 
-<div>
+<figure><img src="../../.gitbook/assets/guardians-531.png" alt="" width="563"><figcaption><p>War frames awaiting deployment.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/guardians-531.png" alt="" width="563"><figcaption><p>A couple war frames ready for deployment.</p></figcaption></figure>
-
- 
+* **War Frames**: Larger combat frames equipped with advanced weaponry and armor, used to hold strategic positions and engage enemy forces head-on. War frames can vary significantly in size and load-out.
 
 <figure><img src="../../.gitbook/assets/frames-712.png" alt="" width="563"><figcaption><p>A modern field frame.</p></figcaption></figure>
 
-</div>
-
-* **War Frames**: Larger combat frames equipped with advanced weaponry and armor, used to hold strategic positions and engage enemy forces head-on. War frames can vary significantly in size and load-out.
 * **Field Frames**: Mid-sized, faster, and more dexterous combat frames, well-suited for dynamic conditions and missions requiring hands-on precision. Particularly effective up-close against other frames. Typically have a standard humanoid design with hands, allowing them to easily carry and swap a wide range of weapons and gear, or otherwise manipulate their environment.
+
+<figure><img src="../../.gitbook/assets/frame-3423.png" alt="" width="563"><figcaption><p>A ghost frame in the moon light.</p></figcaption></figure>
+
 * **Ghost Frames**: Outfitted with advanced sensors and stealth technology for surveillance and reconnaissance missions. On the battlefield, ghost frames are focused on establishing informational supremacy, and in combat they are small, fast, and opportunistic.
 
 ### Construction
