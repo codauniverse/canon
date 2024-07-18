@@ -42,7 +42,7 @@ It was during this time that GATA's growing citizenry would begin to refer to th
 
 ### After the Formation of Angelis
 
-<figure><img src="../../../.gitbook/assets/frames-3453.png" alt="" width="563"><figcaption><p>An Angelis Guardian's war frame.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guardians-3452.png" alt="" width="563"><figcaption><p>An Angelis Guardian's war frame.</p></figcaption></figure>
 
 Later, following the end of the Existence Doctrine and the subsequent formation of Angelis, the Guardians branch was formally established by Angelis as a direct continuation of the compartment operating GATA's most iconic, stalwart protectors. These "guardians angels" are even the inspiration for Angelis' very name.
 
