@@ -78,11 +78,11 @@ Guardians are equipped with the most advanced technology available in GATA, than
 
 ### Guardian Frames
 
-Their iconic blue war frames are designed for mid-size to large-size mechanical exoskeletons called "frames", offering enhanced protection and heavier loadouts. Their frames are integrated with statics for trans-medium operations, allowing Guardians to seamlessly transition between land, air, sea, and space environments.
+The Guardians' iconic blue war frames range from mid-to-large size, offering enhanced protection and heavier loadouts. Their frames are integrated with statics for trans-medium operations, allowing Guardians to seamlessly transition between land, air, sea, and space environments.
 
-At the heart of each Guardians war frame is a rudimentary COG managing many of the Guardian's subsystems in concert with the actions of the pilot.
+At the heart of each Guardians war frame is a purpose-built COG built using custom raw hard code. These narrow cognitive systems manage the Guardian's subsystems in concert with the actions of the pilot.
 
-Each Guardian's frame is tailored to their specific mission requirements, featuring cutting-edge technology such as enhanced sensory interfaces, augmented reality displays, and adaptive camouflage. This frame is designed to provide maximum operational efficiency and survivability in diverse combat scenarios.
+Each Guardian's frame is tailored to their specialization, and modified to meet specific mission requirements, featuring cutting-edge technology such as enhanced sensory interfaces, augmented reality displays, and adaptive camouflage. They're designed to provide maximum operational efficiency and survivability in diverse combat scenarios.
 
 ### **Weaponry**
 
