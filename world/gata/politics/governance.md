@@ -20,11 +20,11 @@ layout:
 
 [GATA](../) employs a unique form of governance that can be defined as "Cybernetic Democracy." This model was instituted in 2061 and spans across regions including North America, South America, Western Europe, and North Africa.
 
-It operates under a highly sophisticated and secure automated logistical framework called "[The System](the-system.md)," which oversees not only the supply chain and economy but also the governance of GATA.
+The foundation of GATA's political and national apparatus is a highly sophisticated and secure automated logistical framework called "[The System](the-system.md)," which underpins not only the supply chain and economy but also the governance of GATA.
 
-GATA's governance is a sophisticated blend of automation and representative decision-making, structured into three distinct but interconnected Quorums.&#x20;
+GATA's governance is a sophisticated blend of automation and representative decision-making, structured into three distinct but interconnected Quorums. Each Quorum plays a unique and vital role in maintaining the balance and functionality of GATA's societal structure.
 
-The System autonomously reacts to democratic inputs from the [Three Quorums](governance.md#leadership) as well as other signals across its network. Each Quorum plays a unique and vital role in maintaining the balance and functionality of GATA's societal structure.
+The System autonomously reacts to democratic inputs from the [Three Quorums](governance.md#leadership) as well as other signals across its network, and seamlessly enforces GATA regulations and policies.
 
 ***
 
@@ -48,13 +48,13 @@ This council of seven members is the pinnacle of GATA's governance. They are ele
 
 Council members typically serve for about ten years before grooming a replacement, usually from the ranks of the Second Quorum, and retiring.
 
-The First Quorum holds significant influence, overseeing major policy decisions and the overarching direction of GATA, akin to a governing board.&#x20;
+The First Quorum holds significant influence, overseeing major policy decisions and the overarching direction of GATA, akin to a governing board. Their role is to safeguard GATA's future, and when they intercede in Second Quorum matters, it is generally when near-term and long-term interests are in conflict.
 
 Their mandate is to ensure the stability, security, and continuing incorporation of districts in the ever-expanding territory of Greater Atla. The First Quorum directs GATA's foreign policy, and GATA's ambassadors work directly under the First Quorum.
 
 They have the exclusive authority to direct [Angelis](../military-and-defense/angelis.md) and approve Angelis support requested by the Second Quorum.
 
-They work closely with the AIC [Chairperson](../institutions/atlan-information-control-aic.md#leadership-and-governance), the Director of Systema, and ALTAR leadership.
+They work closely with the AIC [Chairperson](../institutions/atlan-information-control-aic.md#leadership-and-governance), the Director of [Systema](../enterprise/systema.md), and [ALTAR](../institutions/altar.md) leadership in constructing their projections and plans for the future.
 
 The First Quorum is afforded a high degree to autonomy and secrecy in their decision making.
 
@@ -62,15 +62,19 @@ The First Quorum is afforded a high degree to autonomy and secrecy in their deci
 
 Comprising elected representatives from each of GATA’s [districts](districts.md), the Second Quorum acts as a bridge between the diverse interests of GATA’s districts, and the [First Quorum](governance.md#the-first-quorum). The number of representatives per district varies, reflecting relative population sizes but not strictly proportional to it.
 
-The Second Quorum is pivotal in voicing and projecting the unique needs and interests of GATA’s districts, homesteads, and unincorporated populaces. It is key to GATA’s distributed governance, from shaping common domestic policies, to oversight of [enterprise](../enterprise/), or promoting peace and order domestically.
+The Second Quorum is pivotal in voicing and projecting the unique needs and interests of GATA’s districts, homesteads, and unincorporated populaces. It is key to GATA’s distributed governance, from shaping common domestic policies, to oversight of [enterprise](../enterprise/), or promoting peace and order domestically. Their role is to oversee the near-term prosperity and peace within and between GATA's districts, and support the incorporation process of new districts.
 
-The Second Quorum can also approve bounties that are funded from System [Yield](yield.md) surplus, giving districts a unique way to incentivize certain outcomes, or encourage new enterprise.
+The Second Quorum also propose and approve bounties that are funded from System [Yield](yield.md) surplus, giving the governing body a unique way to incentivize certain outcomes, or encourage new enterprise.
 
-The Second Quorum also provides a setting for direct diplomacy between districts. In the halls of [Atla](../key-locations/atla.md)’s bureaucratic maze, representatives and other keyholders of the state will negotiate trades and partnerships to meet needs that The System can’t address.
+The Second Quorum also provides a setting for direct diplomacy between districts. In the halls of [Atla](../key-locations/atla.md)’s bureaucratic maze, representatives and other keyholders of the state will negotiate trades and partnerships to meet needs that the System can’t address.
 
 ### **The Third Quorum**
 
 The most expansive and inclusive, this Quorum comprises every citizen of GATA. Through [System Terminals](the-system.md#system-terminals), citizens vote on key issues affecting their districts, and broader policies across GATA.
+
+The decisions presented to the Third Quorum are concerned with the immediate, local present, and the distant, common future. Citizens are able to immediately voice their sentiment in reaction to Second Quorum and First Quorum policies, providing a critical signal for representatives and The System.
+
+They also are responsible for the "Optima", which is the aggregated and ever-shifting vision for GATA's 100-year future. The Optima is created from a continuous survey gathering critical data about what citizens want and demand for the future. The Optima is one of the most powerful concepts in GATA's governance, informing the deliberations of the First and Second Quorum, providing a transparent and comprehensive reference for weighing priorities in critical decisions.
 
 This direct democratic practice ensures a level of citizen engagement and representation in the governance process.
 
@@ -80,7 +84,7 @@ This direct democratic practice ensures a level of citizen engagement and repres
 
 ### High Councilor
 
-A member of the First Quorum, wielding considerable power and responsibility in steering GATA's policies and future.
+Members of the First Quorum, wielding considerable power and responsibility in steering GATA's policies and future.
 
 ### District Representative
 
