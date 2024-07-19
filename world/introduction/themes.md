@@ -43,20 +43,21 @@ The CODA Universe is just as informed by its rich, thematic undertones as it is 
 
 ## Genre & Sub-genre
 
-The CODA Universe is a vast storyworld that sets the stage for stories of any high-level genre, from Action and Comedy, to Mystery and Romance, and beyond. However, woven into the fabric of the world are various key sub-genres that passively influence the stories that are told.
+The CODA Universe is a vast storyworld that sets the stage for stories of any high-level genre, from Action and Comedy, to Mystery and Romance, and everything in between. However, woven into the fabric of the world are aspects of key sub-genres that passively influence the stories that are told.
 
 * Sci-fi
 * Post-cyberpunk
-* Conspiracy Thriller
 * Epic
-* Film Noir
-* Mecha
-* Military Sci-fi
 * Genius Thriller
-* Music Stories
 * Psychological Thriller
+* Conspiracy Thriller
 * Speculative Fiction
-* Western
+* Film Noir
+* Music Stories
 * Gangster Fiction
-* Shōnen & Shōjo
+* Military Sci-fi
+* Western
+* Mecha
+* Shōnen
+* Shōjo
 * Idol Genre

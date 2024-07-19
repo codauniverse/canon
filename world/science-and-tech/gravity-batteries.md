@@ -45,10 +45,12 @@ Gravity batteries offer several key advantages:
 * **Sustainability:** Utilizing abundant and non-toxic materials, they pose minimal environmental risks.
 * **Longevity:** With minimal wear and tear compared to chemical batteries, they boast a long operational lifespan.
 * **Scalability:** They can be easily scaled up or down to meet different energy storage needs.
-* **Efficiency:** High round-trip efficiency, typically around 80-90%, makes them a reliable choice for energy storage.&#x20;
+* **Efficiency:** High round-trip efficiency, typically around 80-90%, makes them a reliable choice for energy storage.
 
 ***
 
 ## Usage
+
+<figure><img src="../../.gitbook/assets/gravitybatteries-935.png" alt="" width="563"><figcaption><p>A rural homestead using a DIY gravity battery to store energy.</p></figcaption></figure>
 
 Gravity batteries are widely adopted in various regions and communities, and are particularly prevalent in the Free Territories, Aryabat, and among Homesteaders in Greater Atla. In these areas, the need for sustainable, low-maintenance, and reliable energy storage solutions has driven the adoption of gravity batteries.
