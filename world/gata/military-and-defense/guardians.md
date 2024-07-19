@@ -42,7 +42,7 @@ It was during this time that GATA's growing citizenry would begin to refer to th
 
 ### After the Formation of Angelis
 
-<figure><img src="../../../.gitbook/assets/guardians-3452.png" alt="" width="563"><figcaption><p>An Angelis Guardian's war frame.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guardians-3452.png" alt="" width="563"><figcaption><p>A modern Guardian war frame.</p></figcaption></figure>
 
 Later, following the end of the Existence Doctrine and the subsequent formation of Angelis, the Guardians branch was formally established by Angelis as a direct continuation of the compartment operating GATA's most iconic, stalwart protectors. These "guardians angels" are even the inspiration for Angelis' very name.
 
@@ -54,7 +54,7 @@ Equipped with cutting edge frames, advanced technology and heavy weaponry, Guard
 
 ## Deployment and Operations
 
-<figure><img src="../../../.gitbook/assets/guardians-531.png" alt="" width="563"><figcaption><p>Two Guardian units deployed with Angelis infantry.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/guardians-531.png" alt="" width="563"><figcaption><p>Two Guardian frames deploying with Angelis infantry.</p></figcaption></figure>
 
 Guardians typically operate in fireteams of four, though their numbers can vary depending on the mission requirements. Their operators are among the most highly trained and capable individuals in all of Angelis' armed forces. They are famously known for two things; waiting patiently, and striking ferociously.
 
