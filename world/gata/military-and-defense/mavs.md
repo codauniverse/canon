@@ -34,6 +34,8 @@ In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the
 
 ### The Clear Serum Program
 
+<figure><img src="../../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption><p>A field lab where the Clear Serum was administered to volunteers.</p></figcaption></figure>
+
 One Existence Doctrine program sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental gene therapy called ["Clear"](mavs.md#clear-serum).&#x20;
 
 Designed to enhance the physical and mental capabilities of GATA forces, the therapy drastically improved reflexes, speed of thought and learning, immunity, and healing capabilities.&#x20;
@@ -42,13 +44,15 @@ However, it came at a cost; those who could endure the therapy experienced vario
 
 The Clear Serum project was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to military and intelligence applications.
 
-It is estimated that more than one hundred thousand Dark Decade and Reconstruction veterans had received some variant of the Clear Serum, most without their knowledge. Early Clear was heavily derived from Silver [Manna](../../science-and-tech/the-manna-flower.md) and various genetic modifications based on classified research, however the exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.
+It is estimated that more than fifty thousand Dark Decade and Reconstruction veterans had received some variant of the Clear Serum, most without their knowledge. Early formulations of the Clear serum were primarily derived from Silver [Manna](../../science-and-tech/the-manna-flower.md) and therapies to produce various genetic modifications based on classified research, however the exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.
 
 These early test subjects and their remarkable performance in the field inspired the creation of another Existence Doctrine Program; the Unassisted Decisive Asset program.
 
 ### Unassisted Decisive Assets
 
-Those who survived the transformation were officially termed "Unassisted Decisive Assets" (UDAs). Singularly potent, and armed with GATA’s superior weaponry and equipment, a Maverick could replace an entire battalion, undertaking critical assignments, from asset retrieval or protection, to sabotage and assassinations. Over time, these much-mythologized one-person armies acquired a more colloquial title — the "Mavericks."&#x20;
+<figure><img src="../../../.gitbook/assets/uda-424.png" alt="" width="563"><figcaption><p>Legendary UDA operative Dante Newton calmly assessing the field.</p></figcaption></figure>
+
+Those who survived the transformation were officially termed "Unassisted Decisive Assets" (UDAs). Singularly potent, and armed with GATA’s superior weaponry and equipment, a Maverick could replace an entire battalion, undertaking critical assignments, from asset retrieval or protection, to sabotage and assassinations. Over time, these much-mythologized one-person armies acquired a more colloquial title — the "Mavericks."
 
 While incredibly performant, the UDAs had one fatal flaw in the eyes of GATA's military leadership. They were human; unpredictable, diverse in their methods, and capable of disobeying commands.
 
@@ -58,17 +62,19 @@ It is believed that this very flaw was the reason that the original UDA developm
 
 When the Clear program and original UDA program were dissolved, all related records were scrubbed from the [General Record](../politics/the-general-record.md) by the [AIC](../institutions/atlan-information-control-aic.md). Whispers persist that the UDA program was responsible for numerous infamous scandals during the [Reconstruction Era](../../history/the-reconstruction.md), however these claims remain unsubstantiated.
 
-And even darker rumors abound – some assert that ALTAR keeps retired UDAs in cryostasis, while others trade tales of renegade UDAs still operating in the shadows.
+And even darker rumors abound – some assert that ALTAR keeps retired UDAs in cryostasis, while others trade tales of renegade UDAs operating in the shadows, working for criminal syndicates or Sovereign factions.
+
+For others, the UDA program does not appear so mysterious; several former UDA operatives are known to still hold positions within Angelis' armed forces and administration, despite there being no official record of their operational activities.
 
 ***
 
-<figure><img src="../../../.gitbook/assets/nomoney420_character_in_bulky_armor_suit_sleek_angular_design_m_49ec6427-9f69-48c4-a0b2-fe4e36b9961c.png" alt="" width="563"><figcaption><p>A MAV surveilling the situation.</p></figcaption></figure>
-
 ## **MAVs: The Modern Super Soldier**
 
-Under the aegis of Angelis, the [First Quorum](../politics/governance.md#the-first-quorum) approved the formation of an official MAVERICK division shortly following the Bright Mesa attack. The controversial history and mythic status of the original UDA program and its "Mavericks" was intentionally muddied by using the same name.
+<figure><img src="../../../.gitbook/assets/nomoney420_character_in_bulky_armor_suit_sleek_angular_design_m_49ec6427-9f69-48c4-a0b2-fe4e36b9961c.png" alt="" width="563"><figcaption><p>A MAV standing at attention.</p></figcaption></figure>
 
-MAVs can be identified on the battlefield by their white [Combat Gear](../../science-and-tech/gear.md#combat-gear).
+Under the aegis of Angelis, the [First Quorum](../politics/governance.md#the-first-quorum) approved the formation of an official MAVERICK division immediately following the Bright Mesa attack. The controversial history and mythic status of the original UDA program and its "Mavericks" was intentionally muddied by using the same name.&#x20;
+
+"MAVs" would offer a more aggressive, combat-focused alternative to Rapid Response, suitable for decisive interventions. MAVs can be identified on the battlefield by their white [Combat Gear](../../science-and-tech/gear.md#combat-gear), a nod to the white armor of the UDAs, and offering a strong visual distinction from Angelis' standard infantry, with their blue combat gear.
 
 ### The New MAV Development Program
 
@@ -77,6 +83,20 @@ Angelis refined the “asset development” process using a more modest therapeu
 Combined with miniaturized [cog](../../science-and-tech/cogs.md) implants in their brain stem to enhance their movement, and external [hard-coded compute platforms](../../science-and-tech/hard-code.md) that further extend their enhanced abilities, these more "reliable" assets can be remotely regulated by throttling their external cog's compute. In this way, modern MAVs can effectively be dialed up or down remotely by Angelis.
 
 While the cog implant’s [LMNL](../../science-and-tech/hard-code.md#lmnl) architecture prevents remote manipulation, if the implant is damaged or somehow disabled, the asset’s battlefield performance would drop precipitously. It is generally acknowledged that, while still extremely effective, modern MAVs are not as singularly effective as the original UDAs, partially due to their more conservative augmentations, and partially due to their reliance on cogs, making them not truly "unassisted" assets.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/mavericks-353.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/mavericks-435.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/mavericks-555.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 The modern Mavericks, commonly referred to as MAVs, are the ace up Angelis' sleeve. Dropping from orbital [“Watchtowers”](angelis.md#watchtowers) in Aegis pods, and using static tech to accelerate their descent and soften their landing, MAVs can be deployed anywhere around the world in a matter of minutes.
 
@@ -95,7 +115,4 @@ However, MAVs aren't without their limitations. They thrive in solitary operatio
 Known only among program administrators, personnel, and the elite soldiers themselves, some names rise above the rest as highly notable Mavericks.
 
 * Dante Newton, stands as a testament to the prowess of the original UDAs. With countless deployments to his name, he is best remembered by those in-the-know for facing an entire [Free Territory](../../free-territories/) militia in North Texas to complete his mission successfully at the cost of his own life.
-
-<figure><img src="../../../.gitbook/assets/nomoney420_character_in_armored_combat_suit_sleek_angular_desig_bea394d5-1f24-4ded-96f0-cc9d39f49af1.png" alt="" width="563"><figcaption><p>PHOBOS unchained.</p></figcaption></figure>
-
-* PHOBOS, known only by their call-sign, a much-mythologized Maverick, rumored to be the first current-generation MAV, successfully implanted with a COG relay in their brain stem.
+* Finneas "Finn" Hughes, while not officially a MAV, was part of the original UDA program first carrying the unofficial moniker of "Mavericks". With the formation of Angelis, Finn joined the [Rapid Response](rapid-response.md) division where he went on to become one of its most decorated operatives. He was later killed in the process of bringing the ["Butcher of Bright Mesa"](../history/bright-mesa.md#the-bright-mesa-attack) to justice.

@@ -16,7 +16,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/finn-small.jpeg" alt="" width="256"><figcaption></figcaption></figure>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 65 (Deceased)</p><p>Occupation: Rapid Response Operative</p><p>First Impression: Calm under pressure</p><p>Self-Image: Protector of the innocent</p><p>True Self: Burdened hero<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 3, 2060</p><p>Location: Watchtower 01, GATA</p><p>Citizenship: GATA</p><p>Ethnicity: American</p><p>Born: Louisiana Refugee Camp, GATA</p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 55 (Deceased)</p><p>Occupation: Rapid Response Operative</p><p>First Impression: Calm under pressure</p><p>Self-Image: Protector of the innocent</p><p>True Self: Burdened hero<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 3, 2060</p><p>Location: Watchtower 01, GATA</p><p>Citizenship: GATA</p><p>Ethnicity: American</p><p>Born: Louisiana Refugee Camp, GATA</p></td></tr></tbody></table>
 
 ## Appearance
 
@@ -49,9 +49,9 @@ His missions often brought him into contact with sovereigns from the Free Territ
 
 In time, Finn took on a mentorship role for younger Rapid Response recruits, sharing his extensive experience and wisdom while guiding them through their own struggles and challenges, and working to bring out the best in his teammates. However, he remained known for his self-assured, decisive, no-nonsense attitude in the field, which some less familiar with him sometimes mistook for arrogance.
 
-Tragically, Finn's life ended during the Bright Mesa terrorist attack, where he heroically confronted and defeated the terrorist known as the Butcher of Bright Mesa. His sacrifice doubtlessly saved countless lives, cementing his legacy as the greatest Rapid Response operative in history.
+Tragically, Finn's life ended in 2115 during the Bright Mesa terrorist attack, where he heroically confronted and defeated the terrorist known as the Butcher of Bright Mesa. His sacrifice doubtlessly saved countless lives, cementing his legacy as the greatest Rapid Response operative in history.
 
-He was posthumously awarded the White Flower Medal the highest honor by GATA for his heroism in Bright Mesa, and his story has been adapted into various forms of media, from holo-novels to constructs.
+He was posthumously awarded the White Flower Medal, the highest honor in GATA for his heroism in Bright Mesa, and his story has been adapted into various forms of media, from holo-novels to virtual constructs.
 
 ***
 
