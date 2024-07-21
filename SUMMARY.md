@@ -129,6 +129,7 @@
     * [Sync Raves](world/gata/underground-scene/sync-raves.md)
     * [Recreational Drugs](world/gata/underground-scene/recreational-drugs.md)
     * [Greenwork](world/gata/underground-scene/greenwork.md)
+    * [Pleasure Houses](world/gata/underground-scene/pleasure-houses.md)
 * [📘 African Union](world/african-union/README.md)
   * [🔵 The Basics](world/african-union/the-basics.md)
   * [🗺️ Key Locations](world/african-union/key-locations.md)
