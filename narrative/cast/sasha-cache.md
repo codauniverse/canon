@@ -39,7 +39,7 @@ layout:
 
 Sasha Cache was born just outside of London, a city resurrected from the ashes of the Dark Decade into a bustling hub of trade after being districted by GATA in the later years of the Reconstruction.
 
-Her parents, small-time shopkeepers in Dagenham, struggled to make ends meet, but Sasha had bigger dreams. From a young age, she was stifled by the smallness of her world determined to escape her humble home and climb the social ladder to the glittering heights of Atla’s gleaming towers.
+Her parents, small-time shopkeepers in Dagenham, struggled to make ends meet, but Sasha had bigger dreams. From a young age, she was stifled by the smallness of her world, determined to escape her humble home and climb the social ladder to the glittering heights of Atla’s gleaming towers.
 
 Sasha's climb began in London's underground party scene, where her knack for connecting with influential figures became apparent. She navigated the labyrinthine causeways connecting the underground to the pinnacles of London's high society with ease, using her charm and wits to secure invitations to the most exclusive events. Her natural flair for fashion and keen eye for trends soon made her a sought-after taste-maker.
 
