@@ -28,7 +28,7 @@ Despite these challenges, GATA's prosperous and diverse financial ecosystem rema
 
 ## **Credits Currency**
 
-Credits (CRED), commonly referred to simply as "creds", are the main medium of exchange within GATA and the native currency of the System.&#x20;
+Credits (CRED), commonly referred to simply as "creds", are the main medium of exchange within GATA and the native currency of the System.
 
 Introduced with the creation of the System, credits facilitate legal transactions across all sectors, from everyday purchases to large-scale industrial operations. Credits are intrinsic to the operation of the System, which uses a hard-coded architecture that borrows from Old World decentralized networks.
 
@@ -56,7 +56,7 @@ Some of the alternative currencies in the System economy have been ported over f
 
 ### Bitcoin
 
-Bitcoin is the most prominent legacy currency remaining from the Old World. Primarily used as a store of value and a hedge against volatility similar to how gold was used historically. Due to the prevalence of [Sol-supervised](../../sol/the-basics.md) asteroid mining and techniques that allow the synthesis of many rare and exotic materials, precious metals like gold are no longer suitable for that purpose.
+Bitcoin is the most prominent legacy currency remaining from the [Old World](../../history/the-old-world.md). Primarily used as a store of value and a hedge against volatility similar to how gold was used historically. Due to the prevalence of [Sol-supervised](../../sol/the-basics.md) asteroid mining and techniques that allow the synthesis of many rare and exotic materials, precious metals like gold are no longer suitable for that purpose.
 
 ***
 

@@ -84,7 +84,7 @@
     * [Angelis](world/gata/military-and-defense/angelis.md)
     * [Guardians](world/gata/military-and-defense/guardians.md)
     * [Rapid Response](world/gata/military-and-defense/rapid-response.md)
-    * [MAVs](world/gata/military-and-defense/mavs.md)
+    * [MAV](world/gata/military-and-defense/mav.md)
   * [⚖️ Law & Order](world/gata/law-and-order/README.md)
     * [Tech Regulation](world/gata/law-and-order/tech-regulation.md)
     * [Collections](world/gata/law-and-order/collections.md)
