@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-A specialized division of [Angelis](angelis.md), Rapid Response are elite first responder units that are rapidly deployed to hotspots, battlefields, and disaster zones across [Greater Atla](../politics/greater-atla.md) and [GATA's](../the-basics.md) [partner states](../politics/new-dawn-accords.md#signatories). They typically operate in teams of 3-5 with complementary skills and are deployed from orbit in hard-landing pods called an Aegis, the same deployment method as [Mavericks](mav.md). Due to many similarities between their training and operating procedures, new Mavericks are often recruited from the ranks of Rapid Response.
+A specialized division of [Angelis](angelis.md), Rapid Response are elite first responder units that are rapidly deployed to hotspots, battlefields, and disaster zones across [Greater Atla](../politics/greater-atla.md) and [GATA's](../the-basics.md) [partner states](../politics/new-dawn-accords.md#signatories). They typically operate in teams of 3-5 with complementary skills and are deployed from orbit in hard-landing pods called an Aegis, the same deployment method as [Mavericks](mavs.md). Due to many similarities between their training and operating procedures, new Mavericks are often recruited from the ranks of Rapid Response.
 
 Rapid Response is identifiable by their red [combat gear](../../science-and-tech/gear.md#combat-gear), often in the small to mid-size range. Their gear emphasizes adaptability and maneuverability, designed to withstand the most extreme conditions, and are generally light on weapons and heavy on utility.
 

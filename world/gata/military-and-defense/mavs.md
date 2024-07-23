@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# MAV
+# MAVs
 
 <figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt=""><figcaption><p>Modern MAV Combat Gear.</p></figcaption></figure>
 
@@ -20,31 +20,33 @@ layout:
 
 MAVERICKS (MAVs) are the pinnacle of [Angelis](angelis.md) and [GATA](../the-basics.md) combat effectiveness. The best of the best, recruited from the ranks of the [Guardians](guardians.md) and [Rapid Response](rapid-response.md).
 
-The defining attribute of a successful MAV is their ability to operate independently, which was the basis for the [Unassisted Decisive Asset](mav.md#origins) (UDA) program that preceded.
+The defining attribute of a successful MAV is their ability to operate independently, which was the basis for the [Unassisted Decisive Asset](mavs.md#origins) (UDA) program that preceded the modern MAV division.
 
-However, simply being recruited into the MAV program is not enough; recruits must be able to physically and mentally tolerate the battery of therapies and enhancements that separate MAVs from other Angelis assets.
+However, simply being recruited into the MAV division is not enough; recruits must be able to physically and mentally tolerate the battery of training, therapies, and enhancements that separate MAVs from Angelis' other assets.
 
-Among other augmentations, modern MAV operatives have miniaturized cog implants installed directly in their brainstem, enhancing their reflexes, pain tolerance, and tactical and strategic thinking. These cog implants can be paired with portable external compute that the MAV can position strategically or carry with them throughout an engagement, even further magnifying their combat performance and situational awareness.
+Among other augmentations, modern MAVs have miniaturized cog implants installed directly in their brainstem, enhancing their reflexes, pain tolerance, and tactical decision-making. These cog implants can be paired with portable external compute that the MAV can strategically conceal, or carry with them throughout an engagement, even further magnifying their combat performance and situational awareness.
 
 ***
 
 ## **Origins**
 
-In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the desperate need to tame a chaotic world precipitated [Atla](../key-locations/atla.md)'s institution of the ["Existence Doctrine"](existence-doctrine.md), an operational philosophy which permitted numerous secret programs to temporarily explore experimental technologies and methods with minimal oversight.
+In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the desperate drive to recover human civilization from the brink birthed [Atla's](../key-locations/atla.md) ["Existence Doctrine"](existence-doctrine.md), an operational philosophy which permitted numerous compartmentalized programs to explore radical technologies and methods with minimal restriction.
+
+In particular, one Existence Doctrine program sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental gene therapy called ["Clear"](mavs.md#clear-serum).
 
 ### The Clear Serum Program
 
 <figure><img src="../../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption><p>A field lab where the Clear Serum was administered to volunteers.</p></figcaption></figure>
 
-One Existence Doctrine program sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental gene therapy called ["Clear"](mav.md#clear-serum).&#x20;
+The program's goal was to enhance the physical and mental capabilities of Atla's military forces, and it was not long before the program yielded promising results. The experimental therapy drastically improved test subjects' reflexes, speed of thought and learning, immune system function, and healing capabilities.
 
-Designed to enhance the physical and mental capabilities of GATA forces, the therapy drastically improved reflexes, speed of thought and learning, immunity, and healing capabilities.&#x20;
+However, it came at a cost; those who could endure the therapy experienced various side effects that required regular attending. One notable side effect was an extreme increase in metabolic rate, with subjects needing constant calories and hydration, and leaving them prone to overheating, causing them discomfort and distress when sedentary.
 
-However, it came at a cost; those who could endure the therapy experienced various side effects that required regular attending. One notable side effect was an extreme increase in metabolic rate, with subjects needing constant calories and hydration, and leaving them prone to overheating when sedentary.
+Early formulations of the Clear serum were primarily derived from Silver [Manna](../../science-and-tech/the-manna-flower.md), as well as a range of classified research focused on producing genetic and epigenetic modifications in the subject. The exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.&#x20;
 
-The Clear Serum project was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to military and intelligence applications.
+The Clear Serum project was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to limited military and intelligence applications.
 
-It is estimated that more than fifty thousand Dark Decade and Reconstruction veterans had received some variant of the Clear Serum, most without their knowledge. Early formulations of the Clear serum were primarily derived from Silver [Manna](../../science-and-tech/the-manna-flower.md) and therapies to produce various genetic modifications based on classified research, however the exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.
+It is now estimated that as many as fifty thousand Dark Decade and Reconstruction refugees and veterans may have received some variant of the Clear Serum, many without their knowledge. For most, the therapies had negligible or short-term effects, however some subjects responded spectacularly.
 
 These early test subjects and their remarkable performance in the field inspired the creation of another Existence Doctrine Program; the Unassisted Decisive Asset program.
 
@@ -52,11 +54,9 @@ These early test subjects and their remarkable performance in the field inspired
 
 <figure><img src="../../../.gitbook/assets/uda-424.png" alt="" width="563"><figcaption><p>Legendary UDA operative [Redacted], calmly assessing the field.</p></figcaption></figure>
 
-Those who survived the transformation were officially termed "Unassisted Decisive Assets" (UDAs). Singularly potent, and armed with GATA’s superior weaponry and equipment, a Maverick could replace an entire battalion, undertaking critical assignments, from asset retrieval or protection, to sabotage and assassinations. Over time, these much-mythologized one-person armies acquired a more colloquial title — the "Mavericks."
+Those who survived the transformation were officially termed "Unassisted Decisive Assets" (UDAs). Singularly potent, and armed with GATA’s superior weaponry and equipment, a well-placed UDA could replace an entire battalion, undertaking critical assignments, from asset retrieval or protection, to sabotage and assassinations. Over time, these much-mythologized one-person armies acquired a more colloquial title — the "Mavericks."
 
-While incredibly performant, the UDAs had one fatal flaw in the eyes of GATA's military leadership. They were human; unpredictable, diverse in their methods, and capable of disobeying commands.
-
-It is believed that this very flaw was the reason that the original UDA development program was later redesigned from the ground up by Angelis when they assumed control of the program post-Existence Doctrine.
+While incredibly performant, the UDAs had one fatal flaw in the eyes of GATA's military leadership. They were human; unpredictable, diverse in their convictions and methods, and ultimately, capable of disobeying commands.
 
 ### End of the Existence Doctrine
 
@@ -80,9 +80,9 @@ For others, the UDA program does not appear so mysterious; several former UDA op
 
 </div>
 
-Following the [Bright Mesa attack](../history/bright-mesa.md#the-bright-mesa-attack), the [First Quorum](../politics/governance.md#the-first-quorum) approved the formation of an official MAVERICK division under the banner of Angelis. This modern MAVERICK division is an attempt to recover the operational dominance afforded by the original UDA program.
+For over a decade, the UDA program had been sealed and officially unacknowledged. However, to the surprise of many, the [First Quorum](../politics/governance.md#the-first-quorum) approved the formation of an official MAVERICK division under the banner of Angelis following the [Bright Mesa attack](../history/bright-mesa.md#the-bright-mesa-attack). This modern MAVERICK division is an attempt to recover the operational dominance displayed by the original UDA program.
 
-Over this official division's 10 year history, these new Mavericks, commonly referred to as MAVs, have proven themselves to be the ace up Angelis' sleeve. Dropping from orbital [“Watchtowers”](angelis.md#watchtowers) in static-powered Aegis pods, MAVs can be deployed anywhere around the world in a matter of minutes, and can quickly turn the tide of any conflict or crisis.
+Over this official division's now-ten-year history, these new Mavericks, referred to as "MAVs", have likewise proven themselves to be an invaluable tool in GATA's asymmetrical conflict with [Sovereign forces](../../free-territories/people-and-culture/sovereigns.md). Dropping from orbital [“Watchtowers”](angelis.md#watchtowers) in static-powered [Aegis pods](angelis.md#aegis-drop-pods), MAVs can be deployed anywhere around the world in a matter of minutes, and can quickly turn the tide of any conflict or crisis.
 
 Scouting and securing targets, reinforcing [Gate Patrol](../borders-and-travel/gate-patrol.md) and district [local authorities](../law-and-order/local-authority.md), overseeing shipping routes, and dropping into conflict zones in [GATA-allied territories](../politics/new-dawn-accords.md) or [homesteads](../politics/homesteads.md), the MAVs are arguably GATA's most pointed symbol and weapon. Their reputation for precision, discipline, and commitment to mission success makes them a threat few adversaries dare risk.
 

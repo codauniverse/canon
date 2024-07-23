@@ -18,7 +18,7 @@ layout:
 
 ## **Overview**
 
-[Angelis](angelis.md)’ mechanized special forces units, Guardians are GATA's most devastating blunt-force weapon, contrasted by the versatility of [Rapid Response](rapid-response.md), and the precision tactics of the [MAVs](mav.md). Guardians undergo rigorous training and conditioning, and demonstrate mastery of a wide range of skills including hand-to-hand combat, use of multiple firearms and weapon platforms, [link proficiency](../../science-and-tech/links.md), and unparalleled talent operating [war frames](../../science-and-tech/frames.md).&#x20;
+[Angelis](angelis.md)’ mechanized special forces units, Guardians are GATA's most devastating blunt-force weapon, contrasted by the versatility of [Rapid Response](rapid-response.md), and the precision tactics of the [MAVs](mavs.md). Guardians undergo rigorous training and conditioning, and demonstrate mastery of a wide range of skills including hand-to-hand combat, use of multiple firearms and weapon platforms, [link proficiency](../../science-and-tech/links.md), and unparalleled talent operating [war frames](../../science-and-tech/frames.md).&#x20;
 
 Guardian units are typically deployed in fireteams of four, often complemented by a company or battalion of regular infantry, as well as aerial support, however it is not uncommon for Guardians to be deployed solo to support active engagements on the ground, such as Gate Patrol operations, or partner-state conflicts.
 

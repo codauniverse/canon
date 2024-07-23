@@ -48,7 +48,7 @@ Watchtower staff provide direct monitoring of battlefields and Red Zones using a
 
 <figure><img src="../../../.gitbook/assets/overlook-3636.png" alt="" width="563"><figcaption><p>Angelis infantry awaiting deployment next to a Guardian frame.</p></figcaption></figure>
 
-A constellation of numerous small orbital platforms with hangars and barracks where Angelis infantry, [Guardians](guardians.md), [Rapid Response](rapid-response.md) and [Mavericks](mav.md) are posted and dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce deployment time to target.
+A constellation of numerous small orbital platforms with hangars and barracks where Angelis infantry, [Guardians](guardians.md), [Rapid Response](rapid-response.md) and [Mavericks](mavs.md) are posted and dispatched from. Overlooks are positioned across the Earth’s orbit, and are strategically distributed to reduce deployment time to target.
 
 In addition to combat units, overlooks are staffed with their own dedicated technical and support staff, and a team of elite watchers to support operations on the ground.
 
@@ -75,4 +75,4 @@ Aegis drop pods are used by Angelis infantry, support personnel, Rapid Response,
 Angelis has the most advanced combat gear in the world. Angelis infantry uses more standard loadouts, but their elite operatives, like Rapid Response and MAVs, are trained to use highly advanced gear that are tailored to their talents and each mission’s requirements.
 
 * [**Rapid Response**](rapid-response.md)**:** Red Combat Gear / Mid-to-small size / Less-lethal loadout
-* [**MAVs**](mav.md)**:** White Combat Gear / Small, form-fitting / Minimal loadout
+* [**MAVs**](mavs.md)**:** White Combat Gear / Small, form-fitting / Minimal loadout
