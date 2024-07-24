@@ -92,9 +92,9 @@ Lethal and unflinching, MAVs are trained for solo operations and are well suited
 
 MAV combat gear is widely regarded to be the most advanced in the world, conferring MAV operatives with a wide array of powerful resources and tactical options, in addition to astounding strength, speed and resilience.
 
-### The New MAV Development Program
+### MAV Development Program
 
-Angelis refined the “asset development” process using a more modest therapeutic regime that had much higher tolerance rates. Among other techniques, they induce natural epigenetic changes with sound baths, and administer an enhanced variant of [AKICEL](../enterprise/akicel.md)'s  rejuvenation therapy that hardens bone and induces changes in muscle fiber and connective tissues, significantly increasing the operative's strength and speed.
+Angelis refined the UDA “asset development” process, implementing a more modest therapeutic regime that has much higher tolerance rates. Among other techniques, they induce natural epigenetic changes with sound baths, and administer an enhanced variant of [AKICEL's](../enterprise/akicel.md) [rejuvenation therapy](../health-and-medicine/akicel-therapy.md#rejuvenation) that hardens bone and induces changes in muscle fiber and connective tissues, significantly increasing the operative's strength and speed.
 
 <figure><img src="../../../.gitbook/assets/nomoney420_character_in_bulky_armor_suit_sleek_angular_design_m_49ec6427-9f69-48c4-a0b2-fe4e36b9961c.png" alt="" width="563"><figcaption><p>A MAV standing at attention.</p></figcaption></figure>
 
