@@ -18,10 +18,10 @@ layout:
 
 ## Overview
 
-Luna is a sprawling lunar city on the face of the moon near its southern pole. In addition to being the key hub for inter-district travel, it is a popular travel destination for people from all districts as it is the easiest travel key for an Atlan citizen to acquire.
+Luna is a sprawling lunar city on the face of the moon near its southern pole. Known for its immense eco-domes, maze-like underground tunnels, and spatially-disorienting urban design, Luna has enjoyed a dramatic increase in quality of life over the past 30 years.
 
-While getting to Luna is relatively accessible, staying for any period of time is another matter; the cost of living on Luna is among the highest in GATA.
+In addition to being a key hub for inter-district travel, it is a popular travel destination for people from all districts as it is the easiest travel key for an Atlan citizen to acquire. Although, while the gate keys required to enter Luna may be relatively accessible, financing an extended stay in the city is another matter entirely; the cost of living in Luna is among the highest in GATA.
 
-Known for its immense eco-domes and unique low-gravity architecture and urban design, life on Luna is transforming thanks to advances in static-field, mitigating the deleterious effects of low-gravity on the human body.
+Luna's recent boom has been made possible by advances in static field tech, allowing for the easy creation of artificial gravity environments that mitigate the deleterious effects of low-gravity on the human body.
 
-Luna was founded on the research outpost that housed the lunar survivors of the Dark Decade. Luna is the location of Systema’s headquarters.
+Luna was founded on the research outpost that housed the lunar survivors of the Dark Decade. Luna is the location of the First Quorum's High Chamber, and Systema’s enterprise headquarters.
