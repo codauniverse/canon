@@ -136,16 +136,6 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 [guarda.md](world/gata/people-and-culture/sports-and-games/guarda.md)
 {% endcontent-ref %}
 
-## Instructions
-
-### Digital PDF
-
-{% file src=".gitbook/assets/Guarda-InstructionManual.pdf" %}
-
-### Print-Ready 2-Sided Booklet
-
-{% file src=".gitbook/assets/Guarda-Instructions.pdf" %}
-
 ***
 
 ## Video Games

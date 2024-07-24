@@ -253,3 +253,17 @@ Alternatively, you can use that same principle to bait them into wasting those c
 * Paper slate cards are expensive, but are common in gaming establishments and in high-end decks of Guarda cards, allowing cards to change color based on their orientation, and feature animations when in play.
 * In addition to the gambling variants of Guarda, there are a number of regional variants and meta-games that use Guarda cards and/or the Guarda Classic mechanics as their foundation.
 * A popular variant for children, "Grda", is a 4x4 variant played using a standard deck, but removing all copies of the 12 unused card types (the outermost horizontal and vertical lines), reducing the deck to 18 cards, and reducing hands to 4 cards (including the guard).
+
+***
+
+## Downloads
+
+### Instructions - Digital PDF
+
+{% file src="../../../../.gitbook/assets/Guarda-InstructionManual.pdf" %}
+
+### Instructions - Print-Ready 2-Sided Booklet
+
+{% file src="../../../../.gitbook/assets/Guarda-Instructions.pdf" %}
+
+***
