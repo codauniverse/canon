@@ -26,6 +26,8 @@ These platforms were constructed in the lake, outside of the [district's](../../
 
 ## Historical Context
 
+<figure><img src="../../../../.gitbook/assets/thesteps-222.png" alt="" width="563"><figcaption><p>The Steps during their construction during the early Reconstruction era.</p></figcaption></figure>
+
 [Unparadigmed](../../politics/paradigms.md) shipyards like The Steps were a necessary technicality for GATA during the Reconstruction era because of its own [strict regulations](../../law-and-order/tech-regulation.md); [the System](../../politics/the-system.md) automatically enforces [hard-coded](../../../science-and-tech/hard-code.md) expressions of NDA laws and policies that would have restricted their aid shipments.&#x20;
 
 Thus, these nearby ["Gray Zones"](../../politics/gray-zones.md) were often utilized as staging areas where the possession and use of unparadigmed tech was technically not a crime, or at least, not one enforced by the System.
