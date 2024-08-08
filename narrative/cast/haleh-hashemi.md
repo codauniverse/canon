@@ -57,6 +57,8 @@ Find her hunting antique 21st century music and hardware, wall-flowering at a sy
 
 ***
 
+<figure><img src="../../.gitbook/assets/haleh_personal.png" alt="" width="563"><figcaption><p>Haleh in her home studio.</p></figcaption></figure>
+
 ## Motivations
 
 * Try to live in the moment.
