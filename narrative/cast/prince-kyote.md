@@ -76,7 +76,7 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ***
 
-<figure><img src="../../.gitbook/assets/prince-personal.png" alt="" width="563"><figcaption><p>Prince standing in The Factory, his underground arcade on the Steps.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/prince-personal-3.png" alt="" width="563"><figcaption><p>Prince standing in The Factory, his underground arcade on the Steps.</p></figcaption></figure>
 
 ## **Personality & Quirks**
 
