@@ -54,6 +54,8 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ***
 
+<figure><img src="../../.gitbook/assets/prince-personal.png" alt="" width="563"><figcaption><p>Prince standing in The Factory, his underground arcade on the Steps.</p></figcaption></figure>
+
 ## Motivations
 
 * His master plan.
@@ -61,8 +63,6 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 * Keep everyone at arms length.
 
 ***
-
-<figure><img src="../../.gitbook/assets/118.png" alt="" width="563"><figcaption><p>Prince's workstation where he uses illegal legacy tech to work on the Unit.</p></figcaption></figure>
 
 ## Trivia
 
@@ -96,12 +96,15 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ***
 
+<figure><img src="../../.gitbook/assets/118.png" alt="" width="563"><figcaption><p>Prince's workstation where he uses illegal legacy tech to work on the Unit.</p></figcaption></figure>
+
 ## Secrets
 
-* Has a secret plan involving the Unit and the underground sync rave scene.
+* Where has he been for the past 10 years?
+* Has a secret plan involving "the Unit" and the underground sync rave scene.
 * Has a dependency on mentle from working on the Unit.
 * Stands to inherit his parents keys if he renews his citizenship key, revealing to the System that he is alive after being presumed dead for nearly a decade.
-* It is unknown how he gained entry to a district without renewing his citizenship key.
+* It is unknown how he gained entry to a district without renewing his citizenship key. Presumably, he used some other key to cross through the district gate.
 
 ***
 
@@ -114,6 +117,8 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 * Skilled pilot of small and mid-size static ships, and static boards.
 
 ***
+
+<figure><img src="../../.gitbook/assets/100 (1).png" alt="" width="563"><figcaption><p>Prince watching in horror as Bright Mesa was destroyed.</p></figcaption></figure>
 
 ## Family & Associates
 
