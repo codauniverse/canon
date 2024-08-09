@@ -54,7 +54,7 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ***
 
-<figure><img src="../../.gitbook/assets/prince-personal.png" alt="" width="563"><figcaption><p>Prince standing in The Factory, his underground arcade on the Steps.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/prince-personal-2.png" alt="" width="563"><figcaption><p>Prince at his desk working on the Unit.</p></figcaption></figure>
 
 ## Motivations
 
@@ -75,6 +75,8 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 * Due to his father's touring and his mother's diplomatic keys, Prince has travelled more than most citizens of GATA ever could.
 
 ***
+
+<figure><img src="../../.gitbook/assets/prince-personal.png" alt="" width="563"><figcaption><p>Prince standing in The Factory, his underground arcade on the Steps.</p></figcaption></figure>
 
 ## **Personality & Quirks**
 
