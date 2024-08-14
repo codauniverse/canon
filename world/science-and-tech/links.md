@@ -44,13 +44,17 @@ Links are a common fixture of life in many districts across GATA where it is wid
 
 Links are so beneficial for district performance that there is some political will to make links a “blue” technology, legal for use freely across all of [Greater Atla](../gata/politics/greater-atla.md), which would extend to all of GATA’s partner states. This would be a massive boon to private enterprise and districts looking to maximize [their Yield](../gata/politics/yield.md).
 
-While the average person with a link can manipulate simple systems like lights, doors, powering appliances, or interacting with [System terminals](../gata/politics/the-system.md#system-terminals), there are those who can manipulate very complex systems by training and/or aptitude. These people are called [conduits](links.md#conduits).
+While the average person with a link can manipulate simple systems like lights, doors, powering appliances, or interacting with [System terminals](../gata/politics/the-system.md#system-terminals), there are those who can manipulate very complex systems by training and/or aptitude. These people are informally called [conduits](links.md#conduits).
 
 Using a link to engage with a system is called interfacing, connecting, or linking. Using a [sync hub](sync-hubs.md) to engage with another link user directly is called [syncing](sync-hubs.md#syncing).
 
 ### **Connecting**
 
-All link users learn to connect. Also called simply “linking”. After learning how to sense system endpoints, link users have to learn how to connect with them. Once a user “connects”, they can perceive the system's interface in their visual field. Over time, they learn how to strengthen the connection, and how different systems feel.
+All link users learn to connect. Also called simply “linking”. After learning how to sense system endpoints, link users have to learn how to connect with them. Once a user “connects”, they can use their mind to interact with an interface.
+
+If the user has [sights](sights.md), they can see the interface via their eye-based displays. If the user has a link implant they can perceive the system's interface in their visual field directly.
+
+Over time, users learn how to strengthen the connection, and how different systems feel.
 
 ### **Pushing**
 
@@ -62,7 +66,7 @@ Driving is an advanced form of pushing. Driving a system involves continuously p
 
 ### **Pulling**
 
-Pulling allows a link user to intuitively interpret a system’s state. Only users with subcranial implants can pull detailed information. Pulling is considered relatively advanced, and requires deep familiarity with a given system.
+Pulling allows a link user to intuitively interpret a system’s state. Only users with subcranial implants can pull detailed, multi-sensory information. Pulling is considered relatively advanced, and requires deep familiarity with a given system.
 
 #### **Sensing**
 

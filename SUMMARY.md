@@ -31,6 +31,7 @@
   * [Endpoints](world/science-and-tech/endpoints.md)
   * [Statics](world/science-and-tech/statics.md)
   * [Links](world/science-and-tech/links.md)
+  * [Sights](world/science-and-tech/sights.md)
   * [Sync Hubs](world/science-and-tech/sync-hubs.md)
   * [Psychotech](world/science-and-tech/psychotech.md)
   * [Gear](world/science-and-tech/gear.md)

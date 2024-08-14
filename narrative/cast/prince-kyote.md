@@ -64,6 +64,8 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ***
 
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
 ## Trivia
 
 * Because of his mother's diplomatic status, Prince has dual GATA/AU citizenship keys.

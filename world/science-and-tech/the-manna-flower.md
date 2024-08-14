@@ -22,7 +22,7 @@ Engineered by [Atlan](../gata/key-locations/atla.md) scientists during the early
 
 Designed to develop through [three stages of maturity](the-manna-flower.md#development-cycle) during which the plant can be induced to produce a [myriad of compounds](the-manna-flower.md#variants-and-uses). These compounds formed the basis of medicines and materials that provided solace and healing to the people of the world throughout the challenging times of the Dark Decade and the subsequent [Reconstruction era](../history/the-reconstruction.md).
 
-The Manna flower's significance extended beyond its medicinal attributes. As Atla's first real political emblem, it played a poignant role in uniting survivors. New ships wishing to join the growing Atlan fleet would fly a white flag as a sign of peace. Once accepted, these ships were given a Manna flower as a symbol of unity and were invited to adorn their flags with a blue depiction of the flower.
+The Manna flower's significance extended beyond its medicinal attributes. As Atla's first real political emblem, it played a symbolic role in uniting survivors. New ships wishing to join the growing Atlan flotilla would fly a white flag as a sign of peace. Once accepted, these ships were given a Manna flower as a symbol of unity and were invited to adorn their flags with a blue depiction of the flower.
 
 <div>
 
@@ -74,6 +74,8 @@ Cultivated in cold fresh sea water, it produces vines that, when processed, enha
 
 ***
 
+<figure><img src="../../.gitbook/assets/mannaflower-9933.png" alt="" width="563"><figcaption><p>A field of white mana flowers during their growth phase.</p></figcaption></figure>
+
 ## **Development Cycle**
 
 #### **Primordial Phase**
@@ -94,7 +96,7 @@ The final phase before seed release. Different harvesting methods and precise ti
 
 <figure><img src="../../.gitbook/assets/mannafield.png" alt="" width="563"><figcaption><p>The Manna flower, a symbol of hope for many.</p></figcaption></figure>
 
-While many still cherish the aesthetic variants of the Manna flower, its central role in medicine has somewhat diminished in much of the world. Modern medical advances readily available across GATA and the other super-states have superseded most Manna-based treatments. As such, the Manna flower's role has receded into a more symbolic one.
+While many still cherish the aesthetic variants of the Manna flower, its central role in medicine has somewhat diminished in population centers. Modern medical advances readily available across GATA and the other super-states have superseded most Manna-based treatments. As such, the Manna flower's role has receded into a more symbolic one.
 
 For GATA-loyalists, the Manna flower remains a symbol of national pride, while for the average citizen of GATA, it represents the idea of a simple life. In other states, the Manna flower is generally regarded as a great gift, and its role in civilization's recovery has earned GATA a deep well of good will around the world.
 
