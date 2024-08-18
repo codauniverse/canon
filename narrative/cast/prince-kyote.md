@@ -64,7 +64,7 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ***
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/prince_personal_007_small.png" alt="" width="563"><figcaption><p>Prince using his link impant.</p></figcaption></figure>
 
 ## Trivia
 

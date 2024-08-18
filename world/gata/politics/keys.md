@@ -22,15 +22,21 @@ Keys are digital signatures that bestow specific privileges on their holder. Eve
 
 Keys are an integral part of every-day life inside of [GATA's](../the-basics.md) [districts](districts.md). Keys are how citizens access the district, their homes, places of work, networks and devices, and exclusive goods and services. Keys also play an important role in [institutions](../institutions/) and [enterprise](../enterprise/), and are of great interest to [operators](../enterprise/operators.md), [criminal syndicates](../criminal-element/syndicates.md) and other motivated parties.
 
-A key's cryptographic signature can be encoded in many different form-factors, whether it's in digital storage on data sticks, steganographically encrypted into media like art or music, embedded in the structure of physical objects, or stored in the mind and usable only by [linking](../../science-and-tech/links.md) directly with systems.
+***
 
-When someone dies, any transferable keys they have pass according to their inheritance arrangements. This can also occur automatically after a specified duration, typically 10 years. If no inheritance is set, the keys will pass to their next of kin, and if none, they will pass into the [AIC's](../institutions/atlan-information-control-aic.md) long-term cold storage and can be claimed via an appeal to the AIC if there is a legitimate claim.
+## Usage
+
+A key's cryptographic signature can be encoded in many different form-factors, whether it's in digital storage on data sticks, steganographically encrypted into media like art or music, embedded in the structure of physical objects, or stored in the mind and usable only by [linking](../../science-and-tech/links.md) directly with systems.
 
 ### **Privileges**
 
 When people seek to acquire keys, what they are really after are their associated privileges. The purpose of keys is to intelligently encapsulate specific privileges into discreet cryptographic objects that can be used by users of [The System](the-system.md). By tying all privileges within The System to keys, GATA's decentralized government can operate efficiently and at a distance without having to micro-manage districts and enforce [NDA-compliance](new-dawn-accords.md) and good governance directly.
 
 Beyond GATA's keys, any enterprise, organization, or individual can instantiate their own keys in The System with whatever privileges they have to offer. Care is taken to ensure that keys and their associated privileges are thoughtfully composed to ensure that they don't lead to negative unforeseen consequences down the road, however mistakes are sometimes made.
+
+### Inheritance
+
+When someone dies, any transferable keys they have pass according to their inheritance arrangements. This can also occur automatically after a specified duration, typically 10 years. If no inheritance is set, the keys will pass to their next of kin, and if none, they will pass into the [AIC's](../institutions/atlan-information-control-aic.md) long-term cold storage and can be claimed via an appeal to the AIC if there is a legitimate claim.
 
 ***
 
