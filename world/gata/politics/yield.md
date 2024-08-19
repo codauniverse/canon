@@ -36,6 +36,10 @@ Unlike the System's raw yield calculations which are hard-coded into every [Syst
 
 Accepting the outcome of these modulations on Yield is a mandatory condition for legal districthood and membership in the Second Quorum. These modulations are incentives for districts to continually develop and align with GATA's broader interests and standards.
 
+### GATA Average Yield
+
+Today, the average yield for a GATA citizen is 210 CRED per month, which is generally sufficient to maintain a simple lifestyle on top of a citizen's guaranteed food, medicine, and housing. With that said, most working age citizens supplement their income with credits earned through work.
+
 ### **Yield Economics**
 
 #### **Resource Redistribution:**
