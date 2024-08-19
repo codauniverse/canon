@@ -122,6 +122,16 @@ Iris (AIC Vice Chair) - Hand-picked Amelia for her assignment.
 
 ***
 
+## Keys & Assets
+
+* ₢ 96,000 CRED
+* 5,900 Sats
+* GATA Citizenship
+* Atlan Academy Graduate
+* AIC Operator Contract Key
+* London District Key
+* 192 Encrypted Keys
+
 ## Quotes
 
 > "That's illegal. And that. That too. Should I... come back?" - Amelia

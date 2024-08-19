@@ -127,6 +127,25 @@ Viten remains a towering figure in the scientific community, both feared and res
 
 ***
 
+## Keys & Assets
+
+* ₢ 78,380,500,000 CRED
+* 28.25 BTC
+* GATA Citizenship
+* GATA Enterprise License
+* Relik Chief Executive Officer Key
+* GATA Diplomatic Key
+* GATA Secrecy Clearance
+* Ministry of the Future Advisory Board Membership
+* Atlan Academy Graduate
+* Atla District Key
+* Greater Toronto District Key
+* Luna District Key
+* New York District Key
+* Gemini District Key
+* London District Key
+* 63,175 Encrypted Keys
+
 ## **Quotes**&#x20;
 
 > "I've unlocked the deepest secrets barely known to man, yet satisfaction remains elusive."&#x20;

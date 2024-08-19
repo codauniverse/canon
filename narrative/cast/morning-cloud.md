@@ -128,6 +128,15 @@ Despite being poised to inherit the Church's leadership, Morning remains detache
 
 ***
 
+## Keys & Assets
+
+* ₢ 68,800,000 CRED
+* 4.9 BTC
+* GATA Citizenship
+* Church of the Sky Councilor
+* Greater Toronto District Key
+* 948 Encrypted Keys
+
 ## Quotes
 
 * "Faith is just another tool for those who know how to use it."

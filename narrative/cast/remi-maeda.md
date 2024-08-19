@@ -125,6 +125,22 @@ Following his sister’s death, Remi refined his techniques with a little guidan
 
 ***
 
+## Keys & Assets
+
+* ₢ 255,950,000 CRED
+* 19.15 BTC
+* GATA Citizenship
+* New Imperial Japan Citizenship
+* GATA Enterprise License (Suspended)
+* GATA Diplomatic Key (Suspended)
+* GATA Secrecy Clearance (Suspended)
+* Atlan Academy Graduate
+* Atla District Key
+* Greater Toronto District Key
+* Luna District Key
+* Gemini District Key
+* 11,050 Encrypted Keys
+
 ## Quotes
 
 > "I don’t think of them as bugs. I think of them as pets." - Remi

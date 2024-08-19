@@ -132,9 +132,29 @@ Despite her groundbreaking achievements, Soraya's life ended in the terror attac
 
 ***
 
+## Keys & Assets
+
+* ₢ 7,250,500,000 CRED
+* 21.105 BTC
+* GATA Citizenship
+* African Union Citizenship
+* GATA Enterprise License
+* African Union Enterprise License
+* KYO Chief Executive Officer License
+* GATA Diplomatic Key
+* GATA Secrecy Clearance (Expired)
+* Ministry of the Future Advisory Board Membership (Expired)
+* Atlan Academy Graduate
+* Atla District Key
+* Greater Toronto District Key
+* Luna District Key
+* Gemini District Key
+* London District Key
+* 9,050 Encrypted Keys
+
+***
+
 ## **Quotes**
-
-
 
 > "Knowing what I know--what we know--how could I ever go back to my life?" - Soraya
 

@@ -130,6 +130,17 @@ With the growing popularity of sync raves in the underground scene across GATA, 
 
 ***
 
+## Keys & Assets
+
+* ₢ 190,520,000 CRED
+* 14.5 BTC
+* GATA Citizenship
+* GATA Enterprise License
+* Atla District Key
+* London District Key
+* Luna District Key
+* 910 Encrypted Keys
+
 ## **Quotes**
 
 > "In this world, you're either the predator or the prey." - Sasha

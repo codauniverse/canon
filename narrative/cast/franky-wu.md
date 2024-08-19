@@ -125,6 +125,14 @@ But it's all just been practice so far. As far as Franky's concerned, he's just 
 
 ***
 
+## Keys & Assets
+
+* ₢ 1,950 CRED
+* 1,250 Sats
+* GATA Citizenship
+* Greater Toronto District Key
+* 64 Encrypted Keys
+
 ## Quotes
 
 > "I don’t just make lights; I create memories." - Franky&#x20;

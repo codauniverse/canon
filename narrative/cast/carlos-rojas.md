@@ -135,6 +135,18 @@ Wherever he goes, he brings his Manna plant, grown in the soil of his childhood 
 
 ***
 
+## Keys & Assets
+
+* ₢ 57,000 CRED
+* 2,800 Sats
+* GATA Citizenship
+* GATA Secrecy Clearance
+* Collections Officer Key
+* AIC Universal Transit Key
+* Atla District Key
+* Los Angeles District Key
+* 811 Encrypted Keys
+
 ## Quotes
 
 > "I don't make the rules." - Carlos
