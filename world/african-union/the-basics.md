@@ -20,8 +20,9 @@ layout:
 
 * Founded: 2038
 * Government: Formal Anarchy
-* Region(s) West Africa, East Africa, Central Africa, South Africa (contested)
+* Region(s): West Africa, East Africa, Central Africa, South Africa (contested)
 * Population: 2,915,000,000
+* Currency: Shard (SRD, Š)
 
 ***
 

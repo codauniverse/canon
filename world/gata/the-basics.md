@@ -22,6 +22,7 @@ layout:
 * Government: Cybernetic Democracy
 * Region(s): North America, South America, Western Europe, North Africa
 * Population: 2,329,000,000
+* Currency: Credits (CRED, ₢)
 
 ## Overview
 
