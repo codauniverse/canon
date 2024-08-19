@@ -147,6 +147,16 @@ Soraya Kyote-Mata (Mother)
 
 ***
 
+## Keys & Assets
+
+* 5,000,000 CRED
+* 1.1 BTC
+* GATA Citizenship
+* African Union Citizenship
+* Greater Toronto District Key
+* GATA Diplomatic Key
+* 2,177 Encrypted Keys
+
 ## Quotes
 
 > "The world ends every day." - Prince

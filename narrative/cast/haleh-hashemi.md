@@ -32,7 +32,7 @@ layout:
 * Skin Type: Olive
 * Face Shape: Heart
 * Body Type: Average, but toned
-* Accessories: Chrome adhesive link
+* Accessories: Chrome adhesive link, collar mic
 * Description: Beautiful with an edge. Large eyes framed with bold eyebrows, and soft lips. She has an unrefined grace. Hard to miss the link she wears, usually a metallic adhesive on her face.
 
 ***
