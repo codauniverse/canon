@@ -12,12 +12,12 @@ layout:
     visible: true
 ---
 
-# 📽 Video & Animation
+# 📽️ Video & Animation
 
-## Prologue
+## Bright Day - CODA Stories - Ep 0 (Proof-of-Concept)
 
-{% embed url="https://youtu.be/eoyghXkNllk" %}
-Watch the CODA Anime Proof of Concept on YouTube
+{% embed url="https://www.youtube.com/watch?v=eoyghXkNllk" %}
+Ten years ago...
 {% endembed %}
 
 #### Synopsis
@@ -26,4 +26,4 @@ Watch the CODA Anime Proof of Concept on YouTube
 
 Written, storyboarded, generated, and edited by [dxxmsdxy](https://x.com/dxxmsdxy)
 
-Music by [Millennial](https://badchannels.bandcamp.com/)
+Song: "Ex-Lives" by [Millennial](https://badchannels.bandcamp.com/)

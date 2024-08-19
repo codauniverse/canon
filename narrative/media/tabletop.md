@@ -14,7 +14,23 @@ layout:
 
 # 🎲 Tabletop
 
+## 🔵 Guarda (Card Game)
+
+<figure><img src="../../.gitbook/assets/guarda-640.png" alt=""><figcaption></figcaption></figure>
+
+[Guarda](../../world/gata/people-and-culture/sports-and-games/guarda.md) is a table-top card game that exists inside and outside of the CODA Universe.
+
+### 🎲 How to Play Guarda:
+
+{% content-ref url="../../world/gata/people-and-culture/sports-and-games/guarda.md" %}
+[guarda.md](../../world/gata/people-and-culture/sports-and-games/guarda.md)
+{% endcontent-ref %}
+
+***
+
 ## 🔵 1\_NIGHT (One-Shot TTRPG)
+
+
 
 _**1\_NIGHT**_ is a table-top role-playing game (TTRPG) set in the CODA Universe, where players take on the roles of ravers attending a legendary performance by the enigmatic CODA. Players can choose from three unique character vibes—GloStick, BeatFiend, and HeadTripper—each with their own special abilities influenced by drugs, links, and vibe. The game invites players to immerse themselves in a world of music, mind-altering substances, and technology.
 
@@ -31,15 +47,3 @@ The Dungeon Master (DM) guides the narrative, presenting challenges and unfoldin
 {% embed url="https://chat.openai.com/g/g-YsSbM5DEK-coda-1-night-game-master" %}
 "1\_NIGHT Game Master" on ChatGPT
 {% endembed %}
-
-***
-
-## 🔵 Guarda (Card Game)
-
-[Guarda](../../world/gata/people-and-culture/sports-and-games/guarda.md) is a table-top card game that exists inside the CODA Universe.
-
-#### 🎲 How to Play Guarda:
-
-{% content-ref url="../../world/gata/people-and-culture/sports-and-games/guarda.md" %}
-[guarda.md](../../world/gata/people-and-culture/sports-and-games/guarda.md)
-{% endcontent-ref %}

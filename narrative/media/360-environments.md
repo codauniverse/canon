@@ -22,12 +22,4 @@ layout:
 
 </div>
 
-{% embed url="https://panoraven.com/en/embed/Y3fTqbctTd" %}
-
 ***
-
-## Greater Toronto's Downtown Garden
-
-## Haleh's Apartment
-
-## Prince's Workstation
