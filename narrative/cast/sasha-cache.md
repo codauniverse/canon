@@ -136,17 +136,19 @@ With the growing popularity of sync raves in the underground scene across GATA, 
 * 14.5 BTC
 * GATA Citizenship
 * GATA Enterprise License
-* Atla District Key
 * London District Key
+* Paris District Key
 * Luna District Key
 * 910 Encrypted Keys
 
+***
+
 ## **Quotes**
 
-> "In this world, you're either the predator or the prey." - Sasha
+> "In this world, you're either the cat, or the mouse." - Sasha
 
 > "I had to scratch and claw my way here. I’ll be damned if I let you drag me back down." - Sasha
 
-> "They see the glamour, the success. They don’t see the fight, the climb." - Sasha
+> "They see the glamour, the success. They don’t see the struggle." - Sasha
 
 > "The keys to Atla are the keys to my chains." - Sasha

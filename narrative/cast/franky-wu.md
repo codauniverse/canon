@@ -133,6 +133,8 @@ But it's all just been practice so far. As far as Franky's concerned, he's just 
 * Greater Toronto District Key
 * 64 Encrypted Keys
 
+***
+
 ## Quotes
 
 > "I don’t just make lights; I create memories." - Franky&#x20;
