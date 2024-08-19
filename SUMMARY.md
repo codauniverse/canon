@@ -187,6 +187,7 @@
     * [Historical Conflicts](world/free-territories/history/historical-conflicts.md)
   * [🌐 Politics](world/free-territories/politics/README.md)
     * [The Cure](world/free-territories/politics/the-cure.md)
+    * [Das Vuta](world/free-territories/politics/das-vuta.md)
   * [⚔️ Military Defense](world/free-territories/military-defense/README.md)
     * [Blades](world/free-territories/military-defense/blades.md)
     * [Sovereign Militias](world/free-territories/military-defense/sovereign-militias.md)

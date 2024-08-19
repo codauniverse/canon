@@ -19,8 +19,8 @@ layout:
 ## Basic Info
 
 * Founded: 2060
-* Government: Various
-* Region(s): Various
+* Government: Various, Anarchy
+* Region(s): North America, Mexico, Cuba, Central America, Australia, South Africa (contested), Oceania
 * Population: 2,811,000,000
 * Currency: Various
 
@@ -37,3 +37,32 @@ Initially galvanized by key figures in Texas (now the Texan Empire) and Cuba dur
 Plagued by aging patchwork infrastructure, stagnant economic growth, and lawless exploitation of those in the margins. Sovereigns living in Free Territories routinely utilize NDA-banned or restricted experimental technology, refurbished legacy tech, and old world weapons systems.
 
 Free Territory forces are known to occupy sympathetic territories and use legacy weapons of mass destruction as deterrents against GATA reprisals. GATA’s precision military operations targeting key figures have pushed their leadership and sensitive operations underground.
+
+***
+
+## Key Points
+
+* Espouses the spirit of resistance against centralized control.
+* No common governance or policies beyond military alliances between groups.
+* Has a strategy of using questionable tactics to ensure sovereignty.
+* Its growth and influence present a continuous challenge to GATA's dominance.
+* Rife with adherents of the eidetic ideology and its more radical offshoots.
+
+***
+
+## Governance & Politics
+
+The Free Territories are a collection of anarchic pseudo-states and do not have a single founding date or centralized government structure. The territories are characterized by their reverence of personal freedom above all, leaving their populations sovereign but vulnerable. However, it would be a mistake to paint all Free Territories with the same brush.
+
+One could understand the Free Territories as mostly Sovereign land, with small to mid-sized territorial interests who impose a might-makes-right regime on the people within their sphere of influence. However, excessive oppression from these local powers often triggers armed political violence and resistance, disincentivizing excessive illegitimate use of force. The heavy use of propaganda and misinformation by political leaders maintains enough distaste for GATA and centralization, that some abridgement of freedom is tolerated for the sake of ethnic, religious or ideological unity.
+
+***
+
+## Comparative Stats
+
+* **Freedom: 9** - Occupants of a Free Territory are sovereign, but vulnerable.
+* **Luxury: 3** - Only the most rich and powerful enjoy true luxury.
+* **Military: 8** - There are many militias with refurbished legacy weapons, including nukes.
+* **Education: 4** - Most sovereigns don't actually attend formal schooling.
+* **Technology: 7** - Replicated and refurbished legacy 21st century tech.
+* **Health: 6** - Most rely heavily on the Manna flower for food and medicine.

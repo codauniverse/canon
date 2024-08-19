@@ -25,7 +25,11 @@ layout:
 
 ## Overview
 
-Retained a functioning power grid during [the Dark Decade](../history/the-dark-decade.md) due to advanced energy infrastructure. Its isolationist stance has been softened by technology exchanges with [GATA](../gata/). Has extremely strict border control and encourages the population to self-police, surveil and report illegal transgressions. Social life is muted with many citizens preferring to remain in their private estates. Publicly, citizens appear exceptionally law abiding, but it is commonly understood that inside their estates many do as they please. Recent population boom due to unauthorized use of anti-aging therapies like [AKICEL](../gata/enterprise/akicel.md) and novel genetic engineering technologies.
+Retained a functioning power grid during [the Dark Decade](../history/the-dark-decade.md) due to advanced energy infrastructure. Its isolationist stance has been softened by technology exchanges with [GATA](../gata/).
+
+Has extremely strict border control and encourages the population to self-police, surveil and report illegal transgressions. Social life is muted with many citizens preferring to remain in their private estates. Publicly, citizens appear exceptionally law abiding, but it is commonly understood that inside their estates many do as they please.
+
+Recent population boom due to unauthorized use of anti-aging therapies like [AKICEL](../gata/enterprise/akicel.md) and novel genetic engineering technologies.
 
 <figure><img src="../../.gitbook/assets/flag-japan.png" alt="" width="375"><figcaption><p>New Imperial Japan's flag.</p></figcaption></figure>
 
