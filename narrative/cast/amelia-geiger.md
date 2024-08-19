@@ -124,7 +124,7 @@ Iris (AIC Vice Chair) - Hand-picked Amelia for her assignment.
 
 ## Keys & Assets
 
-* ₢ 96,000 CRED
+* ◖96,000 CRED
 * 5,900 Sats
 * GATA Citizenship
 * Atlan Academy Graduate

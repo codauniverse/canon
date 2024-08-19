@@ -28,7 +28,7 @@ Despite these challenges, GATA's prosperous and diverse financial ecosystem rema
 
 ## **Credits Currency**
 
-Credits (CRED), commonly referred to simply as "creds", are the main medium of exchange within GATA and the native currency of the System.
+Credits (CRED), currency symbol "◖", commonly referred to simply as "creds", are the main medium of exchange within GATA and the native currency of the System.
 
 Introduced with the creation of the System, credits facilitate legal transactions across all sectors, from everyday purchases to large-scale industrial operations. Credits are intrinsic to the operation of the System, which uses a hard-coded architecture that borrows from Old World decentralized networks.
 

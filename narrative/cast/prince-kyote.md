@@ -149,7 +149,7 @@ Soraya Kyote-Mata (Mother)
 
 ## Keys & Assets
 
-* ₢ 5,300,000 CRED
+* ◖5,300,000 CRED
 * 1.1 BTC
 * GATA Citizenship
 * African Union Citizenship

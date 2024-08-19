@@ -150,7 +150,7 @@ Lulu (Best Friend)
 
 ## Keys & Assets
 
-* ₢ 17,000 CRED
+* ◖17,000 CRED
 * 350 Sats
 * GATA Citizenship
 * Greater Toronto District Key

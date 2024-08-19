@@ -146,7 +146,7 @@ Sometimes, she catches herself thinking about Xavier. She worries for him. She w
 
 ## Keys & Assets
 
-* ₢ 21,000 CRED
+* ◖21,000 CRED
 * 1,100 Sats
 * GATA Citizenship
 * Greater Toronto District Key

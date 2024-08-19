@@ -122,7 +122,7 @@ Fitz (Lulu's brother)
 
 ## Keys & Assets
 
-* ₢ 7,500,000 CRED
+* ◖7,500,000 CRED
 * 0.0022 BTC
 * GATA Citizenship
 * Greater Toronto District Key (Warrant)

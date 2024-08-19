@@ -134,7 +134,7 @@ Despite her groundbreaking achievements, Soraya's life ended in the terror attac
 
 ## Keys & Assets
 
-* ₢ 7,250,500,000 CRED
+* ◖7,250,500,000 CRED
 * 21.105 BTC
 * GATA Citizenship
 * African Union Citizenship

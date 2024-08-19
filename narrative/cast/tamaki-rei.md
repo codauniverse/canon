@@ -140,7 +140,7 @@ For the last decade, Tamaki's star has risen, and she has become the biggest mus
 
 ## Keys & Assets
 
-* ₢ 70,890,000 CRED
+* ◖70,890,000 CRED
 * 2.205 BTC
 * New Imperial Japan Citizenship
 * New Imperial Japan Diplomatic Key

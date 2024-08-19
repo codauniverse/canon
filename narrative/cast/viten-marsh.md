@@ -129,7 +129,7 @@ Viten remains a towering figure in the scientific community, both feared and res
 
 ## Keys & Assets
 
-* ₢ 78,380,500,000 CRED
+* ◖ 78,380,500,000 CRED
 * 28.25 BTC
 * GATA Citizenship
 * GATA Enterprise License

@@ -130,7 +130,7 @@ Some claim to still see her in the astral on occasion, a spectral figure on the 
 
 ## Keys & Assets
 
-* ₢ 2,400 CRED
+* ◖2,400 CRED
 * 550 Sats
 * GATA Citizenship
 * Los Angeles District Key

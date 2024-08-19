@@ -127,7 +127,7 @@ Following his sister’s death, Remi refined his techniques with a little guidan
 
 ## Keys & Assets
 
-* ₢ 255,950,000 CRED
+* ◖255,950,000 CRED
 * 19.15 BTC
 * GATA Citizenship
 * New Imperial Japan Citizenship

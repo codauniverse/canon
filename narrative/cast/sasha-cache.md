@@ -132,7 +132,7 @@ With the growing popularity of sync raves in the underground scene across GATA, 
 
 ## Keys & Assets
 
-* ₢ 190,520,000 CRED
+* ◖190,520,000 CRED
 * 14.5 BTC
 * GATA Citizenship
 * GATA Enterprise License

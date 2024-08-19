@@ -136,7 +136,7 @@ He was posthumously awarded the White Flower Medal, the highest honor in GATA fo
 
 ## Keys & Assets
 
-* ₢ 1,150,000 CRED (Reappropriated)
+* ◖1,150,000 CRED (Reappropriated)
 * 0.522 BTC (Reappropriated)
 * GATA Citizenship (Expired)
 * 136 Encrypted Keys

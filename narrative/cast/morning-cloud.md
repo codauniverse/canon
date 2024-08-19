@@ -130,7 +130,7 @@ Despite being poised to inherit the Church's leadership, Morning remains detache
 
 ## Keys & Assets
 
-* ₢ 68,800,000 CRED
+* ◖68,800,000 CRED
 * 4.9 BTC
 * GATA Citizenship
 * Church of the Sky Councilor

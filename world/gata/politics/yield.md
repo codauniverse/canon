@@ -38,7 +38,7 @@ Accepting the outcome of these modulations on Yield is a mandatory condition for
 
 ### GATA Average Yield
 
-Today, the average yield for a GATA citizen is 210 CRED per month, which is generally sufficient to maintain a simple lifestyle on top of a citizen's guaranteed food, medicine, and housing. With that said, most working age citizens supplement their income with credits earned through work.
+Today, the average yield for a GATA citizen is ◖210 CRED per month, which is generally sufficient to maintain a simple lifestyle on top of a citizen's guaranteed food, medicine, and housing. With that said, most working age citizens supplement their income with credits earned through work.
 
 ### **Yield Economics**
 
