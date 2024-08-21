@@ -47,24 +47,24 @@ She was placed in the East Garden, a community-run campus for orphaned children 
 
 Her aptitude with the link was immediately apparent. Because the district of Istanbul didn’t have links in their paradigm, Haleh was recommended for transfer to the Greater Toronto district, where links were recently paradigmed. After six years in Istanbul, 8 year-old Haleh was relocated across the world, and away from the only family she had known.
 
-She had a lonely childhood in Greater Toronto, having difficulty relating to the other children. She enjoyed playing alone in the Manna gardens and dancing to the music in the square, but she struggled making friends. By the age of 10, Haleh had taken to escaping into 21st century art and fiction and especially music, which helped her discover her synesthesia–her strong sense of form and color and motion when she listens intently to music.
+She had a lonely childhood in Greater Toronto, having difficulty relating to the other children. She enjoyed playing alone in the Manna gardens and dancing to the music in the square, but she struggled making friends. By the age of 10, Haleh had taken to escaping into 21st century art and fiction and especially music, which helped her discover her synesthesia–her strong sense of form and color and motion when she listens intently to music. She developed an insatiable passion for collecting refurbished Old World music gear and physical media, scouring the scavenger markets at every opportunity.
 
-By the age of 13 she was already making music of her own, inspired heavily by the electronic synth sounds of the early and mid 2000s, loving granular synths and rich, layered sounds. It was only natural that she would learn how to use her talents with a link to enhance her music over the following years, and later, when syncraves appeared, she was perfectly positioned to break onto the scene under the stage name SOULJOURNER.
+By the age of 13 she was already making music of her own, inspired heavily by the electronic synth sounds of the early and mid 2000s, loving granular synths and rich, layered sounds. It was only natural that she would learn how to use her talents with a link to enhance her music over the following years, and later, when sync raves emerged, she was perfectly positioned to break onto the scene under the stage name SOULJOURNER.
 
-Since then, she’s become a sensation in Toronto’s underground syncrave scene, a syncjockey known for her uncanny ability to sense and guide ‘the vibe’. Her childhood habit of dancing while she plays her instruments has evolved into a striking stage presence.
+Since then, she’s become a sensation in Toronto’s underground syncrave scene, a syncjockey known for her uncanny ability to sense and guide ‘the vibe’. Her childhood habit of dancing while she plays has evolved into a signature element of her hypnotic stage presence.
 
-Find her hunting antique 21st century music and hardware, wall-flowering at a sync rave, planning and practicing for her next show, or tending to the Manna flowers in Greater Toronto's waterfront Garden.
+Find her hunting antique music gear or tinkering with her latest find at her work table, wall-flowering at a live show or rave, planning and practicing for her next performance, or tending to the Manna flowers in Greater Toronto's West End Garden.
 
 ***
 
-<figure><img src="../../.gitbook/assets/haleh_personal.png" alt="" width="563"><figcaption><p>Haleh in her home studio.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/haleh_personal_010.png" alt="" width="563"><figcaption><p>Haleh passed out in her studio.</p></figcaption></figure>
 
 ## Motivations
 
 * Try to live in the moment.
 * Always working on her next performance.
 * Make music that matters to people like it did in the Old World.
-* Collect 21st century books and music gear.
+* Collect Old World books, music gear, and other trinkets.
 
 ***
 
@@ -83,16 +83,19 @@ Find her hunting antique 21st century music and hardware, wall-flowering at a sy
 * She remembers a room, a woman’s face, but she doesn’t know if it’s her mother.
 * She isn’t a natural green thumb, she just likes the solitude of tending the Manna gardens.
 * She has a strong audio-visual synesthesia.
-* She can typically be found in her apartment
+* She can typically be found in her apartment, working on music.
+* She loves her sleep, and can nap just about anywhere, anytime.
+* She has vivid dreams, and sometimes they feel like they're guiding her.
 
 ***
 
-<figure><img src="../../.gitbook/assets/nomoney420_disorder_in_an_underground_rave_unruly_crowd_1990s_f_72790fee-a2b4-4356-9793-806420287d42.png" alt="" width="563"><figcaption><p>Haleh caught by surprised at the arcade.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/haleh_personal_011 (1).png" alt="" width="563"><figcaption><p>Haleh spotting obscure Old World music gear from across the bazaar.</p></figcaption></figure>
 
 ## **Personality & Quirks**
 
 * Sweet and friendly by nature.
 * The first to help someone in need.
+* A daydreamer, often lost in her imagination.
 * Loves to people watch.
 * Avid collector of ‘blue’ legacy musical tech like synths and music players.
 * A wallflower in crowded spaces.
@@ -110,6 +113,8 @@ Find her hunting antique 21st century music and hardware, wall-flowering at a sy
 * Tries not to break the rules, but she will if she has to.
 
 ***
+
+<figure><img src="../../.gitbook/assets/nomoney420_disorder_in_an_underground_rave_unruly_crowd_1990s_f_72790fee-a2b4-4356-9793-806420287d42.png" alt="" width="563"><figcaption><p>Haleh caught by surprised at the arcade.</p></figcaption></figure>
 
 ## Secrets
 
