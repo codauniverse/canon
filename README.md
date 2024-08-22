@@ -144,4 +144,4 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 <figure><img src=".gitbook/assets/wallrunners-9328592.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/wallrunners-gameconcept-fd943.jpg" alt=""><figcaption><p>Screenshots of <em>Wallrunner</em> (concept)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/wallrunners-concept-9353.jpg" alt=""><figcaption><p>Screenshots of <em>Wallrunner</em> (concept)</p></figcaption></figure>
