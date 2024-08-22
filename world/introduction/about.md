@@ -66,11 +66,13 @@ Project CODA members also govern the CODA Creation Fund, a community treasury fo
 
 </div>
 
-The CODA Universe was conceived by dxxmsdxy in January, 2021.
+The CODA Universe was conceived by dxxmsdxy in December, 2020.
 
 First, the outline for the CODA Saga was written; a character-centered epic that charts the course of the world's central conflicts and themes, starting in the fictional year of 2125. This saga became the scaffolding for a rich and expansive world that was developed over the course of several years.
 
 The fundamental building blocks of the CODA Universe are its 100+ characters and its hyper-linked fragments of lore, which are inscribed permanently on-chain, and which serve as training and context for generative applications.
+
+The CODA Universe has been created over the course of the emergence of generative tools, beginning with StyleGAN and GPT3, and has sampled a wide range of new tools over the course of its creation, encoding the very history of generative AI in its structure.
 
 ***
 
