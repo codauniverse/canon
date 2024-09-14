@@ -104,6 +104,7 @@
     * [Gardens](world/gata/institutions/gardens.md)
     * [ALTAR](world/gata/institutions/altar.md)
   * [💼 Enterprise](world/gata/enterprise/README.md)
+    * [Ministry of the Future](world/gata/enterprise/ministry-of-the-future.md)
     * [Systema](world/gata/enterprise/systema.md)
     * [AKICEL](world/gata/enterprise/akicel.md)
     * [Operators](world/gata/enterprise/operators.md)
