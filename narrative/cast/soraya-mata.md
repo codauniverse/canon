@@ -76,6 +76,8 @@ Despite her groundbreaking achievements, Soraya's life ended in the terror attac
 * Founded KYO Technologies in Nairobi.
 * Created Aida, a cog based on her own brain patterns.
 * Later in her work she stopped writing her hardcode in LMNL, opting for a new framework of her own design despite the associated expense for frequent code audits. Presumably for security purposes.
+* Referred to by Viten and Remi as "Sora".
+* Often referred to by Kyote as "Angel" or "my angel".
 
 ***
 
@@ -156,7 +158,7 @@ Despite her groundbreaking achievements, Soraya's life ended in the terror attac
 
 ## **Quotes**
 
-> "Knowing what I know--what we know--how could I ever go back to my life?" - Soraya
+> "Knowing what I know--what we know--how can we ever go back to our old life?" - Soraya
 
 > "I used to believe that knowledge could save us all. Now, I wonder if it's the very thing that will destroy us." - Soraya
 
