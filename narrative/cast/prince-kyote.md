@@ -54,7 +54,7 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ***
 
-<figure><img src="../../.gitbook/assets/prince-personal-2.png" alt="" width="563"><figcaption><p>Prince at his desk working on the Unit.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/prince-at-his-desk.png" alt="" width="563"><figcaption><p>Prince at his desk working on the Unit.</p></figcaption></figure>
 
 ## Motivations
 
@@ -64,7 +64,7 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ***
 
-<figure><img src="../../.gitbook/assets/prince_personal_007_small.png" alt="" width="563"><figcaption><p>Prince using his link impant.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/prince_personal_007_small.png" alt="" width="563"><figcaption><p>Prince using his link impants.</p></figcaption></figure>
 
 ## Trivia
 
@@ -109,6 +109,7 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 * Has a dependency on mentle from working on the Unit.
 * Stands to inherit his parents keys if he renews his citizenship key, revealing to the System that he is alive after being presumed dead for nearly a decade.
 * It is unknown how he gained entry to a district without renewing his citizenship key. Presumably, he used some other key to cross through the district gate.
+* Known by other names in other circles.
 
 ***
 
@@ -117,8 +118,8 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 ## Skills
 
 * Talented conduit with mastery of his link, especially with respect to breaking into secure systems.
-* Exceptionally good coder and problem solver.
-* Skilled pilot of small and mid-size static ships, and static boards.
+* Exceptionally gifted coder and problem solver.
+* Skilled pilot of small and mid-size static ships, cycles, and boards.
 
 ***
 
@@ -147,6 +148,8 @@ Soraya Kyote-Mata (Mother)
 
 ***
 
+
+
 ## Keys & Assets
 
 * ◖5,300,000 CRED
@@ -158,6 +161,8 @@ Soraya Kyote-Mata (Mother)
 * 2,177 Encrypted Keys
 
 ***
+
+<figure><img src="../../.gitbook/assets/prince-speeding.png" alt="" width="563"><figcaption><p>A teenage Prince, emotions running high, speeds through the city on a static cycle.</p></figcaption></figure>
 
 ## Quotes
 
