@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🛡️ World Order
+# 🗺️ World Order
 
 <figure><img src="../.gitbook/assets/worldmap-transparent (2).png" alt=""><figcaption><p>A simplified map of state borders in 2125.</p></figcaption></figure>
 
