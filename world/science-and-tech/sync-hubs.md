@@ -55,8 +55,3 @@ Users of links and modified sync hubs who have allowed themselves to remain ‘s
 People who participate in hives experience reduced sense of individual identity and states of euphoria, and these sensations can persist even after disconnection, resulting in extreme withdrawal symptoms, psychosis and permanent brain damage.
 
 Participants in hives report numerous other [residual](sync-hubs.md#residual) effects from prolonged group syncing. It is an illegal use of links and sync hubs.
-
-\
-
-
-\
