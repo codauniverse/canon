@@ -14,9 +14,9 @@ layout:
 
 # AKICEL
 
-## Overview
-
 <figure><img src="../../../.gitbook/assets/akicel.png" alt=""><figcaption><p>A patient in one of AKICEL's many medical facilities around the world.</p></figcaption></figure>
+
+## Overview
 
 AKICEL is one of the largest healthcare enterprises in the world. Founded by [Atlan](../key-locations/atla.md) research scientists in the early years of [the Reconstruction](../../history/the-reconstruction.md), AKICEL is a spin-off from an early [Research Corps](../../sol/institutions/the-research-corps.md) program that began during [the Dark Decade](../../history/the-dark-decade.md), with its lineage tracing back to the very program that produced the world-changing [Manna flower](../../science-and-tech/the-manna-flower.md).
 
