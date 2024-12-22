@@ -14,9 +14,9 @@ layout:
 
 # Atlan Academies
 
-## **Overview**
-
 <figure><img src="../../../.gitbook/assets/atlanacademy.png" alt=""><figcaption><p>A bustling campus at one of GATA's Atlan Academies.</p></figcaption></figure>
+
+## **Overview**
 
 The Atlan Academy System is the premier educational institution within the [Greater Atlan Territorial Alliance (GATA)](../the-basics.md), renowned for its excellence and rigorous academic programs. It is designed to cultivate the brightest minds from every district in GATA, ensuring that students receive top-tier education and training to become future leaders, scientists, and innovators.
 

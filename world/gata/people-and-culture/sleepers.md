@@ -14,11 +14,13 @@ layout:
 
 # Sleepers
 
-<figure><img src="../../../.gitbook/assets/sleepers-984.png" alt=""><figcaption><p>A sleeper wearing a custom link interface.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/sleepers-984.png" alt=""><figcaption><p>A sleeper wearing a custom "full-dive" link interface.</p></figcaption></figure>
 
 ## **Overview**
 
 Sleepers are individuals who, for various reasons, spend the majority or entirety of their life within [constructs](../../science-and-tech/constructs.md). While some are bedridden with various conditions, there are those who prefer life in the constructs, and others who work on, or within, the constructs.
+
+Sleepers use advanced, high-throughput [link interfaces](../../science-and-tech/links.md) known as "full-dive" links to send and receive full-spectrum neural feeds to local and remote constructs.
 
 Sleepers are rarely seen but their presence is nonetheless felt in subtle ways across [GATA](../the-basics.md), from their influence in [politics](../politics/governance.md#the-third-quorum) and [enterprise](../enterprise/), to the ubiquitous [dormitories](sleepers.md#dormitories) that house many sleepers.
 
