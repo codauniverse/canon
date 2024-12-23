@@ -14,15 +14,15 @@ layout:
 
 # Yield
 
-<figure><img src="../../../.gitbook/assets/yield.png" alt=""><figcaption><p>Massive static tankers deliver System Yield to a district shipping gate.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/yield.png" alt=""><figcaption><p>Massive static tankers deliver System Yield to a district gateyard.</p></figcaption></figure>
 
 ## Overview
 
-Yield is a periodic distribution of resources and benefits derived from the collective economic and industrial activities across the regions governed by [The System](the-system.md). All economic and industrial activity across [GATA](../) feeds into The System, and Yield is what comes back, calculated according to The System’s [hard-coded](../../science-and-tech/hard-code.md) logic.
+Yield is a periodic distribution of resources and benefits funded from the collective economic and industrial activities across the regions governed by [The System](the-system.md), including [GATA](../the-basics.md) and its [partner states](new-dawn-accords.md#signatories). Surplus from [districts](districts.md) and [enterprise](../enterprise/) feeds into The System, and Yield is what comes back, calculated according to The System’s [hard-coded](../../science-and-tech/hard-code.md) logic.
 
-Yield represents a tangible return on the economic success of GATA and the collective efforts and compliance of [districts](districts.md) that meet the [NDA](new-dawn-accords.md)'s requirements and regulations.
+Yield represents a tangible return on the economic success of GATA and compliance of eligible parties that meet the [NDA](new-dawn-accords.md)'s requirements and regulations.
 
-Yield consists of [keys](keys.md), [credits](money.md#credits-currency), and physical goods to be distributed by local governments, and direct airdrops to citizens and [enterprises](../enterprise/).
+Yield consists of [keys](keys.md), [credits](money.md#credits-currency), and physical goods to be distributed by local governments to citizens and enterprises. Yield is delivered periodically by static tankers directly to district gateyards.
 
 ***
 
