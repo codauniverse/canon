@@ -38,6 +38,8 @@ The decentralized nature of the Local Authority allows each district to tailor l
 
 Local Authorities can request limited access to certain advanced technologies if their District Representative can bend the ear of the AIC Liason for Gate Patrol or Collections resources, or rally the Second Quorum to sign an appeal to the First Quorum for Angelis support, a much rarer affordance.
 
+<figure><img src="../../../.gitbook/assets/localauthority-434834.png" alt="" width="563"><figcaption><p>An officer patrolling with a static surveillance raft.</p></figcaption></figure>
+
 Local Authority is typically split into a number of Divisions dedicated to a local service area. The Local Authority's jurisdiction ends at the district's Gate and Field Wall. Transgate crime requires coordination with Gate Patrol.&#x20;
 
 Some tension tends to exist between Gate Patrol and the Local Authority because of the special paradigm enjoyed by Gate Patrol, affording them access to more advanced technology and better intelligence via AIC-related keys.

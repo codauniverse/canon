@@ -26,6 +26,8 @@ Collections conducts long-term investigations, responds to reports from local go
 
 ## Collectors
 
+<figure><img src="../../../.gitbook/assets/collections-3932.png" alt="" width="563"><figcaption><p>Collector agents inspecting an illegal legacy processor rig.</p></figcaption></figure>
+
 Collections field agents are called Collectors, specially trained investigators and operators who typically work undercover, and are deployed all around the world, from [Greater Atla](../politics/greater-atla.md) and its partner states, to [Gray Zones](../politics/gray-zones.md) and the [Free Territories](../../free-territories/).
 
 Collectors work hand in hand with AIC working groups and local authorities to conduct their investigations into breaches of [NDA](../politics/new-dawn-accords.md) [regulations](tech-regulation.md) and to secure dangerous technologies. Often these investigations implicate gangs, [criminal syndicates](../criminal-element/syndicates.md), and sometimes even expose corruption within enterprise and institutions.
