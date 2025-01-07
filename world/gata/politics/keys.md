@@ -30,7 +30,7 @@ A key's cryptographic signature can be encoded in many different form-factors, w
 
 ### **Privileges**
 
-When people seek to acquire keys, what they are really after are their associated privileges. The purpose of keys is to intelligently encapsulate specific privileges into discreet cryptographic objects that can be used by users of [The System](the-system.md). By tying all privileges within The System to keys, GATA's decentralized government can operate efficiently and at a distance without having to micro-manage districts and enforce [NDA-compliance](new-dawn-accords.md) and good governance directly.
+When people seek to acquire keys, what they are really after are their associated privileges. The purpose of keys is to intelligently encapsulate specific privileges into discreet cryptographic objects that can be used by users of [The System](the-system.md). By tying all privileges within The System to keys, GATA's decentralized government can operate efficiently and at a distance without having to micro-manage districts and enforce [NDA-compliance](../law-and-order/new-dawn-accords.md) and good governance directly.
 
 Beyond GATA's keys, any enterprise, organization, or individual can instantiate their own keys in The System with whatever privileges they have to offer. Care is taken to ensure that keys and their associated privileges are thoughtfully composed to ensure that they don't lead to negative unforeseen consequences down the road, however mistakes are sometimes made.
 

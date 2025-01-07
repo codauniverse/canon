@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Adherents to the Eidetic movement reject technology, viewing it as humanity's greatest transgression. They espouse a life intertwined with nature and spirituality, and see [the Crash](../../history/the-crash.md) and [Dark Decade](../../history/the-dark-decade.md) as a divine instruction for humanity to live humbly. Many sects revere the [Manna flower](../../science-and-tech/the-manna-flower.md) as a gift from above, denying its Scientific origin.
+Adherents to the Eidetic movement reject technology, viewing it as humanity's greatest transgression. They espouse a life intertwined with nature and spirituality, and see [the Crash](../../history/the-crash.md) and [Dark Decade](../../history/the-dark-decade.md) as a divine instruction for humanity to live humbly. Many sects revere the [Manna flower](../../nature-and-climate/the-manna-flower.md) as a gift from above, denying its Scientific origin.
 
 Thriving primarily among [Sovereign peoples](sovereigns.md) in [the Free Territories](../), the movement finds a terrible champion in [The Cure](../politics/the-cure.md), a leaderless terrorist organization merging the ideological zeal of the older generations with the capable support of an extremist, secular environmentalist cohort among Sovereign youth.
 
@@ -28,7 +28,7 @@ Thriving primarily among [Sovereign peoples](sovereigns.md) in [the Free Territo
 
 Eidetics live by a simple creed: reject tech, embrace nature, and seek spiritual harmony. They view the innovation-hungry civilization embodied by [GATA](../../gata/the-basics.md) and the other major powers as profane, and a departure from humanity's purpose. They regard the Crash as a wake-up call or a second chance for humanity to reset and live correctly.
 
-The most central symbols to Eideticism are [the Manna flower](../../science-and-tech/the-manna-flower.md), revered as a divine gift, and the white wraps that they wear on their arms or hands, symbolizing their refusal to touch technology. Wraps must be removed before using technology, and can only be re-applied by an eidetic elder or [Keeper](eidetics.md#keepers-of-eden).
+The most central symbols to Eideticism are [the Manna flower](../../nature-and-climate/the-manna-flower.md), revered as a divine gift, and the white wraps that they wear on their arms or hands, symbolizing their refusal to touch technology. Wraps must be removed before using technology, and can only be re-applied by an eidetic elder or [Keeper](eidetics.md#keepers-of-eden).
 
 Across the world, eidetic beliefs often fuse with local religious traditions. The Crash and the subsequent Dark Decade are interpreted through the religious lens, seen either as divine punishment for humanity's hubris or as an opportunity for a societal reset and return to a simpler, more harmonious way of life; the reassertion of the Garden of Eden on Earth.
 

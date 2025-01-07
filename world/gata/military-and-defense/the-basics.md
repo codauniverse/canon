@@ -20,7 +20,7 @@ From its inception, [Atla](../key-locations/atla.md) had always maintained a for
 
 In the wake of [The Reconstruction](../../history/the-reconstruction.md), and with the end of the [Existence Doctrine](existence-doctrine.md), the national military was officially dissolved. In its place, the public enterprise [Angelis](angelis.md) was forged, formalizing or fine-tuning many of its provisional structures, policies and practices. Much of GATA's military personnel and equipment were transferred to this new organization, and several of its operational compartments were formalized into distinct branches, such as the [Guardians](guardians.md), [Rapid Response](rapid-response.md), [MAVs](mavs.md), and [Watchers](angelis.md#watchers).
 
-Its most advanced weapons and technologies were decommissioned in accordance with [the AIC](../institutions/atlan-information-control-aic.md)’s formal interpretation of [NDA](../politics/new-dawn-accords.md) regulations. Many of GATA's most vocal critics had been skeptical that GATA would follow through with this self-censure, however they did just that.
+Its most advanced weapons and technologies were decommissioned in accordance with [the AIC](../institutions/atlan-information-control-aic.md)’s formal interpretation of [NDA](../law-and-order/new-dawn-accords.md) regulations. Many of GATA's most vocal critics had been skeptical that GATA would follow through with this self-censure, however they did just that.
 
 Today, GATA does not have a monolithic standing national military. Instead, Each of GATA’s major administrative bodies have armed branches to serve their mandates.
 

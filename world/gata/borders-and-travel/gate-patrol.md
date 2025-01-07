@@ -32,4 +32,4 @@ Of particular concern to Gate Patrol are [wallrunners](../criminal-element/wallr
 
 A strong rivalry has developed between Gate Patrol and wallrunners, sometimes resulting in needless provocations and overzealous pursuit.
 
-In recent years, more lethal equipment has been approved by the [Second Quorum](../politics/governance.md#the-second-quorum) as wallrunning has contributed significantly to an increase in [tech-related crime](../law-and-order/tech-regulation.md) across the most affected districts.
+In recent years, more lethal equipment has been approved by the [Second Quorum](../politics/governance.md#the-second-quorum) as wallrunning has contributed significantly to an increase in [tech-related crime](../../science-and-tech/tech-regulation.md) across the most affected districts.

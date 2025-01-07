@@ -20,7 +20,7 @@ layout:
 
 The Steps, as they are referred to in [Greater Toronto](./), are immense, monolithic platforms built to serve as temporary [Atlan](../atla.md) shipping yards during [the Reconstruction](../../../history/the-reconstruction.md).
 
-These platforms were constructed in the lake, outside of the [district's](../../politics/districts.md) territory, making it easier for Atla to deliver large shipments of materials, tech, and other resources to fledgling districts without breaching strict [New Dawn Accords](../../politics/new-dawn-accords.md) laws regulating the movement of people, goods and technologies into and out of a district.
+These platforms were constructed in the lake, outside of the [district's](../../politics/districts.md) territory, making it easier for Atla to deliver large shipments of materials, tech, and other resources to fledgling districts without breaching strict [New Dawn Accords](../../law-and-order/new-dawn-accords.md) laws regulating the movement of people, goods and technologies into and out of a district.
 
 ***
 
@@ -28,7 +28,7 @@ These platforms were constructed in the lake, outside of the [district's](../../
 
 <figure><img src="../../../../.gitbook/assets/thesteps-222.png" alt="" width="563"><figcaption><p>The Steps during their construction during the early Reconstruction era.</p></figcaption></figure>
 
-[Unparadigmed](../../politics/paradigms.md) shipyards like The Steps were a necessary technicality for GATA during the Reconstruction era because of its own [strict regulations](../../law-and-order/tech-regulation.md); [the System](../../politics/the-system.md) automatically enforces [hard-coded](../../../science-and-tech/hard-code.md) expressions of NDA laws and policies that would have restricted their aid shipments.&#x20;
+[Unparadigmed](../../politics/paradigms.md) shipyards like The Steps were a necessary technicality for GATA during the Reconstruction era because of its own [strict regulations](../../../science-and-tech/tech-regulation.md); [the System](../../politics/the-system.md) automatically enforces [hard-coded](../../../science-and-tech/hard-code.md) expressions of NDA laws and policies that would have restricted their aid shipments.&#x20;
 
 Thus, these nearby ["Gray Zones"](../../politics/gray-zones.md) were often utilized as staging areas where the possession and use of unparadigmed tech was technically not a crime, or at least, not one enforced by the System.
 

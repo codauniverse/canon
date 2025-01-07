@@ -70,7 +70,7 @@ If you don’t have an older nano immune system, it can be deadly to use Max.
 
 ### Crimson
 
-Derived from the highly-difficult to cultivate [Red variant](../../science-and-tech/the-manna-flower.md#red) of the [Manna Flower](../../science-and-tech/the-manna-flower.md).
+Derived from the highly-difficult to cultivate [Red variant](../../nature-and-climate/the-manna-flower.md#red) of the [Manna Flower](../../nature-and-climate/the-manna-flower.md).
 
 ***
 

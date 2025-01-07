@@ -42,7 +42,7 @@ The program's goal was to enhance the physical and mental capabilities of Atla's
 
 However, it came at a cost; those who could endure the therapy experienced various side effects that required regular attending. One notable side effect was an extreme increase in metabolic rate, with subjects needing constant calories and hydration, and leaving them prone to overheating, causing them discomfort and distress when sedentary.
 
-Early formulations of the Clear serum were primarily derived from Silver [Manna](../../science-and-tech/the-manna-flower.md), as well as a range of classified research focused on producing genetic and epigenetic modifications in the subject. The exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.&#x20;
+Early formulations of the Clear serum were primarily derived from Silver [Manna](../../nature-and-climate/the-manna-flower.md), as well as a range of classified research focused on producing genetic and epigenetic modifications in the subject. The exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.&#x20;
 
 The Clear Serum project was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to limited military and intelligence applications.
 
@@ -70,21 +70,13 @@ For others, the UDA program does not appear so mysterious; several former UDA op
 
 ## **The New MAVERICKS**
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/mavericks-353.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/mavericks-435.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/mavericks-353.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/mavericks-435.png" alt=""><figcaption></figcaption></figure></div>
 
 For over a decade, the UDA program had been sealed and officially unacknowledged. However, to the surprise of many, the [First Quorum](../politics/governance.md#the-first-quorum) approved the formation of an official MAVERICK division under the banner of Angelis following the [Bright Mesa attack](../history/bright-mesa.md#the-bright-mesa-attack). This modern MAVERICK division is an attempt to recover the operational dominance displayed by the original UDA program.
 
 Over this official division's now-ten-year history, these new Mavericks, referred to as "MAVs", have likewise proven themselves to be an invaluable tool in GATA's asymmetrical conflict with [Sovereign forces](../../free-territories/people-and-culture/sovereigns.md). Dropping from orbital [“Watchtowers”](angelis.md#watchtowers) in static-powered [Aegis pods](angelis.md#aegis-drop-pods), MAVs can be deployed anywhere around the world in a matter of minutes, and can quickly turn the tide of any conflict or crisis.
 
-Scouting and securing targets, reinforcing [Gate Patrol](../borders-and-travel/gate-patrol.md) and district [local authorities](../law-and-order/local-authority.md), overseeing shipping routes, and dropping into conflict zones in [GATA-allied territories](../politics/new-dawn-accords.md) or [homesteads](../politics/homesteads.md), the MAVs are arguably GATA's most pointed symbol and weapon. Their reputation for precision, discipline, and commitment to mission success makes them a threat few adversaries dare risk.
+Scouting and securing targets, reinforcing [Gate Patrol](../borders-and-travel/gate-patrol.md) and district [local authorities](../law-and-order/local-authority.md), overseeing shipping routes, and dropping into conflict zones in [GATA-allied territories](../law-and-order/new-dawn-accords.md) or [homesteads](../politics/homesteads.md), the MAVs are arguably GATA's most pointed symbol and weapon. Their reputation for precision, discipline, and commitment to mission success makes them a threat few adversaries dare risk.
 
 <figure><img src="../../../.gitbook/assets/mavericks-555.png" alt="" width="563"><figcaption><p>A MAV tapping their "vault" to destabilize the terrain.</p></figcaption></figure>
 

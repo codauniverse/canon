@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-In the intricate complex of [GATA](../)’s [government](../politics/governance.md), Atlan Information Control is the decisive voice in dissemination of information and technology. It was formed with GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../law-and-order/tech-regulation.md) and potentially perilous novel innovations.
+In the intricate complex of [GATA](../)’s [government](../politics/governance.md), Atlan Information Control is the decisive voice in dissemination of information and technology. It was formed with GATA's inception, primarily to protect [Atla](../key-locations/atla.md) from the threat of infected [legacy technology](../../science-and-tech/tech-regulation.md) and potentially perilous novel innovations.
 
 ***
 
@@ -58,8 +58,8 @@ The highest courts of GATA fall under the jurisdiction of the AIC. Only the AIC 
 
 ## **Whole Privacy Protection Act**
 
-The Whole Privacy Protection Act (WPP) of 2064 was among the first pieces of major legislation drafted by the AIC and voted into law by the [First Quorum](../politics/governance.md#the-first-quorum). Jurisdictions that wanted to adopt the [CRED currency](../politics/money.md#credits-currency) had to comply with its restrictions, which makes it mandatory for all nations that sign the [New Dawn Accords](../politics/new-dawn-accords.md). It was based on legislation that had been drafted and promoted in the years prior to [The Crash](../../history/the-crash.md) in recognition of the fact that threat of unfettered data collection and processing to social and political cohesion was greater than the benefits to commerce and law enforcement.
+The Whole Privacy Protection Act (WPP) of 2064 was among the first pieces of major legislation drafted by the AIC and voted into law by the [First Quorum](../politics/governance.md#the-first-quorum). Jurisdictions that wanted to adopt the [CRED currency](../politics/money.md#credits-currency) had to comply with its restrictions, which makes it mandatory for all nations that sign the [New Dawn Accords](../law-and-order/new-dawn-accords.md). It was based on legislation that had been drafted and promoted in the years prior to [The Crash](../../history/the-crash.md) in recognition of the fact that threat of unfettered data collection and processing to social and political cohesion was greater than the benefits to commerce and law enforcement.
 
-Under the [WPP](../politics/whole-privacy-protection-wpp.md), sharing citizen data without consent is illegal. Data can be revoked by its owner. Combining disparate data into composite data sets for analysis or processing is heavily regulated. Wireless frequency bands are heavily policed. Transferring unfiltered sensor data is prohibited. Behavior modification is illegal (all algorithms must “serve their user’s interests”).
+Under the [WPP](../law-and-order/whole-privacy-protection-wpp.md), sharing citizen data without consent is illegal. Data can be revoked by its owner. Combining disparate data into composite data sets for analysis or processing is heavily regulated. Wireless frequency bands are heavily policed. Transferring unfiltered sensor data is prohibited. Behavior modification is illegal (all algorithms must “serve their user’s interests”).
 
 The regulatory friction in transmitting sensitive information combined with the presence of [criminal syndicates](../criminal-element/syndicates.md) hungry for valuable information has resulted in a shift toward massive, secure computational facilities that are completely local, and self-sufficient [automata](../../science-and-tech/automata.md) which can perform simple tasks autonomously without remote instruction.

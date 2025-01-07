@@ -34,7 +34,7 @@ Many reported technologies seen during the Existence Doctrine’s time were deve
 
 ## Controversy
 
-Critics pointed out the irony that GATA was ostensibly founded on the principals of the [New Dawn Accords](../politics/new-dawn-accords.md) while simultaneously operating under a different set of rules. This tension led to a political swell that was reinforced by external pressure from [its partner states](../politics/new-dawn-accords.md#signatories), eventually resulting in the [Morning Light Summit](../politics/new-dawn-accords.md#the-morning-light-summit).
+Critics pointed out the irony that GATA was ostensibly founded on the principals of the [New Dawn Accords](../law-and-order/new-dawn-accords.md) while simultaneously operating under a different set of rules. This tension led to a political swell that was reinforced by external pressure from [its partner states](../law-and-order/new-dawn-accords.md#signatories), eventually resulting in the [Morning Light Summit](../law-and-order/new-dawn-accords.md#the-morning-light-summit).
 
 For the duration of the Existence Doctrine, bizarre rumors spread about the discoveries and new technologies emerging from the depths of GATA's top secret research facilities.
 

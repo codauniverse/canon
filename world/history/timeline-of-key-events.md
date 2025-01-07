@@ -26,15 +26,15 @@ layout:
 * September 2052 - Formation of the [Joint Atlantic Command](../gata/history/the-joint-atlantic-command-jac.md).
 * October 2052 - Discovery of [the Daemon Virus](../science-and-tech/the-daemon-virus.md).
 * December 2052 - Formalization of the [Existence Doctrine](../gata/military-and-defense/existence-doctrine.md).
-* 2054 - Development of the [Manna Flower](../science-and-tech/the-manna-flower.md).
+* 2054 - Development of the [Manna Flower](../nature-and-climate/the-manna-flower.md).
 * 2056 - The founding of [Atla](../gata/key-locations/atla.md) and the [New Dawn Declaration](../gata/history/new-dawn-declaration.md).
 * 2056 - Founding of the 200 Kingdoms and [URSA](../ursa/).
 * 2061 - Official implementation of v1 of [The System](../gata/politics/the-system.md) by Atla.
 
 ### 🔵 [The Reconstruction Era](timeline-of-key-events.md#id-200a9tx7b0gw) (2062 - early 2100s) <a href="#id-200a9tx7b0gw" id="id-200a9tx7b0gw"></a>
 
-* 2062 - The founding of GATA and the [New Dawn Accords](../gata/politics/new-dawn-accords.md) drafted.
-* 2062 - The first districts sign the [New Dawn Accords](../gata/politics/new-dawn-accords.md).
+* 2062 - The founding of GATA and the [New Dawn Accords](../gata/law-and-order/new-dawn-accords.md) drafted.
+* 2062 - The first districts sign the [New Dawn Accords](../gata/law-and-order/new-dawn-accords.md).
 * The Gulf Rebellion.
 * Rise of various sovereign states and entities in response to GATA's rapid growth.
 * Founding of the Texan Empire.
@@ -44,7 +44,7 @@ layout:
 * The rise of the Hundred Hands criminal [syndicate](../gata/criminal-element/syndicates.md).
 * The Quiet Rebellion, a failed revolt against URSA’s dominant kingdoms.
 * The Eden Initiative begins, a global ecological restoration program led by GATA.
-* 2073 - [The Morning Light Summit](../gata/politics/new-dawn-accords.md#the-morning-light-summit).
+* 2073 - [The Morning Light Summit](../gata/law-and-order/new-dawn-accords.md#the-morning-light-summit).
 * [Aryabat](../aryabat/) signs the New Dawn Accords.
 * [The Broken Dawn revolt](../african-union/history/the-broken-dawn-revolt.md) in East Africa.
 * Construction of the first Weather Engine is completed.

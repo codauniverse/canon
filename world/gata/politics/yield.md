@@ -18,9 +18,9 @@ layout:
 
 ## Overview
 
-Yield is a periodic distribution of resources and benefits funded from the collective economic and industrial activities across the regions governed by [The System](the-system.md), including [GATA](../the-basics.md) and its [partner states](new-dawn-accords.md#signatories). Surplus from [districts](districts.md) and [enterprise](../enterprise/) feeds into The System, and Yield is what comes back, calculated according to The System’s [hard-coded](../../science-and-tech/hard-code.md) logic.
+Yield is a periodic distribution of resources and benefits funded from the collective economic and industrial activities across the regions governed by [The System](the-system.md), including [GATA](../the-basics.md) and its [partner states](../law-and-order/new-dawn-accords.md#signatories). Surplus from [districts](districts.md) and [enterprise](../enterprise/) feeds into The System, and Yield is what comes back, calculated according to The System’s [hard-coded](../../science-and-tech/hard-code.md) logic.
 
-Yield represents a tangible return on the economic success of GATA and compliance of eligible parties that meet the [NDA](new-dawn-accords.md)'s requirements and regulations.
+Yield represents a tangible return on the economic success of GATA and compliance of eligible parties that meet the [NDA](../law-and-order/new-dawn-accords.md)'s requirements and regulations.
 
 Yield consists of [keys](keys.md), [credits](money.md#credits-currency), and physical goods to be distributed by local governments to citizens and enterprises. Yield is delivered periodically by static tankers directly to district gateyards.
 
@@ -30,7 +30,7 @@ Yield consists of [keys](keys.md), [credits](money.md#credits-currency), and phy
 
 The System uses its comprehensive insight into district activity to calculate each district's Yield. This includes monitoring resource needs, surplus production, economic transactions, crime stats, regulatory compliance, civic participation, and more.
 
-Yield is also modulated based on district performance in key governance metrics. Citizen satisfaction, low crime stats, education stats, and enforcement of the [New Dawn Accords (NDA)](new-dawn-accords.md) are just a few of the contributing factors that are calculated from periodic filings and reports from government, institutions, and [enterprise](../enterprise/).
+Yield is also modulated based on district performance in key governance metrics. Citizen satisfaction, low crime stats, education stats, and enforcement of the [New Dawn Accords (NDA)](../law-and-order/new-dawn-accords.md) are just a few of the contributing factors that are calculated from periodic filings and reports from government, institutions, and [enterprise](../enterprise/).
 
 Unlike the System's raw yield calculations which are hard-coded into every [System Node](the-system.md#system-nodes), these additional modulations are debated and modified regularly in the [Second Quorum](governance.md#the-second-quorum).
 

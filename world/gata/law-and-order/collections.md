@@ -30,10 +30,10 @@ Collections conducts long-term investigations, responds to reports from local go
 
 Collections field agents are called Collectors, specially trained investigators and operators who typically work undercover, and are deployed all around the world, from [Greater Atla](../politics/greater-atla.md) and its partner states, to [Gray Zones](../politics/gray-zones.md) and the [Free Territories](../../free-territories/).
 
-Collectors work hand in hand with AIC working groups and local authorities to conduct their investigations into breaches of [NDA](../politics/new-dawn-accords.md) [regulations](tech-regulation.md) and to secure dangerous technologies. Often these investigations implicate gangs, [criminal syndicates](../criminal-element/syndicates.md), and sometimes even expose corruption within enterprise and institutions.
+Collectors work hand in hand with AIC working groups and local authorities to conduct their investigations into breaches of [NDA](new-dawn-accords.md) [regulations](../../science-and-tech/tech-regulation.md) and to secure dangerous technologies. Often these investigations implicate gangs, [criminal syndicates](../criminal-element/syndicates.md), and sometimes even expose corruption within enterprise and institutions.
 
 ***
 
 ## Collections at District Gates
 
-Every [Gate](../borders-and-travel/gates.md) in GATA has a Collections Desk, an office available to members of the public who wish to report or surrender [illegal technology](tech-regulation.md) or other [Old World](../../history/the-old-world.md) contraband. These Collections Desks also serve as a home base for Collectors who need access to AIC resources and support over the course of their active investigations.
+Every [Gate](../borders-and-travel/gates.md) in GATA has a Collections Desk, an office available to members of the public who wish to report or surrender [illegal technology](../../science-and-tech/tech-regulation.md) or other [Old World](../../history/the-old-world.md) contraband. These Collections Desks also serve as a home base for Collectors who need access to AIC resources and support over the course of their active investigations.

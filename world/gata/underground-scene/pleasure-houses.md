@@ -28,19 +28,11 @@ The pleasure industry encompasses a broad spectrum of establishments and service
 
 Within the [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md), the pleasure industry is tightly regulated. The use of advanced [anthro automata](../../science-and-tech/automata.md#anthros), driven by a central [LMNL-based](../../science-and-tech/hard-code.md#lmnl) [cog](../../science-and-tech/cogs.md), ensures that services are provided in a controlled and standardized manner.
 
-These automata are designed to comply with the [NDA's](../politics/new-dawn-accords.md) strict ethical guidelines and operational protocols, minimizing the potential for danger, exploitation, and abuse. Licensed establishments are [legal enterprises](../enterprise/), and are seen as a legitimate part of the economy, filling an essential need for citizens who are not interested in, or compatible with, traditional romantic constructs.
+These automata are designed to comply with the [NDA's](../law-and-order/new-dawn-accords.md) strict ethical guidelines and operational protocols, minimizing the potential for danger, exploitation, and abuse. Licensed establishments are [legal enterprises](../enterprise/), and are seen as a legitimate part of the economy, filling an essential need for citizens who are not interested in, or compatible with, traditional romantic constructs.
 
 ### Unregulated Industry
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/pleasurehouse-204.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/pleasurehouse-454.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/pleasurehouse-204.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/pleasurehouse-454.png" alt=""><figcaption></figcaption></figure></div>
 
 Outside the stringent regulations of GATA, the[ Gray Zones](../politics/gray-zones.md) and [Free Territories](../../free-territories/the-basics.md) present a stark contrast. In these regions, the pleasure industry is more visible and far less regulated, often relying on human labor rather than automata. This laissez-faire approach leads to a more volatile and dangerous environment, where human workers are susceptible to exploitation.
 

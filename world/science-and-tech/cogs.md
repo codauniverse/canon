@@ -22,7 +22,7 @@ COGs are cognitive systems. They are [Asimovian](asimovian-architecture.md) cons
 
 Due to the design constraints of Asimovian architecture, cogs are quite large–ranging in scale from roughly two cubic feet to the size of a large warehouse, based on the tension between the system's required speed and complexity.
 
-The key to understanding the mind of an Asimov-complete cog is that each cog represents a wholistic framework for reasoning, and its "cognition" is pseudo-deterministic, which are requirements outlined in the [New Dawn Accords](../gata/politics/new-dawn-accords.md).
+The key to understanding the mind of an Asimov-complete cog is that each cog represents a wholistic framework for reasoning, and its "cognition" is pseudo-deterministic, which are requirements outlined in the [New Dawn Accords](../gata/law-and-order/new-dawn-accords.md).
 
 COGs do not learn over time. They simply take any input, roll the information around internally, sifting it and reducing it until its rational peaks emerge, and then return the result which is then interpreted by a separate natural language module, such as [VOX](cogs.md#vox). They have no memory.
 

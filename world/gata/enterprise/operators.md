@@ -32,7 +32,7 @@ All legal commission work is recorded on, and regulated by, The System economy. 
 
 ### The Right to Uphold
 
-Among the various fundamental rights that the [New Dawn Accords (NDA)](../politics/new-dawn-accords.md) assign to citizens "of good standing" is the right to reasonably take charge in upholding the laws of the NDA.
+Among the various fundamental rights that the [New Dawn Accords (NDA)](../law-and-order/new-dawn-accords.md) assign to citizens "of good standing" is the right to reasonably take charge in upholding the laws of the NDA.
 
 This means, legally speaking, all citizens are naturally deputized as legitimate agents of GATA within its territories.
 

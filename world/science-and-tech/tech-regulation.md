@@ -14,11 +14,11 @@ layout:
 
 # Tech Regulation
 
-<figure><img src="../../../.gitbook/assets/techregulation-48354.png" alt=""><figcaption><p>Collections officers retrieving Class 1 technology on a static raft.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/techregulation-48354.png" alt=""><figcaption><p>Collections officers retrieving Class 1 technology on a static raft.</p></figcaption></figure>
 
 ## Overview
 
-Within GATA, technology is heavily regulated, including legacy tech from the [Old World](../../history/the-old-world.md). Illegal technology is scrutinized particularly closely inside of GATA's walled districts.
+Within GATA, technology is heavily regulated, including legacy tech from the [Old World](../history/the-old-world.md). Illegal technology is scrutinized particularly closely inside of GATA's walled districts.
 
 This heavy-handed regulation of technology is foundational to GATA's vision for a safe and prosperous human future, a bid to never again repeat the tragedies of the Dark Decade. By restraining and constraining the development of novel tech, GATA intends to mitigate sudden and catastrophic failures at both the immediate and existential scope.
 
@@ -29,6 +29,8 @@ Unsurprisingly, this restrictive atmosphere has created a lucrative black market
 ***
 
 ## Classifications
+
+<figure><img src="../../.gitbook/assets/collections-9535.png" alt="" width="563"><figcaption><p>Collections field analysts inspecting an unlicensed legacy compute rack.</p></figcaption></figure>
 
 In GATA, technology is generally classified into three different categories that signify the potential danger they pose and their prescribed handling by authorities.
 

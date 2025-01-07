@@ -16,7 +16,7 @@ layout:
 
 ## Overview
 
-In GATA and its partner states, AI is strictly regulated under the [NDA](../gata/politics/new-dawn-accords.md). General purpose processors are illegal specifically due to the threat posed by AI and destructive algorithms like the [Daemon virus](the-daemon-virus.md).
+In GATA and its partner states, AI is strictly regulated under the [NDA](../gata/law-and-order/new-dawn-accords.md). General purpose processors are illegal specifically due to the threat posed by AI and destructive algorithms like the [Daemon virus](the-daemon-virus.md).
 
 This limitation drove the development of [Asimovian computers](asimovian-architecture.md); application-specific compute platforms that are secure and predictable. As a result of this move toward [hard code](hard-code.md), all legal artificial intelligence today takes the form of [cogs](cogs.md), Asimov-complete hard-coded cognitive systems that can only perceive and compute within a carefully limited scope called an ‘[ontology](asimovian-architecture.md#ontology-design)’.
 

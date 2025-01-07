@@ -32,7 +32,7 @@ Scavenging began out of desperate necessity during [the Dark Decade](../../histo
 
 <figure><img src="../../../.gitbook/assets/scavengers-444.png" alt="" width="563"><figcaption><p>A band of well-outfitted scavengers hunt an artifact of value.</p></figcaption></figure>
 
-Scavengers operate in various environments, from sprawling, overgrown forest-cities, to abandoned industrial complexes, and eerie suburban wastelands. Their targets include raw materials, [legacy tech](../law-and-order/tech-regulation.md#overview), books, media, jewelry, and anything else that may catch their discerning eye. Their finds determine their alliances and risks.
+Scavengers operate in various environments, from sprawling, overgrown forest-cities, to abandoned industrial complexes, and eerie suburban wastelands. Their targets include raw materials, [legacy tech](../../science-and-tech/tech-regulation.md#overview), books, media, jewelry, and anything else that may catch their discerning eye. Their finds determine their alliances and risks.
 
 Some scavengers work for [criminal syndicates](syndicates.md), retrieving high-value items for the black market. Others operate independently, alone or in teams, relying on their skills to survive and profit. There are also those hired as [dark operators](../enterprise/operators.md#dark-operators) by private clients to find specific items or information, often involving complex and dangerous missions.
 
@@ -50,7 +50,7 @@ These goods are sold to clients or vendors, fetching high prices due to their ra
 
 <figure><img src="../../../.gitbook/assets/scavengers-9444.png" alt="" width="563"><figcaption><p>A scavenger overlooks an abandoned Old World city that has fallen to ruin.</p></figcaption></figure>
 
-While scavenging is not explicitly illegal, it is frowned upon by authorities, especially in the [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md). Possession of illegal contraband carries [severe penalties](../law-and-order/tech-regulation.md). In [the Free Territories](../../free-territories/the-basics.md), scavenging is more openly practiced but comes with risks, including rival scavengers, hostile factions, and environmental hazards.
+While scavenging is not explicitly illegal, it is frowned upon by authorities, especially in the [Greater Atlantic Territorial Alliance (GATA)](../the-basics.md). Possession of illegal contraband carries [severe penalties](../../science-and-tech/tech-regulation.md). In [the Free Territories](../../free-territories/the-basics.md), scavenging is more openly practiced but comes with risks, including rival scavengers, hostile factions, and environmental hazards.
 
 GATA is known to deploy [sentinels](../borders-and-travel/sentinels.md) to guard hazardous ruins, deterring scavengers. The black market value of legacy tech makes scavenging lucrative but perilous. The younger generations are drawn to scavenging for the thrill and the mysteries of [the Old World](../../history/the-old-world.md).
 

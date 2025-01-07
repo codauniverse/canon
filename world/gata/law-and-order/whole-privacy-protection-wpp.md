@@ -16,9 +16,9 @@ layout:
 
 ## **Overview**
 
-The Whole Privacy Protection Act (WPP) is a cornerstone piece of legislation in [Greater Atla Territorial Alliance (GATA)](../the-basics.md). It was one of the first major laws introduced by the [Atlan Information Control (AIC)](../institutions/atlan-information-control-aic.md) and ratified by the [First Quorum](governance.md#the-first-quorum), governing data privacy, encryption, and the ethical use of technology across the GATA.
+The Whole Privacy Protection Act (WPP) is a cornerstone piece of legislation in [Greater Atla Territorial Alliance (GATA)](../the-basics.md). It was one of the first major laws introduced by the [Atlan Information Control (AIC)](../institutions/atlan-information-control-aic.md) and ratified by the [First Quorum](../politics/governance.md#the-first-quorum), governing data privacy, encryption, and the ethical use of technology across the GATA.
 
-Compliance with the WPP is mandatory for any nation wishing to adopt the [CRED currency](money.md#credits-currency) within their own [districts](districts.md), making it a fundamental requirement for signatories of the [New Dawn Accords (NDA)](new-dawn-accords.md).
+Compliance with the WPP is mandatory for any nation wishing to adopt the [CRED currency](../politics/money.md#credits-currency) within their own [districts](../politics/districts.md), making it a fundamental requirement for signatories of the [New Dawn Accords (NDA)](new-dawn-accords.md).
 
 ***
 
@@ -32,7 +32,7 @@ The importance of legislation like the WPP was made apparent in the final decade
 
 At the heart of the WPP is the principle of data privacy and user consent. The act stipulates that performing any operation on a citizen's data without their explicit consent is illegal.
 
-Citizens are granted the right to revoke access to their data at any time, ensuring ongoing control over their personal information. This provision empowers individuals to manage their digital footprint actively and ensures that their privacy is respected across [the System](the-system.md).
+Citizens are granted the right to revoke access to their data at any time, ensuring ongoing control over their personal information. This provision empowers individuals to manage their digital footprint actively and ensures that their privacy is respected across [the System](../politics/the-system.md).
 
 ### **Regulation of Data Analysis**
 
@@ -60,6 +60,6 @@ This shift minimizes the risk of data breaches and unauthorized access, ensuring
 
 ### **Enforcement**
 
-Enforcement of the WPP is carried out by various bodies within GATA, with the [Collections bureau](../law-and-order/collections.md) playing a central role. Collections is dedicated to tracking and recovering illegal technology, ensuring that all technological use complies with the act's stringent requirements. If an illegal data farming operation is discovered, or a critical data breach occurs, it is Collections who will be called to address it.
+Enforcement of the WPP is carried out by various bodies within GATA, with the [Collections bureau](collections.md) playing a central role. Collections is dedicated to tracking and recovering illegal technology, ensuring that all technological use complies with the act's stringent requirements. If an illegal data farming operation is discovered, or a critical data breach occurs, it is Collections who will be called to address it.
 
 The local government and local authority also both play crucial roles in upholding and enforcing WPP regulation, with their investigations often being the catalyst for discovering illegal data-related crime in their district.

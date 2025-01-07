@@ -20,7 +20,7 @@ layout:
 
 Static Field technology, or statics for short, uses ‘[static nodes](statics.md#static-nodes)’ to position and move objects, crafts, platforms, and structures within the Earth’s gravitational field, or ‘static field’ as it relates to static technology.
 
-Statics are much more prevalent in [GATA's](../gata/the-basics.md) districts and across [Greater Atla](../gata/politics/greater-atla.md), however they can also be found in use within all of [GATA's partner states](../gata/politics/new-dawn-accords.md#signatories). Conversely, they are a rarer sight in [URSA](../ursa/the-basics.md) and rarer still across the [Free Territories](../free-territories/the-basics.md).
+Statics are much more prevalent in [GATA's](../gata/the-basics.md) districts and across [Greater Atla](../gata/politics/greater-atla.md), however they can also be found in use within all of [GATA's partner states](../gata/law-and-order/new-dawn-accords.md#signatories). Conversely, they are a rarer sight in [URSA](../ursa/the-basics.md) and rarer still across the [Free Territories](../free-territories/the-basics.md).
 
 Static field technology has also been essential for the development of [grabbers](grabbers.md), and it is a key element of many other innovations, such as containment fields for breathable atmospheres in space, inertial dampening fields for [frame](frames.md) operators' [cradles](frames.md#design-and-functionality), or artificial gravity environments, such as those used in the popular sport, [Gravita](../gata/people-and-culture/sports-and-games/#gravita).
 
@@ -32,13 +32,27 @@ Static field technology has also been essential for the development of [grabbers
 
 Static nodes are small polyhedral components whose position in its surrounding gravitational field can be modulated by applying a charge to the node.
 
-When a high charge is applied to an inactive node, the node slowly becomes more "static" in the gravitational field. When the current is cut, the node holds its relative position in the gravitational field indefinitely until the exact same frequency of charge is first applied and then slowly entrained down, at which time the node will loosen again. The charge necessary to loosen a regulation "firm" node is extremely high and must be applied for some time before the node will come loose.
+When a high charge is applied to a "loosened" node, the node slowly "tightens" its position in the gravitational field. Its position's tightness is also highly dependent on the dominant gravitational actors in the field, such as the Earth or the Sun.
 
-A loose node can be moved manually through the magnetic field, although the amount of resistance is determined by the charge that was entrained. Loose nodes have opened up a wide range of applications in industry and enterprise, and in particular, static engines.
+When the current is cut to a tightened node, it will hold its relative position in the gravitational field indefinitely until the precise same frequency of charge is applied and slowly entrained down,  thereby loosening the node.
 
-The number of nodes determines the way in which an object can orient in the gravitational field. A single, firm node is useful as an anchor for architecture and infrastructure. Two nodes can be used to create platforms that can be moved horizontally along the Earth's magnetic field. In order to achieve locomotion, three nodes are required.
+A loose node can be moved manually through the magnetic field, although the amount of resistance is determined by how much the node was tightened.
 
-Static nodes can range from 5 cm in diameter to 1 meter. The diameter of the node's core determines how quickly the node's resonant frequency can be entrained up or down. Smaller nodes can approach up to 90% firmness very quickly, permitting faster, more agile movement—but the last 10% of firmness would require an asymptotically higher current. Larger nodes take quite a while to reach 90% firmness, but reaching 99.9999% firmness is much faster and more energy efficient than with smaller nodes.
+Loose nodes have opened up a wide range of applications in industry and enterprise, and in particular, static engines, and transportation like static [ships](statics.md#ships), [tankers](statics.md#tankers), [gondolas](statics.md#gondolas), [rafts](statics.md#rafts), and [darts](statics.md#static-boards).
+
+The charge necessary to loosen a regulation "tight" node is extremely high and must be applied for some time before the node will come loose.
+
+### Varieties of Nodes
+
+The kind and quantity of nodes in a static system determines the way in which the system can orient itself in, and navigate, a gravitational field.
+
+A single, tight node is useful as an anchor for architecture and infrastructure. Two nodes can be used to create platforms that can be moved horizontally along the Earth's magnetic field. In order to achieve stable locomotion, three or more nodes are used.
+
+Static nodes can range from 5 cm in diameter to 1 meter. The diameter of the node determines how quickly the node's resonant frequency can be entrained up or down.
+
+Smaller nodes approach high tightness more quickly, permitting faster, highly agile movement—but reaching 100% tightness requires exponentially higher current. Due to energy throughput limitations, smaller nodes are not able to travel very far up the Earth's gravity well.
+
+Larger nodes take more time to reach hight tightness, but reaching 99.999%\~ tightness is much faster and more energy efficient than with smaller nodes. Larger nodes take advantage of their high energy throughput to anchor the system to more subtle gravitic reference points, allowing static systems to traverse the Solar gravity well.
 
 Static nodes are made possible by advances in material sciences pioneered by Atla’s [Research Corps](../sol/institutions/the-research-corps.md) during [The Reconstruction](../history/the-reconstruction.md) era.
 

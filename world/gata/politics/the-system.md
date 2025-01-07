@@ -68,7 +68,7 @@ A draft schedule for each new version is submitted to the [Second Quorum](govern
 
 Additionally, large [enterprises](../enterprise/) with a significant share of traffic on the network are required to build and maintain their own full nodes.
 
-All licensed enterprises have their own private System endpoints that allow them to coordinate their operations within and without the district, and report their activity in real-time, in accordance with the [NDA](new-dawn-accords.md).
+All licensed enterprises have their own private System endpoints that allow them to coordinate their operations within and without the district, and report their activity in real-time, in accordance with the [NDA](../law-and-order/new-dawn-accords.md).
 
 ***
 
@@ -80,4 +80,4 @@ These arrays provide real-time insight into things like climate, microbial healt
 
 No raw audio or video is recorded, however extremely skilled data conduits can reconstruct partial images from sensor data. Useful for investigations into a past incident with no credible witnesses or conclusive evidence, however access to this data is difficult to have approved by the AIC.
 
-It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence for this claim exists. This would be a direct contravention of [NDA](new-dawn-accords.md) and [WPP](../institutions/atlan-information-control-aic.md#whole-privacy-protection-act) law.
+It has been claimed by some that the [Angelis](../military-and-defense/angelis.md) [Intelligence Division](../military-and-defense/angelis.md#watchers) has direct access to this sensor information, however no evidence for this claim exists. This would be a direct contravention of [NDA](../law-and-order/new-dawn-accords.md) and [WPP](../institutions/atlan-information-control-aic.md#whole-privacy-protection-act) law.

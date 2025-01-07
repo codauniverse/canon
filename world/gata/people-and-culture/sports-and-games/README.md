@@ -26,15 +26,7 @@ From high-intensity contact sports to gravity-defying races, sports play a signi
 
 ## **Gravita**
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/gravita-943.png" alt="" width="563"><figcaption><p>A team prepares a play.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/gravity-990.png" alt="" width="563"><figcaption><p>A guard leads an offensive play.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/gravita-943.png" alt="" width="563"><figcaption><p>A team prepares a play.</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/gravity-990.png" alt="" width="563"><figcaption><p>A guard leads an offensive play.</p></figcaption></figure></div>
 
 The most popular spectator sport in GATA. A contact sport played inside of an artificial gravity field.
 
@@ -56,15 +48,7 @@ Static GP is a high-stakes, prestigious sport with a significant following, know
 
 ## **Darts**
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/staticboard-488.png" alt="" width="563"><figcaption><p>A thrill-seeking youth tricking on a high-end dart board.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/dartracing-555.png" alt="" width="563"><figcaption><p>Dart racers speeding through a district.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/staticboard-488.png" alt="" width="563"><figcaption><p>A thrill-seeking youth tricking on a high-end dart board.</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/dartracing-555.png" alt="" width="563"><figcaption><p>Dart racers speeding through a district.</p></figcaption></figure></div>
 
 A “dart” is a high-performance variant of the [static boards](../../../science-and-tech/statics.md#static-boards) that are popular with the youth, capable of awesome displays of speed and agility. Darts use the widely paradigmed [static field tech](../../../science-and-tech/statics.md) to surf the Earth's gravitational field.
 
@@ -78,15 +62,7 @@ This diversity of dart board form factors has made it suitable for a wide range 
 
 ## Neurochess
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/neurochess.png" alt="" width="563"><figcaption><p>A player explaining neurochess.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/neurochess-787.png" alt="" width="563"><figcaption><p>A player contemplates their move.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/neurochess.png" alt="" width="563"><figcaption><p>A player explaining neurochess.</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/neurochess-787.png" alt="" width="563"><figcaption><p>A player contemplates their move.</p></figcaption></figure></div>
 
 Neurochess is a cerebral sport that evolves traditional chess-like play with [link use](../../../science-and-tech/links.md). Players connect to the neurochess board, allowing them to visualize and manipulate the chessboard with their minds. The game can be played on a holographic game board or inside of a [virtual construct](../../../science-and-tech/constructs.md#virtual-constructs).&#x20;
 
@@ -98,15 +74,7 @@ Neurochess tournaments are major events within academic and upper-class circles,
 
 ## Guarda
 
-<div>
-
-<figure><img src="../../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering their next move.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda with its 6x6 grid.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../../.gitbook/assets/guarda-53.png" alt="" width="563"><figcaption><p>A player considering their next move.</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/guarda-777.png" alt="" width="563"><figcaption><p>Guarda with its 6x6 grid.</p></figcaption></figure></div>
 
 A tactical card game originating during [the Dark Decade](../../../history/the-dark-decade.md) that grew in popularity during [GATA's](../../the-basics.md) expansion over the course of [the Reconstruction](../../../history/the-reconstruction.md). Today, one would be hard-pressed to find a citizen of GATA who doesn't know [how to play Guarda](guarda.md).
 
@@ -114,7 +82,7 @@ The cards used in Guarda predate the game by several years. The cards were origi
 
 It is not known who first started using the lei cards as a game, but before long, the children of Bright Mesa were drawing grids in the dirt and using the cards to attack and defend. By the end of the Dark Decade the rules had been refined, and it had become wildly popular, even among the adults who had come to enjoy gambling on the game.
 
-After [the Morning Light Summit](../../politics/new-dawn-accords.md#the-morning-light-summit) and the nearby LA camp's subsequent [districting](../../politics/districts.md#the-path-to-districthood) by the fledging GATA, people began to, slowly, and then suddenly, cross great distances and intermingle once again. The mass, voluntary relocation of a huge number of refugees under [Atla's](../../key-locations/atla.md) [Existence Doctrine](../../military-and-defense/existence-doctrine.md) spread the game far and wide at the very onset of the Reconstruction.
+After [the Morning Light Summit](../../law-and-order/new-dawn-accords.md#the-morning-light-summit) and the nearby LA camp's subsequent [districting](../../politics/districts.md#the-path-to-districthood) by the fledging GATA, people began to, slowly, and then suddenly, cross great distances and intermingle once again. The mass, voluntary relocation of a huge number of refugees under [Atla's](../../key-locations/atla.md) [Existence Doctrine](../../military-and-defense/existence-doctrine.md) spread the game far and wide at the very onset of the Reconstruction.
 
 "Guarda" as it had then come to be called, (a Spanish-language reference to Atla's symbolic [Guardian](../../military-and-defense/guardians.md) [war frames](../../../science-and-tech/frames.md)), quickly became the most popular new table game since the rise of poker in the 20th century.&#x20;
 

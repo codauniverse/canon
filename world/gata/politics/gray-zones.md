@@ -20,7 +20,7 @@ layout:
 
 The term Gray Zone refers to any contiguous region inside of the territory of [Greater Atla](greater-atla.md) where [The System](../enterprise/systema.md) has not been adopted, or its requirements have not been met.&#x20;
 
-Over time, the number of Gray Zones within Greater Atla and [NDA](new-dawn-accords.md)-compliant states has decreased, however the conflicts over those Gray Zones’ status grow ever sharper. [GATA](../)’s approach with Gray Zones is one of consistent pressure by various non-violent means, and patient absorption.
+Over time, the number of Gray Zones within Greater Atla and [NDA](../law-and-order/new-dawn-accords.md)-compliant states has decreased, however the conflicts over those Gray Zones’ status grow ever sharper. [GATA](../)’s approach with Gray Zones is one of consistent pressure by various non-violent means, and patient absorption.
 
 Occasionally, peacekeeping missions are undertaken by [Angelis forces](../military-and-defense/angelis.md), creating opportune conditions for the zone’s incorporation into GATA.
 
@@ -30,7 +30,7 @@ As far as GATA political ideology is concerned, all of the [Free Territories](..
 
 ## **People & Politics**
 
-While many living in the Gray Zones identify with the Free Territories’ Sovereign movement, other Gray Zone communities are not especially political, and some do voluntarily maintain institutions that enforce and report according to GATA regulation, stopping short of actually signing their freedom over to the [New Dawn Accords](new-dawn-accords.md).&#x20;
+While many living in the Gray Zones identify with the Free Territories’ Sovereign movement, other Gray Zone communities are not especially political, and some do voluntarily maintain institutions that enforce and report according to GATA regulation, stopping short of actually signing their freedom over to the [New Dawn Accords](../law-and-order/new-dawn-accords.md).&#x20;
 
 Other Gray Zones have signed the NDA but do not meet minimum System requirements, such as satisfying reporting standards, or having sufficient citizen trust scores for their prospective local governments.
 
@@ -52,6 +52,6 @@ More often than not, the only real laws in Gray Zones are the laws of the [local
 
 ### **The Criminal Element**
 
-In Gray Zones you will find a seedy ecosystem replete with brothels, illegal gambling, unlicensed [operators](../enterprise/operators.md), and [scavengers](../criminal-element/scavengers.md) selling [illegal tech](../law-and-order/tech-regulation.md) and [Old World](../../history/the-old-world.md) paraphernalia.
+In Gray Zones you will find a seedy ecosystem replete with brothels, illegal gambling, unlicensed [operators](../enterprise/operators.md), and [scavengers](../criminal-element/scavengers.md) selling [illegal tech](../../science-and-tech/tech-regulation.md) and [Old World](../../history/the-old-world.md) paraphernalia.
 
 Local gangs are the law in Gray Zones and their say goes. Some gangs have more reasonable regimes than others. [Smuggling](../criminal-element/smugglers.md), [drugs](../underground-scene/recreational-drugs.md), and illegal rackets writhe beneath the surface of every day life, a network of underground alliances between syndicates, gangs, [enterprises](../enterprise/) and even [institutions](../institutions/), maintaining a different kind of order than GATA might provide.&#x20;

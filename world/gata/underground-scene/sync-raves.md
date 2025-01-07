@@ -40,9 +40,9 @@ Sync raves originated in an arcade called Arcadia in LA, stemming from an experi
 
 <figure><img src="../../../.gitbook/assets/ravescene_02 (1).png" alt="" width="563"><figcaption><p>Some ravers at a sync in a Gray Zone arcade.</p></figcaption></figure>
 
-Sync raves, or simply "syncs", are a response to GATA's [tight control and regulation](../politics/new-dawn-accords.md). These underground raves offer an escape, an illicit world where the youth especially can feel free for the first time. The raves are a blend of old and new - the rediscovered music and entertainment of the past, reinterpreted with modern technologies and tastes, unleashed on a voracious scene.
+Sync raves, or simply "syncs", are a response to GATA's [tight control and regulation](../law-and-order/new-dawn-accords.md). These underground raves offer an escape, an illicit world where the youth especially can feel free for the first time. The raves are a blend of old and new - the rediscovered music and entertainment of the past, reinterpreted with modern technologies and tastes, unleashed on a voracious scene.
 
-For young citizens of districts venturing into the sync scene and [Gray Zones](../politics/gray-zones.md), it is often their first exposure to illegal [legacy technologies](../law-and-order/tech-regulation.md) and [Old World](../../history/the-old-world.md) culture.
+For young citizens of districts venturing into the sync scene and [Gray Zones](../politics/gray-zones.md), it is often their first exposure to illegal [legacy technologies](../../science-and-tech/tech-regulation.md) and [Old World](../../history/the-old-world.md) culture.
 
 ### Politics of Sync Raves
 

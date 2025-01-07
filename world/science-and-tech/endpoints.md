@@ -36,13 +36,10 @@ Behind every interaction with a networked system, whether its from a terminal, o
 
 ## **Relays**
 
-Technically a kind of 'virtual endpoint' with distinct characteristics. Relays are extensions attached to endpoints that relay connections from any system to the ‘solid’ endpoint behind that system. For example, most terminals include relays so that other interfaces can connect to the terminals and access the raw system data behind them.
+Technically a kind of 'virtual endpoint' with distinct characteristics. Relays are extensions attached to endpoints that relay connections from any system to the ‘solid’ endpoint behind that system. For example, most terminals include relays so that other interfaces can connect to the endpoint and access the raw system data directly.
 
 Long-distance relays can feel a bit ‘slippery’ when attempting to connect for inexperienced [link](links.md) users because there isn’t a ‘live’ endpoint to sense.
 
-Longer relays make it possible for users to connect with remote systems, since long-range wireless wavelengths are heavily regulated under both the [NDA](../gata/politics/new-dawn-accords.md) and [WPP](../gata/institutions/atlan-information-control-aic.md#whole-privacy-protection-act).
+Longer relays make it possible for users to connect with remote systems, since long-range wireless wavelengths are heavily regulated under both the [NDA](../gata/law-and-order/new-dawn-accords.md) and [WPP](../gata/institutions/atlan-information-control-aic.md#whole-privacy-protection-act).
 
 Relays are often combined with junctions to allow multiple relays to connect to the same endpoint.
-
-\
-\

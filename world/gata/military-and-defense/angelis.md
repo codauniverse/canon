@@ -20,7 +20,7 @@ layout:
 
 A special public-private enterprise sanctioned by [GATA](../the-basics.md), headquartered in [Atla](../key-locations/atla.md), and staffed by more than 10 million personnel stationed around the world and in orbit.
 
-Angelis' military might is formidable, with their ranks consisting of regular and special forces units, supported by a vast intelligence apparatus. Angelis is GATA’s largest [enterprise](../enterprise/), and provides military and intelligence services for GATA and [its partner states](../politics/new-dawn-accords.md#signatories).
+Angelis' military might is formidable, with their ranks consisting of regular and special forces units, supported by a vast intelligence apparatus. Angelis is GATA’s largest [enterprise](../enterprise/), and provides military and intelligence services for GATA and [its partner states](../law-and-order/new-dawn-accords.md#signatories).
 
 Angelis was founded at the close of [The Reconstruction](../../history/the-reconstruction.md) era. Because of the particulars of GATA's formation, Atla's [local authority](../law-and-order/local-authority.md) had functioned as GATA's de facto national military, and it was felt by a vocal cohort in the [Second Quorum](../politics/governance.md#the-second-quorum) that this was an unreasonable extension of the capitol's power across the rest of [Greater Atla](../politics/greater-atla.md).
 

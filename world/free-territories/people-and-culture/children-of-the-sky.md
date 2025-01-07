@@ -60,25 +60,13 @@ The stars are the souls of the righteous, both ancestors and descendants, watchi
 
 In general, their spiritual rituals and practices are heavily influenced by the cycles of nature—seasons, celestial movements, and the life cycles of flora and fauna, overlaid with Judeo-Christian motifs. They believe in living in harmony with the Earth, advocating for sustainable hunting and gathering practices that honor the spirit of the land and its creatures, and finding balance, or "lightness" within oneself.
 
-Their deep convictions regarding the sanctity of nature occasionally place them at odds with the interests of [GATA](../../gata/the-basics.md), who actively modify the weather and engineered the invasive [Manna flower](../../science-and-tech/the-manna-flower.md), as well as other factions within the Free Territories who disregard the future of the land in pursuit of short-term exploitation.
+Their deep convictions regarding the sanctity of nature occasionally place them at odds with the interests of [GATA](../../gata/the-basics.md), who actively modify the weather and engineered the invasive [Manna flower](../../nature-and-climate/the-manna-flower.md), as well as other factions within the Free Territories who disregard the future of the land in pursuit of short-term exploitation.
 
 Borrowing from numerous indigenous teachings, their mythology is rich with tales that are not only entertaining but also serve as allegories for survival, morality, and the human condition. These stories often feature characters and spirits from traditional lore, adapted to the teachings of the organization to guide followers in wisdom and ethics.
 
 ### Places of Worship
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/churchofthesky-833.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/churchofthesky-554.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/churchofthesky-843.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/churchofthesky-833.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/churchofthesky-554.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/churchofthesky-843.png" alt=""><figcaption></figcaption></figure></div>
 
 It is typical for a particular church to be dedicated to the Earth, the Sky, or the Heavens. The beliefs espoused in all of them are largely similar, however the emphasis of their sermons and the focus of their rituals and spiritual practices are heavily influenced by this alignment.
 

@@ -30,15 +30,7 @@ Automata are constructed using advanced materials and hard-coded components. Whi
 
 ### **Anthros**
 
-<div>
-
-<figure><img src="../../.gitbook/assets/anthro-6321.png" alt="" width="563"><figcaption><p>An AU-built anthro in a showroom.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/anthro-8535.png" alt="" width="563"><figcaption><p>An anthro being driven remotely by a human conduit.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/anthro-6321.png" alt="" width="563"><figcaption><p>An AU-built anthro in a showroom.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/anthro-8535.png" alt="" width="563"><figcaption><p>An anthro being driven remotely by a human conduit.</p></figcaption></figure></div>
 
 Anthro is short for anthropomorphic automata. Like all other automata, they do almost no processing onboard due to the limitations imposed by [AIC regulation](../gata/institutions/atlan-information-control-aic.md), thus requiring a separate platform to drive them (or a human conduit to embody them as surrogates). Connecting an athro to local hardware can give them a wide range of capabilities, and they are particularly popular in luxury contexts, customer service, and as companions.
 
@@ -48,29 +40,13 @@ Rates of anthro use and manufacture are highest in the African Union where they 
 
 ### **Bugs**
 
-<div>
+<div><figure><img src="../../.gitbook/assets/bugs.png" alt="" width="563"><figcaption><p>A small bug automata performing maintenance tasks.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/bugs-845.png" alt="" width="563"><figcaption><p>A line of bug automata walking by.</p></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/bugs.png" alt="" width="563"><figcaption><p>A small bug automata performing maintenance tasks.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/bugs-845.png" alt="" width="563"><figcaption><p>A line of bug automata walking by.</p></figcaption></figure>
-
-</div>
-
-Small robotic automata that perform basic status assessment and maintenance in public spaces. They can climb walls, slip between cracks and perform a variety of functions, but in order to be [NDA](../gata/politics/new-dawn-accords.md)-compliant their onboard computation capacity is very limited.
+Small robotic automata that perform basic status assessment and maintenance in public spaces. They can climb walls, slip between cracks and perform a variety of functions, but in order to be [NDA](../gata/law-and-order/new-dawn-accords.md)-compliant their onboard computation capacity is very limited.
 
 ### Trajectoids
 
-<div>
-
-<figure><img src="../../.gitbook/assets/trajectoid.png" alt="" width="563"><figcaption><p>A large trajectoid made of many articulating parts.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/trajectoid-583 (1).png" alt="" width="563"><figcaption><p>A mid-sized trajectoid with few articulations.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/trajectoid.png" alt="" width="563"><figcaption><p>A large trajectoid made of many articulating parts.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/trajectoid-583 (1).png" alt="" width="563"><figcaption><p>A mid-sized trajectoid with few articulations.</p></figcaption></figure></div>
 
 Multi-purpose machines and computational platforms with and without articulating parts, that use their shape and topology to control how they move through and interact with their environment.
 

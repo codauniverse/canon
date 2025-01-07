@@ -22,7 +22,7 @@ Deep below the foundations of [Atla](../key-locations/atla.md), beneath the swir
 
 ALTAR explores new techniques and scientific principles, and their groundbreaking work has produced an awe-inspiring array of new technologies.
 
-Their careful investigation and cataloguing of these new technological primitives helps safeguard humanity against the threats posed by technological innovation. ALTAR works closely with the [AIC](atlan-information-control-aic.md) in order to introduce new tech, and maintain the [NDA’s](../politics/new-dawn-accords.md) doctrine of 'mutual incompatibility', ensuring each district's technological paradigm is [distinct](../politics/districts.md).
+Their careful investigation and cataloguing of these new technological primitives helps safeguard humanity against the threats posed by technological innovation. ALTAR works closely with the [AIC](atlan-information-control-aic.md) in order to introduce new tech, and maintain the [NDA’s](../law-and-order/new-dawn-accords.md) doctrine of 'mutual incompatibility', ensuring each district's technological paradigm is [distinct](../politics/districts.md).
 
 In GATA's halls of power many secrets lurk beneath the surface, however the unseen influence of ALTAR remains undeniable.
 

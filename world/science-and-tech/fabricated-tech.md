@@ -24,25 +24,9 @@ Fabricated tech is extremely convenient due to its size (legacy components are s
 
 Fabrication labs, or "fab labs", can be found throughout much of the world, making fabricators and common components available to customers for a price. High-end fab labs have higher-grade fabricators, stock rarer components, and may even staff highly skilled technicians who can hand-fabricate more exotic, bespoke tech.
 
-On the market, some components can get quite expensive, such as [legacy components](../gata/law-and-order/tech-regulation.md), [COGs](cogs.md), and components made with exotic materials, like [static nodes](statics.md#static-nodes).
+On the market, some components can get quite expensive, such as [legacy components](tech-regulation.md), [COGs](cogs.md), and components made with exotic materials, like [static nodes](statics.md#static-nodes).
 
-<div>
-
-<figure><img src="../../.gitbook/assets/nomoney420_future_clear_plastic_synth_keyboard_future_electroni_8c6b226c-9306-48ec-9d8d-7663eab2c934.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/nomoney420_future_high_end_subwoofer_made_of_clear_plastic_futu_56759661-bad5-4fdf-8597-a6ca434ddace.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_15881898-26a3-4b6c-95cb-fb35b0de981d.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_94a03c4d-394f-4bb5-b6c2-4a82143324ef.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/nomoney420_future_clear_plastic_synth_keyboard_future_electroni_8c6b226c-9306-48ec-9d8d-7663eab2c934.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nomoney420_future_high_end_subwoofer_made_of_clear_plastic_futu_56759661-bad5-4fdf-8597-a6ca434ddace.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_15881898-26a3-4b6c-95cb-fb35b0de981d.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_94a03c4d-394f-4bb5-b6c2-4a82143324ef.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -56,7 +40,7 @@ If size, shape or aesthetics aren’t of particular concern, fabricated tech’s
 
 ### **Design Considerations**
 
-By supplying a fabricator with various electronic components, including [legacy tech](../gata/law-and-order/tech-regulation.md) components, a user can generate a device that works as they require. The more functionality required by the device, the larger its form factor due to the number of components and the size of LMNL modules.
+By supplying a fabricator with various electronic components, including [legacy tech](tech-regulation.md) components, a user can generate a device that works as they require. The more functionality required by the device, the larger its form factor due to the number of components and the size of LMNL modules.
 
 Fab size and shape can be controlled with skilled component selection, component layout, and custom form design. Fabs can have sealed unibody designs, can be fabricated in multiple pieces, and can include intricate mechanical structures like hinges, sockets, buttons, dials, and so on.
 
@@ -68,7 +52,7 @@ Fabricated tech is often produced at standard LMNL module dimensions so that the
 
 ## **Unregulated Fabricated Tech**
 
-In [Free Territories](../free-territories/) and [Gray Zones](../gata/politics/gray-zones.md), fabricated tech doesn’t always comply with [NDA regulations](../gata/politics/new-dawn-accords.md) and might not use LMNL to integrate components. It isn’t uncommon to find fabs built instead using raw hardcode to integrate legacy components. This means unregulated fabricated tech can be much smaller, but it is left vulnerable to the [Daemon virus](the-daemon-virus.md) and other threats.
+In [Free Territories](../free-territories/) and [Gray Zones](../gata/politics/gray-zones.md), fabricated tech doesn’t always comply with [NDA regulations](../gata/law-and-order/new-dawn-accords.md) and might not use LMNL to integrate components. It isn’t uncommon to find fabs built instead using raw hardcode to integrate legacy components. This means unregulated fabricated tech can be much smaller, but it is left vulnerable to the [Daemon virus](the-daemon-virus.md) and other threats.
 
 ***
 

@@ -14,7 +14,7 @@ layout:
 
 # Sights
 
-<figure><img src="../../.gitbook/assets/sights-9834.png" alt=""><figcaption><p>Close up of an active sight lens on a wearer.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sights-9834.png" alt=""><figcaption><p>Close up of an active sight lens on a wearer's eye.</p></figcaption></figure>
 
 ## Overview
 
