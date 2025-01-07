@@ -22,9 +22,17 @@ COGs are cognitive systems. They are [Asimovian](asimovian-architecture.md) cons
 
 Due to the design constraints of Asimovian architecture, cogs are quite large–ranging in scale from roughly two cubic feet to the size of a large warehouse, based on the tension between the system's required speed and complexity.
 
-The key to understanding the mind of an Asimov-complete cog is that each cog represents a wholistic framework for reasoning, and its "cognition" is pseudo-deterministic, which are requirements outlined in the [New Dawn Accords](../gata/law-and-order/new-dawn-accords.md).
+***
 
-COGs do not learn over time. They simply take any input, roll the information around internally, sifting it and reducing it until its rational peaks emerge, and then return the result which is then interpreted by a separate natural language module, such as [VOX](cogs.md#vox). They have no memory.
+## Understanding COGs
+
+GATA regulation requires that all COGs are built with carefully constrained ontologies to ensure their safety and reliability.
+
+The key to understanding the mind of an Asimov-complete cog is that each cog (a [hard-coded](hard-code.md) system) represents a unique, wholistic and precisely defined framework for reasoning, and its "cognition" is pseudo-deterministic, which are requirements outlined in the [New Dawn Accords](../gata/law-and-order/new-dawn-accords.md).
+
+COGs do not learn over time. They simply take any input, roll the information around internally, sifting it and reducing it until patterns emerge, and then return the result which is then interpreted by a separate translation module, which can be used to express the COG's internal state in a variety of ways, such as natural language, or system commands.&#x20;
+
+COGs have no capacity for internal memory, however they can be designed to read external data.
 
 Cogs all function using the same fundamental principles of cognitive architecture (Observation, Planning, Selection, Execution).
 
