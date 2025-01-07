@@ -22,7 +22,15 @@ Developed by [GATA's](../gata/the-basics.md) leading biomed enterprise, [AKICEL]
 
 Blanks are envisioned as a safe and efficient alternative to robotics and artificially intelligent systems, and a potential source of cheap, reliable labor. There is significant interest to use blanks for research, medicine, military, resource extraction, and off-world applications. However, the prospect of blanks has raised significant controversy.
 
-Blanks are currently in the process of being trialed by [Angelis](../gata/military-and-defense/angelis.md) in a highly classified program, and have thus far proven to be remarkably safe and reliable according to the filtered reports produced by [the AIC's](../gata/institutions/atlan-information-control-aic.md) dedicated working group assigned to its trial.
+***
+
+## Legal Status
+
+As of now, blanks and any other human cloning technologies are illegal under the NDA's strict laws and human rights protections.
+
+The research behind the project has been underway since the Dark Decade, and the blank production process has been carefully designed to satisfy the NDA's constraints, however getting the project to where it is today has taken decades of careful and close collaboration between AKICEL and regulators.
+
+Blanks are currently in the process of being trialed by [Angelis](../gata/military-and-defense/angelis.md) in a classified program overseen by [the AIC](../gata/institutions/atlan-information-control-aic.md), and have thus far proven to be remarkably safe and reliable according to the filtered reports produced by the AIC's dedicated working group assigned to its trial.
 
 ***
 
