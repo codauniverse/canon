@@ -30,7 +30,7 @@ In recent years, some sleepers and dormitories have fallen under scrutiny from t
 
 ## Dormitories
 
-<figure><img src="../../../.gitbook/assets/dormatories-421.png" alt="" width="563"><figcaption><p>Sleepers crammed together in an illegal dormitory.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dormatories-421.png" alt="" width="563"><figcaption><p>Sleepers crammed together in an unlicensed dormitory.</p></figcaption></figure>
 
 [Dormitories](sleepers.md#dormitories) serve as purpose-built residences for individuals who spend most of their lives in [virtual constructs](../../science-and-tech/constructs.md#virtual-constructs), either due to medical conditions, personal preference, or occupational requirements.
 

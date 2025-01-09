@@ -18,9 +18,9 @@ layout:
 
 ## Overview
 
-COGs are cognitive systems. They are [Asimovian](asimovian-architecture.md) constructs derived from the Fischer equation, capable of generalized reason.
+Cognitive systems, or simply "COGs", are [Asimovian](asimovian-architecture.md), hard-coded systems designed for cognitive tasks. They fill the same role as Old World AI tools, while being structurally impervious to external corruption or unexpected deviations.
 
-Due to the design constraints of Asimovian architecture, cogs are quite large–ranging in scale from roughly two cubic feet to the size of a large warehouse, based on the tension between the system's required speed and complexity.
+Due to the design constraints of Asimovian architecture, cogs are quite large–ranging in scale from roughly two cubic feet to the size of a large warehouse, based on the tension between the system's required speed and complexity, and the security of the system. Carefully balancing these concerns is the domain of [ontology design](asimovian-architecture.md#ontology-design).
 
 ***
 
