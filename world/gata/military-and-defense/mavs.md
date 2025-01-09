@@ -20,7 +20,7 @@ layout:
 
 Mavericks, also known as MAVs (which is short for Mission-Adaptive Variable) are the pinnacle of [Angelis](angelis.md) and [GATA](../the-basics.md) combat effectiveness. The best of the best, recruited from the ranks of the [Guardians](guardians.md) and [Rapid Response](rapid-response.md).
 
-The defining attribute of a successful MAV is their ability to operate independently and in a wide range of conditions and contexts, the culmination the [Unassisted Decisive Asset](mavericks.md#origins) (UDA) program that preceded the modern MAV division.
+The defining attribute of a successful MAV is their ability to operate independently and in a wide range of conditions and contexts, the culmination the [Unassisted Decisive Asset](mavs.md#origins) (UDA) program that preceded the modern MAV division.
 
 However, simply being recruited into the MAV division is not enough; recruits must be able to physically and mentally tolerate the battery of training, therapies, and enhancements that separate MAVs from Angelis' other assets.
 
@@ -32,7 +32,7 @@ Among other augmentations, modern MAVs have miniaturized cog implants installed 
 
 In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the desperate drive to recover human civilization from the brink birthed [Atla's](../key-locations/atla.md) ["Existence Doctrine"](existence-doctrine.md), an operational philosophy which permitted numerous compartmentalized programs to explore radical technologies and methods with minimal restriction.
 
-In particular, one Existence Doctrine program sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental gene therapy called ["Clear"](mavericks.md#clear-serum).
+In particular, one Existence Doctrine program sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental gene therapy called ["Clear"](mavs.md#clear-serum).
 
 ### The Clear Serum Program
 
@@ -72,7 +72,9 @@ For others, the UDA program does not appear so mysterious; several former UDA op
 
 <div><figure><img src="../../../.gitbook/assets/mavericks-353.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/mavericks-435.png" alt=""><figcaption></figcaption></figure></div>
 
-For over a decade, the UDA program had been sealed and officially unacknowledged. However, to the surprise of many, the [First Quorum](../politics/governance.md#the-first-quorum) approved the formation of an official MAVERICK division under the banner of Angelis following the [Bright Mesa attack](../history/bright-mesa.md#the-bright-mesa-attack). This modern MAVERICK division is an attempt to recover the operational dominance displayed by the original UDA program.
+For over a decade, the Unassisted Decisive Asset (UDA) program had been sealed and remained officially unacknowledged. However, to the surprise of many, at the close of the Existence Doctrine, the [First Quorum](../politics/governance.md#the-first-quorum) acknowledged the program's existence and approved the formation of an official MAVERICK division under the banner of Angelis following the [Bright Mesa attack](../history/bright-mesa.md#the-bright-mesa-attack).
+
+This modern MAVERICK division is an attempt to recover the operational dominance displayed by the original UDA program, however with less emphasis on operator independence and more emphasis on single-mindedness and adaptability. This shift is exemplified in the new program's internal designation: "Mission-Adaptive Variables".
 
 Over this official division's now-ten-year history, these new Mavericks, referred to as "MAVs", have likewise proven themselves to be an invaluable tool in GATA's asymmetrical conflict with [Sovereign forces](../../free-territories/people-and-culture/sovereigns.md). Dropping from orbital [“Watchtowers”](angelis.md#watchtowers) in static-powered [Aegis pods](angelis.md#aegis-drop-pods), MAVs can be deployed anywhere around the world in a matter of minutes, and can quickly turn the tide of any conflict or crisis.
 
