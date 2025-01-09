@@ -85,7 +85,7 @@
     * [Angelis](world/gata/military-and-defense/angelis.md)
     * [Guardians](world/gata/military-and-defense/guardians.md)
     * [Rapid Response](world/gata/military-and-defense/rapid-response.md)
-    * [MAVs](world/gata/military-and-defense/mavs.md)
+    * [Mavericks](world/gata/military-and-defense/mavericks.md)
   * [⚖️ Law & Order](world/gata/law-and-order/README.md)
     * [New Dawn Accords](world/gata/law-and-order/new-dawn-accords.md)
     * [Whole Privacy Protection (WPP)](world/gata/law-and-order/whole-privacy-protection-wpp.md)

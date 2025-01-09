@@ -12,15 +12,15 @@ layout:
     visible: true
 ---
 
-# MAVs
+# Mavericks
 
 <figure><img src="../../../.gitbook/assets/nomoney420_extreme_close_up_character_in_slim_armored_combat_su_b94de5e5-759b-4d56-80d7-a6f52d6e4847.png" alt=""><figcaption><p>Modern MAV Combat Gear.</p></figcaption></figure>
 
 ## Overview
 
-MAVERICKS (MAVs) are the pinnacle of [Angelis](angelis.md) and [GATA](../the-basics.md) combat effectiveness. The best of the best, recruited from the ranks of the [Guardians](guardians.md) and [Rapid Response](rapid-response.md).
+Mavericks, also known as MAVs (which is short for Mission-Adaptive Variable) are the pinnacle of [Angelis](angelis.md) and [GATA](../the-basics.md) combat effectiveness. The best of the best, recruited from the ranks of the [Guardians](guardians.md) and [Rapid Response](rapid-response.md).
 
-The defining attribute of a successful MAV is their ability to operate independently, which was the basis for the [Unassisted Decisive Asset](mavs.md#origins) (UDA) program that preceded the modern MAV division.
+The defining attribute of a successful MAV is their ability to operate independently and in a wide range of conditions and contexts, the culmination the [Unassisted Decisive Asset](mavericks.md#origins) (UDA) program that preceded the modern MAV division.
 
 However, simply being recruited into the MAV division is not enough; recruits must be able to physically and mentally tolerate the battery of training, therapies, and enhancements that separate MAVs from Angelis' other assets.
 
@@ -32,7 +32,7 @@ Among other augmentations, modern MAVs have miniaturized cog implants installed 
 
 In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the desperate drive to recover human civilization from the brink birthed [Atla's](../key-locations/atla.md) ["Existence Doctrine"](existence-doctrine.md), an operational philosophy which permitted numerous compartmentalized programs to explore radical technologies and methods with minimal restriction.
 
-In particular, one Existence Doctrine program sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental gene therapy called ["Clear"](mavs.md#clear-serum).
+In particular, one Existence Doctrine program sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental gene therapy called ["Clear"](mavericks.md#clear-serum).
 
 ### The Clear Serum Program
 
