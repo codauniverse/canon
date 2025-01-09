@@ -95,6 +95,7 @@
   * [✈️ Borders & Travel](world/gata/borders-and-travel/README.md)
     * [Gates](world/gata/borders-and-travel/gates.md)
     * [Gate Patrol](world/gata/borders-and-travel/gate-patrol.md)
+    * [Lockways](world/gata/borders-and-travel/lockways.md)
     * [Field Walls](world/gata/borders-and-travel/field-walls.md)
     * [Sentinels](world/gata/borders-and-travel/sentinels.md)
     * [Spaceports](world/gata/borders-and-travel/spaceports.md)

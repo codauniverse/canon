@@ -38,7 +38,7 @@ This non-linear development means two districts with similar standing and incorp
 
 ***
 
-## **Paradigm Sanctions:**
+## **Paradigm Sanctions**
 
 Though uncommon, there have been instances of GATA tightening paradigms, especially in response to emergencies and severe, systemic breaches of the [New Dawn Accords](../law-and-order/new-dawn-accords.md).
 

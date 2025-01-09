@@ -18,20 +18,48 @@ layout:
 
 ## Overview
 
-Gates are the border crossings that control the flow of people and goods in and out of [GATA's](../the-basics.md) [districts](../politics/districts.md). In order to cross through a gate, a traveler or shipment must be authorized with the appropriate [keys](../politics/keys.md). Gates themselves have fairly minimal security forces on-site, however [Gate Patrol](gate-patrol.md) is garrisoned nearby outside of the district's [field wall](field-walls.md), and gates are also actively monitored from space by [Angelis](../military-and-defense/angelis.md).
+Gates are critical access points that regulate the movement of people and goods in and out of GATA’s [districts](../politics/districts.md). To pass through a Gate, travelers or shipments must possess [authorized keys](../politics/keys.md).
 
-All goods and people passing into or between districts in GATA must cross through a Gate. Security at the gates (and all GATA borders) is overseen a dedicated [Collections](../law-and-order/collections.md) desk and supported by a small Gate Patrol unit located on-site.
+[Gate Patrol](gate-patrol.md) and [Local Authority](../law-and-order/local-authority.md) personnel oversee the security, supported by advanced scanning and enforcement technologies. Additionally, [Angelis](../military-and-defense/angelis.md), GATA's premiere military [enterprise](../enterprise/), monitors these facilities from orbit.
 
-Gate staff includes attendants who assist travelers with their processing, Collectors who inspect and [scan](../../science-and-tech/scanners.md) cargo and luggage transiting the gate, and gateworker [conduits](../../science-and-tech/links.md#conduits) who move cargo with [frames](../../science-and-tech/frames.md) and [grabbers](../../science-and-tech/grabbers.md). Gate security is supported by basic [cogs](../../science-and-tech/cogs.md) that scrutinize gate traffic and traveler metadata.
+[Collections](../law-and-order/collections.md) agents are located on-site at Gates and Gateyards to scan and inspect people and cargo, ensuring compliance with the Greater Atlan Territorial Alliance’s (GATA) [paradigms](../politics/paradigms.md), as set by [the AIC](../institutions/atlan-information-control-aic.md).
+
+Each district’s Gate system comprises two integral components: the Gate and the Gateyard.
+
+***
+
+## Gates
+
+The Gate serves as the primary checkpoint for individual travelers and their belongings.
+
+Individuals pass through a series of checkpoints, including **lockways**, to ensure citizenship, district travel or resident keys, and compliance with GATA paradigms.
+
+The Collections desk supported by **Gate Patrol guards** inspect and monitor passage to uphold the peace, security protocols, and district-specific paradigms.
+
+***
+
+## Gateyards
+
+Adjacent to the Gate, the Gateyard manages a more complex array of cargo and operational activities. It is segmented into two distinct sections:
+
+1. Civilian Section: Processes personal luggage and facilitates the passage of civilian ships.
+2. Enterprise Section:
+   * Handles both general commercial goods and secure cargo such as high-priority shipments and Yield distributions.
+
+Gateyards employ specialized scanners and lockways for meticulous cargo processing, ensuring adherence to GATA’s regulatory frameworks. These facilities operate semi-independently from the Gate, linked via the district's field wall.
 
 ***
 
 ## Gate Keys
 
-Citizens of GATA are not permitted to enter a district without the requisite [keys](../politics/keys.md). An individual can possess district keys themselves, or they can lease keys on the market.
+Travel within and between GATA’s districts relies on System keys. Only individuals or shipments with the appropriate keys can pass into a district's interior.
 
-When travel is required for legitimate reasons, citizens can be assigned temporary keys (sometimes called travel keys) that can be escort-class (requires a sponsor chaperone) or solo (free to travel alone).
+Individuals may be denied access or detained by the authorities due to expired or revoked keys, legal exile, or System-level flags and warrants.
 
-Citizens possess keys to their home district, but some citizens of GATA don’t have home districts, or have been lawfully [exiled](../law-and-order/exile.md), and so are not permitted entry into any districts.
+#### Gate-Related Keys
 
-Gate Keys don’t only grant citizens access to a district, but also allow them to collect their share of the [Yield ](../politics/yield.md)in the form of [credits](../politics/money.md#credits-currency) and [System](../politics/the-system.md) amenities such as housing, and medical care.
+* **Import & Export Keys:** Associated with any shipments or luggage passing through a Gate.
+* **Resident Keys:** Assigned to citizens for accessing their home district.
+* **Transit Keys:** Granted for travel purposes, or temporary work, and broadly fall into one of two classes:
+  * Escort-class: Requires a sponsor or chaperone.
+  * Solo-class: Permits independent travel.

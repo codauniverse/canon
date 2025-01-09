@@ -36,4 +36,6 @@ Collectors work hand in hand with AIC working groups and local authorities to co
 
 ## Collections at District Gates
 
+<figure><img src="../../../.gitbook/assets/aic-officers-9339.png" alt="" width="563"><figcaption><p>Collections agents review a passenger's luggage for paradigm compliance.</p></figcaption></figure>
+
 Every [Gate](../borders-and-travel/gates.md) in GATA has a Collections Desk, an office available to members of the public who wish to report or surrender [illegal technology](../../science-and-tech/tech-regulation.md) or other [Old World](../../history/the-old-world.md) contraband. These Collections Desks also serve as a home base for Collectors who need access to AIC resources and support over the course of their active investigations.

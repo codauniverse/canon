@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Quantum seeds, or Q's, are special [hard-code modules](hard-code.md) containing quantum-entangled crystals that allow for instantaneous communication across any distance. Groups of seeds that are entangled together are called "cohorts".
+Quantum seeds, or "Q's", are special [hard-code modules](hard-code.md) containing quantum-entangled crystalline structures similar to time-crystals that allow for instantaneous communication across any distance. Groups of seeds that are entangled together are called "cohorts".
 
 Quantum seeds are not widely [paradigmed](../gata/politics/paradigms.md) in [GATA](../gata/the-basics.md), and possession of illegal quantum seeds is a [Class 1 infraction](tech-regulation.md#class-1-red) under [AIC](../gata/institutions/atlan-information-control-aic.md) [regulations](tech-regulation.md). The most widespread illegal quantum seeds are the [astral seeds](the-astral.md#astral-seeds), which are used to enter to a vast network of connected minds known as [the Astral](the-astral.md), a new and unprecedented shared mental [construct](constructs.md).
 
