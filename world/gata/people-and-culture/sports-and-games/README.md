@@ -28,7 +28,7 @@ From high-intensity contact sports to gravity-defying races, sports play a signi
 
 <div><figure><img src="../../../../.gitbook/assets/gravita-943.png" alt="" width="563"><figcaption><p>A team prepares a play.</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/gravity-990.png" alt="" width="563"><figcaption><p>A guard leads an offensive play.</p></figcaption></figure></div>
 
-The most popular spectator sport in GATA. A contact sport played inside of an artificial gravity field.
+The most popular spectator sport in GATA. A contact sport played inside of an artificial static gravity field.
 
 The Defenders defend from the core; a sphere housing the [static field](../../../science-and-tech/statics.md) generator that maintains the modified gravitational envelope. The Offense attempts to score points by placing, throwing, or kicking the ball into one of the receptacles on the opposing team's core.
 
