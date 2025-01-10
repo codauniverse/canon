@@ -58,17 +58,17 @@ A referendum was held, and given the definitive choice between GATA and independ
 
 After the certification of the vote, a team of Systema technicians and a Guardian battalion were dispatched by GATA to speed the assembly of Bright’s System Node, as well as its field wall emitters. When preparations were complete, a diplomatic delegation was sent to celebrate Bright’s districthood.
 
-The diplomatic delegation arrived on the day of the Activation Ceremony, many prominent citizens of GATA with ties to Bright Mesa amongst them. A day of celebration ensued, featuring performances, speeches, games, and cheer.
+The diplomatic delegation arrived on the day of the Activation Ceremony, many prominent citizens of GATA with ties to Bright Mesa amongst them. A day of celebration ensued, featuring performances, speeches, games, and revelry.
 
 However, as the day progressed, small pockets of protest and dissent steadily came to a boil as Activation neared. Angelis' renowned warning systems did not predict what followed.
 
 <figure><img src="../../../.gitbook/assets/83.png" alt="" width="563"><figcaption><p>Protests in Bright Mesa reach a fevered pitch shortly before the attack.</p></figcaption></figure>
 
-Immediately following Activation, nuclear explosions devastated Bright Mesa, killing many thousands instantly, including most of the Atlan delegation that was sent to oversee and celebrate Bright’s induction into GATA. Thousands more would perish in the days and weeks to follow.
+Immediately following Activation, nuclear explosions devastated Bright Mesa, killing many thousands instantly, including most of the Atlan delegation that was sent to oversee and celebrate Bright’s induction into GATA. Tens of thousands more would perish in the humanitarian crisis of the following days and weeks.
 
 <figure><img src="../../../.gitbook/assets/93.png" alt="" width="563"><figcaption><p>A nuclear detonation in Bright Mesa's city center.</p></figcaption></figure>
 
-The terrorist organization The CURE claimed responsibility for the attack. Confidence in GATA’s protection in the region was shaken and the profile of the CURE reached a global scope.
+The terrorist organization "The CURE" claimed responsibility for the attack. Confidence in GATA’s protection in the region was shaken and the profile of the CURE reached a global scope.
 
 <figure><img src="../../../.gitbook/assets/brightmesa-detonation-90433.png" alt="" width="563"><figcaption><p>A terrible mushroom cloud rising above Bright Mesa.</p></figcaption></figure>
 
