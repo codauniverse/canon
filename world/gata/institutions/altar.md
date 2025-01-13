@@ -62,9 +62,9 @@ While the primary motivation of their inquiries is ostensibly advancing scientif
 
 <figure><img src="../../../.gitbook/assets/altar.png" alt="" width="563"><figcaption><p>ALTAR's secretive high council.</p></figcaption></figure>
 
-ALTAR is helmed by a small council of undisclosed scientists, industrialists and military leadership who serve 10-year terms bound within the confines of the deep-ocean ALTAR complex. Some confident speculation can be made about past and present appointments, however no official confirmation has ever been provided in its long history.
+ALTAR is helmed by a small twelve-member council of undisclosed scientists, industrialists and military leadership who serve 10-year terms bound within the confines of the deep-ocean ALTAR complex. Some confident speculation can be made about past and present appointments, however no official confirmation has ever been provided in its long history.
 
-At any given time, ALTAR leadership has only one Speaker, a liason who is responsible for all communications between ALTAR and GATA leadership (generally only the [First Quorum](../politics/governance.md#the-first-quorum), with few exceptions). The Speaker does not participate in deliberations and has limited insight into ALTAR's operations in order to preserve the organization's tight compartmentalization. They never meet with the rest of the council in person.
+ALTAR leadership also includes a thirteenth member, known as the Speaker; a liaison who is responsible for all communications between ALTAR and GATA leadership (generally only the [First Quorum](../politics/governance.md#the-first-quorum), with occasional exceptions). The Speaker does not participate in deliberations and has limited insight into ALTAR's operations in order to preserve the organization's tight compartmentalization. They never meet with the rest of the council in person.
 
 Idle whispers and speculations about ALTAR's leadership permeate the corridors of Atla, and beyond. Its secretive nature is a legacy of compartmentalized programs predating the Dark Decade fueling numerous conspiracy theories, however, none have been substantiated.
 
@@ -75,5 +75,3 @@ ALTAR leadership works "closely" with the First Quorum, following strict protoco
 In the event that dangerous secret information must be revealed to the First Quorum in order to facilitate a decision, one Quorum member will be required to go to the ALTAR complex in person where they will meet with the Speaker, learn the information, make a decision on behalf of the First Quorum in-situ, and in most cases, will then remain quarantined within the ALTAR complex for a period, based on the sensitivity of the information.
 
 The policy is that the First Quorum member considered most qualified for membership on ALTAR’s council would be asked to do this, creating a natural opportunity to freshen the First Quorum's ranks and begin the councilor's transition into a position at ALTAR.
-
-\
