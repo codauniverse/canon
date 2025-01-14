@@ -20,7 +20,7 @@ layout:
 
 {% embed url="https://chat.openai.com/g/g-mYyVyw7YT-coda-silent-melody-gm" %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 34</p><p>Occupation: Collector</p><p>First Impression: Weary but determined</p><p>Self-Image: Soldier in a war against humanity's self-destructive nature</p><p>True Self: Almost given up on humanity.<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: December 23, 2092</p><p>Location: Atla</p><p>Citizenship: GATA</p><p>Ethnicity: Columbian</p><p>Born: Bogotá, Columbia</p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 34</p><p>Occupation: Collector</p><p>First Impression: Weary but determined</p><p>Self-Image: Soldier in a war against humanity's self-destructive nature</p><p>True Self: Slowly losing faith in humanity.<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: December 23, 2092</p><p>Location: Atla</p><p>Citizenship: GATA</p><p>Ethnicity: Columbian</p><p>Born: Bogotá, Columbia</p></td></tr></tbody></table>
 
 * Height: 5'11"
 * Weight: 175lbs
@@ -32,8 +32,6 @@ layout:
 * Body Type: Lean and muscular, scarred
 * Accessories: Always carries a worn leather satchel containing his tools
 * Description: Carlos has a rugged, weathered appearance, with sharp features that convey both strength and exhaustion. His eyes are often focused, scanning his surroundings with meticulous detail.
-
-***
 
 ***
 
@@ -50,8 +48,6 @@ When he was 24, the Northern Cascadia district's System node was destroyed by a 
 He would go on to graduate with full honors. Carlos took naturally to on-the-ground investigation, possessing a sixth sense for the presence of contraband technology, noticing every tell-tale sign. With his restrained but decisive style, Carlos has gone on to contribute to a number of successful high profile investigations for the AIC’s Emergency Special Committee. He now primarily works multi-district investigations at the direct disposal of the AIC’s high council.
 
 Wherever he goes, he brings his Manna plant, grown in the soil of his childhood home, a reminder of a place to which he can never return. He’s remarkably detail oriented and observant. Polite, but not very sociable. When he has to talk, he always keeps his cards close to his chest. While he’s not long for conversation, he does occasionally quip to himself under his breath, and talks openly to his plant.
-
-***
 
 ***
 

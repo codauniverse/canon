@@ -37,7 +37,7 @@ layout:
 
 ***
 
-<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runuVFdagx9kKo_httpss.mj.runSnkmiKrhl4w__e219790c-dbac-4b93-965e-b30f4a42726f_3.png" alt="" width="563"><figcaption><p>Haleh setting up her gear at an arcade.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runuVFdagx9kKo_httpss.mj.runSnkmiKrhl4w__e219790c-dbac-4b93-965e-b30f4a42726f_3.png" alt="" width="563"><figcaption><p>Haleh setting up her gear at a sync rave.</p></figcaption></figure>
 
 ## Bio
 
@@ -142,14 +142,7 @@ Lulu (Best Friend)
 
 ## Comparative Stats
 
-| Attribute    | Stat |
-| ------------ | ---- |
-| Strength     | 4    |
-| Defense      | 5    |
-| Dexterity    | 8    |
-| Intelligence | 8    |
-| Wisdom       | 7    |
-| Charisma     | 8    |
+<table><thead><tr><th width="291">Attribute</th><th>Stat</th></tr></thead><tbody><tr><td>Strength</td><td>4</td></tr><tr><td>Defense</td><td>5</td></tr><tr><td>Dexterity</td><td>8</td></tr><tr><td>Intelligence</td><td>8</td></tr><tr><td>Wisdom</td><td>7</td></tr><tr><td>Charisma</td><td>8</td></tr></tbody></table>
 
 ***
 
