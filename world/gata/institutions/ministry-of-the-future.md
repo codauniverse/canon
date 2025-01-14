@@ -14,11 +14,11 @@ layout:
 
 # Ministry of the Future
 
-<figure><img src="../../../.gitbook/assets/ministryofthefuture-4989.png" alt=""><figcaption><p>A Ministry committee meets to present a draft report to their Minister.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ministryofthefuture-444.png" alt=""><figcaption><p>Ministers in heated debate over new forecasts at a Ministry assembly in Atla.</p></figcaption></figure>
 
 ## Overview
 
-Founded in 2072, the Ministry of the Future is a public institution with an international team of researchers and expert thought leaders distributed across offices in every district across GATA.
+Founded in 2072, the Ministry of the Future is a public institution with an international team of over 10,000 researchers, domain experts distributed across offices in every district across GATA. The Ministry also collaborates closely with local governments, consultancy partners, and other stakeholders and representatives in GATA society.
 
 A bicameral institution focused on GATA's future, the Ministry is an advisory council and a research fund dedicated to identifying major technological, economic, and geopolitical risks and opportunities for GATA's territorial interests, and its institutions and enterprise.
 
@@ -30,17 +30,25 @@ The Ministry of the Future focuses primarily on identifying deep trends, novel r
 
 Key areas of focus guide the Ministry's enterprise investments, and structure their advisory reports, which go beyond innovation and enterprise to include geo-strategic and political analysis.
 
-#### Leadership
+Due to the need for Ministry workers to communicate and interact with a wide range of parties across every domain of GATA society, they also functionally serve a de facto diplomatic role for their district.
 
-Each district's Ministry operations are dually coordinated by two executive roles: a "Minister" and a "Caller".&#x20;
+### Leadership
+
+<figure><img src="../../../.gitbook/assets/ministryofthefuture-4989.png" alt="" width="563"><figcaption><p>A Ministry committee meets to present a draft report to their Ministry Caller.</p></figcaption></figure>
+
+Each district's Ministry operations are dually coordinated by two executive roles: a "Minister" and a "Caller".
 
 The Minister is selected according to the district's charter (typically by appointment from local government leadership) who determines the focus of their Ministry's research and forecasting, and who represents the district at all Ministry-wide assemblies in Atla.
 
 The Ministry's Caller is selected from among the Ministry's members by the members themselves, and is tasked with the disbursement of the Ministry's investment fund, and the analysis of Ministry investment performance over a wide range of time scales, from minutes to decades.
 
-#### Operation
+### Operation
+
+<figure><img src="../../../.gitbook/assets/ministryofthefuture-117.png" alt="" width="563"><figcaption><p>A small working group meets in a Ministry pavillion.</p></figcaption></figure>
 
 Directors form committees and working groups tasked to address their Ministry's key areas of focus, informed by local economic, environmental, geo-political, and industrial interests.
+
+In drafting reports, forecasts, and investment proposals, Ministry committees often consult directly with leaders of community organizations, local and cross-jurisdictional institutions, enterprise, and other stakeholders.
 
 Ministry members endorse reports and forecasts from all Ministries across GATA, informing which findings will inform Ministry advisory and investment positions.
 
