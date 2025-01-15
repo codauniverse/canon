@@ -44,13 +44,15 @@ Links are a common fixture of life in many districts across GATA where it is wid
 
 Links are so beneficial for district performance that there is some political will to make links a “blue” technology, legal for use freely across all of [Greater Atla](../gata/politics/greater-atla.md), which would extend to all of GATA’s partner states. This would be a massive boon to private enterprise and districts looking to maximize [their Yield](../gata/politics/yield.md).
 
-While the average person with a link can manipulate simple systems like lights, doors, powering appliances, or interacting with [System terminals](../gata/politics/the-system.md#system-terminals), there are those who can manipulate very complex systems by training and/or aptitude. These people are informally called [conduits](links.md#conduits).
+While the average link user can manipulate simple systems like lights, doors, appliances, or [System terminals](../gata/politics/the-system.md#system-terminals), there are those who can manipulate highly complex systems by training and/or natural aptitude. These people are informally called [conduits](links.md#conduits).
 
-Using a link to engage with a system is called interfacing, connecting, or linking. Using a [sync hub](sync-hubs.md) to engage with another link user directly is called [syncing](sync-hubs.md#syncing).
+The skill associated with link proficiency is called "signal", and is analogous to a link user's stability and control over their attention and intention. For most, developing anything more than basic signal takes time and practice.
+
+Using a link to engage with a system is called interfacing, connecting, or linking. Using a [sync hub](sync-hubs.md) to interface with other link users directly is called [syncing](sync-hubs.md#syncing).
 
 ### **Connecting**
 
-All link users learn to connect. Also called simply “linking”. After learning how to sense system endpoints, link users have to learn how to connect with them. Once a user “connects”, they can use their mind to interact with an interface.
+All link users learn to connect (also called simply “linking”). After learning how to sense system endpoints, link users have to learn how to connect with them. Once a user “connects”, they can use their mind to interact with an interface.
 
 If the user has [sights](sights.md), they can see the interface via their eye-based displays. If the user has a link implant they can perceive the system's interface in their visual field directly.
 
@@ -58,7 +60,9 @@ Over time, users learn how to strengthen the connection, and how different syste
 
 ### **Pushing**
 
-Pushing allows a link user to assert influence over a system. Just about every link allows for some degree of pushing, and all link users learn some pushing. Pushing can range from as little as sending a simple intention, such as “Yes” or “No” to controlling an entire micro factory with your mind. Pushing primarily uses the frontal and/or motor cortex.
+Pushing allows a link user to assert influence over a system.
+
+Just about every link allows for some degree of pushing, and all link users learn some pushing. Pushing can range from as little as sending a simple intention, such as “Yes” or “No” to controlling an entire micro factory with your mind. Pushing primarily uses the frontal and/or motor cortex.
 
 #### **Driving**
 
@@ -66,7 +70,7 @@ Driving is an advanced form of pushing. Driving a system involves continuously p
 
 ### **Pulling**
 
-Pulling allows a link user to intuitively interpret a system’s state. Only users with subcranial implants can pull detailed, multi-sensory information. Pulling is considered relatively advanced, and requires deep familiarity with a given system.
+Pulling allows a link user to intuitively interpret a system’s state. Only users with sub-cranial implants can pull detailed, multi-sensory information. Pulling is considered relatively advanced, and requires deep familiarity with a given system.
 
 #### **Sensing**
 
@@ -78,15 +82,19 @@ Skilled link users can even sense other links, however sensing links isn’t lik
 
 Breaching is an advanced pulling technique allowing a link user who is synced with another link user to reach into the other user's mind and see their thoughts.
 
-The process is very invasive and nearly impossible to do without the victim's knowledge; someone whose mind is being breached can sense another presence in their head, and if they are a skilled conduit themselves, they can potentially repel the breaching conduit.
+The process is highly invasive and extremely difficult; someone whose mind is being breached can sense another presence in their head, and if they are a skilled conduit themselves, they can potentially repel the breaching conduit, or even reverse the breach.
 
 ***
 
 ## **Conduits**
 
-Strictly speaking, anyone with a link is a conduit, but in the same way not everyone who strums a guitar is a guitarist, not everyone who uses a link is a conduit. It is generally held that ‘real conduits’ are people who are especially adept at interfacing with systems via their link. They have an exceptional ability to [push](links.md#pushing) and [pull](links.md#pulling) with one or more complex systems.
+Conduits are link users who have highly-developed "signal". They have the ability to drive complex systems, can often learn how to drive new systems very quickly, and are resistant to [breaching](links.md#breaching) and [residual symptoms](constructs.md#residual).
 
-Anyone able to interface proficiently with complex systems would be reasonably considered a conduit, but there are also some who are simply extremely talented with simpler systems but have not learned more complex interfaces who might also reasonably be considered a conduit.
+Often, talented conduits demonstrate a natural facility with link use very early on, but there are others who have had to work very hard to develop mastery over their signal.
+
+Anyone able to interface proficiently with complex systems would be reasonably considered a conduit, but there are also those who have exceptional skill with simpler systems who might also be considered a conduit.
+
+While link use has risen dramatically since its Blue classification, not everyone who uses a link is considered a "conduit", in the same way that not everyone who strums a guitar is considered a guitarist.
 
 ***
 
