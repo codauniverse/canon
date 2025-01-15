@@ -40,7 +40,7 @@ In recent years, more lethal equipment has been approved by the [Second Quorum](
 
 Jelly Rounds are the Gate Patrol’s principal non-lethal ammunition, engineered to slow or immobilize a target without causing fatal injury. Upon impact, each round expands into a sticky, gelatinous mass that clings to the individual.
 
-This compound quickly degrades in the presence of body temperature oxygen, ensuring that if the target is struck in the head or face, an airway is cleared within seconds.
+This compound quickly degrades at body temperature and doubly so in the presence of oxygen, ensuring that if the target is struck in the head or face, an airway is cleared within seconds.
 
 While designed for safe incapacitation, Jelly Rounds still require precise deployment and extensive training to avoid mishaps. They are also an essential tool in the arsenal for contending with Wallrunners.
 
