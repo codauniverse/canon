@@ -58,6 +58,8 @@ The Ministry's fund exists to partially align the Ministry's incentives with the
 
 As a public institution the Ministry is partially funded by the Second Quorum, and the returns on the Ministry's investments are used to help fund GATA's System Yield, as well as future investments in science, industry and enterprise.
 
+The Ministry has some interaction with the Research Corps and does occasionally host the Speaker of ALTAR to inform their research and projections.
+
 ***
 
 ## Internal Culture
