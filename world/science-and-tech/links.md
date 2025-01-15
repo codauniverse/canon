@@ -88,6 +88,8 @@ The process is highly invasive and extremely difficult; someone whose mind is be
 
 ## **Conduits**
 
+<figure><img src="../../.gitbook/assets/conduits-894.png" alt="" width="563"><figcaption><p>A conduit wearing sights entering a trance-like state while interfacing.</p></figcaption></figure>
+
 Conduits are link users who have highly-developed "signal". They have the ability to drive complex systems, can often learn how to drive new systems very quickly, and are resistant to [breaching](links.md#breaching) and [residual symptoms](constructs.md#residual).
 
 Often, talented conduits demonstrate a natural facility with link use very early on, but there are others who have had to work very hard to develop mastery over their signal.
