@@ -24,6 +24,8 @@ Designed for [use by licensed empatherapists](sync-hubs.md#use-in-empatherapy). 
 
 ## **Syncing**
 
+<figure><img src="../../.gitbook/assets/synching-343.png" alt="" width="563"><figcaption><p>An empatherapist mediates a sync session between a comatose patient and a loved one.</p></figcaption></figure>
+
 Syncing connects two or more minds via a sync hub. Syncing is an essential aspect of empatherapy, as well as the foundation of [sync raves](../gata/underground-scene/sync-raves.md) and [the Astral](the-astral.md). If a synced party is [pushing](links.md#pushing), others who are synced can feel some of what they feel.
 
 The effectiveness of syncing is highly variable depending on skill and mutual compatibility between parties. Private use of sync hubs is fringe, and known to be unsafe if done incorrectly. Recently, the youth counterculture has taken to modding sync hubs to bypass various restrictions, enabling new, unexplored forms of syncing.
@@ -42,13 +44,21 @@ With the use of the sync hub, empatherapists can connect with and guide their cl
 
 ## **Illegal Use**
 
-Illegal mods of sync hubs have become more common among the younger generations. By extending the sync hub with additional [LMNL modules](hard-code.md#lmnl) and bypassing the stock [filter module](asimovian-architecture.md#filter-modules), sync hubs can be modified in a number of ways to enable various uses. Bypassing the stock filter allows both parties to push and pull.
+In recent years, illegal mods of sync hubs have become much more common among the younger generations. By extending the sync hub with additional [LMNL modules](hard-code.md#lmnl) and bypassing the stock [filter module](asimovian-architecture.md#filter-modules), sync hubs can be modified in a number of ways to enable various uses. Bypassing the stock filter allows both parties to push and pull.
+
+#### Recreational users
+
+Recreational syncing has accumulated a wide range of uses. Some casual users see it as a harmless medium for entertainment, others use it to deepen social bonds. Couples and sex workers are known to use it to enhance sensual experiences.
+
+#### Sync raves
 
 They are used at [sync raves](../gata/underground-scene/sync-raves.md) where they’re extended with direct inputs for systems the conduit may be driving, custom filters, and sometimes up to hundreds of additional endpoint modules.
 
+#### The Astral
+
 They are modified by [Astral](the-astral.md) users with difficult-to-acquire [astral seed modules](the-astral.md#astral-seeds), allowing them to sync remotely with other astral users in real-time.
 
-### **Hives**
+#### **Hives**
 
 Users of links and modified sync hubs who have allowed themselves to remain ‘synced’ together for extended periods of time. Hives can sometimes be found in sleeper [dormitories](../gata/people-and-culture/sleepers.md#dormitories).
 
