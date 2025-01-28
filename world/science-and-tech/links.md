@@ -88,7 +88,7 @@ The process is highly invasive and extremely difficult; someone whose mind is be
 
 ## **Conduits**
 
-<figure><img src="../../.gitbook/assets/conduits-118.png" alt="" width="563"><figcaption><p>A conduit preparing to drive an orbital satellite array.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/conduits-894.png" alt="" width="563"><figcaption><p>A conduit preparing to drive an orbital satellite array.</p></figcaption></figure>
 
 Conduits are link users who have highly-developed "signal". They have the ability to drive complex systems, can often learn how to drive new systems very quickly, and are resistant to [breaching](links.md#breaching) and [residual symptoms](constructs.md#residual).
 
@@ -102,7 +102,9 @@ While link use has risen dramatically since its Blue classification, not everyon
 
 ## **Politics of Links**
 
-Proponents of classifying Links as “blue” tech argue that the direct interface between a mind and [The System](../gata/politics/the-system.md) must be the equal right of all GATA’s citizens. However, [the AIC](../gata/institutions/atlan-information-control-aic.md) has been resistant to this proposal, citing a particularly strict interpretation of the NDA’s axion of “mutual incompatibility” whereby technology across GATA must be implemented in such a way that no single point of failure is created. Proponents of opening up links to the masses counter that there is no alternative technology to the human brain. The AIC maintains that their mandate is to safeguard the wellbeing of humanity over the interests of enterprise, innovation, and even individual prosperity. The issue remains contentious, but the decision ultimately falls to the high courts of the AIC.
+Proponents of classifying Links as “blue” tech argue that the direct interface between a mind and [The System](../gata/politics/the-system.md) must be the equal right of all GATA’s citizens. However, [the AIC](../gata/institutions/atlan-information-control-aic.md) has been resistant to this proposal, citing a particularly strict interpretation of the NDA’s axion of “mutual incompatibility” whereby technology across GATA must be implemented in such a way that no single point of failure is created.
+
+The proponents counter that there is no alternative technology to the human brain. This has become a major issue of contention within the [Ministry of the Future](../gata/institutions/ministry-of-the-future.md), whose advise holds sway in the Second Quorum. The AIC maintains that their mandate is to safeguard the wellbeing of humanity over the interests of enterprise, innovation, and even individual prosperity. The issue remains contentious, but the decision ultimately falls to the high courts of the AIC.
 
 #### Popular Sentiment
 
