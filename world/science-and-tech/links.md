@@ -102,9 +102,11 @@ While link use has risen dramatically since its Blue classification, not everyon
 
 ## **Politics of Links**
 
+<figure><img src="../../.gitbook/assets/ministryofthefuture-554.png" alt="" width="563"><figcaption><p>A working group at the Ministry of the Future mapping out a potential roll-out for links.</p></figcaption></figure>
+
 Proponents of classifying Links as “blue” tech argue that the direct interface between a mind and [The System](../gata/politics/the-system.md) must be the equal right of all GATA’s citizens. However, [the AIC](../gata/institutions/atlan-information-control-aic.md) has been resistant to this proposal, citing a particularly strict interpretation of the NDA’s axion of “mutual incompatibility” whereby technology across GATA must be implemented in such a way that no single point of failure is created.
 
-The proponents counter that there is no alternative technology to the human brain. This has become a major issue of contention within the [Ministry of the Future](../gata/institutions/ministry-of-the-future.md), whose advise holds sway in the Second Quorum. The AIC maintains that their mandate is to safeguard the wellbeing of humanity over the interests of enterprise, innovation, and even individual prosperity. The issue remains contentious, but the decision ultimately falls to the high courts of the AIC.
+The proponents counter that there is no alternative technology to the human brain. This has become a major issue of contention within the [Ministry of the Future](../gata/institutions/ministry-of-the-future.md), whose advisory reports hold significant sway in the Second Quorum. The AIC maintains that their mandate is to safeguard the wellbeing of humanity over the interests of enterprise, innovation, and even individual liberty. The issue remains contentious, but the decision ultimately falls to the high courts of the AIC.
 
 #### Popular Sentiment
 
