@@ -44,19 +44,23 @@ With the use of the sync hub, empatherapists can connect with and guide their cl
 
 ## **Illegal Use**
 
-In recent years, illegal mods of sync hubs have become much more common among the younger generations. By extending the sync hub with additional [LMNL modules](hard-code.md#lmnl) and bypassing the stock [filter module](asimovian-architecture.md#filter-modules), sync hubs can be modified in a number of ways to enable various uses. Bypassing the stock filter allows both parties to push and pull.
+Illegal mods of sync hubs have proliferated as a result of a scandalous leak of the plans for the hard code jailbreak.
 
-#### Recreational users
+By extending the sync hub with additional [LMNL modules](hard-code.md#lmnl) and bypassing the stock [filter module](asimovian-architecture.md#filter-modules), sync hubs can be modified in a number of ways to enable various uses. Bypassing the stock filter allows both parties to push and pull.
 
-Recreational syncing has accumulated a wide range of uses. Some casual users see it as a harmless medium for entertainment, others use it to deepen social bonds. Couples and sex workers are known to use it to enhance sensual experiences.
+#### Casual users
+
+<figure><img src="../../.gitbook/assets/synching-489.png" alt="" width="563"><figcaption><p>A young couple uses a modified sync hub.</p></figcaption></figure>
+
+In some districts, recreational syncing has become particularly widespread among the youth, who see it as a harmless medium for entertainment, or a way to deepen social bonds. Couples and sex workers are also known to use it to enhance sensual experiences.
 
 #### Sync raves
 
-They are used at [sync raves](../gata/underground-scene/sync-raves.md) where they’re extended with direct inputs for systems the conduit may be driving, custom filters, and sometimes up to hundreds of additional endpoint modules.
+Modded sync hubs are used at [sync raves](../gata/underground-scene/sync-raves.md) where they’re extended with direct inputs for systems the conduit may be driving, custom filters, and sometimes up to hundreds of additional endpoint modules.
 
 #### The Astral
 
-They are modified by [Astral](the-astral.md) users with difficult-to-acquire [astral seed modules](the-astral.md#astral-seeds), allowing them to sync remotely with other astral users in real-time.
+Sync hubs are modified by [Astral](the-astral.md) users with difficult-to-acquire [astral seed modules](the-astral.md#astral-seeds), allowing them to sync remotely with other astral users in real-time.
 
 #### **Hives**
 
