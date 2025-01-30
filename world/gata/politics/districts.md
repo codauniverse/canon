@@ -18,11 +18,49 @@ layout:
 
 ## Overview
 
-Districts are highly secure territories with strict borders and regulations. Districts are the future vision of [GATA](../)'s civilizational design, as articulated in the [New Dawn Accords](../law-and-order/new-dawn-accords.md)–jurisdictions fully integrated with [The System](the-system.md) where new technologies and prosperous futures can be safely pursued.
+Districts are the future vision for [GATA](../)'s civilizational design, as articulated in the [New Dawn Accords](../law-and-order/new-dawn-accords.md). They are legal jurisdictions recognized by GATA that span county-sized territories, have strict [borders](../borders-and-travel/gates.md) and [regulations](paradigms.md), and are fully integrated with [The System](the-system.md).
 
-Districts have democratically elected local governments and [Second Quorum](governance.md#the-second-quorum) representatives, sometimes referred to as governors. Local government oversees the [Local Authority](../law-and-order/local-authority.md) in its upholding of GATA law. Local governments also oversee the distribution of the district’s [System Yield](yield.md).
+Districts have democratically elected local governments and [Second Quorum](governance.md#the-second-quorum) representatives, sometimes referred to as governors. Local government oversees the [Local Authority](../law-and-order/local-authority.md) in its upholding of GATA law. Local governments are also responsible for the distribution of the district’s [System Yield](yield.md) and the allocation of the district's discretionary budget.
 
-Districts have been incorporated into The System and adhere to the regulations of the [New Dawn Accords](../law-and-order/new-dawn-accords.md) as interpreted by [the AIC](../institutions/atlan-information-control-aic.md). By using The System, districts automatically report key metrics which are used to inform wider System operations, such as the automated supply chain, Yield calculations, and to confirm a district’s continued compliance with System requirements and laws.
+Because their infrastructure and economy are built on The System, districts automatically report key metrics that help inform GATA-wide System function, such as migration flows, energy production, resource extraction, [Yield calculation](yield.md#yield-calculation), and [paradigm expansion](paradigms.md).
+
+***
+
+## Zones
+
+Zones are areas of a district that are defined for the purpose of administration, research, investment, and city planning.
+
+Zones are either designated by the [local government](districts.md#local-government) or autonomously defined and regularly redrawn by [The System](the-system.md) in response to a complex interplay of metrics.
+
+Any given place within a district can be—and often is—within many overlapping zones, forming a contingent constituency of people who live, work, or otherwise have a recognized stake in that area. Zones can confer related voting rights, restrictions, keys, or even special [Yield allocations](yield.md#overview).
+
+**These are the most common zone types:**
+
+* **Strict:** Areas where the district paradigm is suspended, restricting all technology and information to those [classified as Blue (Class-3)](../../science-and-tech/tech-regulation.md#class-3-blue). Ranging from [Gates](../borders-and-travel/gates.md) and large public spaces, to individual buildings or even rooms, strict zones are commonly delineated with [scanners](../../science-and-tech/scanners.md) or enclosed [lockways](../borders-and-travel/lockways.md).
+* **Developing:** Contiguous regions that are undergoing significant coordinated investment and development intended to stimulate a System metric, from environmental, to economic, to public health.
+* **Industrial:** Contiguous or highly-impactful regions of industrial activity.
+* **Operational:** Zones where acute or long-term crises are unfolding. These areas typically have in increased presence of law enforcement and contracted operators, and are closely attended by [local government](districts.md#local-government) and [institutions](../institutions/) such as the [Ministry of the Future](../institutions/ministry-of-the-future.md).
+* E**vacuation:** A region that is subject to an active evacuation order. Evacuation orders typically specify exempted keys, such as [law enforcement](../law-and-order/local-authority.md), emergency personnel, or [contracted operators](../enterprise/operators.md).
+* **Protected:** A region stipulating an environmental, historical, or strategic protected concern. Commonly assigned to public outdoor spaces, parks, landmarks, memorials, and wildlife hotspots.
+* **Gray:** Regions within a district's borders occupied by [Sovereign](../../free-territories/people-and-culture/sovereigns.md) populations who refused citizenship through [districthood](districts.md#the-path-to-districthood), and where the NDA's laws cannot rightfully be enforced.
+
+***
+
+## Life & Culture
+
+<div><figure><img src="../../../.gitbook/assets/lockways-434.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/people-43443.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/dartracing-555.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+Life in GATA's districts is diverse, spanning vast geographical and demographic territory.
+
+While the fundamental principles outlined in GATA's New Dawn Accords form the procedural bedrock for governance, infrastructure, and law enforcement, each district's unique culture and history is undeniable and naturally expressed in every facet of daily life.
+
+<div><figure><img src="../../../.gitbook/assets/newyork-3453.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/gravita-943.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/atlanacademy.png" alt=""><figcaption></figcaption></figure></div>
+
+Because district's can be quite large, day-to-day life can vary significantly not just between districts, but also within districts depending on where one lives and works, and how the district is currently zoned.
+
+<div><figure><img src="../../../.gitbook/assets/ministryofthefuture-117.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/childrenofgata-877.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/arcades-333.png" alt=""><figcaption></figcaption></figure></div>
+
+A district geography, paradigm, economy, and industry all have a large influence on its culture, and contribute to the inter-district bonds that continually enrich and revitalize its culture—as much as they challenge and confound.
 
 ***
 
@@ -69,6 +107,8 @@ Prospective districts with land-locked [Gray Zones](gray-zones.md) inside their 
 ***
 
 ## **Bridge Districts**
+
+Bridge Districts, often just called "bridges" for short, are non-GATA [NDA-compliant](../law-and-order/new-dawn-accords.md) districts in [partner states](../law-and-order/new-dawn-accords.md#adoption-of-the-new-dawn-accords) that implement [The System](the-system.md). They are named for their diplomatic role in bridging GATA and the other world powers and promoting GATA's long-term goal of aligning global governance.
 
 Beginning with the [Morning Light Summit](../law-and-order/new-dawn-accords.md#the-morning-light-summit), other states were given the opportunity to sign the [New Dawn Accords](../law-and-order/new-dawn-accords.md) and establish districts of their own that adhere to the NDA’s regulations.
 
