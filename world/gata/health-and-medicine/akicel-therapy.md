@@ -24,6 +24,8 @@ Developed by [AKICEL](../enterprise/akicel.md), the Akicel Therapy is a well-kno
 
 ## Akicel Serum
 
+<figure><img src="../../../.gitbook/assets/akicelserum-4909.png" alt="" width="563"><figcaption><p>One full emergency dose of oral AKICEL serum.</p></figcaption></figure>
+
 The Akicel Serum is derived from the immortal cells of Aki Koenig, AKICEL's co-founder and namesake. Aki's cells demonstrate near perfect replication, bestowing upon her near perfect health and longevity. Akicel therapy introduces this plasmatic serum infused with modified copies of these cells into a patient's bloodstream.
 
 The usual regimen for most patients is one Akicel serum treatment a year after the age of 16, and no more than one full treatment every two months. Akicel serum use at this rate reduces most individuals’ apparent rate of aging by 30-70%, and reduces health-related mortality by 90%.
