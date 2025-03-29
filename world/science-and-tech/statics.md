@@ -40,14 +40,14 @@ Broadly speaking, the technology uses quantum entanglement to control the collap
 
 ### Addressing
 
-* **Pins and Entanglement:** At the heart of each static node is a set of specially prepared quantum-entangled electrons, housed within separate modules called **pins**. Arranged in spherical arrays, the pins enable higher-resolution “addresses” in space-time with greater pin counts. Each entangled electron samples potential states across many branches of the wavefunction, as predicted by the Many-Worlds interpretation.
-* **Spatial Fixation:** By measuring local gravitational and relativistic conditions simultaneously, the node maintains coherence among its pins to identify a precise location (or "address") within the gravitational frame. This address acts as a signature of local equilibrium within the gravitational field, weighting future measurements toward a particular outcome among many possible realities. Early breakthroughs in theoretical physics and material sciences—especially during the Dark Decade—were crucial to making this near-infinite branching controllable.
+* **Pins and Entanglement:** At the heart of each static node is a set of specially prepared quantum-entangled electrons, housed within separate modules called **pins**. Arranged in spherical arrays, the pins enable higher-resolution “addresses” in space-time with greater pin counts. Each entangled electron samples potential states across the wavefunction, though exactly how these states are selected or collapsed can be interpreted differently but consistently within numerous theories of quantum mechanics.
+* **Spatial Fixation:** By measuring local gravitational and relativistic conditions simultaneously, the node maintains coherence among its pins to identify a precise location (or "address") within the gravitational frame. This address acts as a signature of local equilibrium within the gravitational field, weighting future measurements toward a particular outcome among many possibilities. Early breakthroughs in theoretical physics and material sciences—especially during the Dark Decade—were crucial to making this near-infinite branching (or collapse) controllable.
 * **Gravitational Sensing:** Minute changes in gravitational potential are constantly measured, factoring in local Lorentz invariance and Minkowski geometry. This ensures stable anchoring even when gravitational forces shift. The node’s address depends not only on Earth’s gravity but also on other dominant gravitational actors, such as the Sun.
 
 ### Folding
 
-* **Static Field Creation:** Once a location is addressed, a **field generator** folds that region of space-time into a **static field** (or gravitational envelope), effectively isolating its interior from external relativistic interactions. From a relativistic standpoint, it skews the local reference frame so the interior’s inertial state is centered at the chosen address, and from which the static field can be used to drive various applications.
-* **Field Amplification:** A **field amplifier** enables expansion of this static field to encompass larger objects, entire vessels, or sprawling platforms. It boosts the energy throughput necessary to collapse wavefunctions on a broader scale, retaining coherence under high stress or across vast distances. Larger static envelopes support advanced uses like vessel-scale gravity manipulation.
+* **Static Field Creation:** Once a location is addressed, a **field generator** folds that region of space-time into a **static field** (or gravitational envelope), effectively isolating its interior from external relativistic interactions across gradients determined by the particulars of the field generator. From a relativistic standpoint, it skews the local reference frame so the field interior’s inertial state is maintained at the specified address.
+* **Field Amplification:** A **field amplifier** enables expansion of this static field to encompass larger objects, entire vessels, or sprawling platforms. It boosts the energy throughput necessary to collapse wavefunctions on a broader scale, retaining coherence under high stress or across vast distances. Larger static envelopes support advanced uses like inertial dampening, containment fields, or vessel-scale gravity manipulation.
 * **Exterior and Interior Frames:** Externally, a tightened node appears locked in place, while internally, quantum systems traverse continuous micro-fluctuations, 'navigating' the node between probabilistic wavefunction branches by exploiting the probabilistic gradient of relativistic interactions at the boundary of the gravitational envelope. With higher-power amplification, an entire craft (and its occupants) can experience an interior frame where external gravity becomes partially mutable, forming the basis for trans-medium travel.
 
 ***
@@ -78,7 +78,7 @@ Applying a carefully modulated charge incrementally locks the node to its addres
 
 #### **Loosening:**
 
-To detach the node from its address, an inverse or frequency-matched charge is applied, letting previously dismissed wavefunction branches reassert themselves. This process can take considerable energy and time, especially if the node is highly tightened. While loosely locked, a node can be manually moved through ambient magnetic fields, with the level of physical resistance determined by how tightly the node was locked beforehand.
+To detach the node from its address, an inverse or frequency-matched charge is applied, letting previously suppressed possibilities reassert themselves. This process can take considerable energy and time, especially if the node is highly tightened. While loosely locked, a node can be manually moved through ambient magnetic fields, with the level of physical resistance determined by how tightly the node was locked beforehand.
 
 ### **Node Size and Operation**
 
@@ -112,12 +112,6 @@ Three or more nodes allow stable locomotion in multiple axes, while two-node set
 
 Engine controllers constantly recalculate addresses and folding intensities across all nodes. This ensures smooth, efficient travel even in shifting gravitational landscapes. Historical examples include GATA’s early staging platforms used during The Reconstruction, while modern miniaturized systems power extreme-sport “darts.”
 
-
-
-### Enterprise players
-
-Manufacturers like Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU) lead the industry, offering quantum-resilient electronics, robust materials, and advanced entanglement fidelity measures.
-
 ***
 
 ## Applications of Static Field tech
@@ -126,7 +120,7 @@ Manufacturers like Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU) lead the in
 
 From massive industrial rigs to sleek personal transports, static engines have proliferated widely in GATA’s districts and beyond, though they remain costly or less available in places like URSA and the Free Territories.
 
-### Ships
+#### Ships
 
 <figure><img src="../../.gitbook/assets/statics-4355.png" alt="" width="563"><figcaption><p>A static ship at rest in the serene wilderness of Greater Atla.</p></figcaption></figure>
 
@@ -134,7 +128,7 @@ Vehicles of various size with different configurations of static engines. The mo
 
 ***
 
-### Cycles
+#### Cycles
 
 <figure><img src="../../.gitbook/assets/staticcycle.png" alt="" width="563"><figcaption><p>A static cycle idling in a garage.</p></figcaption></figure>
 
@@ -142,7 +136,7 @@ Smaller seated vehicles, typically with no enclosure surrounding the occupant(s)
 
 ***
 
-### Rafts
+#### Rafts
 
 <figure><img src="../../.gitbook/assets/collections-sfg87.png" alt="" width="563"><figcaption><p>A static raft employed by Collections to recover illegal contraband.</p></figcaption></figure>
 
@@ -150,7 +144,7 @@ Small, simple static platforms made for ferrying heavy cargo and equipment over 
 
 ***
 
-### Gondolas
+#### Gondolas
 
 <figure><img src="../../.gitbook/assets/gondola.png" alt="" width="563"><figcaption><p>A public gondola ready to ferry people across the city.</p></figcaption></figure>
 
@@ -158,7 +152,7 @@ These moving extensions of urban architecture are a common form of public transp
 
 ***
 
-### Static Boards
+#### Static Boards
 
 <figure><img src="../../.gitbook/assets/staticboard-535.png" alt="" width="563"><figcaption><p>A youth exploring the wilds on a small static board.</p></figcaption></figure>
 
@@ -168,7 +162,7 @@ Larger, more intense static boards that are finely tuned for high-performance an
 
 ***
 
-### Platforms
+#### Platforms
 
 <figure><img src="../../.gitbook/assets/staticplatforms.png" alt="" width="563"><figcaption><p>A static platform used for construction.</p></figcaption></figure>
 
@@ -176,7 +170,7 @@ Large static platforms that serve as staging areas for construction, industry, a
 
 ***
 
-### Tankers
+#### Tankers
 
 <figure><img src="../../.gitbook/assets/yield.png" alt="" width="563"><figcaption><p>A static tanker carrying System Yield above a district shipyard.</p></figcaption></figure>
 
@@ -184,11 +178,13 @@ Remarkably large static vehicles used for enterprise-scale transport. Tankers ar
 
 ***
 
-### Skyliners
+#### Skyliners
 
 <figure><img src="../../.gitbook/assets/greateratla-9542 (1).png" alt="" width="563"><figcaption><p>Static skyliners traversing the skies above Greater Atla.</p></figcaption></figure>
 
 Luxury static vessels used for travel and leisure. Popular among affluent travelers seeking scenic inter-district routes or remote hideaways.
+
+***
 
 ### Industrial and passive applications
 
@@ -200,6 +196,10 @@ Beyond vehicles, statics also drive complementary technologies:
 * **Containment Fields for Breathable Atmospheres:** Vital for off-world habitats and deep-space platforms.
 * **Inertial Dampening Fields:** Used for frame operators’ cradles and other high-impact tasks.
 * **Artificial Gravity:** Showcased in sports arenas like “Gravita,” enabling participants to compete in variable gravity conditions.
+
+### Enterprise players
+
+Manufacturers like Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU) lead the industry, offering quantum-resilient electronics, robust materials, and advanced entanglement fidelity measures.
 
 ***
 
