@@ -128,7 +128,7 @@ From massive industrial rigs to sleek personal transports, static engines have p
 
 ### Ships
 
-<figure><img src="../../.gitbook/assets/statics-4355.png" alt="" width="563"><figcaption><p>A static ship docked on the water while static tankers maneuver in the sky above.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/statics-4355.png" alt="" width="563"><figcaption><p>A static ship at rest in the serene wilderness of Greater Atla.</p></figcaption></figure>
 
 Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly accessible for civilian use.
 
@@ -205,16 +205,12 @@ Beyond vehicles, statics also drive complementary technologies:
 
 ## Cultural and Historical Significance
 
-Originally developed through Joint Atlantic Command research in the Dark Decade, static technology advanced rapidly during The Reconstruction. It is now integral to daily infrastructure across Greater Atla and allied states. Statics fuels entire sporting subcultures (e.g., the high-adrenaline darts scene) and has shaped new socioeconomic enterprises, from massive cargo shipping to high-end tourism.
+Originally developed through Joint Atlantic Command research in the Dark Decade, static technology advanced rapidly during The Reconstruction. It is now integral to daily infrastructure across Greater Atla and allied states. Statics fuels entire sporting subcultures like Gravita and the high-adrenaline darts scene, and has shaped new socioeconomic enterprises, from massive cargo shipping to high-end tourism.
 
-Because static nodes rely on stable quantum entanglement in real-world conditions, they provide practical evidence supporting the Many-Worlds interpretation. Each node effectively prunes a single branch from a near-infinite wavefunction, making alternative realities an everyday reality—albeit in a carefully managed form. As such, statics has become both a transformative technology and a philosophical milestone, confirming multi-branch reality through direct application.
+<figure><img src="../../.gitbook/assets/gravita-435.png" alt="" width="563"><figcaption><p>A pivotal moment in a Gravita match.</p></figcaption></figure>
 
-Overall, static field technology merges quantum-scale physics with large-scale engineering, offering versatile gravitational manipulation that is both delicate and tremendously powerful. This synergy—coalescing addressing pins, controlled folding, and robust field generation—continues to expand humanity’s horizons in the CODA Universe, enabling robust infrastructure, trans-medium travel, and deeper cosmic exploration while reshaping cultural, industrial, and scientific landscapes alike.
+Because static nodes rely on stable quantum entanglement in real-world conditions, they provide practical evidence supporting the Many-Worlds interpretation. Each node effectively biases the collapse of a near-infinite wavefunction, making alternative realities an everyday reality—albeit in a carefully managed form. As such, statics has become both a transformative technology and a philosophical milestone.
 
+Overall, static field technology merges quantum-scale physics with large-scale engineering, offering versatile gravitational manipulation that is both delicate and tremendously powerful.
 
-
-
-
-
-
-Static vehicles come in a wide range of shapes and sizes, tailored to their intended use. Their maneuverability and carrying capacity requirements determine the number and size of static engines employed, and static vehicles can be used in trans-medium travel, functional in air, water, and space, which further informs their forms and features.
+Research into this technology continues to expand humanity’s horizons, enabling robust infrastructure, trans-medium travel, and deeper cosmic exploration while reshaping cultural, industrial, and scientific landscapes alike.
