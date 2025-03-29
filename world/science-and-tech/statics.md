@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Applied static field technology, also known as 'statics', is an advanced science and engineering field combining high-energy physics, quantum information, and gravitational manipulation.
+Applied static field technology, also known as 'statics', is an advanced science and engineering field combining high-energy physics, quantum information, and gravitational manipulation (also known as "gravitics").
 
 Specialized devices called 'static nodes' are used to accurately position, orient, and transport objects within Earth's gravitational field and beyond.
 
@@ -34,7 +34,7 @@ Static field technology is used in a wide range of applications beyond positioni
 
 Static technology rests on two core processes—**Addressing** and **Folding**—each of which is facilitated by key components like addressing pins, field generators, and field amplifiers.
 
-These methods integrate breakthrough research in relativity, quantum entanglement, and the Many-Worlds interpretation.
+These methods integrate breakthrough research in relativity, gravitics, quantum mechanics.
 
 Broadly speaking, the technology uses quantum entanglement to control the collapse of probabilistic wavefunctions, and gravitational effects to relativistically isolate an envelope of space-time.
 
@@ -209,7 +209,9 @@ Originally developed through Joint Atlantic Command research in the Dark Decade,
 
 <figure><img src="../../.gitbook/assets/gravita-435.png" alt="" width="563"><figcaption><p>A pivotal moment in a Gravita match.</p></figcaption></figure>
 
-Because static nodes rely on stable quantum entanglement in real-world conditions, they provide practical evidence supporting the Many-Worlds interpretation. Each node effectively biases the collapse of a near-infinite wavefunction, making alternative realities an everyday reality—albeit in a carefully managed form. As such, statics has become both a transformative technology and a philosophical milestone.
+Because static nodes rely on stable quantum entanglement in real-world conditions, there remains debate among leading researchers on the precise nature of this phenomenon. Some argue that static technology offers strong evidence for a Many-Worlds interpretation, positing that each node prunes a single branch from a near-infinite wavefunction. Others favor single-world explanations—such as repeated wavefunction collapse, pilot-wave dynamics, or decoherence-based models—to account for how the node “locks” onto one outcome among many.
+
+Observations of energy gradients at the boundary of a static field’s gravitational envelope remain a key area of interest; many researchers pursuing experimental 'parallel energy' research find the Many-Worlds framework particularly compelling for explaining these phenomena.
 
 Overall, static field technology merges quantum-scale physics with large-scale engineering, offering versatile gravitational manipulation that is both delicate and tremendously powerful.
 
