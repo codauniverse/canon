@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Applied static Field technology, also known as 'statics', is an advanced science and engineering field combining high-energy physics, quantum information, and gravitational manipulation.
+Applied static field technology, also known as 'statics', is an advanced science and engineering field combining high-energy physics, quantum information, and gravitational manipulation.
 
 Specialized devices called 'static nodes' are used to accurately position, orient, and transport objects within Earth's gravitational field and beyond.
 
@@ -41,14 +41,14 @@ Broadly speaking, the technology uses quantum entanglement to control the collap
 ### Addressing
 
 * **Pins and Entanglement:** At the heart of each static node is a set of specially prepared quantum-entangled electrons, housed within separate modules called **pins**. Arranged in spherical arrays, the pins enable higher-resolution “addresses” in space-time with greater pin counts. Each entangled electron samples potential states across many branches of the wavefunction, as predicted by the Many-Worlds interpretation.
-* **Spatial Fixation:** By analyzing local gravitational and relativistic conditions simultaneously, the node maintains coherence among its pins to identify a precise location (or "address") within the gravitational frame. This address acts as a signature of local equilibrium, weighting future measurements toward a particular outcome among many possible realities. Early breakthroughs in theoretical physics and material sciences—especially during the Dark Decade—were crucial to making this near-infinite branching controllable.
+* **Spatial Fixation:** By measuring local gravitational and relativistic conditions simultaneously, the node maintains coherence among its pins to identify a precise location (or "address") within the gravitational frame. This address acts as a signature of local equilibrium within the gravitational field, weighting future measurements toward a particular outcome among many possible realities. Early breakthroughs in theoretical physics and material sciences—especially during the Dark Decade—were crucial to making this near-infinite branching controllable.
 * **Gravitational Sensing:** Minute changes in gravitational potential are constantly measured, factoring in local Lorentz invariance and Minkowski geometry. This ensures stable anchoring even when gravitational forces shift. The node’s address depends not only on Earth’s gravity but also on other dominant gravitational actors, such as the Sun.
 
 ### Folding
 
-* **Static Field Creation:** Once a location is addressed, a **field generator** folds that region of space-time into a **static field** (or gravitational envelope), effectively isolating its interior from external relativistic interactions. From a relativistic standpoint, it skews the local reference frame so the interior’s inertial state is maintained at the chosen address.
+* **Static Field Creation:** Once a location is addressed, a **field generator** folds that region of space-time into a **static field** (or gravitational envelope), effectively isolating its interior from external relativistic interactions. From a relativistic standpoint, it skews the local reference frame so the interior’s inertial state is centered at the chosen address, and from which the static field can be used to drive various applications.
 * **Field Amplification:** A **field amplifier** enables expansion of this static field to encompass larger objects, entire vessels, or sprawling platforms. It boosts the energy throughput necessary to collapse wavefunctions on a broader scale, retaining coherence under high stress or across vast distances. Larger static envelopes support advanced uses like vessel-scale gravity manipulation.
-* **Exterior and Interior Frames:** Externally, a tightened node appears locked in place, while internally, quantum systems traverse continuous micro-fluctuations, pruning unwanted wavefunction branches. With higher-power amplification, an entire craft (and its occupants) can experience an interior frame where external gravity becomes mutable, forming the basis for trans-medium travel or deeper-space operations.
+* **Exterior and Interior Frames:** Externally, a tightened node appears locked in place, while internally, quantum systems traverse continuous micro-fluctuations, 'navigating' the node between probabilistic wavefunction branches by exploiting the probabilistic gradient of relativistic interactions at the boundary of the gravitational envelope. With higher-power amplification, an entire craft (and its occupants) can experience an interior frame where external gravity becomes partially mutable, forming the basis for trans-medium travel.
 
 ***
 
