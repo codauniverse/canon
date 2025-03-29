@@ -18,43 +18,77 @@ layout:
 
 ## Overview
 
-Static Field technology, or statics for short, uses ‘[static nodes](statics.md#static-nodes)’ to position and move objects, crafts, platforms, and structures within the Earth’s gravitational field, or ‘static field’ as it relates to static technology.
+Applied static Field technology, also known as 'statics', is an advanced science and engineering field combining high-energy physics, quantum information, and gravitational manipulation.
 
-Statics are much more prevalent in [GATA's](../gata/the-basics.md) districts and across [Greater Atla](../gata/politics/greater-atla.md), however they can also be found in use within all of [GATA's partner states](../gata/law-and-order/new-dawn-accords.md#signatories). Conversely, they are a rarer sight in [URSA](../ursa/the-basics.md) and rarer still across the [Free Territories](../free-territories/the-basics.md).
+Specialized devices called 'static nodes' are used to accurately position, orient, and transport objects within Earth's gravitational field and beyond.
 
-Static field technology has also been essential for the development of [grabbers](grabbers.md), and it is a key element of many other innovations, such as containment fields for breathable atmospheres in space, inertial dampening fields for [frame](frames.md) operators' [cradles](frames.md#design-and-functionality), or artificial gravity environments, such as those used in the popular sport, [Gravita](../gata/people-and-culture/sports-and-games/#gravita).
+Developed from theoretical physics breakthroughs and refined engineering—including efforts by the Joint Atlantic Command during the Dark Decade—statics enable a reliable yet energy-intensive framework for controlling spatial relationships in a wide range of applications.
+
+Statics are widespread in Greater Atla (GATA) and its partner states, rarer in URSA, and rarer still across the Free Territories.
+
+Static field technology is used in a wide range of applications beyond positioning and translating static nodes, from [grabbers](grabbers.md), inertial dampening fields for [frame](frames.md) operators' [cradles](frames.md#design-and-functionality), or containment fields for controlled atmospheres and artificial gravity environments, like those used in the popular sport, [Gravita](../gata/people-and-culture/sports-and-games/#gravita).
 
 ***
 
-## **Static Nodes**
+## **Underlying principles**
+
+Static technology rests on two core processes—**Addressing** and **Folding**—each of which is facilitated by key components like addressing pins, field generators, and field amplifiers.
+
+These methods integrate breakthrough research in relativity, quantum entanglement, and the Many-Worlds interpretation.
+
+Broadly speaking, the technology uses quantum entanglement to control the collapse of probabilistic wavefunctions, and gravitational effects to relativistically isolate an envelope of space-time.
+
+### Addressing
+
+* **Pins and Entanglement:** At the heart of each static node is a set of specially prepared quantum-entangled electrons, housed within separate modules called **pins**. Arranged in spherical arrays, the pins enable higher-resolution “addresses” in space-time with greater pin counts. Each entangled electron samples potential states across many branches of the wavefunction, as predicted by the Many-Worlds interpretation.
+* **Spatial Fixation:** By analyzing local gravitational and relativistic conditions simultaneously, the node maintains coherence among its pins to identify a precise location (or "address") within the gravitational frame. This address acts as a signature of local equilibrium, weighting future measurements toward a particular outcome among many possible realities. Early breakthroughs in theoretical physics and material sciences—especially during the Dark Decade—were crucial to making this near-infinite branching controllable.
+* **Gravitational Sensing:** Minute changes in gravitational potential are constantly measured, factoring in local Lorentz invariance and Minkowski geometry. This ensures stable anchoring even when gravitational forces shift. The node’s address depends not only on Earth’s gravity but also on other dominant gravitational actors, such as the Sun.
+
+### Folding
+
+* **Static Field Creation:** Once a location is addressed, a **field generator** folds that region of space-time into a **static field** (or gravitational envelope), effectively isolating its interior from external relativistic interactions. From a relativistic standpoint, it skews the local reference frame so the interior’s inertial state is maintained at the chosen address.
+* **Field Amplification:** A **field amplifier** enables expansion of this static field to encompass larger objects, entire vessels, or sprawling platforms. It boosts the energy throughput necessary to collapse wavefunctions on a broader scale, retaining coherence under high stress or across vast distances. Larger static envelopes support advanced uses like vessel-scale gravity manipulation.
+* **Exterior and Interior Frames:** Externally, a tightened node appears locked in place, while internally, quantum systems traverse continuous micro-fluctuations, pruning unwanted wavefunction branches. With higher-power amplification, an entire craft (and its occupants) can experience an interior frame where external gravity becomes mutable, forming the basis for trans-medium travel or deeper-space operations.
+
+***
+
+## Static Nodes
 
 <figure><img src="../../.gitbook/assets/staticnodes.png" alt="" width="563"><figcaption><p>A static node that can be installed inside of structures or static engines.</p></figcaption></figure>
 
-Static nodes are small polyhedral components whose position in its surrounding gravitational field can be modulated by applying a charge to the node.
+Static nodes are the fundamental hardware implementing these principles. Typically manufactured in spherical assemblies and ranging from 5 cm to 1 m in diameter, each node houses:
 
-When a high charge is applied to a "loosened" node, the node slowly "tightens" its position in the gravitational field. Its position's tightness is also highly dependent on the dominant gravitational actors in the field, such as the Earth or the Sun.
+#### **Pins**
 
-When the current is cut to a tightened node, it will hold its relative position in the gravitational field indefinitely until the precise same frequency of charge is applied and slowly entrained down,  thereby loosening the node.
+Quantum-entangled electrons (arranged in modules) to pinpoint addresses in space-time.
 
-A loose node can be moved manually through the magnetic field, although the amount of resistance is determined by how much the node was tightened.
+#### **Field Generator**
 
-Loose nodes have opened up a wide range of applications in industry and enterprise, and in particular, static engines, and transportation like static [ships](statics.md#ships), [tankers](statics.md#tankers), [gondolas](statics.md#gondolas), [rafts](statics.md#rafts), and [darts](statics.md#static-boards).
+The core module that folds local space-time by coupling quantum fields with classical gravitational potentials.
 
-The charge necessary to loosen a regulation "tight" node is extremely high and must be applied for some time before the node will come loose.
+#### **Field Amplifier (optional):**
 
-### Varieties of Nodes
+Scales up gravitational envelopes for large-scale or power-intensive deployments.
 
-The kind and quantity of nodes in a static system determines the way in which the system can orient itself in, and navigate, a gravitational field.
+### **Node Tightening and Loosening**
 
-A single, tight node is useful as an anchor for architecture and infrastructure. Two nodes can be used to create platforms that can be moved horizontally along the Earth's magnetic field. In order to achieve stable locomotion, three or more nodes are used.
+#### **Tightening:**
 
-Static nodes can range from 5 cm in diameter to 1 meter. The diameter of the node determines how quickly the node's resonant frequency can be entrained up or down.
+Applying a carefully modulated charge incrementally locks the node to its addressed point. Once sufficiently tight, it can hold this position indefinitely—even if external power is lost—until the same resonant frequency is applied to unwind it. The node’s locked state directly depends on gravitational influences; for example, tightness can be stronger in Earth’s gravity well than in weaker fields.
 
-Smaller nodes approach high tightness more quickly, permitting faster, highly agile movement—but reaching 100% tightness requires exponentially higher current. Due to energy throughput limitations, smaller nodes are not able to travel very far up the Earth's gravity well.
+#### **Loosening:**
 
-Larger nodes take more time to reach hight tightness, but reaching 99.999%\~ tightness is much faster and more energy efficient than with smaller nodes. Larger nodes take advantage of their high energy throughput to anchor the system to more subtle gravitic reference points, allowing static systems to traverse the Solar gravity well.
+To detach the node from its address, an inverse or frequency-matched charge is applied, letting previously dismissed wavefunction branches reassert themselves. This process can take considerable energy and time, especially if the node is highly tightened. While loosely locked, a node can be manually moved through ambient magnetic fields, with the level of physical resistance determined by how tightly the node was locked beforehand.
 
-Static nodes are made possible by advances in material sciences pioneered by Atla’s [Research Corps](../sol/institutions/the-research-corps.md) during [The Reconstruction](../history/the-reconstruction.md) era.
+### **Node Size and Operation**
+
+#### **Smaller Nodes (5–20 cm):**
+
+Faster to tighten, yielding agile responses suitable for short-range maneuvering or swift directional changes. However, pushing them to full tightness is disproportionately energy-intensive, restricting use at high altitudes or deep gravity wells.
+
+#### **Larger Nodes (up to 1 m):**
+
+Slower to reach maximum tightness but more efficient once locked. Their expanded array of pins can leverage subtler gravitational cues and reference more distant gravitational bodies, enabling them to navigate more easily across orbits or the solar gravity well. These advances were pioneered by Atla's Research Corps during The Reconstruction.
 
 ***
 
@@ -62,23 +96,41 @@ Static nodes are made possible by advances in material sciences pioneered by Atl
 
 <figure><img src="../../.gitbook/assets/staticengines.png" alt="" width="563"><figcaption><p>A large static engine inside of an industrial static tanker.</p></figcaption></figure>
 
-Static engines continuously modulate the charge applied to three or more nodes to produce smooth, stable movement within the Earth’s gravitational field. Static engines are essential for transporting extremely heavy loads, as demonstrated during the Reconstruction with GATA's long-defunct staging platforms that crawled the skies of Greater Atla.
+A **static engine** is a coordinated assembly of three or more static nodes. Dynamically controlling each node’s folding parameters, charges, and addresses yields stable, controlled motion through the gravitational field. The number of nodes also determines how robustly an engine can orient and navigate.
 
-With modern, miniaturized static engines, extremely fast and expressive movement can be achieved, as many have discovered with the recent rise in the popularity of [darts](statics.md#dart-boards)–static boards that have become central to an extreme [sport culture](../gata/people-and-culture/sports-and-games/) that is intertwined with the [counterculture scene](../gata/underground-scene/).
+#### **Multi-nodal Coordination:**
 
-Smaller static vehicles are reliant on compact batteries to power their static engines, while larger ships and platforms employ [fusion reactors](fusion-energy.md) to power their larger static engines. Meanwhile, New Imperial Japan, URSA and various Free Territories utilize much smaller fusion cells [manufactured by New Imperial Japan](fusion-energy.md#new-imperial-japans-miniaturized-fusion-cells), giving them advantages in certain military and industrial applications where their statics can operate indefinitely.
+Three or more nodes allow stable locomotion in multiple axes, while two-node setups are typically limited to simpler horizontal movement. A single tightened node can serve as an immovable anchor for infrastructure.
 
-Prominent statics manufacturers include Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU).
+### **Energy Sources:**
+
+* **Small-Scale:** Compact battery systems power smaller vehicles (e.g., boards, cycles) over short distances.
+* **Larger Platforms:** Fusion reactors or specialized fusion cells power heavy industrial transports and large platforms. Some states—like New Imperial Japan—use refined miniature fusion cells, giving them indefinite operational advantages in both military and civilian applications.
+* **Experimental Parallel Energy:** Taps into latent wavefunction branches to harness "parallel" probabilistic energy. Still in advanced R\&D, with varied results.
+
+**Continuous Modulation**
+
+Engine controllers constantly recalculate addresses and folding intensities across all nodes. This ensures smooth, efficient travel even in shifting gravitational landscapes. Historical examples include GATA’s early staging platforms used during The Reconstruction, while modern miniaturized systems power extreme-sport “darts.”
+
+
+
+### Enterprise players
+
+Manufacturers like Pegasus (GATA), Nimbus (GATA), and Gibraltar (AU) lead the industry, offering quantum-resilient electronics, robust materials, and advanced entanglement fidelity measures.
 
 ***
 
-## Types of Static Vehicles
+## Applications of Static Field tech
 
-Static vehicles come in a wide range of shapes and sizes, tailored to their intended use. Their maneuverability and carrying capacity requirements determine the number and size of static engines employed, and static vehicles can be used in trans-medium travel, functional in air, water, and space, which further informs their forms and features.
+### Transport & Vehicles
+
+From massive industrial rigs to sleek personal transports, static engines have proliferated widely in GATA’s districts and beyond, though they remain costly or less available in places like URSA and the Free Territories.
 
 ### Ships
 
-Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly affordable for civilian use.
+<figure><img src="../../.gitbook/assets/statics-4355.png" alt="" width="563"><figcaption><p>A static ship docked on the water while static tankers maneuver in the sky above.</p></figcaption></figure>
+
+Vehicles of various size with different configurations of static engines. The most popular mode of inter-district travel, and increasingly accessible for civilian use.
 
 ***
 
@@ -94,7 +146,7 @@ Smaller seated vehicles, typically with no enclosure surrounding the occupant(s)
 
 <figure><img src="../../.gitbook/assets/collections-sfg87.png" alt="" width="563"><figcaption><p>A static raft employed by Collections to recover illegal contraband.</p></figcaption></figure>
 
-Small, simple static platforms made for ferrying heavy cargo and equipment across shorter distances. Used widely in industrial, law enforcement, and military contexts.
+Small, simple static platforms made for ferrying heavy cargo and equipment over shorter distances. Used widely in industrial, law enforcement, and military contexts.
 
 ***
 
@@ -110,7 +162,9 @@ These moving extensions of urban architecture are a common form of public transp
 
 <figure><img src="../../.gitbook/assets/staticboard-535.png" alt="" width="563"><figcaption><p>A youth exploring the wilds on a small static board.</p></figcaption></figure>
 
-Highly maneuverable personal conveyance devices with static engines, particularly popular among the youth. Larger static boards that are finely tuned for high-performance and extreme sports are called [Darts](../gata/people-and-culture/sports-and-games/#darts).
+Board-like personal conveyances with miniature static engines. Increasingly popular among the youth and favored for fast, dynamic movement. They use articulating magnetic plates to secure the rider and maneuver the board.&#x20;
+
+Larger, more intense static boards that are finely tuned for high-performance and extreme sports are called [Darts](../gata/people-and-culture/sports-and-games/#darts).
 
 ***
 
@@ -118,7 +172,7 @@ Highly maneuverable personal conveyance devices with static engines, particularl
 
 <figure><img src="../../.gitbook/assets/staticplatforms.png" alt="" width="563"><figcaption><p>A static platform used for construction.</p></figcaption></figure>
 
-Large static platforms that serve as staging areas for construction, industry, and military operations. The most famous static platform is the [Azure Plateau](../sol/key-locations/azure-plateau.md).
+Large static platforms that serve as staging areas for construction, industry, and military operations. While more down-to-Earth industrial platforms are a common sight across Greater Atla, the most famous static platform is perhaps the most exceptional; the [Azure Plateau](../sol/key-locations/azure-plateau.md) located at the edge of Low-Earth Orbit.
 
 ***
 
@@ -126,7 +180,7 @@ Large static platforms that serve as staging areas for construction, industry, a
 
 <figure><img src="../../.gitbook/assets/yield.png" alt="" width="563"><figcaption><p>A static tanker carrying System Yield above a district shipyard.</p></figcaption></figure>
 
-Large static vehicles used for large scale shipping. Tankers are used widely by enterprise for district-to-district shipping and are used by GATA to transport [System Yield](../gata/politics/yield.md).
+Remarkably large static vehicles used for enterprise-scale transport. Tankers are used widely by government and enterprise for district-to-district shipping, and are employed by The System to transport [System Yield](../gata/politics/yield.md).
 
 ***
 
@@ -134,4 +188,33 @@ Large static vehicles used for large scale shipping. Tankers are used widely by 
 
 <figure><img src="../../.gitbook/assets/greateratla-9542 (1).png" alt="" width="563"><figcaption><p>Static skyliners traversing the skies above Greater Atla.</p></figcaption></figure>
 
-Large luxury static ships used for travel and leisure. Skyliners are a popular form of travel between districts, or to remote [luxury homesteads](../gata/politics/homesteads.md#luxury-homesteads) found across Greater Atla.
+Luxury static vessels used for travel and leisure. Popular among affluent travelers seeking scenic inter-district routes or remote hideaways.
+
+### Industrial and passive applications
+
+<figure><img src="../../.gitbook/assets/grabbers-8787.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Beyond vehicles, statics also drive complementary technologies:
+
+* **Grabbers:** Specialized clamp-like devices for securing and moving cargo with precise control.
+* **Containment Fields for Breathable Atmospheres:** Vital for off-world habitats and deep-space platforms.
+* **Inertial Dampening Fields:** Used for frame operators’ cradles and other high-impact tasks.
+* **Artificial Gravity:** Showcased in sports arenas like “Gravita,” enabling participants to compete in variable gravity conditions.
+
+***
+
+## Cultural and Historical Significance
+
+Originally developed through Joint Atlantic Command research in the Dark Decade, static technology advanced rapidly during The Reconstruction. It is now integral to daily infrastructure across Greater Atla and allied states. Statics fuels entire sporting subcultures (e.g., the high-adrenaline darts scene) and has shaped new socioeconomic enterprises, from massive cargo shipping to high-end tourism.
+
+Because static nodes rely on stable quantum entanglement in real-world conditions, they provide practical evidence supporting the Many-Worlds interpretation. Each node effectively prunes a single branch from a near-infinite wavefunction, making alternative realities an everyday reality—albeit in a carefully managed form. As such, statics has become both a transformative technology and a philosophical milestone, confirming multi-branch reality through direct application.
+
+Overall, static field technology merges quantum-scale physics with large-scale engineering, offering versatile gravitational manipulation that is both delicate and tremendously powerful. This synergy—coalescing addressing pins, controlled folding, and robust field generation—continues to expand humanity’s horizons in the CODA Universe, enabling robust infrastructure, trans-medium travel, and deeper cosmic exploration while reshaping cultural, industrial, and scientific landscapes alike.
+
+
+
+
+
+
+
+Static vehicles come in a wide range of shapes and sizes, tailored to their intended use. Their maneuverability and carrying capacity requirements determine the number and size of static engines employed, and static vehicles can be used in trans-medium travel, functional in air, water, and space, which further informs their forms and features.
