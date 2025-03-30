@@ -11,6 +11,7 @@
   * [📖 Overview](world/introduction/overview.md)
   * [📄 About](world/introduction/about.md)
   * [💭 Themes](world/introduction/themes.md)
+  * [💭 Style Guide](world/introduction/style-guide.md)
 * [🕣 History](world/history/README.md)
   * [The Basics](world/history/the-basics.md)
   * [Timeline of Key Events](world/history/timeline-of-key-events.md)
