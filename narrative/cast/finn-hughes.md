@@ -14,7 +14,7 @@ layout:
 
 # 👤 Finn Hughes
 
-<figure><img src="../../.gitbook/assets/finn-small.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/artbreeder-portraits_sg2-2025-04-20T07_28_24.357Z.jpeg" alt="" width="320"><figcaption></figcaption></figure>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>Identity</h3><p>Age: 55 (Deceased)</p><p>Occupation: Rapid Response Operative</p><p>First Impression: Calm under pressure</p><p>Self-Image: Protector of the innocent</p><p>True Self: Burdened hero<br></p></td></tr><tr><td><h3>Background</h3><p>Birthdate: March 3, 2060</p><p>Location: Watchtower 01, GATA</p><p>Citizenship: GATA</p><p>Ethnicity: American</p><p>Born: Louisiana Refugee Camp, GATA</p></td></tr></tbody></table>
 
@@ -33,13 +33,15 @@ layout:
 
 ***
 
-<figure><img src="../../.gitbook/assets/finn-splash.png" alt="" width="563"><figcaption><p>Finn preparing to deploy from an Angelis hangar in a Watchtower.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/finn-feat-02.png" alt="" width="563"><figcaption><p>Finn preparing to deploy from an Angelis hangar in a Watchtower.</p></figcaption></figure>
 
 ## **Bio**
 
 Finn's early life was difficult. Orphaned at a young age, he grew up in a refugee camp in Louisiana, part of Atla's early efforts to restore order across continental America. His natural leadership and conflict resolution skills caught the attention of Atlan military recruiters. Excelling in sports and academics, he was soon transferred to a military training camp, where his genetic compatibility with the Research Corp's secretive super-soldier UDA program was discovered.
 
 Finn's performance in the program was exceptional, and he underwent years of exhaustive hand-to-hand, weapons, and tactical training. Despite being offered a position in the prestigious Maverick program, he instead chose to join the Rapid Response team, valuing the opportunity to help others in crises over the combat-focused Maverick role. His decision was influenced by his long-held belief in the innate goodness of people.
+
+<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runroaWQQY9K1k_httpss.mj.runFhL4fFbncUc__d5fdf177-90ff-486e-99c4-00cb53d7f564_1.png" alt="" width="375"><figcaption><p>A young Finn, founding member of Rapid Response.</p></figcaption></figure>
 
 Finn's many deployment to crisis zones and natural disasters made him a legendary figure within Rapid Response. His remarkable ability to remain calm under pressure and lead rescue operations earned him the respect and admiration of his peers. The UDA program's Clear therapy slowed his body's aging, allowing him to operate for several decades, and causing him to appear perpetually 20 years old.
 
@@ -55,7 +57,7 @@ He was posthumously awarded the White Flower Medal, the highest honor in GATA fo
 
 ***
 
-<figure><img src="../../.gitbook/assets/rapidresponse-343.png" alt="" width="563"><figcaption><p>Finn considering his next move in an active crisis zone.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/finn_feat-01.png" alt="" width="563"><figcaption><p>Finn considering his next move in an active crisis zone.</p></figcaption></figure>
 
 ## Motivations
 
