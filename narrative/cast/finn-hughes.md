@@ -41,7 +41,7 @@ Finn's early life was difficult. Orphaned at a young age, he grew up in a refuge
 
 Finn's performance in the program was exceptional, and he underwent years of exhaustive hand-to-hand, weapons, and tactical training. Despite being offered a position in the prestigious Maverick program, he instead chose to join the Rapid Response team, valuing the opportunity to help others in crises over the combat-focused Maverick role. His decision was influenced by his long-held belief in the innate goodness of people.
 
-<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runroaWQQY9K1k_httpss.mj.runFhL4fFbncUc__d5fdf177-90ff-486e-99c4-00cb53d7f564_1.png" alt="" width="375"><figcaption><p>A young Finn, founding member of Rapid Response.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nomoney420_httpss.mj.runroaWQQY9K1k_httpss.mj.runFhL4fFbncUc__d5fdf177-90ff-486e-99c4-00cb53d7f564_1.png" alt="" width="563"><figcaption><p>A young Finn, founding member of Rapid Response.</p></figcaption></figure>
 
 Finn's many deployment to crisis zones and natural disasters made him a legendary figure within Rapid Response. His remarkable ability to remain calm under pressure and lead rescue operations earned him the respect and admiration of his peers. The UDA program's Clear therapy slowed his body's aging, allowing him to operate for several decades, and causing him to appear perpetually 20 years old.
 
@@ -50,6 +50,8 @@ As a Rapid Response operative, Finn’s loyalty to GATA was unwavering, yet he m
 His missions often brought him into contact with sovereigns from the Free Territories, where he gained respect for their resilience despite standing in opposition to many sovereigns on the field.
 
 In time, Finn took on a mentorship role for younger Rapid Response recruits, sharing his extensive experience and wisdom while guiding them through their own struggles and challenges, and working to bring out the best in his teammates. However, he remained known for his self-assured, decisive, no-nonsense attitude in the field, which some less familiar with him sometimes mistook for arrogance.
+
+<figure><img src="../../.gitbook/assets/nomoney420_long_shot_photo_of_a_caucasian_male_in_a_slim_body_f9b1ef73-98f0-4407-9433-26d09b381546_3.png" alt="" width="563"><figcaption><p>Face to face with an old friend.</p></figcaption></figure>
 
 Tragically, Finn's life ended in 2115 during the Bright Mesa terrorist attack, where he heroically confronted and defeated the terrorist known as the Butcher of Bright Mesa. His sacrifice doubtlessly saved countless lives, cementing his legacy as the greatest Rapid Response operative in history.
 
