@@ -24,7 +24,7 @@ layout:
 * **Weight:** 195 lbs
 * **Hair Color:** Brown
 * **Hair Style:** Short, military cut
-* **Eye Color:** Blue
+* **Eye Color:** Hazel
 * **Skin Type:** Fair
 * **Face Shape:** Square
 * **Body Type:** Athletic, muscular
