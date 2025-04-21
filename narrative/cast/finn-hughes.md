@@ -23,7 +23,7 @@ layout:
 * **Height:** 6'2"
 * **Weight:** 195 lbs
 * **Hair Color:** Brown
-* **Hair Style:** Short, military cut
+* **Hair Style:** Shaggy, unkempt
 * **Eye Color:** Hazel
 * **Skin Type:** Fair
 * **Face Shape:** Square
