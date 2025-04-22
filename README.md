@@ -90,7 +90,7 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 {% embed url="https://chat.openai.com/g/g-mYyVyw7YT-coda-silent-melody-gm" %}
 
-<div><figure><img src=".gitbook/assets/coda_story_newfuture-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/coda_story_inner-frontier-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/coda_story_first-responder-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/coda_story_life-on-the-ground.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/coda_story_newfuture-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/coda_story_inner-frontier-cover-0.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/coda_story_first-responder-cover-0 (1).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/coda_story_life-on-the-ground.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ***
 
