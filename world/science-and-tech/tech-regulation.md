@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Within GATA, technology is heavily regulated, including legacy tech from the [Old World](../history/the-old-world.md). Illegal technology is scrutinized particularly closely inside of GATA's walled districts.
+Within GATA, technology is heavily regulated by two of its formative legislative documents; the NEw Dawn Accords, and the Whole Privacy Act. Authorities investigate, pursue, and prosecute the use of illegal technology, including legacy tech from the [Old World](../history/the-old-world.md), within and without the borders of Greater Atla, and technology is scrutinized particularly closely inside the walls of GATA's districts.
 
 This heavy-handed regulation of technology is foundational to GATA's vision for a safe and prosperous human future, a bid to never again repeat the tragedies of the Dark Decade. By restraining and constraining the development of novel tech, GATA intends to mitigate sudden and catastrophic failures at both the immediate and existential scope.
 
@@ -61,3 +61,13 @@ Technology that is unidentified or yet un-classified for whatever reason. Referr
 Generally these items turn out to be 21st century equipment relating to industry. It's not unheard of for scavengers to sell these items to criminal syndicates and other private buyers.
 
 The AIC and the NDA prescribe that unclassified tech is to be handled as if it may be Class 1 until proven otherwise, however local law enforcement are significantly less likely to recognize that they are even looking at unclassified tech than an inspector working for Collections.
+
+***
+
+## Privacy
+
+Under the WPA, the right of an individual to be protected from invasive recording and processing of their personal data is guaranteed by law, and infringing use of technology is classified as a "red" offense. This right is protected due to the corrosive effect of surveillance and subliminal manipulation that had been so destructive to the social and political fabric of the Old World prior to The Crash.
+
+While cameras, microphones, and other sensors are not expressly forbidden in the NDA, the transmission, sharing, and processing of identifying information of citizens without their consent infringes on the WPA.
+
+"Wipers" are a common fixture in district public infrastructure and on private property, which destroy the sensors of most digital cameras and recording devices, and disrupt audio signals with destructive interference.
