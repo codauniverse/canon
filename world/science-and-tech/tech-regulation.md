@@ -18,7 +18,7 @@ layout:
 
 ## Overview
 
-Within GATA, technology is heavily regulated by two of its formative legislative documents; the NEw Dawn Accords, and the Whole Privacy Act. Authorities investigate, pursue, and prosecute the use of illegal technology, including legacy tech from the [Old World](../history/the-old-world.md), within and without the borders of Greater Atla, and technology is scrutinized particularly closely inside the walls of GATA's districts.
+Within GATA, technology is heavily regulated by two of its formative legislative documents; the New Dawn Accords, and the Whole Privacy Act. Authorities investigate, pursue, and prosecute the use of illegal technology, including legacy tech from the [Old World](../history/the-old-world.md), within and without the borders of Greater Atla, and technology is scrutinized particularly closely inside the walls of GATA's districts.
 
 This heavy-handed regulation of technology is foundational to GATA's vision for a safe and prosperous human future, a bid to never again repeat the tragedies of the Dark Decade. By restraining and constraining the development of novel tech, GATA intends to mitigate sudden and catastrophic failures at both the immediate and existential scope.
 
