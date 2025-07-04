@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Recreational Drugs
 
 ## Common Street Drugs
@@ -24,15 +10,19 @@ The popular designer street drug, an extremely powerful empathogen designed for 
 
 ### Exproxin
 
-The drug from which [Touch](recreational-drugs.md#touch) and [Mentle](recreational-drugs.md#mentle) are derived.
+The System-approved pharmaceutical drug from which the street drugs [Touch](recreational-drugs.md#touch) and [Mentle](recreational-drugs.md#mentle) are derived. Exproxin is a broad-spectrum drug that was originally developed for Angelis' space-based personnel aboard Watchtowers.
+
+Authentic [GATA](../)-made [Exproxin](recreational-drugs.md#exproxin) is calibrated to the user to deliver a 6+ hour effect that can be rapidly neutralized by consuming carbohydrates.&#x20;
+
+Over the years, low-dose Exproxin has become much more common across appropriately paradigmed districts where it is prescribed to promote presence, focus, and well-being.
 
 ***
 
 ### **Mentle**
 
-A drug temporarily simulating extreme autism. Users can perform extremely complex calculations and transformations in their mind and operate demanding, multivariate systems. While under the effects of mentle, calculation and ordering can become extremely pleasurable activities.
+A black market drug that temporarily induces a subjective state similar to extreme autism. Users can perform extremely complex calculations and transformations in their mind and operate demanding, multivariate systems. While under the effects of mentle, calculation and ordering can become extremely pleasurable activities.
 
-Authentic [GATA](../)-made [Exproxin](recreational-drugs.md#exproxin) is calibrated to the user to deliver a 6 hour effect that can be rapidly neutralized by consuming carbohydrates. Street mentle can vary widely in potency. An excessive dose combined with in can cause permanent brain damage or death.
+Street mentle can vary widely in potency. Overdose can cause permanent brain damage and cardiac arrest.
 
 ***
 
