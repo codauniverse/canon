@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Tech Regulation
 
 <figure><img src="../../.gitbook/assets/techregulation-48354.png" alt=""><figcaption><p>Collections officers retrieving Class 1 technology on a static raft.</p></figcaption></figure>
@@ -32,7 +18,7 @@ Unsurprisingly, this restrictive atmosphere has created a lucrative black market
 
 <figure><img src="../../.gitbook/assets/collections-9535.png" alt="" width="563"><figcaption><p>Collections field analysts inspecting an unlicensed legacy compute rack.</p></figcaption></figure>
 
-In GATA, technology is generally classified into three different categories that signify the potential danger they pose and their prescribed handling by authorities.
+In GATA, technology is generally classified into three different categories that signify the potential danger they pose and their prescribed handling by authorities. Colloquially, these are referred to simply as "red", "blue", and "green or gray".
 
 ### Class 1 - Red
 
@@ -42,13 +28,13 @@ Not only are the functional components illegal, but also the designs and instrum
 
 Class 1 offenses fall under into the domain of AIC's rigorous court system. Collections must be alerted whenever Class 1 technology is involved. In some cases, restricted Class 1 tech can be licensed to enterprise for study under very stringent conditions. The AIC's courts are responsible for granting or denying these licenses.
 
-### Class 2 - Gray
+### Class 2 - Green/Gray
 
-Class 2 tech, aka "gray tech", is technology that is exclusively permitted within specified paradigms. This technology is not legal to possess or operate outside of those districts' walls, and attempts to smuggle Class 2 tech are severely punished.
+Class 2, or "paradigmed" technology is exclusively permitted within specific paradigms, and is not legal to possess or operate outside of the paradigmed space without valid keys. If a technology is permitted in a paradigm, it's considered "green". If a paradigmed technology is located outside of its paradigm, it's considered "gray".
 
-Possession of legacy software is a class 2 offense, and is generally held to imply an intent to sell or exploit said software, necessitating the use of legacy hardware.
+Possession of un-paradigmed technology is a Class 2 offense. These cases are left up to the local governments to adjudicate, with offending tech submitted to Collections, and detailed reports served to the AIC. Failure to enforce these laws negatively impacts a district's standing and System yield.
 
-Possession of any un-paradigmed technology may be a Class 2 offense. These cases are left up to the local governments to adjudicate, with offending tech submitted to Collections, and detailed reports served to the AIC. Failure to enforce these laws negatively impacts a district's standing and System yield.
+Possession of legacy software and any hardware where it is stored is a class 2 offense, and is generally held to imply an intent to sell or exploit. Authorities encourage citizens to turn in any unknown or Old World technology to their nearest AIC Collections Desk.
 
 ### Class 3 - Blue
 
