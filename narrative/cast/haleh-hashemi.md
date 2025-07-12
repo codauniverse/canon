@@ -33,7 +33,7 @@ She was placed in the East Garden, a community-run campus for orphaned children 
 
 While she was in Istanbul, there was heavy Aryabat industrial presence due to ongoing Reconstruction efforts, and she was surrounded by conduits using a state of the art technology called links to control massive machines with their mind. After showing an interest, the woman who cared for her encouraged Haleh to join in on a link workshop session for students.
 
-Her aptitude with the link was immediately apparent. Because the district of Istanbul didn’t have links in their paradigm, Haleh was recommended for transfer to the Garden in the Greater Toronto district, where links were recently paradigmed. After six years in Istanbul, 8 year-old Haleh was relocated across the world, and away from the only family she had known.
+Her aptitude with the link was immediately apparent. Because the district of Istanbul didn’t have links in their paradigm, Haleh was recommended for transfer to the West Garden in the Greater Toronto district, where links were recently paradigmed. After six years in Istanbul, 8 year-old Haleh was relocated across the world, and away from the only family she had known.
 
 She had a lonely childhood in Greater Toronto, having difficulty relating to the other children. She enjoyed playing alone in the Manna fields and dancing to music in the square, but she struggled making friends. She did, however, enjoy music class, taking naturally to the piano.
 
@@ -43,19 +43,19 @@ She developed an insatiable passion for collecting refurbished Old World music g
 
 At the age of 14 she was making quite beautiful music of her own, inspired heavily by the electronic synth sounds of the early and mid 2000s. She loving granular synths, walls of noise and harmonics, and the way the color and shape of each sound moved around and through each other. She bought a simple module for her synth so that she could use a link to directly modulate her music.
 
-While living and attending school in the Garden, she had enjoyed taking on extra shifts as a Gardener, walking the fields at night listening to music. She enjoyed the time alone, but she also put the extra dispensation to use, paying for her scavenged treasures.
+While living and attending school in the Garden, she had enjoyed taking on extra shifts as a Gardener, walking the fields at night listening to music. She enjoyed the time alone, but she also put the extra allowance to use, buying new scavenged treasures. She would daydream about travelling the world like musicians from the Old World.
 
-Shortly after she graduated from the Garden school she decided to stay on at the Garden, applying for the position of Junior Conduit, where her practical interview stunned the Senior Conduit interviewing her, impressed by her intuitive link use and how quickly she learned new interfaces.
+Before graduating from the Garden school she had already decided to stay on at the Garden, applying for the position of Junior Conduit. At her practical interview she stunned the Senior Conduit interviewing her, impressed by her intuitive link use and how quickly she learned new interfaces.
 
-She spent many days connected with the field, learning how to sense what the flowers need, the waves in the wind, the heat of the sun, the spreading of disease. Between her days at the Garden, her evenings in the markets, and her nights exploring the music scene, she was content.
+She spent many days connected with the field, learning how to sense what the flowers need, the waves in the wind, the heat of the sun, the spreading of disease. Between her days at the Garden, her evenings in the markets, and her nights exploring the music scene, she was content. After a few years, at the age of 21, she was promoted to Senior Conduit.
 
-It was at this time that sync raves were emerging, and after her first sync, she was changed. She had to turn to her scavenger connections to find someone who could supply her with a black market sync hub. After some difficulty, she acquired a hub and spent months getting familiar with it, developing a setup that would work for live performance.
+It was at this time that sync raves were emerging, and after her first sync, she was changed. She turned to her scavenger connections to find a source for a black market sync hub. After some difficulty, she acquired a hub and spent months getting familiar with it, developing a setup that would work for live performance. She gave little care to just how illegal what she was doing was, as if it were a law against touch.
 
-She took the stage name SOULJOURNER. Her first show was a massive sensation. Her next show was even bigger. It wasn't long before the shows caught the attention of Greater Toronto district's local authority who began cracking down on sync raves, pushing them further into the shadows and the Gray Zones.
+She performed under the name SOULJOURNER. Her first show was a massive sensation. Her next show was even bigger. Her childhood habit of swaying and dancing while she plays was a signature element of her hypnotic stage presence. It wasn't long before the crowds caught the attention of Greater Toronto district's local authority who began cracking down on sync raves, pushing them further into the shadows and the Gray Zones.
 
-Since then, she’s become a sensation in the district's underground sync scene. A syncjockey known for her unmatched ability to sense and guide ‘the vibe’. Her childhood habit of dancing while she plays has evolved into a signature element of her hypnotic stage presence.
+Since then, she’s become a sensation in the district's underground sync scene. A syncjockey known for her unmatched ability to sense and guide ‘the vibe’. Her performances are increasingly rare, often months apart, requiring some secrecy and precaution so as not to alert the authorities.
 
-Find her hunting antique music gear or tinkering with her latest find at her work table, wall-flowering at a live show or rave, planning and practicing for her next performance, or tending to the Manna flowers in Greater Toronto's West End Garden.
+Find her hunting antique music gear or tinkering with her latest find at her work table, wall-flowering at a live show or rave, planning and practicing for her next performance, or operating the Manna fields in Greater Toronto's West Garden.
 
 ***
 
