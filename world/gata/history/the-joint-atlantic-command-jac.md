@@ -26,7 +26,7 @@ In addition to on-the-ground missions, special research groups set to work to as
 
 <figure><img src="../../../.gitbook/assets/nomoney420_flotilla_of_civillian_naval_ships_and_smaller_vessel_b6511f5d-21ac-4003-bb21-4c585286f74b.png" alt="" width="563"><figcaption><p>The JAC with a growing accumulation of commercial and civilian vessels.</p></figcaption></figure>
 
-Slowly, and trepidatiously over subsequent months and years, the flotilla grew into a sizeable patchwork fleet that included other surviving non-NATO military, research, and civilian vessels. A technological breakthrough enabled the creation of autonomous wave stabilizers that oscillate in formation to redirect surface ocean waves around the flotilla.
+Slowly, and trepidatiously over subsequent months and years, the flotilla grew into a sizeable patchwork fleet that included other surviving non-NATO military, research, and civilian vessels. A technological breakthrough enabled the creation of autonomous wave stabilizers that oscillate in formation to help disrupt and redirect surface ocean waves around the flotilla.
 
 By 2056, the JAC had become a quite sizeable presence in the Atlantic ocean, and its denizens had already taken to calling their home "Atla", a nod to the lost city of Atlantis.
 
