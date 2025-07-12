@@ -6,6 +6,8 @@
 
 The System-approved pharmaceutical drug from which the street drugs [Touch](recreational-drugs.md#touch) and [Mentle](recreational-drugs.md#mentle) are derived. Exproxin is a broad-spectrum drug that was originally developed for Angelis' space-based personnel aboard Watchtowers.
 
+Angelis has been transitioning from the more traditional dilators, preferring the administering of Exproxin for operatives. Despite this, dilator use remains prevalent among many in the field, and is sometimes used in conjunction with very low doses of Exproxin. Incorrectly mixing dilators with Exproxin can cause dysregulation of body temperature, migraines, and even stroke.
+
 Authentic [GATA](../)-made [Exproxin](recreational-drugs.md#exproxin) is calibrated to the user to deliver a 6+ hour effect that can be rapidly neutralized by consuming carbohydrates.&#x20;
 
 Over the years, low-dose Exproxin has become much more common across appropriately paradigmed districts where it is prescribed to promote presence, focus, and well-being.
