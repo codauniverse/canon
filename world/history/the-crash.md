@@ -1,24 +1,12 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Crash
 
 <figure><img src="../../.gitbook/assets/crash-8345.png" alt=""><figcaption><p>A chaotic scene in a city shortly after power and communications went out.</p></figcaption></figure>
 
 ## Overview
 
-The onset of the [Dark Decade](the-dark-decade.md) is called "The Crash", sometimes also referred to somberly as “Sunset” in [GATA](../gata/); the moment the light of the [Old World](the-old-world.md) slipped beneath the horizon.
+August 26th, 11:30PM UTC.
+
+The moment the [Dark Decade](the-dark-decade.md) began, sometimes also referred to somberly as “Sunset” in [GATA](../gata/); when the light of the [Old World](the-old-world.md) slipped beneath the horizon.
 
 When the lights went out, and communications failed, people in all corners of the world were plunged into darkness. From the chambers of power, to the corridors of hospitals, and the streets of every population center, the circumstances for all were immediately dire. Contingencies were activated, and some VIPs were even successfully extracted to secure locations despite the unprecedented event.
 
