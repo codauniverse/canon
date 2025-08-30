@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # COGs
 
 <figure><img src="../../.gitbook/assets/cogs-98342jh.png" alt=""><figcaption><p>A volumetric display in a control room for a large COG facility.</p></figcaption></figure>
@@ -37,6 +23,8 @@ COGs have no capacity for internal memory, however they can be designed to read 
 Cogs all function using the same fundamental principles of cognitive architecture (Observation, Planning, Selection, Execution).
 
 Illegal cogs that incorporate non-deterministic cognition are not unheard of, however [the AIC](../gata/institutions/atlan-information-control-aic.md) and [Collections](../gata/law-and-order/collections.md) quickly and decisively crack down on these installations, even outside of Greater Atla's territory with the assistance of [Angelis](../gata/military-and-defense/angelis.md).
+
+Over long-term use, or when under heavy load for extended periods, the [hard-code](hard-code.md) circuit lattice of the modules accumulate wear, which is known in COG science as "trauma". Traumatized circuits don't run as efficiently, leading to recursion and other timing issues in the system, which can cause a progressive cascade of dysfunction across the COG's hard-coded system.
 
 ***
 

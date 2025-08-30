@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Hard Code
 
 <figure><img src="../../.gitbook/assets/nomoney420_close_up_insert_shot_of_small_interlocking_and_int_f1d52ece-29de-4f35-a36f-041d1eca9199_2.png" alt=""><figcaption><p>A close-up of a LMNL program with interlocking hard code modules. </p></figcaption></figure>
@@ -23,6 +9,8 @@ Hard code modules are made of "physical functions"; logical circuits defined by 
 Hard-coded systems are impervious to corruption because their functions are physically encoded in the shape and structure of its computational components, meaning they cannot be re-written remotely or compelled to perform functions that they were not designed with the capacity to perform.
 
 By their nature, hard-coded systems are much larger than their general-purpose precursors. This is because each logical function must be physically represented by a computational structure that performs only that function, and all information moving through the system must pass through relatively many redundant filter modules that are themselves written in hard code.
+
+Over long-term use, or when under heavy load for extended periods, the hard-code circuit lattice will accumulate wear, which can diminish a system or module's efficiency and effectiveness, and can even result in failure.
 
 Today, the most common programming language for writing hard code is [LMNL](hard-code.md#lmnl), an open-source framework widely adopted around the world.
 
