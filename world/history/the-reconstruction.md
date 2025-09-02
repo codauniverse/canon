@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Reconstruction
 
 <figure><img src="../../.gitbook/assets/reconstruction.png" alt=""><figcaption></figcaption></figure>

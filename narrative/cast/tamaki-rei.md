@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 Tamaki Rei
 
 <figure><img src="../../.gitbook/assets/f6f7e812bc545e8c0115b8b8dc6f.jpeg" alt="" width="256"><figcaption></figcaption></figure>

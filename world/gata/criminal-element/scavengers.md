@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Scavengers
 
 <figure><img src="../../../.gitbook/assets/scavengers-833.png" alt=""><figcaption><p>A crew of scavengers venturing deep into a hostile Old World ruin.</p></figcaption></figure>

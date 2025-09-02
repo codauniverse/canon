@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Local Authority
 
 <figure><img src="../../../.gitbook/assets/authority.png" alt=""><figcaption><p>A Local Authority division headquarters.</p></figcaption></figure>

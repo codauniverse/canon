@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Erebos Mushroom
 
 <figure><img src="../../.gitbook/assets/erebosmushroom-442.png" alt=""><figcaption><p>Erebos Mushrooms growing near an animal's remains.</p></figcaption></figure>

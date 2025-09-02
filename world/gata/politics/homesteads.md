@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Homesteads
 
 <figure><img src="../../../.gitbook/assets/7.png" alt=""><figcaption><p>Various homesteads dotting the landscape beyond district walls.</p></figcaption></figure>

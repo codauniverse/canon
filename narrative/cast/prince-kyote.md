@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 Prince Kyote
 
 <figure><img src="../../.gitbook/assets/prince-hfskjf.jpeg" alt="" width="256"><figcaption></figcaption></figure>

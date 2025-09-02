@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Quantum Seeds
 
 <figure><img src="../../.gitbook/assets/quantumseeds-563.png" alt=""><figcaption><p>A set of entangled quantum seeds.</p></figcaption></figure>

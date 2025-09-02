@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Pockets
 
 <figure><img src="../../.gitbook/assets/pockets-943.png" alt=""><figcaption><p>An activated pocket ring hooked up to a power supply.</p></figcaption></figure>

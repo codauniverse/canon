@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Parallel Energy
 
 <figure><img src="../../.gitbook/assets/parallelenergy-563.png" alt=""><figcaption><p>A parallel reactor with a single cell powering a massive industrial machine.</p></figcaption></figure>

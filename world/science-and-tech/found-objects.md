@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Found Objects
 
 <figure><img src="../../.gitbook/assets/foundobjects.png" alt=""><figcaption><p>A Found Object in a containment module, deep in the vaults of ALTAR</p></figcaption></figure>

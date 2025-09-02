@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Automata
 
 <figure><img src="../../.gitbook/assets/anthros-677.png" alt=""><figcaption><p>An unskinned anthro designed to look, move and feel like a human.</p></figcaption></figure>

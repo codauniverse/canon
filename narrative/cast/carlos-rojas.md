@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 Carlos Rojas
 
 <figure><img src="../../.gitbook/assets/carlos-rojas.jpeg" alt="" width="256"><figcaption></figcaption></figure>

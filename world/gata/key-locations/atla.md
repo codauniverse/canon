@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Atla
 
 <figure><img src="../../../.gitbook/assets/atla-3553 (1).png" alt=""><figcaption><p>A view of Atla's floating skyline.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Children of Atla
 
 <figure><img src="../../../.gitbook/assets/childrenofgata-877.png" alt=""><figcaption><p>A group of orphaned children in a dilapidated street at the edge of a city.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Luna
 
 <figure><img src="../../../.gitbook/assets/luna.png" alt=""><figcaption><p>A vista looking out over one of Luna's spaceports.</p></figcaption></figure>

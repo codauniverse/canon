@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Statics
 
 <figure><img src="../../.gitbook/assets/world3.png" alt=""><figcaption><p>A static ship docked on the water while static tankers maneuver in the sky above.</p></figcaption></figure>

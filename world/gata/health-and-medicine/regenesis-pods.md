@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Regenesis Pods
 
 <figure><img src="../../../.gitbook/assets/regenesispod-304.png" alt=""><figcaption><p>A Regenesis pod in a medical clinic.</p></figcaption></figure>

@@ -1,24 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 📄 About
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/coda_deck_artboards-3.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/coda_deck_artboards-3.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## 🔵 The CODA Universe
 
@@ -56,15 +38,7 @@ Project CODA members also govern the CODA Creation Fund, a community treasury fo
 
 ## Inception
 
-<div>
-
-<figure><img src="../../.gitbook/assets/social_choose-your-own-adventure.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/social_canon.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/social_choose-your-own-adventure.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/social_canon.jpg" alt=""><figcaption></figcaption></figure></div>
 
 The CODA Universe was conceived by dxxmsdxy in December, 2020.
 
@@ -78,15 +52,7 @@ The CODA Universe has been created over the course of the emergence of generativ
 
 ## World & Themes
 
-<div>
-
-<figure><img src="../../.gitbook/assets/social_100-years-from-now.jpg" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/social_clouds-01.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/social_100-years-from-now.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/social_clouds-01.jpg" alt=""><figcaption></figcaption></figure></div>
 
 > _**100 years from now...**_
 >

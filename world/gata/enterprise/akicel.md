@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # AKICEL
 
 <figure><img src="../../../.gitbook/assets/akicel.png" alt=""><figcaption><p>A patient in one of AKICEL's many medical facilities around the world.</p></figcaption></figure>

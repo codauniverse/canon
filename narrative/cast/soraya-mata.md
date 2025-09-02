@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 Soraya Mata
 
 <figure><img src="../../.gitbook/assets/mom.jpeg" alt="" width="256"><figcaption></figcaption></figure>

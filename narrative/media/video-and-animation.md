@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📽️ Video & Animation
 
 ## Bright Day - CODA Stories - Ep 0 (Proof-of-Concept)

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 Sasha Cache
 
 <figure><img src="../../.gitbook/assets/sasha-dp.jpeg" alt="" width="256"><figcaption></figcaption></figure>

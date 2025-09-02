@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Eidetics
 
 <figure><img src="../../../.gitbook/assets/eidetics.png" alt=""><figcaption><p>An eidetic proselytizing to a crowd of people.</p></figcaption></figure>

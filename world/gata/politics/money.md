@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Money
 
 <figure><img src="../../../.gitbook/assets/slip-3667.png" alt=""><figcaption><p>A credit transaction being set up on a slip.</p></figcaption></figure>

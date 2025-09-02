@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 🌀 Saga
 
 <figure><img src="../.gitbook/assets/CODA_character-feats-20-small.jpg" alt=""><figcaption><p>A few of the CODA Saga's central canon characters.</p></figcaption></figure>

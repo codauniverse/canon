@@ -50,7 +50,7 @@
   * [Renewable Energy](world/science-and-tech/renewable-energy.md)
   * [Parallel Energy](world/science-and-tech/parallel-energy.md)
   * [Gravity Batteries](world/science-and-tech/gravity-batteries.md)
-  * [Advanced Textiles](world/science-and-tech/advanced-textiles.md)
+  * [Materials & Textiles](world/science-and-tech/materials-and-textiles.md)
   * [Quantum Seeds](world/science-and-tech/quantum-seeds.md)
   * [The Astral](world/science-and-tech/the-astral.md)
   * [Pockets](world/science-and-tech/pockets.md)

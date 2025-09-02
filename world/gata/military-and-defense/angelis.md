@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Angelis
 
 <figure><img src="../../../.gitbook/assets/angelis-853.png" alt=""><figcaption><p>A battalion of Angelis infantry forces.</p></figcaption></figure>

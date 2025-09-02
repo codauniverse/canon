@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📘 Silent Melody
 
 <figure><img src="../../.gitbook/assets/coda_story_silentmelody-cover-0 (1).jpg" alt="" width="375"><figcaption></figcaption></figure>

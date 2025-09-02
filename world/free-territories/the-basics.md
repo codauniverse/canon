@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 🔵 The Basics
 
 <figure><img src="../../.gitbook/assets/free-territories-03243.png" alt=""><figcaption><p>A smal Sovereign outpost in the North of the Texan Empire.</p></figcaption></figure>

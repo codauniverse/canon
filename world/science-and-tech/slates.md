@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Slates
 
 <figure><img src="../../.gitbook/assets/slates-98wk3.png" alt=""><figcaption><p>A slate on a desk displaying an opaque document</p></figcaption></figure>

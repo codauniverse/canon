@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Daemon Virus
 
 <figure><img src="../../.gitbook/assets/daemon.png" alt=""><figcaption><p>A computer system infected with the Daemon Virus, aka BODYSNATCHER.</p></figcaption></figure>

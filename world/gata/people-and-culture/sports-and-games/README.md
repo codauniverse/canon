@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Sports & Games
 
 <figure><img src="../../../../.gitbook/assets/sports-733.png" alt=""><figcaption><p>Children playing soccer in a field in the outskirts of a recovering city.</p></figcaption></figure>
@@ -64,7 +50,7 @@ This diversity of dart board form factors has made it suitable for a wide range 
 
 <div><figure><img src="../../../../.gitbook/assets/neurochess.png" alt="" width="563"><figcaption><p>A player explaining neurochess.</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/neurochess-787.png" alt="" width="563"><figcaption><p>A player contemplates their move.</p></figcaption></figure></div>
 
-Neurochess is a cerebral sport that evolves traditional chess-like play with [link use](../../../science-and-tech/links.md). Players connect to the neurochess board, allowing them to visualize and manipulate the chessboard with their minds. The game can be played on a holographic game board or inside of a [virtual construct](../../../science-and-tech/constructs.md#virtual-constructs).&#x20;
+Neurochess is a cerebral sport that evolves traditional chess-like play with [link use](../../../science-and-tech/links.md). Players connect to the neurochess board, allowing them to visualize and manipulate the chessboard with their minds. The game can be played on a holographic game board or inside of a [virtual construct](../../../science-and-tech/constructs.md#virtual-constructs).
 
 The game adapts signature chess mechanics and expands the field of play into a three-dimensional cube grid, making it far more complex than traditional chess. Strategies are extremely nuanced, and require very strong visual-spatial intelligence. Naturally, [psychotech](../../../science-and-tech/psychotech.md) is not permitted during play.
 

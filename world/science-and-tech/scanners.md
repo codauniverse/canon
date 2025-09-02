@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Scanners
 
 <figure><img src="../../.gitbook/assets/scanners-845.png" alt=""><figcaption><p>A handheld scanner.</p></figcaption></figure>

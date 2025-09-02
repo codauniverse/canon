@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 💭 Style Guide
 
 <figure><img src="../../.gitbook/assets/oceanofpotential.png" alt=""><figcaption></figcaption></figure>

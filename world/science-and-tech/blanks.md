@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Blanks
 
 <figure><img src="../../.gitbook/assets/blanks-344.png" alt=""><figcaption><p>A room of identical blanks in an AKICEL cloning facility.</p></figcaption></figure>

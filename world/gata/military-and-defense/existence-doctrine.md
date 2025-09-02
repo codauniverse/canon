@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Existence Doctrine
 
 <figure><img src="../../../.gitbook/assets/existencedoctrine-453.png" alt=""><figcaption><p>One of GATA's top secret facilities used to develop and manufacture protected technologies during the Reconstruction.</p></figcaption></figure>

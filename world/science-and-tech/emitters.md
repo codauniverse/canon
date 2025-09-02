@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Emitters
 
 <figure><img src="../../.gitbook/assets/emitters-534.png" alt=""><figcaption><p>A spatial emitter on a desk being used for scientific visualization.</p></figcaption></figure>

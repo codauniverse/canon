@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Frames
 
 ## Overview
@@ -46,19 +32,7 @@ Some frames' form factors are more familiar, with two arms and two legs, while o
 
 Ultimately, the frame's chassis is tailored to its intended function, and elite frame pilots are often equipped with frames that are designed to their personal specifications.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/frame-333.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/frame-959.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/frame-4646.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/frame-333.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/frame-959.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/frame-4646.png" alt=""><figcaption></figcaption></figure></div>
 
 Passive [statics](statics.md) built into their extremities are intended to prevent their massive, ambulatory bodies from significantly damaging or deforming the ground beneath them when they land and walk in the course of their normal operation.
 

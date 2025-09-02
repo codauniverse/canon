@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 🔵 The Basics
 
 <figure><img src="../../.gitbook/assets/sol-sf8g8.png" alt=""><figcaption><p>A Sol habitat in orbit above the Earth.</p></figcaption></figure>

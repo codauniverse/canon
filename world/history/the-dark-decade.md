@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Dark Decade
 
 <figure><img src="../../.gitbook/assets/darkdecade.png" alt=""><figcaption><p>A makeshift refugee camp during the Dark Decade.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Gate Patrol
 
 <figure><img src="../../../.gitbook/assets/gatepatrol-536.png" alt=""><figcaption><p>Gate Patrol agents retrieving smuggled goods in Greater Atla.</p></figcaption></figure>

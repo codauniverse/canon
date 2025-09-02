@@ -1,20 +1,18 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
+# Materials & Textiles
 
-# Advanced Textiles
+### **Materials**
 
-### **Nanoweave**
+NDA-compliant **f**abricators produced by private enterprise have been widely paradigmed across Greater Atla's districts.&#x20;
+
+The cultural affinity for hand-fabrication and the mechanical talents cultivated under Atla's stewardship during the Dark Decade and Early Reconstruction seeded a deep and diverse market for designer metamaterials, complex heteropolymers, and composites, as well as their fabrication specifications, or "specs"--the precise script and manifest for a fabrication job.
+
+Of course, makers need more than just the spec and its materials, they also need the requisite keys for the spec, and the spec itself must first be registered and ultimately approved by the AIC for System-compatible fabricators in order to function.
+
+***
+
+### Textiles
+
+**Nanoweave**
 
 Nanoscale structures that allow the fabrics to breathe while blocking all electromagnetic sensors. Commonly used for bag and pocket lining, undergarments, and the lining of many higher-end articles of clothes. Much more common with the younger generations and the criminal element, who tend to carry more tech and contraband.
 

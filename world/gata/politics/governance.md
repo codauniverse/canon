@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Governance
 
 <figure><img src="../../../.gitbook/assets/quorums.png" alt=""><figcaption><p>A politician making an appeal in the Second Quorum.</p></figcaption></figure>

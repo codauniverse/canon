@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Psychotech
 
 <figure><img src="../../.gitbook/assets/psychotech.png" alt=""><figcaption><p>A small psychotech module that can be plugged into compatible link interfaces or sync hubs.</p></figcaption></figure>

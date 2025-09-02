@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Fusion Energy
 
 <figure><img src="../../.gitbook/assets/fusionenergy.png" alt=""><figcaption><p>An industrial fusion cell in operation.</p></figcaption></figure>

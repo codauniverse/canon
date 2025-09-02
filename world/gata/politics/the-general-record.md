@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The General Record
 
 <figure><img src="../../../.gitbook/assets/generalrecord-553.png" alt=""><figcaption><p>A secure facility housing a physical copy of GATA's General Record.</p></figcaption></figure>

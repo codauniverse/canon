@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Guarda
 
 <figure><img src="../../../../.gitbook/assets/guarda-53.png" alt=""><figcaption><p>A player carefully considering their next move.</p></figcaption></figure>

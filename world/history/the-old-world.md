@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Old World
 
 <figure><img src="../../.gitbook/assets/oldworld-4335.png" alt=""><figcaption><p>Quadcopter taxis over an Old World city in the mid-21st century.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Guardians
 
 <figure><img src="../../../.gitbook/assets/guardians.png" alt=""><figcaption><p>A Guardian pilot and her war frame.</p></figcaption></figure>

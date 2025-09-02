@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Operators
 
 <figure><img src="../../../.gitbook/assets/operators.png" alt=""><figcaption><p>A crew of operators getting ready for a big job.</p></figcaption></figure>

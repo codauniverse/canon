@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Walled Garden
 
 <figure><img src="../../../.gitbook/assets/walled-garden.jpg" alt=""><figcaption><p>A prisoner wandering the Walled Garden.</p></figcaption></figure>

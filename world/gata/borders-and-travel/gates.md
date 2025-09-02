@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Gates
 
 <figure><img src="../../../.gitbook/assets/gate-7433.png" alt=""><figcaption><p>A gate where travelers wait to pass through into the district's interior.</p></figcaption></figure>

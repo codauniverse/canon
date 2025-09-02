@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Districts
 
 <figure><img src="../../../.gitbook/assets/districts.png" alt=""><figcaption><p>A System Node facility in the heart of a district.</p></figcaption></figure>

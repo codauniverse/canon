@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Ministry of the Future
 
 <figure><img src="../../../.gitbook/assets/ministryofthefuture-444.png" alt=""><figcaption><p>Ministers in heated debate over new forecasts at a Ministry assembly in Atla.</p></figcaption></figure>

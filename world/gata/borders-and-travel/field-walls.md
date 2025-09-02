@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Field Walls
 
 <figure><img src="../../../.gitbook/assets/fieldwalls.png" alt=""><figcaption><p>A district's field wall stretching into the distance.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Church of the Sky
 
 <figure><img src="../../../.gitbook/assets/churchofthesky-345.png" alt=""><figcaption><p>A house of worship belonging to the Church of the Sky.</p></figcaption></figure>

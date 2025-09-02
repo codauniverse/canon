@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 Morning Cloud
 
 <figure><img src="../../.gitbook/assets/morning-portrait.jpeg" alt="" width="256"><figcaption></figcaption></figure>

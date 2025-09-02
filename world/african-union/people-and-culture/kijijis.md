@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Kijijis
 
 <figure><img src="../../../.gitbook/assets/au1.webp" alt="" width="563"><figcaption></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Grabbers
 
 <figure><img src="../../.gitbook/assets/grabbers.png" alt=""><figcaption><p>A grabber gauntlet.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 📖 Overview
 
 <figure><img src="../../.gitbook/assets/mannaflower-0sg983.png" alt=""><figcaption></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Sentinels
 
 <figure><img src="../../../.gitbook/assets/sentinels.png" alt=""><figcaption><p>Static sentinels defending the district field walls from incursions.</p></figcaption></figure>

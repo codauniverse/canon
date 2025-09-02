@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The System
 
 <figure><img src="../../../.gitbook/assets/system.png" alt=""><figcaption><p>A control room inside of a System Node.</p></figcaption></figure>

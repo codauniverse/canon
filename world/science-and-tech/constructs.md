@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Constructs
 
 <figure><img src="../../.gitbook/assets/constructs-353.png" alt=""><figcaption><p>A virtual construct running on a hard-coded system.</p></figcaption></figure>

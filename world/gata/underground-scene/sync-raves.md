@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Sync Raves
 
 <figure><img src="../../../.gitbook/assets/syncraves.png" alt=""><figcaption><p>Ravers in the throws of a sync.</p></figcaption></figure>

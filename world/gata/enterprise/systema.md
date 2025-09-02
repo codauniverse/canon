@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Systema
 
 <figure><img src="../../../.gitbook/assets/systema.png" alt=""><figcaption><p>Technicians working in a Systema facility.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 🔵 The Basics
 
 <figure><img src="../../.gitbook/assets/newimperialjapan-038sfg8.png" alt=""><figcaption><p>A ground crew servicing an Imperial Stinger.</p></figcaption></figure>

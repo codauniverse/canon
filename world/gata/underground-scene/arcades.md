@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Arcades
 
 <figure><img src="../../../.gitbook/assets/arcade1 (2).png" alt=""><figcaption><p>The central pavilion of a bustling arcade.</p></figcaption></figure>

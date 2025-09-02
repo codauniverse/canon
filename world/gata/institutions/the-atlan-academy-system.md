@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Atlan Academies
 
 <figure><img src="../../../.gitbook/assets/atlanacademy.png" alt=""><figcaption><p>A bustling campus at one of GATA's Atlan Academies.</p></figcaption></figure>

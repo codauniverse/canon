@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Greater Toronto
 
 <figure><img src="../../../../.gitbook/assets/greatertoronto-589.png" alt=""><figcaption><p>A view of Greater Toronto's famed forest city.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # ALTAR
 
 <figure><img src="../../../.gitbook/assets/altar-563.png" alt=""><figcaption><p>A stark hallway in the upper levels of ALTAR's deep sea facility.</p></figcaption></figure>

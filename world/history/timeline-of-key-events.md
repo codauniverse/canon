@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Timeline of Key Events
 
 ### 🔵 [The Crash](the-crash.md) (August 26th, 2052) <a href="#ldtsa1tv6jnr" id="ldtsa1tv6jnr"></a>

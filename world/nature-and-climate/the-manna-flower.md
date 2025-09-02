@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Manna Flower
 
 <figure><img src="../../.gitbook/assets/mannaflower-353.png" alt=""><figcaption><p>A field of blossoming White Manna flowers.</p></figcaption></figure>
@@ -24,15 +10,7 @@ Designed to develop through [three stages of maturity](the-manna-flower.md#devel
 
 The Manna flower's significance extended beyond its medicinal attributes. As Atla's first real political emblem, it played a symbolic role in uniting survivors. New ships wishing to join the growing Atlan flotilla would fly a white flag as a sign of peace. Once accepted, these ships were given a Manna flower as a symbol of unity and were invited to adorn their flags with a blue depiction of the flower.
 
-<div>
-
-<figure><img src="../../.gitbook/assets/ATLA-flag.png" alt="" width="375"><figcaption><p>Atla's flag.</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/GATA-flag (1).png" alt="" width="375"><figcaption><p>GATA's flag.</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/ATLA-flag.png" alt="" width="375"><figcaption><p>Atla's flag.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/GATA-flag (1).png" alt="" width="375"><figcaption><p>GATA's flag.</p></figcaption></figure></div>
 
 This tradition of the blue Manna flower on a white backdrop persists and has become the enduring flag of Atla. Of note, GATA’s first flag featured the reverse - a white Manna flower on a blue field, before the more abstracted redesign that seen today.
 

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Astral
 
 <figure><img src="../../.gitbook/assets/astral.png" alt=""><figcaption><p>A stunning view within the Astral, with the famed Crystal Tower looming in the distance.</p></figcaption></figure>
@@ -26,19 +12,7 @@ Sleepers and others usually learn about the Astral and gain access to their secr
 
 ***
 
-<div>
-
-<figure><img src="../../.gitbook/assets/astral-78439.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/astral-4533.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/astral-74943.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../../.gitbook/assets/astral-78439.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/astral-4533.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/astral-74943.png" alt=""><figcaption></figcaption></figure></div>
 
 ## The Astral Experience
 

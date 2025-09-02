@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Collections
 
 <figure><img src="../../../.gitbook/assets/collections-sfg87.png" alt=""><figcaption><p>Collections agents on a static raft confiscating illegal contraband.</p></figcaption></figure>

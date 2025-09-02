@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # New Dawn Accords
 
 <figure><img src="../../../.gitbook/assets/newdawnaccords.png" alt=""><figcaption><p>The New Dawn Accords being signed by a local government.</p></figcaption></figure>

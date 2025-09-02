@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Yield
 
 <figure><img src="../../../.gitbook/assets/yield.png" alt=""><figcaption><p>Massive static tankers deliver System Yield to a district gateyard.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 🔵 The Basics
 
 <figure><img src="../../.gitbook/assets/GATAflag-89lsf.png" alt=""><figcaption><p>The GATA flag flying over a System Node.</p></figcaption></figure>

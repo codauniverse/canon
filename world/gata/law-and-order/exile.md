@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Exile
 
 One of the most severe punishments in GATA. Local governments have the authority to exile citizens, revoking their Gate keys, making the district inaccessible to them. This does not revoke their citizenship keys, but it does effectively render the exiled individual displaced.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Greenwork
 
 <figure><img src="../../../.gitbook/assets/greenwork-535.png" alt=""><figcaption><p>Greenwork scrawled on the side of an abandoned facility.</p></figcaption></figure>

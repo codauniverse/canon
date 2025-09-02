@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # New York City
 
 <figure><img src="../../../.gitbook/assets/newyork-3453.png" alt=""><figcaption><p>Collections and NYC's local authority launching an extensive tech-recovery operation.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Gardens
 
 <figure><img src="../../../.gitbook/assets/gardens.png" alt=""><figcaption><p>A district garden where Manna flowers are cultivated and orphaned children are housed.</p></figcaption></figure>

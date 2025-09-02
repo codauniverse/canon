@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # New Dawn Declaration
 
 <figure><img src="../../../.gitbook/assets/new-dawn-declaration.png" alt=""><figcaption><p>A copy of the New Dawn Declaration circulated on the JAC flotilla just before Atla's founding.</p></figcaption></figure>

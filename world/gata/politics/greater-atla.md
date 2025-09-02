@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Greater Atla
 
 <figure><img src="../../../.gitbook/assets/greateratla-9542 (1).png" alt=""><figcaption><p>A static skyliner traversing the skies over a homestead in Greater Atla.</p></figcaption></figure>

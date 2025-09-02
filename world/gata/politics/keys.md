@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Keys
 
 <figure><img src="../../../.gitbook/assets/keys-sfs78gf.png" alt=""><figcaption><p>A terminal requiring appropriate keys for access.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Akicel Therapy
 
 <figure><img src="../../../.gitbook/assets/akiceltherapy.png" alt=""><figcaption><p>A patient waking from their Akicel rejuvenation treatment.</p></figcaption></figure>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Sleepers
 
 <figure><img src="../../../.gitbook/assets/sleepers-984.png" alt=""><figcaption><p>A sleeper wearing a custom "full-dive" link interface.</p></figcaption></figure>

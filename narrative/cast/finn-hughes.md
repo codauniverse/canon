@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 Finn Hughes
 
 <figure><img src="../../.gitbook/assets/artbreeder-portraits_sg2-2025-04-20T07_28_24.357Z.jpeg" alt="" width="320"><figcaption></figcaption></figure>

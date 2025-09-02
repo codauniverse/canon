@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Steps
 
 <figure><img src="../../../../.gitbook/assets/thesteps-53.png" alt=""><figcaption><p>The Steps rising from Lake Ontario off the shore of Greater Toronto.</p></figcaption></figure>

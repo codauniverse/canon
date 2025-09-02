@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Gravity Batteries
 
 <figure><img src="../../.gitbook/assets/gravitybatteries-209.png" alt=""><figcaption><p>Gravity battery cranes designed to lift heavy weights rising from a quarry.</p></figcaption></figure>

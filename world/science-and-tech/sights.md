@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Sights
 
 <figure><img src="../../.gitbook/assets/sights-9834.png" alt=""><figcaption><p>Close up of an active sight lens on a wearer's eye.</p></figcaption></figure>

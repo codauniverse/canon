@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Bright Mesa
 
 <figure><img src="../../../.gitbook/assets/8.png" alt=""><figcaption><p>A view of Bright Mesa, Nevada from a nearby ridge.</p></figcaption></figure>

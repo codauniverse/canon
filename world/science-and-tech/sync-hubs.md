@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Sync Hubs
 
 <figure><img src="../../.gitbook/assets/nomoney420_block_shaped_future_holographic_digital_media_casset_2b86bfe6-7d7a-4003-a8c4-613c9d080d8a.png" alt=""><figcaption><p>A modified sync hub in a fabricated shell.</p></figcaption></figure>

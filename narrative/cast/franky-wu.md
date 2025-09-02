@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 Franky Wu
 
 <figure><img src="../../.gitbook/assets/franky-9233f.jpeg" alt="" width="256"><figcaption></figcaption></figure>

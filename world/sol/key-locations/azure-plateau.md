@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Azure Plateau
 
 <figure><img src="../../../.gitbook/assets/azureplateau.png" alt=""><figcaption><p>A crowd of tourists Earth gazing from the Azure Plateau.</p></figcaption></figure>

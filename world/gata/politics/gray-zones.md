@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Gray Zones
 
 <figure><img src="../../../.gitbook/assets/greyzone.png" alt=""><figcaption><p>A Gray Zone outside of a district's walls.</p></figcaption></figure>

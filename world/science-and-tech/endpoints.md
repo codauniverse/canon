@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Endpoints
 
 <figure><img src="../../.gitbook/assets/endpoints-982jfs.png" alt=""><figcaption><p>An industrial endpoint currently not in use.</p></figcaption></figure>

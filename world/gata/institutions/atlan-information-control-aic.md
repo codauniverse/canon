@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Atlan Information Control (AIC)
 
 <figure><img src="../../../.gitbook/assets/aic2.png" alt=""><figcaption><p>An empty lower court in the AIC Headquarters in Atla.</p></figcaption></figure>

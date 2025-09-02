@@ -1,24 +1,6 @@
----
-layout:
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # 🔵 Opening Crawl
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/coda_cover.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/coda_cover.png" alt=""><figcaption></figcaption></figure></div>
 
 ## 2125: The youth are restless\_
 
@@ -48,8 +30,4 @@ A _NEW FUTURE_ is already leaking in...
 [..](../../)
 {% endcontent-ref %}
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure></div>

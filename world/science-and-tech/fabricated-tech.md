@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Fabricated Tech
 
 <figure><img src="../../.gitbook/assets/fab.png" alt=""><figcaption><p>A small fabricated device purpose-built by its user.</p></figcaption></figure>

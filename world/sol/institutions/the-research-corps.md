@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # The Research Corps
 
 <figure><img src="../../../.gitbook/assets/helios-1.png" alt=""><figcaption><p>A Research Corps field team attending to an emergency.</p></figcaption></figure>
