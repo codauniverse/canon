@@ -6,17 +6,25 @@
 
 Fabricated tech refers to the recycling of existing [LMNL](hard-code.md#lmnl) modules, electronics, mechanical components, and other raw materials in the creation of new custom modules and devices. Fabricated tech is made by hand or using [fabricators](fabricated-tech.md#fabricators).
 
-Fabricated tech is extremely convenient due to its size (legacy components are smaller than their LMNL counterparts), customizability, and reusability. Fabricated tech makes it easy break down and recompile the technology that you need as you need it, reusing the same electronic and LMNL components.
+Fabricated tech is extremely convenient due to its size (legacy components are smaller than their LMNL counterparts), customizability, and reusability. Fabrication is all about building, breaking down, or recompiling the technology that you need as you need it, reusing the same components and materials. As the practice has matured, standard practices and widely accessible, commoditized specs have promoted interoperability and modularity across a wide range of fabrications.
 
-Fabrication labs, or "fab labs", can be found throughout much of the world, making fabricators and common components available to customers for a price. High-end fab labs have higher-grade fabricators, stock rarer components, and may even staff highly skilled technicians who can hand-fabricate more exotic, bespoke tech.
+Fabricators can be found across Greater Atla and throughout much of the world, making fabrication and common components available to customers—for a price, of course. High-end or black-market "fab labs" generally have higher-grade fabricators, stock rarer components, and may even staff highly skilled compilers who can hand-compile more exotic, bespoke tech, unconstrained by hard-code frameworks like LMNL.
 
-People skilled in fabrication are called "makers", those who provide simple consumer fabrication services are called "printers", people who write the scripts for computational components made of hard code using a compilation language are called "coders", while those who hand-compute from raw hard code are called "compilers", and people who are specialized in installing, repairing, or replacing modules and larger systems are called "techs" (a common occupation for [operators](../gata/enterprise/operators.md) across Greater Atla).
-
-On the market, some components can get quite expensive, such as [legacy components](tech-regulation.md), [COGs](cogs.md), and components made with exotic materials, like [static nodes](statics.md#static-nodes).
+On the market, some components can get quite expensive, such as [legacy components](tech-regulation.md), [COGs](cogs.md), hand-compiled hard-code, and components made with exotic materials, like [static nodes](statics.md#static-nodes).
 
 <div><figure><img src="../../.gitbook/assets/nomoney420_future_clear_plastic_synth_keyboard_future_electroni_8c6b226c-9306-48ec-9d8d-7663eab2c934.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nomoney420_future_high_end_subwoofer_made_of_clear_plastic_futu_56759661-bad5-4fdf-8597-a6ca434ddace.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_15881898-26a3-4b6c-95cb-fb35b0de981d.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/nomoney420_future_media_cartridge_clear_plastic_future_electron_94a03c4d-394f-4bb5-b6c2-4a82143324ef.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
+
+## **The Craft and its Practitioners**
+
+Designing the specification for a fabricated product (whether a system, module, component, or a simple print) is called "speccing", particularly when concerning macro-scale architectures, and generally with regards to simpler fabs.
+
+Skilled makers who write spec scripts for computational components are called "coders". The term coder is also a broader term encapsulating anyone who works with code, from coders who write "iso" scripts (self-contained, or "isolated", code that can be stored on re-writable data sticks), to code-brained researchers who obsess over theory, exotic physical functions, ontology design, high-level architecture, and so on.
+
+Designing computational [hard-code](hard-code.md) components for fabrication is called "coding". The "compilation" (fabrication) of hard code script requires the corresponding compiler. These days, most coders use [LMNL](hard-code.md#lmnl) when writing so its compiler is ubiquitous, however older or more specialized specs coded using obscure frameworks do exist, often making them highly-sought after, extremely difficult to compile, or both. Those rare few coders who can hand-compile raw hard code are referred to within the practice as "compilers", and they grow fewer in number as the impact of the Reconstruction fades with each new generation.
+
+The term fabricator can refer to an individual or more generally to any service provider, such as an enterprise, and typically isn't a precise enough term in practice. Individuals or enterprises who provide simple consumer fabrication services are often referred to as "printers" (or simply "fabricators"). Individuals skilled in custom fabrication are called "makers". Laborers trained in installing, servicing, or replacing modules and larger systems are called "techs" (a common occupation for [operators](../gata/enterprise/operators.md) across Greater Atla).
 
 ## **Fabricators**
 
