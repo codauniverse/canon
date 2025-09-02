@@ -16,6 +16,16 @@ Today, the most common programming language for writing hard code is [LMNL](hard
 
 ***
 
+## The Regulation of Hard Code
+
+In order to comply with GATA's regulations, all novel hard code that is sold, exploited commercially, or otherwise used outside of licensed research, must be registered with the AIC for a provisional prototyping key. This key is a temporary license provided to both identify the unique code, as well as to provide it with sandboxed System access for compatibility testing). After a variable grace period, all provisional hard code that isn't designed to be compiled by an NDA-certified compiler must pass a "Blue" (and, if applicable, "Green") paradigm review by an AIC-appointed auditor.
+
+Enterprise often pays to expedite their paradigm review process, which can at times result in backlogs for coders and enterprise without as much capital, and this backlog can swell due to market dynamics driving competitive flashpoints, or an increased volume of novel code submissions following significant changes to large paradigms.
+
+Because LMNL is Asimov-complete out of the box, LMNL-based components and modules do not require can be safely reviewed autonomously upon connection to the System mainnet, and single-filter specs can be approved nearly instantly.
+
+***
+
 ## Raw Hard Code
 
 <figure><img src="../../.gitbook/assets/rawcode.png" alt="" width="563"><figcaption><p>An extremely compact system built with raw hard code.</p></figcaption></figure>
@@ -26,7 +36,7 @@ Prior to the popularization of LMNL, all hard-coded systems were built in this w
 
 Most significantly, raw hard code allows the coder to funnel all data through a single filter module, rather than having many redundant filter modules distributed throughout the system, resulting in a dramatically more compact module or program.
 
-However, using raw hard code comes at a cost; it is not Asimov-complete by default, unlike frameworks like LMNL, making it much more risky and expensive to build and maintain. Due to these dangers, raw hard code is only allowed to be produced and maintained by licensed enterprises and operators.
+However, using raw hard code comes at a cost; it is not Asimov-complete by default, unlike Asimovian frameworks like LMNL, making raw code much riskier from a security and compliance standpoint, and more expensive to build and maintain. Due to these challenges, raw hard code is only legally allowed to be produced and serviced in GATA by licensed enterprises and operators.
 
 ***
 
