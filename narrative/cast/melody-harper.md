@@ -31,11 +31,15 @@ Despite her physical limitations, Melody had a loving upbringing and excelled ac
 
 With the help of her mother, Melody acquired the newly paradigmed empatherapy machine using her disability assistance keys. Demonstrating her ingenuity and determination, she secretly jailbroke the unit herself, learning just enough LMNL to get the job done. Within a week of obtaining the template from an unknown source, she had a functioning astral node.
 
-In short order Melody became one of the earliest power users of the Astral, finally freed to experience the many sensations of life that had eluded her, and many more beyond the imagination of the waking world. She spent significant time orienting new astral travelers and helping them navigate the ever-transforming expanse. Her most notable creation was the Crystal Tower, a beacon that to this day guides lost travelers and serves as a popular meeting point. The Tower remains one of the astral's most iconic constructs.
+In short order Melody became one of the earliest power users of the Astral, finally freed to experience the many sensations of life that had eluded her, and many more beyond the imagination of the waking world. She spent significant time orienting new astral travelers and helping them navigate the ever-transforming expanse.
 
-It was only a matter of time before her disease reached her brainstem. Melody succumbed to complications from her condition, and the impact of her loss was deeply felt across the Astral community. A funeral was held in the astral in her honor, attended by many friends and followers.
+She made many close friends in the Astral, including a researcher studying the unprecedented technology, subsequently revealed to be on contract from the AIC, and with whom she later became romantically involved.
 
-Some claim to still see her in the astral on occasion, a spectral figure on the balcony of the Crystal Tower, but whenever they investigate, she is nowhere to be found.
+Her most notable creation in the Astral was the Crystal Tower, a beacon that to this day guides lost travelers and serves as a popular meeting point. The Tower remains one of the Astral's most iconic constructs.
+
+It was only a matter of time before the disease reached her brainstem. Melody succumbed to complications from her condition, and the impact of her loss was deeply felt across the Astral community. A funeral was held in the astral in her honor, attended by many friends and followers.
+
+Some claim to still see her in the Astral on occasion, a spectral figure on the balcony of the Crystal Tower, but whenever they investigate, she is nowhere to be found.
 
 ***
 
