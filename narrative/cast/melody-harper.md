@@ -84,6 +84,7 @@ Some claim to still see her in the Astral on occasion, a spectral figure on the 
 * Melody's mother was her sole caretaker and her biggest supporter.
 * The Astral gave her a sense of limitless potential she never knew in the physical world.
 * She felt like she was only her true self in the Astral.
+* She knows about her lover's continued research on the physical nature of the Astral and human consciousness, spending countless nights in the frontier of the Astral silently imagining its implications.
 
 ***
 
