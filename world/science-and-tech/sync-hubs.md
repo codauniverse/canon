@@ -12,7 +12,7 @@ Designed for [use by licensed empatherapists](sync-hubs.md#use-in-empatherapy). 
 
 <figure><img src="../../.gitbook/assets/synching-343.png" alt="" width="563"><figcaption><p>An empatherapist mediates a sync session between a comatose patient and a loved one.</p></figcaption></figure>
 
-Syncing connects two or more minds via a sync hub. Syncing is an essential aspect of empatherapy, as well as the foundation of [sync raves](../gata/underground-scene/sync-raves.md) and [the Astral](the-astral.md). If a synced party is [pushing](links.md#pushing), others who are synced can feel some of what they feel.
+Syncing connects two or more minds via a sync hub. Syncing is an essential aspect of empatherapy, as well as the foundation of [sync raves](../gata/underground-scene/sync-raves/) and [the Astral](the-astral.md). If a synced party is [pushing](links.md#pushing), others who are synced can feel some of what they feel.
 
 The effectiveness of syncing is highly variable depending on skill and mutual compatibility between parties. Private use of sync hubs is fringe, and known to be unsafe if done incorrectly. Recently, the youth counterculture has taken to modding sync hubs to bypass various restrictions, enabling new, unexplored forms of syncing.
 
@@ -42,7 +42,7 @@ In some districts, recreational syncing has become particularly widespread among
 
 #### Sync raves
 
-Modded sync hubs are used at [sync raves](../gata/underground-scene/sync-raves.md) where they’re extended with direct inputs for systems the conduit may be driving, custom filters, and sometimes up to hundreds of additional endpoint modules.
+Modded sync hubs are used at [sync raves](../gata/underground-scene/sync-raves/) where they’re extended with direct inputs for systems the conduit may be driving, custom filters, and sometimes up to hundreds of additional endpoint modules.
 
 #### The Astral
 

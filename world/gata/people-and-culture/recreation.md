@@ -10,7 +10,7 @@ The creation and consumption of music has also been heavily influenced by the in
 
 The unique affordances of modern music technology are on full display in many of GATA's great concert halls and amphitheaters, where sights and sounds are enhanced with precisely calibrated multi-sensory stimulation, including low and high frequency resonance used to influence the listeners state of mind, from altering their mood to reducing inhibitions.
 
-These techniques are taken to their extreme in the underground music scene at [sync raves](../underground-scene/sync-raves.md) where [sync jockeys](../underground-scene/sync-raves.md#sync-jockeys) project their mind to an entire crowd with the use of [links](../../science-and-tech/links.md) and illegally modified [sync hubs](../../science-and-tech/sync-hubs.md).
+These techniques are taken to their extreme in the underground music scene at [sync raves](../underground-scene/sync-raves/) where [sync jockeys](../underground-scene/sync-raves/#sync-jockeys) project their mind to an entire crowd with the use of [links](../../science-and-tech/links.md) and illegally modified [sync hubs](../../science-and-tech/sync-hubs.md).
 
 ***
 

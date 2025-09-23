@@ -78,7 +78,7 @@ The spread of Erebos mushroom through living hosts presents a biosecurity challe
 
 ## Modern Context
 
-The Erebos mushroom has quickly garnered attention both for its conceivable threat to public health, its therapeutic potential, and its emerging use as a recreational drug in GATA's underground scene. In controlled medical environments, it is being studied for its neurogenic and cognitive-enhancing properties. Meanwhile, in the [sync rave culture](../gata/underground-scene/sync-raves.md), its psychoactive effects are highly sought after for enhancing sensory experiences and inducing powerful, shared hallucinations.
+The Erebos mushroom has quickly garnered attention both for its conceivable threat to public health, its therapeutic potential, and its emerging use as a recreational drug in GATA's underground scene. In controlled medical environments, it is being studied for its neurogenic and cognitive-enhancing properties. Meanwhile, in the [sync rave culture](../gata/underground-scene/sync-raves/), its psychoactive effects are highly sought after for enhancing sensory experiences and inducing powerful, shared hallucinations.
 
 ***
 

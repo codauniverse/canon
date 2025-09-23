@@ -48,4 +48,4 @@ GATA is known to deploy [sentinels](../borders-and-travel/sentinels.md) to guard
 
 Scavengers are seen as both outlaws and pioneers, risking everything to reclaim lost fragments of human civilization's fading past. Their stories and discoveries inspire many, linking the past to the future.
 
-In the underground [sync rave scene](../underground-scene/sync-raves.md), scavenged musical equipment and media have become particularly popular in recent years, blending the old and new in a celebration of rebellion and creativity. These raves symbolize the youth's growing air of defiance against GATA's control and their yearning for a freedom and self-expression that they associate with that forgotten age.
+In the underground [sync rave scene](../underground-scene/sync-raves/), scavenged musical equipment and media have become particularly popular in recent years, blending the old and new in a celebration of rebellion and creativity. These raves symbolize the youth's growing air of defiance against GATA's control and their yearning for a freedom and self-expression that they associate with that forgotten age.

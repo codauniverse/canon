@@ -8,7 +8,7 @@ Popular destinations for people of all ages to meet and socialize. In addition t
 
 Arcades across [GATA](../) are restricted to “blue” tech–[legacy technology](../../science-and-tech/tech-regulation.md) that is deemed safe–as well as any other technology that is in-[paradigm](../politics/paradigms.md).
 
-In contrast, arcades located in [Gray Zones](../politics/gray-zones.md) and across the [Free Territories](../../free-territories/the-basics.md), offer a wider range of unfiltered entertainment, and are hubs for [sync raves](sync-raves.md), illegal drugs, sex trade, and illegal technology, from illicit [psychotech](../../science-and-tech/psychotech.md) to legacy weapons and other contraband.
+In contrast, arcades located in [Gray Zones](../politics/gray-zones.md) and across the [Free Territories](../../free-territories/the-basics.md), offer a wider range of unfiltered entertainment, and are hubs for [sync raves](sync-raves/), illegal drugs, sex trade, and illegal technology, from illicit [psychotech](../../science-and-tech/psychotech.md) to legacy weapons and other contraband.
 
 ***
 
@@ -44,4 +44,4 @@ They are hubs for black market trade, often housing bazaars teeming with booths 
 
 The vibe in these arcades can range significantly, from chaotic and vibrant, to derelict and foreboding. They attract a diverse crowd, from wannabe rebels and thrill-seekers, to [gangs](../criminal-element/gangs.md) and [smugglers](../criminal-element/smugglers.md) and [dark operators](../enterprise/operators.md#dark-operators), or simply some lost souls looking to treat themselves to a night to forget.
 
-Recently, Gray Zone arcades have become the go-to destination for [sync raves](sync-raves.md)—intense, immersive experiences guided by skilled [syncjockeys](sync-raves.md#sync-jockeys) where participants' minds are synchronized to create collective hallucinations. The modded [sync hubs](../../science-and-tech/sync-hubs.md) that are key to synchronizing the audience's [links](../../science-and-tech/links.md) are illegal across Greater Atla, making Gray Zone arcades the hot destination for those in the know.
+Recently, Gray Zone arcades have become the go-to destination for [sync raves](sync-raves/)—intense, immersive experiences guided by skilled [syncjockeys](sync-raves/#sync-jockeys) where participants' minds are synchronized to create collective hallucinations. The modded [sync hubs](../../science-and-tech/sync-hubs.md) that are key to synchronizing the audience's [links](../../science-and-tech/links.md) are illegal across Greater Atla, making Gray Zone arcades the hot destination for those in the know.
