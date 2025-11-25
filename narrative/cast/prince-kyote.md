@@ -164,4 +164,4 @@ Kyote (Father)
 
 ## Meta Self-Description
 
-I don't want people to know me. I don't want praise. I don't want friends. My life was forfeit to a higher purpose a long time ago. My parents were both important to The System, my father the folk legend, and my mother, the brilliant technologist. I grew up aspiring to one day live up to their achievements, but I learned at a young age, this world doesn't want to suffer the cost of creativity. But when my parents were murdered, I learned that _survival is suffering_.
+I don't want people to know me. I don't want praise. I don't want friends. My life was forfeit to a higher purpose a long time ago. I grew up in towering shadows; my father the folk legend, and my mother, the brilliant technologist. I grew up dreaming I might one day live up to their achievements, but I learned at a young age, this world doesn't want to suffer the cost of creativity. But when they were murdered... I learned that _survival is suffering_. So, the world will have to deal with it.
