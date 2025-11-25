@@ -36,7 +36,7 @@ After an argument with his father about moving to live with his mother, Prince s
 
 At the age of 15, Prince traveled with his father to meet his mother at his big Bright Mesa performance. The intention was that he would go home with his mother after the show. Tragically, there was a militant attack during the GATA-sponsored performance in Bright Mesa targeting Atlan dignitaries. His mother and father were killed. Prince was believed to have been killed in the attack.
 
-He turns up 10 years later, just ahead of the 10-year anniversary of the Bright Mesa attacks, with a mysterious piece of hardware he simply calls the Unit.
+He turns up 10 years later, just ahead of the 10-year anniversary of the Bright Mesa attacks, with a mysterious piece of hardware he simply calls ["The Unit"](../secrets/the-unit.md).
 
 ***
 
@@ -91,8 +91,8 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 ## Secrets
 
 * Where has he been for the past 10 years?
-* Has a secret plan involving "the Unit" and the underground sync rave scene.
-* Has a dependency on mentle from working on the Unit.
+* Has a secret plan involving[ "the Unit"](../secrets/the-unit.md) and the underground sync rave scene.
+* Has a dependency on [mentle](../../world/gata/underground-scene/recreational-drugs.md#mentle) from working on the Unit.
 * Stands to inherit his parents keys if he renews his citizenship key, revealing to the System that he is alive after being presumed dead for nearly a decade.
 * It is unknown how he gained entry to a district without renewing his citizenship key. Presumably, he used some other key to cross through the district gate.
 * Known by other names in other circles.
@@ -103,9 +103,9 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 ## Skills
 
-* Talented conduit with mastery of his link, especially with respect to breaking into secure systems.
+* Talented [conduit](../../world/science-and-tech/links.md#conduits) with mastery of his link, especially with respect to breaking into secure systems.
 * Exceptionally gifted coder and problem solver.
-* Skilled pilot of small and mid-size static ships, cycles, and boards.
+* Skilled pilot of small and mid-size [static ships, cycles, and boards](../../world/science-and-tech/statics.md#transport-and-vehicles).
 
 ***
 
@@ -115,7 +115,7 @@ He turns up 10 years later, just ahead of the 10-year anniversary of the Bright 
 
 Kyote (Father)
 
-Soraya Kyote-Mata (Mother)
+[Soraya Kyote-Mata](soraya-mata.md) (Mother)
 
 [Remi Maeda](remi-maeda.md) (Godfather)
 
@@ -164,4 +164,4 @@ Soraya Kyote-Mata (Mother)
 
 ## Meta Self-Description
 
-I don't want people to know me. I don't want praise. I don't want friends. My life was traded in for a purpose a long time ago. My parents were both important to The System, my father the folk legend, Kyote, and my mother, Soraya, a brilliant technologist. I grew up aspiring to be a great coder, but I learned at a young age, this world doesn't want to suffer the cost of creativity. When my parents died, I was stranded in the Free Territories and learned how to survive in a harsh reality. Got it?
+I don't want people to know me. I don't want praise. I don't want friends. My life was forfeit to a higher purpose a long time ago. My parents were both important to The System, my father the folk legend, and my mother, the brilliant technologist. I grew up aspiring to one day live up to their achievements, but I learned at a young age, this world doesn't want to suffer the cost of creativity. But when my parents were murdered, I learned that _survival is suffering_.
