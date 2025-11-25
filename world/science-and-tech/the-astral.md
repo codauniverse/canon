@@ -56,4 +56,4 @@ As with virtual constructs, extended periods spent in the astral run the risk of
 
 Unlike virtual residual, heavy astral users experiencing powerful residual effects have extremely high conviction that there is something real about the residual, even when not exhibiting symptoms of psychosis or manias, which typically accompany such claims with virtual residual.
 
-\
+<br>

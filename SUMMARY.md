@@ -249,6 +249,8 @@
   * [💬 Chat Bots](narrative/media/chat-bots.md)
   * [🎲 Tabletop](narrative/media/tabletop.md)
 * [🌀 Saga](narrative/saga.md)
+* [🧩 Secrets](narrative/secrets/README.md)
+  * [The Unit](narrative/secrets/the-unit.md)
 
 ## Project
 

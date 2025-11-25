@@ -81,16 +81,14 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    If the player has a guard, it does not counts toward their hand size.\
    \
-   If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they have 6 cards.\
-
+   If the player runs out of cards from their draw pile, they shuffle their discard pile and then draw until they have 6 cards.<br>
 2. **Move Phase:** During the Move phase, the player may choose to burn as many cards as they wish from their hand in order to move one space for each card burned.\
    \
    If the player is on a space adjacent to an opponent, they may burn cards from their hand to "push" their opponent, moving the opponent one space in the opposing direction for each card burned.\
    \
    They may only move/push in a straight line.\
    \
-   Cards burned to move/push are placed in their discard pile.\
-
+   Cards burned to move/push are placed in their discard pile.<br>
 3. **Act Phase:** During the Act phase the player may either (a) prepare their guard OR (b) attack the field.\
    \
    a) **Preparing a Guard**\
@@ -109,8 +107,7 @@ Each turn has the following phases; (1) Draw, (2) Move, (3) Act, and (4) Settle.
    \
    The attack will deal one damage to any and all opponents for each attacking card overlapping that opponent's position on the field.\
    \
-   Players who are under attack [may then react](guarda.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).\
-
+   Players who are under attack [may then react](guarda.md#reacting-to-attacks), in clockwise order, by blocking with cards in their hand, or activating their guard (if it is set).<br>
 4. **Settle Phase:** During the Settle phase, the player discards any cards that were played face up during their turn, and may discard as many additional cards from their hand as they wish (Note: discarded cards during the Settle phase do not grant movement).\
    \
    The player will draw replacement cards at the beginning of their next turn.

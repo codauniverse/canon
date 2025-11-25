@@ -37,4 +37,4 @@ A simple, lightweight, widely-available cog module that provides a natural langu
 VOX allows regular people to speak or type and interact with systems in relatively complex ways. VOX is one of the most commonly used interfaces for [System Terminals](../gata/politics/the-system.md#system-terminals).
 
 \
-\
+<br>

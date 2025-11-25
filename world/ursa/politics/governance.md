@@ -60,4 +60,4 @@ URSA maintains a delicate balance in international relations, particularly with 
 
 URSA believes it should have a more prominent role in global governance than is afforded by the strictures of GATA, and its governance and economy are threatened by the regulations of the New Dawn Accords, which they have not officially signed. URSA often finds itself performing self-imposed adherence to the Accords to forestall or evade sanction by GATA.
 
-\
+<br>

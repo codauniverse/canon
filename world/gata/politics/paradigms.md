@@ -30,4 +30,4 @@ Though uncommon, there have been instances of GATA tightening paradigms, especia
 
 These sanctions are determined by the AIC and carried out by [Systema](../enterprise/systema.md), who can remotely update a district’s [System Node(s)](the-system.md#system-nodes) from its [Lunar](../key-locations/luna.md) headquarters.
 
-\
+<br>

@@ -26,4 +26,4 @@ The grabbing effect on points and objects at a distance is subject to the invers
 
 In order to attract an object, the user has to push into the resistance. This repulsive sensation is actually something an experienced conduit can use as a form of locomotion, fall-breaking and even an offensive attack.
 
-The grabbing effect is also highly contingent on the power source being used, and can draw an extraordinary amount of power when under heavy loads. Wearable grabbers typically require some external power source in order to "grab" anything of significant mass.\
+The grabbing effect is also highly contingent on the power source being used, and can draw an extraordinary amount of power when under heavy loads. Wearable grabbers typically require some external power source in order to "grab" anything of significant mass.<br>
