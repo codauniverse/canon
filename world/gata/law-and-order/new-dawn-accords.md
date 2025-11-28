@@ -12,7 +12,7 @@ While in some ways the NDA and The System are permissive with how day-to-day lif
 
 Among the many regulations outlined in the New Dawn Accords, some are particularly consequential on everyday life in fully NDA-compliant jurisdictions like districts. For example:&#x20;
 
-* All technology must be "scrutible", meaning its components must be readily visible or accessible, and when scanned, must be recognized on the [General Record](../politics/the-general-record.md).
+* All technology must be "scrutable", meaning its components must be readily visible or accessible, and when scanned, must be recognized on the [General Record](../politics/the-general-record.md).
 * Dense population centers (such as districts) must have tightly enforced crossings (known as [Gates](../borders-and-travel/gates.md)).
 * Each district must adhere to their own [technological paradigms](../politics/paradigms.md) which determine the frequencies, materials and design patterns that are permitted within that district.&#x20;
 * The living standard of a district's citizens must be maintained at the cost of a district's surplus [Yield](../politics/yield.md), aligning incentives with private enterprise.
@@ -39,15 +39,15 @@ It was in these young districts where the System was tested and iterated. It was
 
 ***
 
-## The Morning Light Summit
+## The First Light Summit
 
-In 2073, after experiencing years of impressive development, GATA hosted the Morning Light Summit and extended its first invitations to the remaining super-states of the world to adopt The System and the [New Dawn Accords](new-dawn-accords.md).
+In 2073, after experiencing years of impressive development, GATA hosted the First Light Summit and extended its first invitations to the remaining super-states of the world to adopt The System and the [New Dawn Accords](new-dawn-accords.md).
 
 The NDA was designed to allow other states to share in the abundance and benefits that The System offered. However, the underlying message of the NDA was clear: make the choice to join now, or potentially lose the opportunity to choose later.
 
 ### Adoption of the New Dawn Accords
 
-The Morning Light Summits were marked by significant contention from [URSA](../../ursa/) and [New Imperial Japan](../../new-imperial-japan/). [Aryabat](../../aryabat/) expressed enthusiasm for adopting the accords fairly early.
+The First Light Summits were marked by significant contention from [URSA](../../ursa/) and [New Imperial Japan](../../new-imperial-japan/). [Aryabat](../../aryabat/) expressed enthusiasm for adopting the accords fairly early.
 
 [The African Union](../../african-union/)’s unique treaties signed with a formative Atla during the Dark Decade allowed it some leverage in the conditions of its signing, and [with some incident](../../african-union/history/the-broken-dawn-revolt.md) ultimately led to the development of its own version of The System that complies with the NDA, separate from the builds produced by Systema.
 

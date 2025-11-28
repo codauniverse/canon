@@ -4,13 +4,13 @@
 
 ## Overview
 
-[GATA](../) employs a unique form of governance that can be defined as "Cybernetic Democracy." This model was instituted in 2061 and spans across regions including North America, South America, Western Europe, and North Africa.
+[GATA](../) employs a unique form of governance that can be defined as "Cybernetic Democracy." This model was first trialed by [Atla](../key-locations/atla.md) in 2061 and formally ratified in 2062 with the [New Dawn Accords](../law-and-order/new-dawn-accords.md). Today this model governs all [districts](districts.md) of [Greater Atla](greater-atla.md), spanning regions that include North America, South America, Western Europe, and North Africa, and has been partially implemented across GATA's [partner states](../law-and-order/new-dawn-accords.md#signatories).
 
 The foundation of GATA's political and national apparatus is a highly sophisticated and secure automated logistical framework called "[The System](the-system.md)," which underpins not only the supply chain and economy but also the governance of GATA.
 
-GATA's governance is a sophisticated blend of automation and representative decision-making, structured into three distinct but interconnected Quorums. Each Quorum plays a unique and vital role in maintaining the balance and functionality of GATA's societal structure.
+This model is a sophisticated blend of automation and representative decision-making, structured into three distinct but interconnected bodies known as [the Three Quorums](governance.md#structure). Each Quorum plays a unique and vital role in maintaining the balance and functionality of GATA's societal structure.
 
-The System autonomously reacts to democratic inputs from the [Three Quorums](governance.md#leadership) as well as other signals across its network, and seamlessly enforces GATA regulations and policies.
+The System autonomously reacts to democratic inputs from the Three Quorums as well as other signals across its network, and seamlessly enforces GATA regulations and policies.
 
 ***
 
