@@ -58,8 +58,6 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 <div data-full-width="false"><figure><img src=".gitbook/assets/factory-HDRI-0gs90g8.jpeg" alt=""><figcaption><p>Equirectangular scene for "The Factory"</p></figcaption></figure></div>
 
-{% embed url="https://panoraven.com/en/embed/Y3fTqbctTd" %}
-
 ***
 
 ## Text-Based Games
