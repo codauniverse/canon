@@ -18,9 +18,9 @@ On the market, some components can get quite expensive, such as [legacy componen
 
 ## **The Craft and its Practitioners**
 
-Designing the specification for a fabricated product (whether a system, module, component, or a simple print) is called "speccing", particularly when concerning macro-scale architectures, and generally with regards to simpler fabs.
+Designing the specification for a fabricated product (gear, components, modules, solid prints) is called "speccing", particularly when concerning macro-scale architectures, and generally with regards to simpler fabs, as opposed to hardcode or advanced systems.
 
-Skilled makers who write spec scripts for computational components are called "coders". The term coder is also a broader term encapsulating anyone who works with code, from coders who write "iso" scripts (self-contained, or "isolated", code that can be stored on re-writable data sticks), to code-brained researchers who obsess over theory, exotic physical functions, ontology design, high-level architecture, and so on.
+Any skilled fabricator who writes spec scripts for complex fabrications requiring harcode skills are considered "coders". The term coder is a fairly broad term encapsulating anyone who works with hardcode, from an oldschool rawcoder who hand-compiles, to filter-savvy loop-monkeys who write "iso" scripts (self-contained, aka "isolated", software that run in a single max-regulation size compute module and can be stored on re-writable data sticks), to code-brained researchers who obsess over theory, exotic physical functions, or ontology design but have never compiled production hardware.
 
 Designing computational [hard-code](hard-code.md) components for fabrication is called "coding". The "compilation" (fabrication) of hard code script requires the corresponding compiler. These days, most coders use [LMNL](hard-code.md#lmnl) when writing so its compiler is ubiquitous, however older or more specialized specs coded using obscure frameworks do exist, often making them highly-sought after, extremely difficult to compile, or both. Those rare few coders who can hand-compile raw hard code are referred to within the practice as "compilers", and they grow fewer in number as the impact of the Reconstruction fades with each new generation.
 

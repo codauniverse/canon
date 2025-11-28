@@ -60,6 +60,8 @@ ALTAR has used the tick rate of this Object to inform its advisory role with the
 
 ### **Object X**
 
-No records exist for this object, however its existence can be inferred from the structure of several other Found Objects which seem to have a base or pedestal designed to hold it.
+<figure><img src="../../.gitbook/assets/objectx-387.png" alt="" width="563"><figcaption><p>A mysterious depression in a Found Object suggesting a missing component.</p></figcaption></figure>
 
-ALTAR researchers have speculated that it may represent a power source, storage unit, or processor, however this remains unknown.
+No records exist for this object, however its existence has been hypothesized by some [ALTAR](../gata/institutions/altar.md) researches based on the structure of several other Found Objects with similar shallow concave depressions that may represent a kind of interface for a removable component.
+
+Speculation as to Object X's function has ranged from a power source, information storage, or a processor of some sort, however this is not an active area of study.
