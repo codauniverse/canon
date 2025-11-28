@@ -17,7 +17,7 @@ layout:
 
 # The Unit
 
-<figure><img src="../../.gitbook/assets/unit-1222.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unit-1222.png" alt=""><figcaption><p>The Unit's box and the Infinity Core.</p></figcaption></figure>
 
 ## Overview
 
