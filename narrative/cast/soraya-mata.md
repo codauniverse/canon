@@ -42,9 +42,9 @@ At the age of 17, inspired in part by mycelial networks, she developed an early 
 
 Her talents caught the attention of ALTAR, a prestigious Atlan institution, in part thanks to an anonymous recommendation. She was invited to join ALTAR's INSIGHT program where she was grouped with Remi Tranche and Viten Marsh to study Found Objects, mysterious artifacts of unknown origin. After their secretive contracts concluded, the three friends founded Phasia, pioneering new approaches to securing and scaling various technologies. However, differing visions for the future of Phasia led to Soraya leaving the highly successful organization, and founding KYO Technologies in Greater Toronto.
 
-<figure><img src="../../.gitbook/assets/soraya_feature-282.png" alt="" width="563"><figcaption><p>Soraya Mata lost in thought.</p></figcaption></figure>
-
 Soraya married Kyote, a celebrated folk musician, and the couple had a son named Prince. Their whirlwind romance was by all means the happiest time in her life. However, it wasn't long before she found herself once again consumed in her work. Her relentless pursuits often strained her family life, culminating in a separation when she chose to continue her research in the AU where the paradigms were much less restrictive. To help her balance every area of her life, she built a cog she named Aida, an assistant based on her own personality, compiled from custom hardcode distinct from LMNL.
+
+<figure><img src="../../.gitbook/assets/soraya-kyote_781.png" alt="" width="563"><figcaption><p>Soraya and Kyote arrive as part of the Atlan delegation at Bright Mesa's districthood celebration.</p></figcaption></figure>
 
 Despite her groundbreaking achievements, Soraya's life ended in the terror attack that devastated Bright Mesa in 2115. The attack also killed her husband, Kyote, and had been targeting Atlan delegates who had been in Bright Mesa to celebrate its districthood. Soraya's legacy lives on through her contributions to the technological landscape, and the lingering mysteries of her final projects.
 
@@ -72,6 +72,8 @@ Despite her groundbreaking achievements, Soraya's life ended in the terror attac
 * Often referred to by Kyote as "Angel" or "my angel".
 
 ***
+
+<figure><img src="../../.gitbook/assets/soraya_feature-282.png" alt="" width="563"><figcaption><p>Soraya Mata lost in thought.</p></figcaption></figure>
 
 ## **Personality & Quirks**
 
