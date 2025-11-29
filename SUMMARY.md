@@ -233,6 +233,7 @@
   * [👤 Finn Hughes](narrative/cast/finn-hughes.md)
   * [👤 Morning Cloud](narrative/cast/morning-cloud.md)
   * [👤 Soraya Mata](narrative/cast/soraya-mata.md)
+  * [🟦 Alpha-01](narrative/cast/alpha-01.md)
 * [📚 Stories](narrative/stories/README.md)
   * [📘 CODA Saga](narrative/stories/coda-saga.md)
   * [📘 Bright Day](narrative/stories/bright-day.md)

@@ -24,13 +24,13 @@ In particular, one Existence Doctrine program sought to discover the limit of in
 
 <figure><img src="../../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption><p>A field lab where the Clear Serum was administered to volunteers.</p></figcaption></figure>
 
-The program's goal was to enhance the physical and mental capabilities of Atla's military forces, and it was not long before the program yielded promising results. The experimental therapy drastically improved test subjects' reflexes, speed of thought and learning, immune system function, and healing capabilities.
+The Clear Program's goal was to enhance the physical and mental capabilities of Atla's military forces, and it was not long before the program yielded promising results. The experimental therapy drastically improved test subjects' reflexes, speed of thought and learning, immune system function, and healing capabilities.
 
 However, it came at a cost; those who could endure the therapy experienced various side effects that required regular attending. One notable side effect was an extreme increase in metabolic rate, with subjects needing constant calories and hydration, and leaving them prone to overheating, causing them discomfort and distress when sedentary.
 
 Early formulations of the Clear serum were primarily derived from Silver [Manna](../../nature-and-climate/the-manna-flower.md), as well as a range of classified research focused on producing genetic and epigenetic modifications in the subject. The exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.&#x20;
 
-The Clear Serum project was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to limited military and intelligence applications.
+The Clear Program was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to limited military and intelligence applications.
 
 It is now estimated that as many as fifty thousand Dark Decade and Reconstruction refugees and veterans may have received some variant of the Clear Serum, many without their knowledge. For most, the therapies had negligible or short-term effects, however some subjects responded spectacularly.
 
