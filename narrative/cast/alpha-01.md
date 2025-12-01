@@ -150,6 +150,8 @@ Clear trials amplified his stamina and focus rather than his aggression, marking
 
 ***
 
+<figure><img src="../../.gitbook/assets/amina-442.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### Amina “Crown” El-Baz
 
 **Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
@@ -417,12 +419,24 @@ With his mental resilience and high pain tolerance, his Clear-boosted metabolism
 
 ### Dissolution and Scattered Afterlives
 
-When the Clear and UDA programs were dissolved at the end of the Existence Doctrine, all related records were scrubbed from the General Record by Atlan Information Control (AIC). Alpha-01, never publicly acknowledged in the first place, effectively **ceased to exist** on paper.
+When the [Clear](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program) and [UDA](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) programs were dissolved at the end of the [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md), all related records were scrubbed from [the General Record](../../world/gata/politics/the-general-record.md) by [Atlan Information Control (AIC)](../../world/gata/institutions/atlan-information-control-aic.md). Alpha-01, never publicly acknowledged in the first place, effectively ceased to exis**t** on paper.
 
 Fates of known members varied:
 
-* Some, like **Finneas Hughes**, transitioned into official Angelis channels, eventually joining **Rapid Response** and becoming legends in their own right.
-* Others are rumored to have been retained by ALTAR or Research Corps in cryostasis or deep-black assignments.
-* Still more are whispered to have defected or gone to ground as independent operators, mercenaries, or ghosts in the Free Territories’ criminal underworld.
+* Some, like Finneas Hughes, transitioned into official [Angelis](../../world/gata/military-and-defense/angelis.md) channels, eventually joining [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) or the [modern Mavericks](../../world/gata/military-and-defense/mavs.md#the-new-mavericks) division, becoming legends in their own right.
+* Others are rumored to have been retained by [ALTAR](../../world/gata/institutions/altar.md) in cryostasis or deep-black assignments, however this is completely unsubstantiated.
+* Still more are whispered to have defected or gone to ground as [dark operators](../../world/gata/enterprise/operators.md#dark-operators), mercenaries, or ghosts in [the Free Territories’](../../world/free-territories/the-basics.md) [criminal underworld](../../world/gata/criminal-element/syndicates.md).
 
 For those who survived, the psychological toll of extended youth, decades of violence, and the moral ambiguity of Existence Doctrine missions mirrored the burdens later recorded in Finn’s own wrestling with the ethics of Clear and the UDA legacy.
+
+***
+
+### Legacy
+
+Though erased from [the General Record](../../world/gata/politics/the-general-record.md), Alpha-01’s fingerprints are visible across modern GATA military doctrine:
+
+* **Mavericks** – The [modern Maverick division](../../world/gata/military-and-defense/mavs.md#the-new-mavericks) is explicitly described as the culmination of the Reconstruction Era special operations, an indirect nod to the UDAs and, for those who know, Alpha-01.
+* **Rapid Response Ethos** – [Rapid Response’s](../../world/gata/military-and-defense/rapid-response.md) small, high-trust teams of multi-role operators, often dropped via [Aegis pods](../../world/gata/military-and-defense/angelis.md#aegis-drop-pods) into chaotic disaster zones and warfields, echo very directly the “few against many” design Alpha-01 pioneered—embodied clearly by Finn Hughes, who transitioned into the Rapid Response division after its formation and set its highest of watermarks.
+* **Ethical Caution** – Rumors of Alpha-01’s covert actions and the later scandals associated with UDAs helped shape the strict technological and military constraints encoded into Angelis' policies and procedures, and the eventual dissolution of [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md) programs.
+
+Inside [Angelis](../../world/gata/military-and-defense/angelis.md) and the [Research Corps](../../world/sol/institutions/the-research-corps.md), Alpha-01 is sometimes invoked in hushed tones as “the First Class”—a reminder that the foundations of GATA’s greatest heroes and most terrifying weapons were laid by a handful of teenagers who stopped aging, stepped into the unknown, and never really came back.
