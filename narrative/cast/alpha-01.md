@@ -210,9 +210,9 @@ He’s quiet, coiled, and intensely competitive, with a tendency to disappear fr
 
 ***
 
-<figure><img src="../../.gitbook/assets/joana-434.png" alt="" width="563"><figcaption></figcaption></figure>
-
 ### Joana “Swan” Costa
+
+<figure><img src="../../.gitbook/assets/joana-434.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Origin:** Recife Atlantic Corridor Garden, Northeastern Brazil.
 
