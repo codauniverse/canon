@@ -28,19 +28,21 @@ The Clear Program's goal was to enhance the physical and mental capabilities of 
 
 However, it came at a cost; those who could endure the therapy experienced various side effects that required regular attending. One notable side effect was an extreme increase in metabolic rate, with subjects needing constant calories and hydration, and leaving them prone to overheating, causing them discomfort and distress when sedentary.
 
-Early formulations of the Clear serum were primarily derived from Silver [Manna](../../nature-and-climate/the-manna-flower.md), as well as a range of classified research focused on producing genetic and epigenetic modifications in the subject. The exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.&#x20;
+Early formulations of the Clear serum were primarily derived from [Silver Manna](../../nature-and-climate/the-manna-flower.md#mer-or-silver), as well as a range of classified research focused on producing genetic and epigenetic modifications in the subject. The exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.&#x20;
 
 The Clear Program was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to limited military and intelligence applications.
 
-It is now estimated that as many as fifty thousand Dark Decade and Reconstruction refugees and veterans may have received some variant of the Clear Serum, many without their knowledge. For most, the therapies had negligible or short-term effects, however some subjects responded spectacularly.
+It is now estimated that as many as fifty thousand [Dark Decade](../../history/the-dark-decade.md) and [Reconstruction](../../history/the-reconstruction.md) refugees and veterans may have received some variant of the Clear Serum, many without their knowledge. For most, the therapies had negligible or short-term effects, however some subjects—almost universally, young children and teens—responded spectacularly, and others, catastrophically (reminiscent of a condition known today as [Rejection Syndrome](../health-and-medicine/akicel-therapy.md#rejection-syndrome)).
 
-These early test subjects and their remarkable performance in the field inspired the creation of another Existence Doctrine Program; the Unassisted Decisive Asset program.
+These early test subjects and their remarkable performance in the field as an unacknowledged elite unit designated ["Alpha-01"](../../../narrative/cast/alpha-01.md) inspired the creation of another [Existence Doctrine Program](existence-doctrine.md); the Unassisted Decisive Asset program.
 
 ### Unassisted Decisive Assets
 
 <figure><img src="../../../.gitbook/assets/uda-424.png" alt="" width="563"><figcaption><p>Legendary UDA operative [Redacted], calmly assessing the field.</p></figcaption></figure>
 
-Those who survived the transformation were officially termed "Unassisted Decisive Assets" (UDAs). Singularly potent, and armed with GATA’s superior weaponry and equipment, a well-placed UDA could replace an entire battalion, undertaking critical assignments, from asset retrieval or protection, to sabotage and assassinations. Over time, these much-mythologized one-person armies acquired a more colloquial title — the "Mavericks."
+Those who survived the transformation were inducted into an intense training program where their aptitudes and performance were pushed to superhuman limits, culminating in the formation of an elite collaborative unit known as ["Alpha-01"](../../../narrative/cast/alpha-01.md). This unit served as a field test for these exceptional soldiers, with the aim of determining the optimal operational style for operatives gifted with their heightened capabilities.
+
+The final result of the short-lived Alpha-01 trial was the splitting up of the team into individual warfighters officially termed "Unassisted Decisive Assets" (UDAs). Singularly potent, and armed with GATA’s superior weaponry and equipment, a well-placed UDA could replace an entire battalion, undertaking critical assignments, from asset retrieval or protection, to sabotage and assassinations. Over time, these much-mythologized one-person armies acquired a more colloquial title — the "Mavericks."
 
 While incredibly performant, the UDAs had one fatal flaw in the eyes of GATA's military leadership. They were human; unpredictable, diverse in their convictions and methods, and ultimately, capable of disobeying commands.
 
@@ -48,9 +50,9 @@ While incredibly performant, the UDAs had one fatal flaw in the eyes of GATA's m
 
 When the Clear program and original UDA program were dissolved, all related records were scrubbed from the [General Record](../politics/the-general-record.md) by the [AIC](../institutions/atlan-information-control-aic.md). Whispers persist that the UDA program was responsible for numerous infamous scandals during the [Reconstruction Era](../../history/the-reconstruction.md), however these claims remain unsubstantiated.
 
-And even darker rumors abound – some assert that ALTAR keeps retired UDAs in cryostasis, while others trade tales of renegade UDAs operating in the shadows, working for criminal syndicates or Sovereign factions.
+And even darker rumors abound – some assert that [ALTAR](../institutions/altar.md) keeps retired UDAs in cryostasis, while others trade tales of renegade former UDAs operating in the shadows, working for criminal syndicates or Sovereign factions in [the Free Territories](../../free-territories/the-basics.md).
 
-For others, the UDA program does not appear so mysterious; several former UDA operatives are known to still hold positions within Angelis' armed forces and administration, despite there being no official record of their operational activities.
+For those within leadership and intelligence circles within GATA, the UDA program is not so mysterious; several former UDA operatives are known to still hold positions within Angelis' armed forces and administration, despite there being no official record of their operational activities.
 
 ***
 
