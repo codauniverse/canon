@@ -91,6 +91,43 @@ Finn Hughes’ later bio explicitly places him in the original UDA program, bene
 
 ## Team Members
 
+### Amina “Crown” El-Baz
+
+<figure><img src="../../.gitbook/assets/amina-442.png" alt="" width="563"><figcaption></figcaption></figure>
+
+**Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
+
+A naturally gifted communicator, Amina was fast to pick up languages and recognize patterns. In her youth, she sat on a high hill overlooking the Casablanca corridor and saw lonely horizons calling to be reunited. By 16, she was already brokering compromises between African Union kijijis and Atlan logistics officers, translating politics as easily as language. Her aptitude was noticed by intelligence operatives, and her and her family were offered Atlan citizenship if she simply agreed to attend for one year at their full-spectrum leadership academy for gifted youth.
+
+In war games she consistently built slow, grinding victories that leveraged human intelligence and cultural knowledge to recruit or embolden local forces, preserving positional advantages and infrastructure against unlikely odds. When instructors challenged her tactical priorities, she demonstrated record times for victory conditions across nearly all sims. Then she showed them the long term stability simulations she had been compiling during her discretionary curriculum track. She had been benchmarking herself against the Research Corps' best case Stability Index scores for the relevant locales over medium and long-term time horizons.
+
+After one year at the academy, and a mandatory health screening for eligibility, she was invited to join a classified Existence Doctrine special operative training program. Little did she know, she had already been administered the Clear Serum during her medical exam. She was the first recruit for Alpha-01, and its initial team composition was largely centered around supporting and extending her command.
+
+Her callsign "Crown" (from _Corona Borealis_) nods to both the constellation and the way she naturally assumes a leadership center of gravity, even when she doesn’t want command.
+
+#### Basic Info
+
+* **Current age:** 21
+* **Age at recruitment:** 17
+* **Origin / ethnicity:** Moroccan (North African Arab), Spanish
+* **Height / weight:**
+  * 1.68 m (5'6")
+  * 60 kg (132 lb)
+* **Appearance:**
+  * Balanced, athletic build; strong shoulders from hauling water and aid crates. Enjoys running solo drills while memorizing intelligence reports.
+  * Light-brown, olive-leaning skin tone.
+  * Dark hazel eyes; level, assessing, rarely surprised.
+  * Thick black hair, usually in a practical low bun or braided crown; loose curls escape in humidity.
+  * Often wears a thin thread bracelet with colored beads—last gift from her younger brother.
+  * Small crescent-shaped scar on her cheek from a childhood fall.
+* **Family status at recruitment:**
+  * Father, originally from Spain, killed after her recruitment in militia crossfire during early Reconstruction clashes with North African resistance forces targeting Atla-allied communities.
+  * Mother died during the first weeks of the Dark Decade after the Crash.
+  * One younger brother lost during a chaotic convoy transfer (status “missing”).
+  * Amina, along with her brother, were given over to humanitarian aid workers by her father at an Atlan refugee camp, fearing for her safety in their village.
+
+***
+
 ### Rafael “Phoenix” Reyes
 
 <figure><img src="../../.gitbook/assets/rafael-933.png" alt="" width="563"><figcaption></figcaption></figure>
@@ -99,10 +136,11 @@ Finn Hughes’ later bio explicitly places him in the original UDA program, bene
 
 Old enough to remember [the Crash](../../world/history/the-crash.md), Rafael was 18 when Atla tagged him out of [Bright Mesa](../../world/gata/history/bright-mesa.md), a populous makeshift refugee city of survivors including many like Rafael who’d watched California burn. Where most kids learned to keep their heads down, he learned to stand up straighter.
 
-After joining the program, his Clear-boosted reflexes and eerie knack for reading the chaos of conflict put him at the center of every exercise, and instructors quickly pushed him into the role of first team leader. Stubborn, self-assured, and unflinching when it comes to hard choices, he will make the hard call—and then stand front and center to answer for it. His callsign "Phoeni&#x78;**"** comes from the constellation and the bird reborn from fire: a refugee child from a dead city, remade into Atla’s sharpest blade.
+After joining the program, his Clear-boosted reflexes and eerie knack for reading the chaos of conflict put him at the center of every exercise, and instructors quickly pushed him into the role of first team leader. Stubborn, self-assured, and unflinching when it comes to ugly choices; he will make the hard call—and then stand front and center to answer for it. His callsign "Phoeni&#x78;**"** comes from the constellation and the bird reborn from fire: a refugee child from a dead city, remade into Atla’s sharpest blade.
 
 #### Basic Info
 
+* **Current age:** 22
 * **Age at recruitment:** 18
 * **Origin / ethnicity:** Bright Mesa refugee camp (ex–California evacuees); Filipino-American
 * **Height / weight:**
@@ -134,6 +172,7 @@ Clear trials amplified his stamina and focus rather than his aggression, marking
 #### Basic Info
 
 * **Age at recruitment:** 15
+* **Current age:** 19
 * **Ethnicity:** Gulf Coast U.S. (Louisiana), mixed Caucasian / Cajun Creole
 * **Height / weight:**
   * 1.73 m (5'8")
@@ -150,38 +189,6 @@ Clear trials amplified his stamina and focus rather than his aggression, marking
 
 ***
 
-<figure><img src="../../.gitbook/assets/amina-442.png" alt="" width="563"><figcaption></figcaption></figure>
-
-### Amina “Crown” El-Baz
-
-**Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
-
-A naturally gifted communicator, Amina was fast to pick up languages and recognize patterns. By 17, she was already brokering compromises between African Union kijijis and Atlan logistics officers, translating politics as easily as language.
-
-In war games she consistently built slow, grinding victories that leveraged human intelligence and cultural knowledge to recruit or embolden local forces, preserving positional advantages and infrastructure against unlikely odds. Her callsign "Crown" (from _Corona Borealis_) nods to both the constellation and the way she naturally assumes a leadership center of gravity, even when she doesn’t want command.
-
-#### Basic Info
-
-* **Age at recruitment:** 17
-* **Origin / ethnicity:** Casablanca corridor, Moroccan (North African Arab)
-* **Height / weight:**
-  * 1.68 m (5'6")
-  * 60 kg (132 lb)
-* **Appearance:**
-  * Balanced, athletic build; strong shoulders from hauling water and aid crates. Enjoys running solo drills while memorizing intelligence reports.
-  * Light-brown, olive-leaning skin tone.
-  * Dark hazel eyes; level, assessing, rarely surprised.
-  * Thick black hair, usually in a practical low bun or braided crown; loose curls escape in humidity.
-  * Often wears a thin thread bracelet with colored beads—last gift from her younger brother.
-  * Small crescent-shaped scar on her cheek from a childhood fall.
-* **Family status at recruitment:**
-  * Father killed after her recruitment in militia crossfire during early Reconstruction clashes with North African resistance forces targeting Atla-allied communities.
-  * Mother died during the first weeks of the Dark Decade after the Crash.
-  * One younger brother lost during a chaotic convoy transfer (status “missing”).
-  * Amina, along with her brother, were given over to humanitarian aid workers by her father at an Atlan refugee camp, fearing for her safety in their village.
-
-***
-
 ### Dante “Scorpio” Newton
 
 <figure><img src="../../.gitbook/assets/dante-331.png" alt="" width="563"><figcaption></figcaption></figure>
@@ -195,6 +202,7 @@ He’s quiet, coiled, and intensely competitive, with a tendency to disappear fr
 #### Basic Info
 
 * **Age at recruitment:** 14
+* **Current age:** 17
 * **Origin / ethnicity:** American, Norwegian / Eastern European background
 * **Height / weight:**
   * 1.70 m (5'7")
@@ -224,6 +232,7 @@ Clear enhancement turned her into an amphibious phantom—graceful in water, let
 
 #### Basic Info
 
+* **Current age:** 20
 * **Age at recruitment:** 16
 * **Origin / ethnicity:** Recife coastal settlements, Brazilian; Afro-Brazilian with possible Indigenous ancestry
 * **Height / weight:**
@@ -253,6 +262,7 @@ Clear therapy barely seemed to tire him; instructors used him as the benchmark f
 
 #### Basic Info
 
+* **Current age:** 18
 * **Age at recruitment:** 14
 * **Origin / ethnicity:** Takoradi–Dakar resettlement zone, Ghanaian
 * **Height / weight:**
@@ -282,6 +292,7 @@ He approaches combat like engineering—find the one joint, bridge, or pylon who
 
 #### Basic Info
 
+* **Current age:** 21
 * **Age at recruitment:** 17
 * **Origin / ethnicity:** Cork refit yard, Irish
 * **Height / weight:**
@@ -305,13 +316,14 @@ He approaches combat like engineering—find the one joint, bridge, or pylon who
 
 **Origin:** Brest Garden Annex, first class of the Paris Atlan Academy.
 
-At 13, Léonie could keep three refugee camps talking over a jury-rigged radio net made of scavenged wire and Manna crates when everyone else’s systems were dead.
+At 12, Léonie could keep her friends from three refugee camps talking over a jury-rigged radio net made of scavenged wire and Manna crates when everyone else’s systems were dead. At 13, she was suddenly transferred from the Garden School to the Paris Atlan Academy on an unexpected Research Corps sponsorship, and was subsequently flagged for the Clear Program during her medical screening; a near perfect template match for the efficacy profile. A few weeks later she was in Greenland with a Research Corps' assigned chaperon, being read into the rest of her life.
 
-Early link-like BCI prototypes responded to her with uncanny mental stability, and the Clear treatments only sharpened her multi-channel focus. Soft-spoken, with a dry wit, she chose "Lyra" (from the lyre constellation) as her callsign, insisting that good comms work is just battlefield music—if you stop hearing it, something’s gone very wrong.
+Early link-like BCI prototypes responded to her with uncanny mental stability, and the Clear treatments only sharpened her high-bandwidth focus. Soft-spoken, with a dry wit, she chose "Lyra" (from the lyre constellation) as her callsign, insisting that signal intelligence is just battlefield music—you don't describe it, you feel it, and if you stop hearing it, something’s gone very wrong.
 
 #### Basic Info
 
-* **Age at recruitment:** 13 (youngest recruit in the cohort)
+* **Current age:** 17
+* **Age at recruitment:** 14 (youngest recruit in the cohort)
 * **Origin / ethnicity:** Born in Marseille, raised between Brest annex and Paris-track Academy; French with Algerian maternal heritage
 * **Height / weight:**
   * 1.55 m (5'1")
@@ -336,10 +348,11 @@ Early link-like BCI prototypes responded to her with uncanny mental stability, a
 
 Shuffled from convoy to convoy before landing in a Garden in Greater Toronto, Sami learned to juggle roles: student, caretaker, and quiet fixer for kids who didn’t trust adults.
 
-Psych evals flagged an unusual talent for running simultaneous plans in their head, and Clear treatment seemed to enhance that “split focus” instead of overwhelming it. Identifying as non-binary, they leaned into the duality and chose "Gemini" as their callsign—always thinking in pairs: two exits, two backups, two ways to win.
+Psych evals flagged an unusual talent for running simultaneous plans in their head, and Clear treatment seemed to enhance that “split focus” instead of overwhelming it. Identifying with their multiplicity of perspectives, they chose "Gemini" as their callsign—always thinking in pairs of pairs: two pairs of exits, two pairs of backups, two pairs of winning moves. Teammates find the compulsion indispensable—and uncanny—like Sami can see into parallel realities.
 
 #### Basic Info
 
+* **Current age:** 19
 * **Age at recruitment:** 15
 * **Origin / ethnicity:** Nigerian-born, raised across Lagos convoys and Greater Toronto Garden; Nigerian-Canadian, Igbo heritage
 * **Height / weight:**
@@ -362,13 +375,16 @@ Psych evals flagged an unusual talent for running simultaneous plans in their he
 
 **Origin:** Canary Straits Listening Post, former Spanish Atlantic territories.
 
-At 15, Inés funded her family’s ration buffer by mapping smuggler routes and quietly selling that intel—carefully—to both Atlan officers and local militant intel-brokers.
+At 15, Inés funded her family’s ration buffer by studying Atlan patrols and mapping smuggler routes, then quietly selling that intel—carefully—to both Atlan contacts and local militant intel-brokers. Picked up by an Atlan patrol who'd been tipped off by a Research Corps source using classified surveillance capabilities, intelligence expected to uncover a sophisticated operation, perhaps a deep mole with insider permissions; what they found was the most natural of spies nearly already to their throat.
 
-She’s observant, patient, and hard to read, preferring to win with information long before bullets. Her callsign "Raven" (from _Corvus_) speaks to her role as a scout and gossip-collector; if something shines—secrets, patterns, discrepancies—she’s already picked it up.
+She was arrested and sentenced to 5 years in a gravity bat quarry, but when she disembarked her secure transport, she found herself standing at the entrance of the Atlan Military Intelligence Academy.
+
+She’s observant, patient, and hard to read, preferring to win with information long before bullets. Her callsign "Raven" (from _Corvus_) speaks to her role as a scout, spy, human-intelligence specialist, and master of narratives; if something shines—secrets, patterns, discrepancies—she’s either already picked it up, or she's the one who put it there in the first place.
 
 #### Basic Info
 
-* **Age at recruitment:** 15
+* **Current age:** 19
+* **Age at recruitment:** 16
 * **Origin / ethnicity:** Canary Islands–adjacent refugee networks, Spanish / Canary Islander
 * **Height / weight:**
   * 1.58 m (5'2")
@@ -397,6 +413,7 @@ With his mental resilience and high pain tolerance, his Clear-boosted metabolism
 
 #### Basic Info
 
+* **Current age:** 22
 * **Age at recruitment:** 18 (oldest in the cohort)
 * **Origin / ethnicity:** Reykjavik North Atlantic watch platforms, Icelandic
 * **Height / weight:**
