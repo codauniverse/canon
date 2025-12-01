@@ -97,7 +97,9 @@ Finn Hughes’ later bio explicitly places him in the original UDA program, bene
 
 **Origin:** Bright Mesa refugee camp, ex–California corridor (Southwest North America)
 
-Rafael was 18 when Atlan tagged him out of [Bright Mesa](../../world/gata/history/bright-mesa.md), a populous makeshift city of survivors including many refugees like Rafael who’d watched California burn. Where most kids learned to keep their heads down, he learned to stand up straighter. After joining the program, his Clear-boosted reflexes and eerie knack for reading the chaos of conflict put him at the center of every exercise, and instructors quickly pushed him into the role of first team leader. Stubborn, self-assured, and unflinching when it comes to hard choices, he will make the hard call—and then stand front and center to answer for it. His callsign "Phoeni&#x78;**"** comes from the constellation and the bird reborn from fire: a refugee child of a dead coast, remade into Atla’s sharpest blade.
+Old enough to remember [the Crash](../../world/history/the-crash.md), Rafael was 18 when Atla tagged him out of [Bright Mesa](../../world/gata/history/bright-mesa.md), a populous makeshift refugee city of survivors including many like Rafael who’d watched California burn. Where most kids learned to keep their heads down, he learned to stand up straighter.
+
+After joining the program, his Clear-boosted reflexes and eerie knack for reading the chaos of conflict put him at the center of every exercise, and instructors quickly pushed him into the role of first team leader. Stubborn, self-assured, and unflinching when it comes to hard choices, he will make the hard call—and then stand front and center to answer for it. His callsign "Phoeni&#x78;**"** comes from the constellation and the bird reborn from fire: a refugee child from a dead city, remade into Atla’s sharpest blade.
 
 #### Basic Info
 
@@ -107,26 +109,27 @@ Rafael was 18 when Atlan tagged him out of [Bright Mesa](../../world/gata/histor
   * 1.78 m (5'10")
   * 74 kg (163 lb)
 * **Appearance:**
-  * Athletic, well-proportioned build; quick, precise movements.
+  * Athletic, well-proportioned build; quick, precise movements. More physically developed than most other team members.
   * Medium tan skin with light sun-and-wind wear.
   * Gray eyes with a cool, steady stare that reads as “steely.”
-  * Thick black hair with a faint blue sheen, short on the sides and always slicked up and back on top.
-  * Thin scar at his right eyebrow and a small burn mark on his left forearm.
+  * Thick black hair with a faint blue sheen, short on the sides and always slicked up and back on top, with a few strands hanging down over his forehead.
 * **Family status at recruitment:**
   * Father killed in a convoy ambush when Rafael was 15.
-  * Mother alive, with chronic respiratory issues from wildfire and camp conditions.
+  * Mother alive, with chronic respiratory issues from poor camp conditions.
   * One younger sister living with their mother in Bright Mesa.
-  * Not an orphan, but functionally head of household; Atlan recruitment includes medical and housing guarantees for his family.
+  * Not an orphan; functionally head of household; Atlan recruitment includes medical and housing guarantees for his family, but they choose to remain in independent Bright Mesa.
 
 ***
 
-<figure><img src="../../.gitbook/assets/finn-feature_young-2.png" alt="" width="563"><figcaption></figcaption></figure>
-
 ### Finneas “Archer” Hughes
+
+<figure><img src="../../.gitbook/assets/finn-feature_young-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Origin:** Louisiana Refugee Camp, GATA.
 
-As a 16-year-old camp mediator, Finn was the kid camp administrators called on when other teens had knives out over rations; he had a gift for stepping between people and talking them down. Clear trials amplified his stamina and focus rather than his aggression, marking him as a natural stabilizer in the field. His callsign "Archer" comes from the old myths of _Orion the archer_—the instructors’ joke being that Finn never misses, he just always takes the safest possible shot.
+As a 16-year-old camp mediator, Finn was the kid camp administrators called on when other teens had knives out over rations; he had a gift for stepping between people and talking them down.
+
+Clear trials amplified his stamina and focus rather than his aggression, marking him as a natural stabilizer in the field. His callsign "Archer" comes from the old myths of _Orion the archer_—the instructors’ joke being that Finn never misses, he just always takes the safest possible shot.
 
 #### Basic Info
 
@@ -147,11 +150,15 @@ As a 16-year-old camp mediator, Finn was the kid camp administrators called on w
 
 ***
 
-#### Amina “Crown” El-Baz
+### Amina “Crown” El-Baz
 
 **Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
 
-At 17, Amina was already brokering compromises between African Union organizers and Atlan logistics officers, translating politics as easily as language. In war games she consistently built slow, grinding victories that preserved civilians and infrastructure. Her callsign "Crown" (from _Corona Borealis_) nods to both the constellation and the way she naturally assumes a leadership center of gravity, even when she doesn’t want command.
+A naturally gifted communicator, Amina was fast to pick up languages and recognize patterns. By 17, she was already brokering compromises between African Union kijijis and Atlan logistics officers, translating politics as easily as language.
+
+In war games she consistently built slow, grinding victories that leveraged human intelligence and cultural knowledge to recruit or embolden local forces, preserving positional advantages and infrastructure against unlikely odds. Her callsign "Crown" (from _Corona Borealis_) nods to both the constellation and the way she naturally assumes a leadership center of gravity, even when she doesn’t want command.
+
+#### Basic Info
 
 * **Age at recruitment:** 17
 * **Origin / ethnicity:** Casablanca corridor, Moroccan (North African Arab)
@@ -159,27 +166,31 @@ At 17, Amina was already brokering compromises between African Union organizers 
   * 1.68 m (5'6")
   * 60 kg (132 lb)
 * **Appearance:**
-  * Balanced, athletic build; strong shoulders from hauling water and aid crates.
+  * Balanced, athletic build; strong shoulders from hauling water and aid crates. Enjoys running solo drills while memorizing intelligence reports.
   * Light-brown, olive-leaning skin tone.
   * Dark hazel eyes; level, assessing, rarely surprised.
   * Thick black hair, usually in a practical low bun or braided crown; loose curls escape in humidity.
   * Often wears a thin thread bracelet with colored beads—last gift from her younger brother.
-  * Small crescent-shaped scar on her chin from a childhood fall.
+  * Small crescent-shaped scar on her cheek from a childhood fall.
 * **Family status at recruitment:**
-  * Father killed in militia crossfire during early Reconstruction clashes.
-  * Mother alive but chronically ill and unable to leave the camp’s medical ward.
+  * Father killed after her recruitment in militia crossfire during early Reconstruction clashes with North African resistance forces targeting Atla-allied communities.
+  * Mother died during the first weeks of the Dark Decade after the Crash.
   * One younger brother lost during a chaotic convoy transfer (status “missing”).
-  * Amina **technically has living family**, but she’s the only functional adult, and Atlan effectively recruits her as if she were on her own.
+  * Amina, along with her brother, were given over to humanitarian aid workers by her father at an Atlan refugee camp, fearing for her safety in their village.
 
 ***
 
-#### Dante “Scorpio” Newton
+### Dante “Scorpio” Newton
 
 <figure><img src="../../.gitbook/assets/dante-331.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Origin:** JAC / Atlan Naval Training Barge “Wardroom-3”, mid-Atlantic flotilla.
 
-Dante was a 14-year-old deck rat who turned zero-light hide-and-seek into a full-contact sport, routinely “capturing” armed marines in corridor drills. He’s quiet, coiled, and intensely competitive, with a tendency to disappear from formation and reappear behind “enemy” lines. His callsign "Scorpio" (from _Scorpius_) reflects his preferred style: get close, sting once, leave nothing standing.
+Dante was a 14-year-old deck rat who turned zero-light hide-and-seek into a full-contact sport, routinely “capturing” armed marines in corridor drills.
+
+He’s quiet, coiled, and intensely competitive, with a tendency to disappear from formation and reappear behind “enemy” lines. His callsign "Scorpio" (from _Scorpius_) reflects his preferred style: get close, sting once, leave nothing standing.
+
+#### Basic Info
 
 * **Age at recruitment:** 15
 * **Origin / ethnicity:** American, Norwegian / Eastern European background
@@ -199,11 +210,15 @@ Dante was a 14-year-old deck rat who turned zero-light hide-and-seek into a full
 
 ***
 
-#### Joana “Swan” Costa
+### Joana “Swan” Costa
 
 **Origin:** Recife Atlantic Corridor Garden, Northeastern Brazil.
 
-Joana grew up running silent night routes through flooded shanties in a battered kayak, memorizing currents and militia patrol schedules by feel. Clear enhancement turned her into an amphibious phantom—graceful in water, lethal in tight urban mazes. She’s easygoing and irreverent off-mission, but her callsign "Swan" (from _Cygnus_) comes from the way she shifts in an instant from placid to terrifyingly powerful.
+Joana grew up running silent night routes through flooded shanties in a battered kayak, memorizing currents and militia patrol schedules by feel.
+
+Clear enhancement turned her into an amphibious phantom—graceful in water, lethal in tight urban mazes. She’s easygoing and irreverent off-mission, but her callsign "Swan" (from _Cygnus_) comes from the way she shifts in an instant from placid to terrifyingly powerful.
+
+#### Basic Info
 
 * **Age at recruitment:** 16
 * **Origin / ethnicity:** Recife coastal settlements, Brazilian; Afro-Brazilian with possible Indigenous ancestry
@@ -224,11 +239,15 @@ Joana grew up running silent night routes through flooded shanties in a battered
 
 ***
 
-#### Kwesi “Lion” Mensah
+### Kwesi “Lion” Mensah
 
 **Origin:** Takoradi–Dakar Joint Resettlement Zone, West Africa.
 
-By 14, Kwesi was hauling Atlan humanitarian supply shipments on the docks and still had breath left to lead work songs that kept morale up when food was thin. Clear therapy barely seemed to tire him; instructors used him as the benchmark for “max exertion” drills. Loud, stubborn, and fiercely protective of anyone he considers “his”, he wears the callsign "Lion" (from _Leo_) like a promise: he bites last, and only after everyone else is safe.
+By 14, Kwesi was hauling Atlan humanitarian supply shipments on the docks and still had breath left to lead work songs that kept morale up when food was thin.
+
+Clear therapy barely seemed to tire him; instructors used him as the benchmark for “max exertion” drills. Loud, stubborn, and fiercely protective of anyone he considers “his”, he wears the callsign "Lion" (from _Leo_) like a promise: he bites last, and only after everyone else is safe.
+
+#### Basic Info
 
 * **Age at recruitment:** 14
 * **Origin / ethnicity:** Takoradi–Dakar resettlement zone, Ghanaian
@@ -249,11 +268,15 @@ By 14, Kwesi was hauling Atlan humanitarian supply shipments on the docks and st
 
 ***
 
-#### Niall “Cross” O’Rourke
+### Niall “Cross” O’Rourke
 
 **Origin:** Cork Coastal Refit Yard, Atlantic Ireland.
 
-Raised stripping Old World ships with his uncle under a JAC maintenance contract, Niall understood hulls, stresses, and explosives better than anyone on his pier by 16. He approaches combat like engineering—find the one joint, bridge, or pylon whose failure collapses the whole problem. His callsign "Cross" (from _Crux_) reflects his knack for pinpointing that critical intersection on a map, a structure, or an enemy plan.
+Raised stripping Old World ships with his uncle under a JAC maintenance contract, Niall understood hulls, stresses, and explosives better than anyone on his pier by 16.
+
+He approaches combat like engineering—find the one joint, bridge, or pylon whose failure collapses the whole problem. His callsign "Cross" (from _Crux_) reflects his knack for pinpointing that critical intersection on a map, a structure, or an enemy plan.
+
+#### Basic Info
 
 * **Age at recruitment:** 17
 * **Origin / ethnicity:** Cork refit yard, Irish
@@ -274,11 +297,15 @@ Raised stripping Old World ships with his uncle under a JAC maintenance contract
 
 ***
 
-#### Léonie “Lyra” Maurel
+### Léonie “Lyra” Maurel
 
 **Origin:** Brest Garden Annex, first class of the Paris Atlan Academy.
 
-At 13, Léonie could keep three refugee camps talking over a jury-rigged radio net made of scavenged wire and Manna crates when everyone else’s systems were dead. Early link prototypes responded to her with uncanny stability, and Clear only sharpened her multi-channel focus. Soft-spoken, with a dry wit, she chose "Lyra" (from the lyre constellation) as her callsign, insisting that good comms work is just battlefield music—if you stop hearing it, something’s gone very wrong.
+At 13, Léonie could keep three refugee camps talking over a jury-rigged radio net made of scavenged wire and Manna crates when everyone else’s systems were dead.
+
+Early link-like BCI prototypes responded to her with uncanny stability, and Clear only sharpened her multi-channel focus. Soft-spoken, with a dry wit, she chose "Lyra" (from the lyre constellation) as her callsign, insisting that good comms work is just battlefield music—if you stop hearing it, something’s gone very wrong.
+
+#### Basic Info
 
 * **Age at recruitment:** 13 (youngest recruit in the cohort)
 * **Origin / ethnicity:** Born in Marseille, raised between Brest annex and Paris-track Academy; French with Algerian maternal heritage
@@ -299,11 +326,15 @@ At 13, Léonie could keep three refugee camps talking over a jury-rigged radio n
 
 ***
 
-#### Sami “Gemini” Okafor
+### Sami “Gemini” Okafor
 
 **Origin:** Lagos Evacuation Column to Greater Toronto Refugee Camp, landing in the West End Garden.
 
-Shuffled from convoy to convoy before landing in a Garden in Greater Toronto, Sami learned to juggle roles: student, caretaker, and quiet fixer for kids who didn’t trust adults. Psych evals flagged an unusual talent for running simultaneous plans in their head, and Clear treatment seemed to enhance that “split focus” instead of overwhelming it. Identifying as non-binary, they leaned into the duality and chose "Gemini" as their callsign—always thinking in pairs: two exits, two backups, two ways to win.
+Shuffled from convoy to convoy before landing in a Garden in Greater Toronto, Sami learned to juggle roles: student, caretaker, and quiet fixer for kids who didn’t trust adults.
+
+Psych evals flagged an unusual talent for running simultaneous plans in their head, and Clear treatment seemed to enhance that “split focus” instead of overwhelming it. Identifying as non-binary, they leaned into the duality and chose "Gemini" as their callsign—always thinking in pairs: two exits, two backups, two ways to win.
+
+#### Basic Info
 
 * **Age at recruitment:** 15
 * **Origin / ethnicity:** Nigerian-born, raised across Lagos convoys and Greater Toronto Garden; Nigerian-Canadian, Igbo heritage
@@ -323,11 +354,15 @@ Shuffled from convoy to convoy before landing in a Garden in Greater Toronto, Sa
 
 ***
 
-#### Inés “Raven” Vidal
+### Inés “Raven” Vidal
 
 **Origin:** Canary Straits Listening Post, former Spanish Atlantic territories.
 
-At 14, Inés funded her family’s ration buffer by mapping smuggler routes and quietly selling that intel—carefully—to both Atlan officers and local militant intel-brokers. She’s observant, patient, and hard to read, preferring to win with information long before bullets. Her callsign "Raven" (from _Corvus_) speaks to her role as a scout and gossip-collector; if something shines—secrets, patterns, discrepancies—she’s already picked it up.
+At 14, Inés funded her family’s ration buffer by mapping smuggler routes and quietly selling that intel—carefully—to both Atlan officers and local militant intel-brokers.
+
+She’s observant, patient, and hard to read, preferring to win with information long before bullets. Her callsign "Raven" (from _Corvus_) speaks to her role as a scout and gossip-collector; if something shines—secrets, patterns, discrepancies—she’s already picked it up.
+
+#### Basic Info
 
 * **Age at recruitment:** 14
 * **Origin / ethnicity:** Canary Islands–adjacent refugee networks, Spanish / Canary Islander
@@ -348,11 +383,15 @@ At 14, Inés funded her family’s ration buffer by mapping smuggler routes and 
 
 ***
 
-#### Einar “Wolf” Jónsson
+### Einar “Wolf” Jónsson
 
 **Origin:** Reykjavik North Atlantic Watch Platform.
 
-Einar grew up under the shadow of Guardian frames stationed to deter raiders, tracking their patrol paths the way other kids memorized constellations. At 18 he was already running solo reconnaissance across ice and broken coastline, his Clear-boosted metabolism letting him function in conditions that would drop normal soldiers. Taciturn and self-contained, he earned the callsign "Wolf" (from _Lupus_) for his lone-scout habits and the quiet, absolute loyalty he shows to the few people he considers his pack.
+Einar grew up under the shadow of Guardian frames stationed to deter raiders, tracking their patrol paths the way other kids memorized constellations. At 17 he was already unofficially running solo reconnaissance across ice and broken coastline.
+
+With his mental resilience and high pain tolerance, his Clear-boosted metabolism let him push through internal and external conditions that would stop nearly anyone in their tracks. Taciturn and self-contained, he earned the callsign "Wolf" (from _Lupus_) for his lone-scout habits and the quiet, absolute loyalty he shows to the few people he considers his pack.
+
+#### Basic Info
 
 * **Age at recruitment:** 18 (oldest in the cohort)
 * **Origin / ethnicity:** Reykjavik North Atlantic watch platforms, Icelandic
