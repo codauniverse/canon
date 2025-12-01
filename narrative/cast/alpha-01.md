@@ -210,6 +210,8 @@ He’s quiet, coiled, and intensely competitive, with a tendency to disappear fr
 
 ***
 
+<figure><img src="../../.gitbook/assets/joana-434.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### Joana “Swan” Costa
 
 **Origin:** Recife Atlantic Corridor Garden, Northeastern Brazil.
@@ -229,7 +231,7 @@ Clear enhancement turned her into an amphibious phantom—graceful in water, let
   * Flexible, sinewy build; swimmer’s shoulders and powerful legs.
   * Deep brown skin, often a shade darker from constant sun exposure.
   * Big, expressive dark brown eyes; quick to laugh, quicker to narrow when something feels off.
-  * Black hair in tight curls, usually cropped short on the sides with a slightly longer top she can tie back or shove under a hood.
+  * Black hair in tight natural curls, usually cropped short on the sides in an undercut with a longer top she can tie back or pull back under a hood.
   * Faint lattice of old mosquito-bite scars on her calves; one noticeable scar on her right hip from shrapnel in a flood-zone skirmish.
 * **Family status at recruitment:**
   * Mother alive, working sanitation and water-purification detail.
