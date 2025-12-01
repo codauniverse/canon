@@ -127,13 +127,13 @@ After joining the program, his Clear-boosted reflexes and eerie knack for readin
 
 **Origin:** Louisiana Refugee Camp, GATA.
 
-As a 16-year-old camp mediator, Finn was the kid camp administrators called on when other teens had knives out over rations; he had a gift for stepping between people and talking them down.
+As a 15-year-old orphan who had grown up in a refugee camp, Finn was the kid camp administrators called on when other teens had knives out over rations; he had a gift for stepping between people and talking them down.
 
 Clear trials amplified his stamina and focus rather than his aggression, marking him as a natural stabilizer in the field. His callsign "Archer" comes from the old myths of _Orion the archer_—the instructors’ joke being that Finn never misses, he just always takes the safest possible shot.
 
 #### Basic Info
 
-* **Age at recruitment:** 16
+* **Age at recruitment:** 15
 * **Ethnicity:** Gulf Coast U.S. (Louisiana), mixed Caucasian / Cajun Creole
 * **Height / weight:**
   * 1.73 m (5'8")
@@ -146,7 +146,7 @@ Clear trials amplified his stamina and focus rather than his aggression, marking
 * **Family status at recruitment:**
   * Mother deceased (disease in early camp years).
   * Father missing / presumed dead after a failed evacuation further inland.
-  * Legally classified as **unaccompanied minor**; functionally an orphan, though he still half-believes his father might show up in a convoy someday.
+  * Legally classified as unaccompanied minor; functionally an orphan, though he still half-believes his father might show up in a convoy someday.
 
 ***
 
@@ -192,7 +192,7 @@ He’s quiet, coiled, and intensely competitive, with a tendency to disappear fr
 
 #### Basic Info
 
-* **Age at recruitment:** 15
+* **Age at recruitment:** 14
 * **Origin / ethnicity:** American, Norwegian / Eastern European background
 * **Height / weight:**
   * 1.70 m (5'7")
@@ -204,7 +204,7 @@ He’s quiet, coiled, and intensely competitive, with a tendency to disappear fr
   * Forward-swept blonde hair with short sides and long bangs.
   * Old rope-burn scars around the fingers of his right hand; faint knife nick under his jaw.
 * **Family status at recruitment:**
-  * Mother: served in galley/maintenance rotation on the same flotilla but reassigned shortly after his Clear candidacy is confirmed, killed in a missile strike from Irish resistance forces.
+  * Mother: served in galley/maintenance rotation on the same flotilla but reassigned shortly after his Clear candidacy is confirmed; later killed in a missile strike from Irish resistance forces.
   * No record of father (listed as “unknown” on birth documentation).
   * Emotional bond to a loose “deck family” of older sailors, but **physically separated** from all of them once transferred to Atlan training.
 
@@ -303,7 +303,7 @@ He approaches combat like engineering—find the one joint, bridge, or pylon who
 
 At 13, Léonie could keep three refugee camps talking over a jury-rigged radio net made of scavenged wire and Manna crates when everyone else’s systems were dead.
 
-Early link-like BCI prototypes responded to her with uncanny stability, and Clear only sharpened her multi-channel focus. Soft-spoken, with a dry wit, she chose "Lyra" (from the lyre constellation) as her callsign, insisting that good comms work is just battlefield music—if you stop hearing it, something’s gone very wrong.
+Early link-like BCI prototypes responded to her with uncanny mental stability, and the Clear treatments only sharpened her multi-channel focus. Soft-spoken, with a dry wit, she chose "Lyra" (from the lyre constellation) as her callsign, insisting that good comms work is just battlefield music—if you stop hearing it, something’s gone very wrong.
 
 #### Basic Info
 
@@ -358,13 +358,13 @@ Psych evals flagged an unusual talent for running simultaneous plans in their he
 
 **Origin:** Canary Straits Listening Post, former Spanish Atlantic territories.
 
-At 14, Inés funded her family’s ration buffer by mapping smuggler routes and quietly selling that intel—carefully—to both Atlan officers and local militant intel-brokers.
+At 15, Inés funded her family’s ration buffer by mapping smuggler routes and quietly selling that intel—carefully—to both Atlan officers and local militant intel-brokers.
 
 She’s observant, patient, and hard to read, preferring to win with information long before bullets. Her callsign "Raven" (from _Corvus_) speaks to her role as a scout and gossip-collector; if something shines—secrets, patterns, discrepancies—she’s already picked it up.
 
 #### Basic Info
 
-* **Age at recruitment:** 14
+* **Age at recruitment:** 15
 * **Origin / ethnicity:** Canary Islands–adjacent refugee networks, Spanish / Canary Islander
 * **Height / weight:**
   * 1.58 m (5'2")
