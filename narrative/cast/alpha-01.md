@@ -45,7 +45,7 @@ Alpha-01 drew its recruits from [Joint Atlantic Command](../../world/gata/histor
 
 1. **Stable Clear response** – Subjects who survived repeated Clear rounds without catastrophic rejection and demonstrated consistent performance gains.
 2. **Cognitive and emotional resilience** – Measured by long-horizon tactical exercises, isolation drills, and exposure to Reconstruction-era conflict zones as intelligence and strategic support.
-3. **Field aptitude** – Demonstrated initiative and performance in live operations attached to regular JAC units.
+3. **Field aptitude** – Demonstrated initiative and performance in training and academic contexts, and eventually, live operations attached to regular JAC units.
 
 Due to Clear’s side-effects on cellular repair and metabolism, Alpha-01’s operators experienced dramatically slowed biological aging. As evidenced much later with Clear Program veterans such as Finneas “Finn” Hughes, who appeared perpetually twenty even into his fifties, Alpha-01’s members retained the appearance of late adolescents despite being between young adults when the unit was formally stood up.
 
