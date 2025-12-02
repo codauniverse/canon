@@ -29,7 +29,11 @@ While their designation never appeared in the public [General Record](../../worl
 
 Under [the Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md), Atla authorized a suite of extreme programs intended to “test the limits” of human capability, including [the Clear Serum project](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program) — an experimental gene therapy derived primarily from [Silver Manna](../../world/nature-and-climate/the-manna-flower.md#mer-or-silver) and classified genetic research.
 
-The Clear program dramatically improved qualifying subjects’ reflexes, learning speed, immune function, and healing, at the cost of severe side-effects: runaway metabolism, heat intolerance, and a dependence on constant nutritional intake. Over the Dark Decade and early Reconstruction, as many as \~50,000 refugees and veterans are believed to have received some variant of Clear, most with negligible or transient effects, and some suffering extreme detrimental reactions. A tiny fraction, however, responded _spectacularly_.
+<figure><img src="../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption></figcaption></figure>
+
+The Clear program dramatically improved qualifying subjects’ reflexes, learning speed, immune function, and healing, at the cost of severe side-effects: runaway metabolism, heat intolerance, and a dependence on constant nutritional intake.
+
+Over the Dark Decade and early Reconstruction, as many as \~50,000 refugees and veterans are believed to have received some variant of Clear, most with negligible or transient effects, and some suffering extreme detrimental reactions. A tiny fraction, however, responded _spectacularly_–exclusively teenagers and adolescents.
 
 From that elite minority, [JAC](../../world/gata/history/the-joint-atlantic-command-jac.md)-era research groups (which would later be folded into the Research Corps and [ALTAR](../../world/gata/institutions/altar.md)) assembled a prototype special-operations unit: Alpha-01.
 
@@ -258,18 +262,18 @@ Clear enhancement turned her into an amphibious phantom—graceful in water, let
 
 **Origin:** Takoradi–Dakar Joint Resettlement Zone, West Africa.
 
-By 14, Kwesi was hauling Atlan humanitarian supply shipments on the docks and still had breath left to lead work songs that kept morale up when food was thin.
+By 14, Kwesi was hauling Atlan humanitarian supply shipments on the docks and still had breath left to lead work songs that kept morale up when food was thin. By his 16th birthday, it was already clear that he would soon be a formidable physical force, and he soon caught the eye of Atlan recruiters.
 
 Clear therapy barely seemed to tire him; instructors used him as the benchmark for “max exertion” drills. Loud, stubborn, and fiercely protective of anyone he considers “his”, he wears the callsign "Lion" (from _Leo_) like a promise: he bites last, and only after everyone else is safe.
 
 #### Basic Info
 
-* **Current age:** 18
-* **Age at recruitment:** 14
+* **Current age:** 19
+* **Age at recruitment:** 16
 * **Origin / ethnicity:** Takoradi–Dakar resettlement zone, Ghanaian
 * **Height / weight:**
-  * 1.72 m (5'8")
-  * 70 kg (154 lb)
+  * 1.83 m (6'0")
+  * 91 kg (201 lb)
 * **Appearance:**
   * Solid, stocky-athletic frame; already noticeably strong for his age.
   * Dark brown skin; wide grin that shows up quickly and often.
@@ -354,7 +358,7 @@ Psych evals flagged an unusual talent for running simultaneous plans in their he
 
 #### Basic Info
 
-* **Current age:** 19
+* **Current age:** 18
 * **Age at recruitment:** 15
 * **Origin / ethnicity:** Nigerian-born, raised across Lagos convoys and Greater Toronto Garden; Nigerian-Canadian, Igbo heritage
 * **Height / weight:**
@@ -419,8 +423,8 @@ With his mental resilience and high pain tolerance, his Clear-boosted metabolism
 * **Age at recruitment:** 18 (oldest in the cohort)
 * **Origin / ethnicity:** Reykjavik North Atlantic watch platforms, Icelandic
 * **Height / weight:**
-  * 1.83 m (6'0")
-  * 80 kg (176 lb)
+  * 1.88 m (6'2")
+  * 87 kg (193 lb)
 * **Appearance:**
   * Broad-shouldered, solid build; built from cold-weather labor and long treks in gear.
   * Very fair skin; cheeks and nose permanently wind-reddened.
