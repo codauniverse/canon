@@ -24,7 +24,7 @@ In particular, one Existence Doctrine program sought to discover the limit of in
 
 <figure><img src="../../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption><p>A field lab where the Clear Serum was administered to volunteers.</p></figcaption></figure>
 
-The Clear Program's goal was to enhance the physical and mental capabilities of Atla's military forces, and it was not long before the program yielded promising results. The experimental therapy drastically improved test subjects' reflexes, speed of thought and learning, immune system function, and healing capabilities.
+The Clear Program's goal was to enhance the physical and mental capabilities of Atla's military forces, and it was not long before the program yielded promising results. The experimental therapy drastically improved test subjects' reflexes, speed of thought and learning, immune system function, and healing capabilities. Notably, the serum slowed to a near-halt the accumulation of damage and dysfunction of the biological aging process.
 
 However, it came at a cost; those who could endure the therapy experienced various side effects that required regular attending. One notable side effect was an extreme increase in metabolic rate, with subjects needing constant calories and hydration, and leaving them prone to overheating, causing them discomfort and distress when sedentary.
 
@@ -32,7 +32,7 @@ Early formulations of the Clear serum were primarily derived from [Silver Manna]
 
 The Clear Program was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to limited military and intelligence applications.
 
-It is now estimated that as many as fifty thousand [Dark Decade](../../history/the-dark-decade.md) and [Reconstruction](../../history/the-reconstruction.md) refugees and veterans may have received some variant of the Clear Serum, many without their knowledge. For most, the therapies had negligible or short-term effects, however some subjects—almost universally, young children and teens—responded spectacularly, and others, catastrophically (reminiscent of a condition known today as [Rejection Syndrome](../health-and-medicine/akicel-therapy.md#rejection-syndrome)).
+It is now estimated that as many as fifty thousand [Dark Decade](../../history/the-dark-decade.md) and [Reconstruction](../../history/the-reconstruction.md) refugees and veterans may have received some variant of the Clear Serum, many without their knowledge. For most, the first round of therapies had negligible or short-term effects, however some subjects—almost universally, young children and teens—responded spectacularly. There were others, however, who experienced severe side effects, particularly with successive rounds of the therapy (reminiscent of a condition known today as [Rejection Syndrome](../health-and-medicine/akicel-therapy.md#rejection-syndrome)).
 
 These early test subjects and their remarkable performance in the field as an unacknowledged elite unit designated ["Alpha-01"](../../../narrative/cast/alpha-01.md) inspired the creation of another [Existence Doctrine Program](existence-doctrine.md); the Unassisted Decisive Asset program.
 

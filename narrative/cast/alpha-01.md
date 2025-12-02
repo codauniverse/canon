@@ -97,7 +97,9 @@ Finn Hughes’ later bio explicitly places him in the original UDA program, bene
 
 **Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
 
-A naturally gifted communicator, Amina was fast to pick up languages and recognize patterns. In her youth, she sat on a high hill overlooking the Casablanca corridor and saw lonely horizons calling to be reunited. By 16, she was already brokering compromises between African Union kijijis and Atlan logistics officers, translating politics as easily as language. Her aptitude was noticed by intelligence operatives, and her and her family were offered Atlan citizenship if she simply agreed to attend for one year at their full-spectrum leadership academy for gifted youth.
+A naturally gifted communicator, Amina was fast to pick up languages and recognize patterns. In her youth, she sat on a high hill overlooking the Casablanca corridor and saw lonely horizons calling to be reunited.
+
+By 16, she was already brokering compromises between African Union kijijis and Atlan logistics officers, translating politics as easily as the various languages she'd soaked up. Her aptitude was noticed by intelligence operatives, and her and her family were offered Atlan citizenship if she simply agreed to attend for one year at their full-spectrum leadership academy for gifted youth in Atla.
 
 In war games she consistently built slow, grinding victories that leveraged human intelligence and cultural knowledge to recruit or embolden local forces, preserving positional advantages and infrastructure against unlikely odds. When instructors challenged her tactical priorities, she demonstrated record times for victory conditions across nearly all sims. Then she showed them the long term stability simulations she had been compiling during her discretionary curriculum track. She had been benchmarking herself against the Research Corps' best case Stability Index scores for the relevant locales over medium and long-term time horizons.
 
@@ -130,7 +132,7 @@ Her callsign "Crown" (from _Corona Borealis_) nods to both the constellation and
 
 ### Rafael “Phoenix” Reyes
 
-<figure><img src="../../.gitbook/assets/rafael-933.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rafael-1121.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Origin:** Bright Mesa refugee camp, ex–California corridor (Southwest North America)
 
