@@ -17,6 +17,8 @@ layout:
 
 # 🟦 Alpha-01
 
+<figure><img src="../../.gitbook/assets/alpha01-883.png" alt=""><figcaption></figcaption></figure>
+
 ## Overview
 
 Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program). Operating in the liminal years between the late [Dark Decade](../../world/history/the-dark-decade.md) and the early [Reconstruction Era](../../world/history/the-reconstruction.md), Alpha-01 served as the proof-of-concept for what would become the [Unassisted Decisive Asset (UDA)](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) program, and, generations later, [Angelis’](../../world/gata/military-and-defense/angelis.md) modern [Mavericks](../../world/gata/military-and-defense/mavs.md#the-new-mavericks) and [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) divisions.
