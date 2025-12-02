@@ -197,9 +197,9 @@ Clear trials amplified his stamina and focus rather than his aggression, marking
 
 **Origin:** JAC / Atlan Naval Training Barge “Wardroom-3”, mid-Atlantic flotilla.
 
-Dante was a 14-year-old deck rat who turned zero-light hide-and-seek into a full-contact sport, routinely “capturing” armed marines in corridor drills.
+Raised on the Joint Atlantic Command flotilla, and molded by its culture of excellence and dedication to the restoration of civilization. Dante was a 14-year-old deck rat who obsessed over details, with an insatiable drive for mastery and efficiency in action. During recreationals, his finely-tuned tactical intuition and total commitment turned zero-light hide-and-seek into a full-contact sport, routinely “capturing” armed marines in corridor drills.
 
-He’s quiet, coiled, and intensely competitive, with a tendency to disappear from formation and reappear behind “enemy” lines. His callsign "Scorpio" (from _Scorpius_) reflects his preferred style: get close, sting once, leave nothing standing.
+His small size is gravely deceptive. He’s quiet, coiled, and intensely competitive, with a tendency to disappear from formation and reappear behind “enemy” lines. His callsign "Scorpio" (from _Scorpius_) reflects his preferred style: get close, sting once, leave nothing standing.
 
 #### Basic Info
 
