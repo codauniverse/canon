@@ -103,7 +103,7 @@ Finn Hughes’ later bio explicitly places him in the original UDA program, bene
 
 **Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
 
-A naturally gifted communicator, Amina was fast to pick up languages and recognize patterns. In her youth, she sat on a high hill overlooking the Casablanca corridor and saw lonely horizons calling to be reunited.
+A naturally gifted communicator, Amina has always been fast to pick up languages and recognize patterns. In her youth, she sat on a high hill overlooking the Casablanca corridor and saw lonely horizons calling to be reunited.
 
 By 16, she was already brokering compromises between African Union kijijis and Atlan logistics officers, translating politics as easily as the various languages she'd soaked up. Her aptitude was noticed by intelligence operatives, and her and her family were offered Atlan citizenship if she simply agreed to attend for one year at their full-spectrum leadership academy for gifted youth in Atla.
 
