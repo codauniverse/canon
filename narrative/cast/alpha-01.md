@@ -21,7 +21,7 @@ layout:
 
 ## Overview
 
-Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program). Operating in the liminal years between the late [Dark Decade](../../world/history/the-dark-decade.md) and the early [Reconstruction Era](../../world/history/the-reconstruction.md), Alpha-01 served as the proof-of-concept for what would become the [Unassisted Decisive Asset (UDA)](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) program, and, generations later, [Angelis’](../../world/gata/military-and-defense/angelis.md) modern [Mavericks](../../world/gata/military-and-defense/mavs.md#the-new-mavericks) and [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) divisions.
+Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program). Operating in the liminal years across the late [Dark Decade](../../world/history/the-dark-decade.md) and the early [Reconstruction Era](../../world/history/the-reconstruction.md), Alpha-01 served as the proof-of-concept for what would become the [Unassisted Decisive Asset (UDA)](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) program, and, generations later, [Angelis’](../../world/gata/military-and-defense/angelis.md) modern [Mavericks](../../world/gata/military-and-defense/mavs.md#the-new-mavericks) and [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) divisions.
 
 While their designation never appeared in the public [General Record](../../world/gata/politics/the-general-record.md), internal Atlan Research Corps and [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md) archives referred to them simply as “Alpha-01” — the first operational “cell” of Clear-enhanced soldiers trusted to operate with minimal support behind contested lines.
 
@@ -103,7 +103,7 @@ Finn Hughes’ later bio explicitly places him in the original UDA program, bene
 
 **Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
 
-A naturally gifted communicator, Amina has always been fast to pick up languages and recognize patterns. In her youth, she sat on a high hill overlooking the Casablanca corridor and saw lonely horizons calling to be reunited.
+A naturally gifted communicator, Amina has always been fast to pick up languages and recognize patterns. In her youth she was intensely curious about the world; the time before the Crash, news from other places, or what the future held. She sat on a high hill overlooking the Casablanca corridor watching for any activity in the distance, but most days saw only lonely horizons calling to be reunited.
 
 By 16, she was already brokering compromises between African Union kijijis and Atlan logistics officers, translating politics as easily as the various languages she'd soaked up. Her aptitude was noticed by intelligence operatives, and her and her family were offered Atlan citizenship if she simply agreed to attend for one year at their full-spectrum leadership academy for gifted youth in Atla.
 

@@ -252,6 +252,7 @@
 * [🌀 Saga](narrative/saga.md)
 * [🧩 Secrets](narrative/secrets/README.md)
   * [The Unit](narrative/secrets/the-unit.md)
+  * [The Clear Program](narrative/secrets/the-clear-program.md)
 
 ## Project
 

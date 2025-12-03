@@ -16,33 +16,25 @@ Among other augmentations, modern MAVs have miniaturized cog implants installed 
 
 ## **Origins**
 
-In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the desperate drive to recover human civilization from the brink birthed [Atla's](../key-locations/atla.md) ["Existence Doctrine"](existence-doctrine.md), an operational philosophy which permitted numerous compartmentalized programs to explore radical technologies and methods with minimal restriction.
+In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the desperate drive to recover human civilization from the brink birthed [Atla's](../key-locations/atla.md) ["Existence Doctrine"](existence-doctrine.md), an operational philosophy which permitted numerous compartmentalized programs to explore radical technologies and methods with minimal restriction. The Mavericks trace their origins to several of these programs.
 
-In particular, one Existence Doctrine program sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental gene therapy called ["Clear"](mavs.md#clear-serum).
+### The Clear Program and Alpha-01
 
-### The Clear Serum Program
+The Clear Program, a compartmentalized Existence Doctrine program, sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental therapy called ["Clear"](mavs.md#clear-serum).
 
-<figure><img src="../../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption><p>A field lab where the Clear Serum was administered to volunteers.</p></figcaption></figure>
+Meticulously selected recruits and students across Atla were injected with a test dose of the Clear serum under the guise of medical screenings and other exams.
 
-The Clear Program's goal was to enhance the physical and mental capabilities of Atla's military forces, and it was not long before the program yielded promising results. The experimental therapy drastically improved test subjects' reflexes, speed of thought and learning, immune system function, and healing capabilities. Notably, the serum slowed to a near-halt the accumulation of damage and dysfunction of the biological aging process.
+Those who proved to tolerate the formula were transferred to a secure base in Greenland where they were administered the complete Clear therapy over 8-12 weeks, and were inducted into an intensive training program where their aptitudes and performance were pushed to superhuman limits, culminating in the formation of an elite collaborative unit known as ["Alpha-01"](../../../narrative/cast/alpha-01.md).&#x20;
 
-However, it came at a cost; those who could endure the therapy experienced various side effects that required regular attending. One notable side effect was an extreme increase in metabolic rate, with subjects needing constant calories and hydration, and leaving them prone to overheating, causing them discomfort and distress when sedentary.
+<figure><img src="../../../.gitbook/assets/alpha01-883.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Early formulations of the Clear serum were primarily derived from [Silver Manna](../../nature-and-climate/the-manna-flower.md#mer-or-silver), as well as a range of classified research focused on producing genetic and epigenetic modifications in the subject. The exact formulation of Clear was always in flux, tweaked based on data from a world-wide DNA catalog being collected from Atlan refugee camps.&#x20;
+This unit served as a field test for these exceptional soldiers, with the aim of determining the optimal operational style for operatives gifted with their heightened capabilities. Their remarkable performance in the field would, in turn, culminate in the creation of the [Unassisted Decisive Assets](mavs.md#the-unassisted-decisive-assets).
 
-The Clear Program was helmed by the very team that had created the Manna flower, led by Dr. Valter Koenig. While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, its side effects narrowed its viability to limited military and intelligence applications.
-
-It is now estimated that as many as fifty thousand [Dark Decade](../../history/the-dark-decade.md) and [Reconstruction](../../history/the-reconstruction.md) refugees and veterans may have received some variant of the Clear Serum, many without their knowledge. For most, the first round of therapies had negligible or short-term effects, however some subjects—almost universally, young children and teens—responded spectacularly. There were others, however, who experienced severe side effects, particularly with successive rounds of the therapy (reminiscent of a condition known today as [Rejection Syndrome](../health-and-medicine/akicel-therapy.md#rejection-syndrome)).
-
-These early test subjects and their remarkable performance in the field as an unacknowledged elite unit designated ["Alpha-01"](../../../narrative/cast/alpha-01.md) inspired the creation of another [Existence Doctrine Program](existence-doctrine.md); the Unassisted Decisive Asset program.
-
-### Unassisted Decisive Assets
+### The Unassisted Decisive Assets
 
 <figure><img src="../../../.gitbook/assets/uda-424.png" alt="" width="563"><figcaption><p>Legendary UDA operative [Redacted], calmly assessing the field.</p></figcaption></figure>
 
-Those who survived the transformation were inducted into an intense training program where their aptitudes and performance were pushed to superhuman limits, culminating in the formation of an elite collaborative unit known as ["Alpha-01"](../../../narrative/cast/alpha-01.md). This unit served as a field test for these exceptional soldiers, with the aim of determining the optimal operational style for operatives gifted with their heightened capabilities.
-
-The final result of the short-lived Alpha-01 trial was the splitting up of the team into individual warfighters officially termed "Unassisted Decisive Assets" (UDAs). Singularly potent, and armed with GATA’s superior weaponry and equipment, a well-placed UDA could replace an entire battalion, undertaking critical assignments, from asset retrieval or protection, to sabotage and assassinations. Over time, these much-mythologized one-person armies acquired a more colloquial title — the "Mavericks."
+The [Alpha-01](../../../narrative/cast/alpha-01.md) trial culminated in the splitting up of its team into individual warfighters officially termed "Unassisted Decisive Assets" (UDAs). Singularly potent, and armed with GATA’s superior weaponry and equipment, a well-placed UDA could replace an entire battalion, undertaking critical assignments, from asset retrieval or protection, to sabotage and assassinations. Over time, these much-mythologized one-person armies acquired a more colloquial title — the "Mavericks."
 
 While incredibly performant, the UDAs had one fatal flaw in the eyes of GATA's military leadership. They were human; unpredictable, diverse in their convictions and methods, and ultimately, capable of disobeying commands.
 
@@ -56,11 +48,11 @@ For those within leadership and intelligence circles within GATA, the UDA progra
 
 ***
 
-## **The New MAVERICKS**
+## **The MAVERICK Division**
 
 <div><figure><img src="../../../.gitbook/assets/mavericks-353.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/mavericks-435.png" alt=""><figcaption></figcaption></figure></div>
 
-For over a decade, the Unassisted Decisive Asset (UDA) program had been sealed and remained officially unacknowledged. However, to the surprise of many, at the close of the Existence Doctrine, the [First Quorum](../politics/governance.md#the-first-quorum) acknowledged the program's existence and approved the formation of an official MAVERICK division under the banner of Angelis following the [Bright Mesa attack](../history/bright-mesa.md#the-bright-mesa-attack).
+For over a decade, the Unassisted Decisive Asset (UDA) program had been sealed and remained officially unacknowledged. However, to the surprise of many, at the close of the Existence Doctrine, the [First Quorum](../politics/governance.md#the-first-quorum) acknowledged the program's existence and approved the formation of an acknowledged MAVERICK division under the banner of Angelis following the [Bright Mesa attack](../history/bright-mesa.md#the-bright-mesa-attack).
 
 This modern MAVERICK division is an attempt to recover the operational dominance displayed by the original UDA program, however with less emphasis on operator independence and more emphasis on single-mindedness and adaptability. This shift is exemplified in the new program's internal designation: "Mission-Adaptive Variables".
 
