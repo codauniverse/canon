@@ -45,7 +45,7 @@ While Clear was originally conceived by Dr. Koenig with the intention that it co
 
 ***
 
-### Development and effects
+### Trials and effects
 
 The therapy consisted of a test dose of the Clear serum to test immune response. Then the primer was administered to cause genetic mutations that would induce receptivity. Once cells with that modification were suffused throughout the subject's tissues, the subject would be injected with multiple doses of the serum in increasing concentrations over an 8-12 week window.
 

@@ -81,20 +81,6 @@ Though raised as a **unit**, Alpha-01 rarely deployed as a single squad. More of
 
 ***
 
-### From Alpha-01 to the UDA Program
-
-Performance reports from Alpha-01’s deployments formed the backbone of the formal **Unassisted Decisive Asset (UDA)** program. The Existence Doctrine brass recognized that:
-
-* A single Clear-enhanced operator with elite training and modern gear could **replace entire battalions** for certain assignments.
-* Centralized command actually _slowed_ these operators down; they functioned best when given a mission objective and broad rules of engagement.
-* The single performance liability recurrent in Alpha-01 deployments was friction within the unit resulting from the extreme competence and rapid contextual integration of each operator, leading to rapid tactical divergences during an operation.
-
-When the UDA program was officially chartered as its own Existence Doctrine compartment, most surviving Alpha-01 members were quietly re-classified as UDAs. Their original unit designation was buried in redacted documentation; later classified histories speak only of “the original UDAs” and their mythic exploits.
-
-Finn Hughes’ later bio explicitly places him in the original UDA program, benefiting from Clear therapy and super-soldier training; Alpha-01 represents the **prototype phase** of that same path.
-
-***
-
 ## Team Members
 
 ### Amina “Crown” El-Baz
@@ -439,6 +425,18 @@ With his mental resilience and high pain tolerance, his Clear-boosted metabolism
   * Mother: alive, working as a cook and quartermaster for the watch post.
   * One older sister already enlisted in a non-Clear Atlan infantry unit.
   * Einar joins as a **volunteer from a military family**, with explicit blessing from his mother, who sees it as both duty and opportunity.
+
+***
+
+### From Alpha-01 to the UDA Program
+
+Performance reports from Alpha-01’s deployments inspired the creation of the Unassisted Decisive Asset (UDA) program. The Existence Doctrine brass recognized that:
+
+* A single Clear-enhanced operator with elite training and modern gear could replace entire battalions for certain assignments.
+* Centralized command actually _slowed_ these operators down; they functioned best when given a mission objective and broad rules of engagement.
+* The single performance liability recurrent in Alpha-01 deployments was friction within the unit resulting from the extreme competence and rapid contextual integration of each operator, leading to rapid tactical divergences during an operation.
+
+When the UDA program was officially chartered as its own Existence Doctrine compartment, the Alpha program was shuttered. Most surviving Alpha-01 members were quietly re-classified as UDAs. Their original unit designation was buried in redacted documentation; later classified histories speak only of “the original UDAs” and their mythic exploits.
 
 ***
 

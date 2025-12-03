@@ -20,11 +20,11 @@ In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the
 
 ### The Clear Program and Alpha-01
 
-The Clear Program, a compartmentalized Existence Doctrine program, sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental therapy called ["Clear"](mavs.md#clear-serum).
+[The Clear Program](../../../narrative/secrets/the-clear-program.md), a compartmentalized Existence Doctrine program, sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental therapy called ["Clear"](mavs.md#clear-serum).
 
 Meticulously selected recruits and students across Atla were injected with a test dose of the Clear serum under the guise of medical screenings and other exams.
 
-Those who proved to tolerate the formula were transferred to a secure base in Greenland where they were administered the complete Clear therapy over 8-12 weeks, and were inducted into an intensive training program where their aptitudes and performance were pushed to superhuman limits, culminating in the formation of an elite collaborative unit known as ["Alpha-01"](../../../narrative/cast/alpha-01.md).&#x20;
+Those who proved to tolerate the formula were transferred to a secure base in Greenland where they were administered the complete Clear therapy over 8-12 weeks, and were inducted into an intensive training program where their aptitudes and performance were pushed to superhuman limits, culminating in the formation of an elite collaborative unit known as ["Alpha-01"](../../../narrative/cast/alpha-01.md).
 
 <figure><img src="../../../.gitbook/assets/alpha01-883.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ While incredibly performant, the UDAs had one fatal flaw in the eyes of GATA's m
 
 ### End of the Existence Doctrine
 
-When the Clear program and original UDA program were dissolved, all related records were scrubbed from the [General Record](../politics/the-general-record.md) by the [AIC](../institutions/atlan-information-control-aic.md). Whispers persist that the UDA program was responsible for numerous infamous scandals during the [Reconstruction Era](../../history/the-reconstruction.md), however these claims remain unsubstantiated.
+When [the Clear program](../../../narrative/secrets/the-clear-program.md) and original UDA program were dissolved, all related records were scrubbed from the [General Record](../politics/the-general-record.md) by the [AIC](../institutions/atlan-information-control-aic.md). Whispers persist that the UDA program was responsible for numerous infamous scandals during the [Reconstruction Era](../../history/the-reconstruction.md), however these claims remain unsubstantiated.
 
 And even darker rumors abound – some assert that [ALTAR](../institutions/altar.md) keeps retired UDAs in cryostasis, while others trade tales of renegade former UDAs operating in the shadows, working for criminal syndicates or Sovereign factions in [the Free Territories](../../free-territories/the-basics.md).
 
