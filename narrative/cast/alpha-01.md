@@ -29,27 +29,27 @@ While their designation never appeared in the public [General Record](../../worl
 
 ### Origins
 
-Under [the Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md), Atla authorized a suite of extreme programs intended to “test the limits” of human capability, including [the Clear Serum project](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program) — an experimental gene therapy derived primarily from [Silver Manna](../../world/nature-and-climate/the-manna-flower.md#mer-or-silver) and classified genetic research.
+Under [the Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md), Atla authorized a suite of extreme programs intended to “test the limits” of human capability, including [the Clear Program](../secrets/the-clear-program.md) — an project to develop an experimental gene therapy derived primarily from [Silver Manna](../../world/nature-and-climate/the-manna-flower.md#mer-or-silver) and classified genetic research.
+
+The Clear therapy dramatically improved qualifying subjects’ reflexes, learning speed, immune function, and healing, at the cost of severe side-effects: runaway metabolism, heat intolerance, and a dependence on constant nutritional intake.
 
 <figure><img src="../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption></figcaption></figure>
 
-The Clear program dramatically improved qualifying subjects’ reflexes, learning speed, immune function, and healing, at the cost of severe side-effects: runaway metabolism, heat intolerance, and a dependence on constant nutritional intake.
+Over the Dark Decade and early Reconstruction, as many as \~50,000 refugees and veterans are believed to have received test doses of some variant of Clear, most with negligible or transient effects, and some suffering extreme detrimental reactions. A tiny fraction, however, responded _spectacularly_–exclusively teenagers and adolescents.
 
-Over the Dark Decade and early Reconstruction, as many as \~50,000 refugees and veterans are believed to have received some variant of Clear, most with negligible or transient effects, and some suffering extreme detrimental reactions. A tiny fraction, however, responded _spectacularly_–exclusively teenagers and adolescents.
-
-From that elite minority, [JAC](../../world/gata/history/the-joint-atlantic-command-jac.md)-era research groups (which would later be folded into the Research Corps and [ALTAR](../../world/gata/institutions/altar.md)) assembled a prototype special-operations unit: Alpha-01.
+The most promising recruits and students from across Atla were screened for tolerance and from that elite minority, a compartmentalized program codenamed Alpha assembled a prototype special-operations unit: Alpha-01.
 
 ***
 
 ### Formation and Selection
 
-Alpha-01 drew its recruits from [Joint Atlantic Command](../../world/gata/history/the-joint-atlantic-command-jac.md) training camps and refugee-camp academies scattered across [GATA’s](../../world/gata/the-basics.md) emergent territories. Candidates had to meet three criteria:
+Alpha-01 drew its recruits from training camps and refugee-camp schools scattered across [GATA’s](../../world/gata/the-basics.md) emergent territories. Candidates had to meet three criteria:
 
 1. **Stable Clear response** – Subjects who survived repeated Clear rounds without catastrophic rejection and demonstrated consistent performance gains.
 2. **Cognitive and emotional resilience** – Measured by long-horizon tactical exercises, isolation drills, and exposure to Reconstruction-era conflict zones as intelligence and strategic support.
 3. **Field aptitude** – Demonstrated initiative and performance in training and academic contexts, and eventually, live operations attached to regular JAC units.
 
-Due to Clear’s side-effects on cellular repair and metabolism, Alpha-01’s operators experienced dramatically slowed biological aging. As evidenced much later with Clear Program veterans such as Finneas “Finn” Hughes, who appeared perpetually twenty even into his fifties, Alpha-01’s members retained the appearance of late adolescents despite being between young adults when the unit was formally stood up.
+Due to Clear’s side-effects on cellular repair and metabolism, Alpha-01’s operators experienced dramatically slowed biological aging. This effect is apparent in Clear Program veterans such as Finneas Hughes, who appeared perpetually twenty even into his fifties.
 
 Classified rosters differ, but commonly list Dante Newton, Finneas Hughes, and several other operatives as early mainstays of Alpha-01, with individual codenames later subsumed into UDA classifications. It is an open secret that a number of decorated and legendary figures in Atlan military history trace their origins through the unacknowledged UDA program to the rumored exploits of Alpha-01.
 
