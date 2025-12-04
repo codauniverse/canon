@@ -35,19 +35,19 @@ Once a promising formulation for a prospective serum was found, research turned 
 
 After nearly a year of work in the lab, the project was moved to a JAC military facility in Greenland for the final phase of live experiments and, eventually, large-scale human trials. No records exist in [the General Record](../../world/gata/politics/the-general-record.md) or Research Corps archives detailing this later phase of research, however it was not long before they yielded significant results.
 
-Based on later meta analysis of historic documents, a classified internal Research Corps review estimated that as many as fifty thousand [Dark Decade](../../world/history/the-dark-decade.md) and [Reconstruction](../../world/history/the-reconstruction.md) refugees and veterans may have received a dose of variants of the Clear Serum during development, all without their knowledge.
+Based on post-Existence Doctrine meta analysis of historic documents, a classified internal Research Corps review estimated that as many as fifty thousand [Dark Decade](../../world/history/the-dark-decade.md) and [Reconstruction](../../world/history/the-reconstruction.md) refugees and veterans may have received a dose of variants of the Clear Serum during development, all without their knowledge.
 
-After the [New Dawn Declaration](../../world/gata/history/new-dawn-declaration.md) and the founding of [Atla](../../world/gata/key-locations/atla.md), there was pressure from Research Corps leadership to get the first Clear-enhanced operatives into the field. A military-led compartment was opened for a special operations training program [called Alpha](../cast/alpha-01.md), which began scouting and cultivating for prospective operatives among the youth.
+After the [New Dawn Declaration](../../world/gata/history/new-dawn-declaration.md) and the founding of [Atla](../../world/gata/key-locations/atla.md), there was pressure from Research Corps and military leadership to get the first Clear-enhanced operatives into the field. A military-led compartment was opened for a special operations training program [called Alpha](../cast/alpha-01.md), which began scouting and cultivating prospective operatives from among the youth.
 
-A year later, and nearly four years since research had begun, the Clear serum was ready, and the first cohort for the Alpha program had been selected. These early test subjects and their remarkable performance in the field as an unacknowledged elite unit designated ["Alpha-01"](../cast/alpha-01.md) inspired the creation of another [Existence Doctrine Program](../../world/gata/military-and-defense/existence-doctrine.md); the [Unassisted Decisive Assets](the-clear-program.md#unassisted-decisive-assets).
+A year later, and nearly four years since research had begun, the Clear serum was ready, and the first cohort for the Alpha program had been selected. These early test subjects and their remarkable performance in the field as an unacknowledged elite unit designated ["Alpha-01"](../cast/alpha-01.md) later inspired the creation of another [Existence Doctrine Program](../../world/gata/military-and-defense/existence-doctrine.md); the [Unassisted Decisive Assets](the-clear-program.md#unassisted-decisive-assets).
 
-While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, ultimately its side effects had narrowed its viability to limited military and intelligence applications.
+While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, ultimately its complicating side effects narrowed its viability to limited military and intelligence applications.
 
 ***
 
 ### Trials and effects
 
-The therapy consisted of a test dose of the Clear serum to test immune response. Then the primer was administered to cause genetic mutations that would induce receptivity. Once cells with that modification were suffused throughout the subject's tissues, the subject would be injected with multiple doses of the serum in increasing concentrations over an 8-12 week window.
+The therapy protocol consisted of an initial test dose of the Clear serum to monitor immune response. If the serum was tolerated, the "primer" was administered to trigger genetic mutations that would induce receptivity. Once cells with that modification were suffused throughout the subject's tissues, the subject would be injected with multiple doses of the serum in increasing concentrations over an 8-12 week window.
 
 In successful trials subjects demonstrated dramatically improved reflexes, cognitive bandwidth, salience control, short and long-term memory, immune system function, and healing. Skin, muscle, bone, and other tissues throughout the body were modified to improve function and resilience. Notably, the serum slowed to a near-halt the accumulation of damage and dysfunction produced during the natural biological aging process.
 

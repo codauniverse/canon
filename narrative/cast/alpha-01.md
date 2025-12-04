@@ -21,7 +21,9 @@ layout:
 
 ## Overview
 
-Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program). Operating in the liminal years across the late [Dark Decade](../../world/history/the-dark-decade.md) and the early [Reconstruction Era](../../world/history/the-reconstruction.md), Alpha-01 served as the proof-of-concept for what would become the [Unassisted Decisive Asset (UDA)](../../world/gata/military-and-defense/mavs.md#the-unassisted-decisive-assets) program, and, generations later, [Angelis’](../../world/gata/military-and-defense/angelis.md) modern [Mavericks](../../world/gata/military-and-defense/mavs.md#the-maverick-division) and [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) divisions.
+Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../secrets/the-clear-program.md), a compartmentalized carry-over from the [JAC](../../world/gata/history/the-joint-atlantic-command-jac.md) that had begun during [the Dark Decade](../../world/history/the-dark-decade.md).
+
+Operating in the liminal years of the early [Reconstruction Era](../../world/history/the-reconstruction.md), Alpha-01 served as the proof-of-concept for what would become the [Unassisted Decisive Asset (UDA)](../../world/gata/military-and-defense/mavs.md#the-unassisted-decisive-assets) program, and, generations later, [Angelis’](../../world/gata/military-and-defense/angelis.md) modern [Mavericks](../../world/gata/military-and-defense/mavs.md#the-maverick-division) and [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) divisions.
 
 While their designation never appeared in the public [General Record](../../world/gata/politics/the-general-record.md), internal Atlan Research Corps and [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md) archives referred to them simply as “Alpha-01” — the first operational “cell” of Clear-enhanced soldiers trusted to operate with minimal support behind contested lines.
 
@@ -29,7 +31,7 @@ While their designation never appeared in the public [General Record](../../worl
 
 ### Origins
 
-Under [the Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md), Atla authorized a suite of extreme programs intended to “test the limits” of human capability, including [the Clear Program](../secrets/the-clear-program.md) — an project to develop an experimental gene therapy derived primarily from [Silver Manna](../../world/nature-and-climate/the-manna-flower.md#mer-or-silver) and classified genetic research.
+Under [the Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md), the JAC authorized a suite of extreme programs intended to “test the limits” of human capability, including [the Clear Program](../secrets/the-clear-program.md) — a project to develop an experimental therapy derived primarily from [Silver Manna](../../world/nature-and-climate/the-manna-flower.md#mer-or-silver) and classified genetic research.
 
 The Clear therapy dramatically improved qualifying subjects’ reflexes, learning speed, immune function, and healing, at the cost of severe side-effects: runaway metabolism, heat intolerance, and a dependence on constant nutritional intake.
 
@@ -37,13 +39,13 @@ The Clear therapy dramatically improved qualifying subjects’ reflexes, learnin
 
 Over [the Dark Decade](../../world/history/the-dark-decade.md) and [early Reconstruction](../../world/history/the-reconstruction.md), as many as \~50,000 refugees and veterans are believed to have received test doses of some variant of Clear, most with negligible or transient effects, and some suffering extreme detrimental reactions. A tiny fraction, however, responded _spectacularly_–exclusively teenagers and adolescents.
 
-The most promising recruits and students from across [Greater Atla](../../world/gata/politics/greater-atla.md) were screened for tolerance and from that elite minority, a compartmentalized program codenamed Alpha assembled a prototype special-operations unit: Alpha-01.
+Shortly after the formal founding of [Atla](../../world/gata/key-locations/atla.md), there was a push to field Clear-enhanced soldiers and a new initiative took shape. The most promising recruits and students from across [Greater Atla](../../world/gata/politics/greater-atla.md) were screened for tolerance and from that elite minority, a compartmentalized program codenamed Alpha assembled a prototype special-operations unit: Alpha-01.
 
 ***
 
 ### Formation and Selection
 
-Alpha-01 drew its recruits from training camps and refugee-camp schools scattered across [GATA’s](../../world/gata/the-basics.md) emergent territories. Candidates had to meet three criteria:
+Alpha-01 drew its recruits from its newly introduced academy system, as well as training camps and refugee schools scattered across [Greater Atla's](../../world/gata/politics/greater-atla.md) emergent territories. Candidates had to meet three criteria:
 
 1. **Stable Clear response** – Subjects who survived repeated Clear rounds without catastrophic rejection and demonstrated consistent performance gains.
 2. **Cognitive and emotional resilience** – Measured by long-horizon tactical exercises, isolation drills, and exposure to Reconstruction-era conflict zones as intelligence and strategic support.
@@ -69,7 +71,7 @@ Informally, instructors referred to Alpha-01 as “ghosts in training”: small,
 
 ### Operational Role
 
-Alpha-01 operated primarily during early [Reconstruction](../../world/history/the-reconstruction.md), when Atla still fielded a national military directly under its [local government's](../../world/gata/politics/districts.md#local-government) authority and the lines between humanitarian missions and black-budget operations were blurry.
+Alpha-01 operated primarily during the early [Reconstruction](../../world/history/the-reconstruction.md), when Atla still fielded a national military directly under its [local government's](../../world/gata/politics/districts.md#local-government) authority and the lines between humanitarian missions and black-budget operations were blurry.
 
 Typical assignments included:
 
