@@ -51,7 +51,7 @@ Alpha-01 drew its recruits from training camps and refugee-camp schools scattere
 
 Due to Clear’s side-effects on cellular repair and metabolism, Alpha-01’s operators experienced dramatically slowed biological aging. This effect is apparent in Clear Program veterans such as Finneas Hughes, who appeared perpetually twenty even into his fifties.
 
-Classified rosters differ, but commonly list Dante Newton, Finneas Hughes, and several other operatives as early mainstays of Alpha-01, with individual codenames later subsumed into UDA classifications. It is an open secret that a number of decorated and legendary figures in Atlan military history trace their origins through the unacknowledged UDA program to the rumored exploits of Alpha-01.
+Classified rosters differ, but commonly list Dante Newton, Finneas Hughes, and several other operatives as early mainstays of Alpha-01, with individual codenames later subsumed into UDA classifications. It is an open secret that a number of decorated and legendary figures in Atlan military history trace their origins through the UDA program to the rumored exploits of Alpha-01.
 
 ***
 
