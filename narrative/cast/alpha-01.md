@@ -21,7 +21,7 @@ layout:
 
 ## Overview
 
-Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program). Operating in the liminal years across the late [Dark Decade](../../world/history/the-dark-decade.md) and the early [Reconstruction Era](../../world/history/the-reconstruction.md), Alpha-01 served as the proof-of-concept for what would become the [Unassisted Decisive Asset (UDA)](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) program, and, generations later, [Angelis’](../../world/gata/military-and-defense/angelis.md) modern [Mavericks](../../world/gata/military-and-defense/mavs.md#the-new-mavericks) and [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) divisions.
+Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program). Operating in the liminal years across the late [Dark Decade](../../world/history/the-dark-decade.md) and the early [Reconstruction Era](../../world/history/the-reconstruction.md), Alpha-01 served as the proof-of-concept for what would become the [Unassisted Decisive Asset (UDA)](../../world/gata/military-and-defense/mavs.md#the-unassisted-decisive-assets) program, and, generations later, [Angelis’](../../world/gata/military-and-defense/angelis.md) modern [Mavericks](../../world/gata/military-and-defense/mavs.md#the-maverick-division) and [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) divisions.
 
 While their designation never appeared in the public [General Record](../../world/gata/politics/the-general-record.md), internal Atlan Research Corps and [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md) archives referred to them simply as “Alpha-01” — the first operational “cell” of Clear-enhanced soldiers trusted to operate with minimal support behind contested lines.
 
@@ -35,9 +35,9 @@ The Clear therapy dramatically improved qualifying subjects’ reflexes, learnin
 
 <figure><img src="../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Over the Dark Decade and early Reconstruction, as many as \~50,000 refugees and veterans are believed to have received test doses of some variant of Clear, most with negligible or transient effects, and some suffering extreme detrimental reactions. A tiny fraction, however, responded _spectacularly_–exclusively teenagers and adolescents.
+Over [the Dark Decade](../../world/history/the-dark-decade.md) and [early Reconstruction](../../world/history/the-reconstruction.md), as many as \~50,000 refugees and veterans are believed to have received test doses of some variant of Clear, most with negligible or transient effects, and some suffering extreme detrimental reactions. A tiny fraction, however, responded _spectacularly_–exclusively teenagers and adolescents.
 
-The most promising recruits and students from across Atla were screened for tolerance and from that elite minority, a compartmentalized program codenamed Alpha assembled a prototype special-operations unit: Alpha-01.
+The most promising recruits and students from across [Greater Atla](../../world/gata/politics/greater-atla.md) were screened for tolerance and from that elite minority, a compartmentalized program codenamed Alpha assembled a prototype special-operations unit: Alpha-01.
 
 ***
 
@@ -57,11 +57,11 @@ Classified rosters differ, but commonly list Dante Newton, Finneas Hughes, and s
 
 ### Training and Doctrine
 
-Alpha-01’s training blended three threads that would later define both UDAs and MAVs:
+Alpha-01’s training blended three threads that would later define both UDAs and modern MAVs:
 
 * **Extreme autonomy** – Operators were drilled to plan, execute, and exfiltrate missions without real-time command oversight, foreshadowing the “Unassisted” doctrine that would later be formalized in the UDA program.
 * **Multi-domain competence** – Alpha-01 trained in urban, desert, and littoral environments, often alongside early war-frame pilots (precursors to Guardians) but with strict constraints on support, forcing them to treat heavy assets as temporary tools rather than crutches.
-* **Prototype integration** – They served as live testbeds for emergent tech: early combat gear, crude link-driven tactical networks, and medical protocols for managing Clear’s metabolic demands.
+* **Prototype integration** – They served as live testbeds for emergent technologies: early combat gear, crude link-driven tactical networks, and medical protocols for managing Clear’s metabolic demands.
 
 Informally, instructors referred to Alpha-01 as “ghosts in training”: small, mobile, almost impossible to pin down on a conventional battlefield.
 
@@ -69,7 +69,7 @@ Informally, instructors referred to Alpha-01 as “ghosts in training”: small,
 
 ### Operational Role
 
-Alpha-01 operated primarily during early [Reconstruction](../../world/history/the-reconstruction.md), when GATA still fielded a national military directly under Atla’s authority and the lines between humanitarian missions and black-budget operations were blurry.
+Alpha-01 operated primarily during early [Reconstruction](../../world/history/the-reconstruction.md), when Atla still fielded a national military directly under its [local government's](../../world/gata/politics/districts.md#local-government) authority and the lines between humanitarian missions and black-budget operations were blurry.
 
 Typical assignments included:
 
@@ -77,7 +77,7 @@ Typical assignments included:
 * **Infrastructure sabotage** — disabling logistics networks, comms, or levy systems under cover of natural or engineered disasters, echoing later rumors about [UDA](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) involvement in catastrophic events like the destruction of New Orleans.
 * **Asset retrieval & protection** — securing high-value scientific personnel, data, or [Found Objects](../../world/science-and-tech/found-objects.md) and adjacent materials for [the Research Corps](../../world/sol/institutions/the-research-corps.md) and [ALTAR](../../world/gata/institutions/altar.md).
 
-Though raised as a **unit**, Alpha-01 rarely deployed as a single squad. More often, its members were attached singly or in pairs to conventional forces, trial-running the very concept of a one-person “decisive asset.”
+Though raised as a unit, Alpha-01 rarely deployed as a single squad. More often, its members were attached singly or in small teams to conventional forces, or as strategic and tactical levers in active conflict zones, trial-running the concept of a one-person “decisive asset.”
 
 ***
 
@@ -89,15 +89,15 @@ Though raised as a **unit**, Alpha-01 rarely deployed as a single squad. More of
 
 **Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
 
-A naturally gifted communicator, Amina has always been fast to pick up languages and recognize patterns. In her youth she was intensely curious about the world; the time before the Crash, news from other places, or what the future held. She sat on a high hill overlooking the Casablanca corridor watching for any activity in the distance, but most days saw only lonely horizons calling to be reunited.
+A naturally gifted communicator, Amina had always been fast to pick up languages and recognize patterns. In her youth she was intensely curious about the world; the time before the Crash, news from other places, or what the future held. She sat on a high hill overlooking the Casablanca corridor watching for any activity in the distance, but most days saw only lonely horizons calling to be reunited.
 
 By 16, she was already brokering compromises between African Union kijijis and Atlan logistics officers, translating politics as easily as the various languages she'd soaked up. Her aptitude was noticed by intelligence operatives, and her and her family were offered Atlan citizenship if she simply agreed to attend for one year at their full-spectrum leadership academy for gifted youth in Atla.
 
-In war games she consistently built slow, grinding victories that leveraged human intelligence and cultural knowledge to recruit or embolden local forces, preserving positional advantages and infrastructure against unlikely odds. When instructors challenged her tactical priorities, she demonstrated record times for victory conditions across nearly all sims. Then she showed them the long term stability simulations she had been compiling during her discretionary curriculum track. She had been benchmarking herself against the Research Corps' best case Stability Index scores for the relevant locales over medium and long-term time horizons.
+In war games she consistently built slow, grinding victories that leveraged human intelligence and cultural knowledge to recruit or embolden local allies, preserving positional advantages and infrastructure against unlikely odds. When instructors challenged her tactical priorities, she demonstrated record times for victory conditions across nearly all sims when explicitly optimizing for speed. Then she showed them the long term stability simulations she had been compiling during her discretionary curriculum track. She had been benchmarking herself against the Research Corps' best case Stability Index scores for the relevant locales over medium and long-term time horizons. She wasn't winning battles—she was ending wars.
 
-After one year at the academy, and a mandatory health screening for eligibility, she was invited to join a classified Existence Doctrine special operative training program. Little did she know, she had already been administered the Clear Serum during her medical exam. She was the first recruit for Alpha-01, and its initial team composition was largely centered around supporting and extending her command.
+After one year at the academy, and an ostensibly routine health screening, she was invited to join a classified Existence Doctrine special operative training program. Little did she know, she had already been administered a test dose of the Clear Serum during her medical exam, establishing her tolerance. She was the first recruit for Alpha-01, and the unit's initial team composition was largely centered around supporting and extending her command.
 
-Her callsign "Crown" (from _Corona Borealis_) nods to both the constellation and the way she naturally assumes a leadership center of gravity, even when she doesn’t want command.
+Her callsign "Crown" (from _Corona Borealis_) nods to both the constellation and the way she naturally assumes a leadership center of gravity, even when she believes the stated objectives are flawed. She has a knack for completing missions her own way while managing to not technically disobey orders.
 
 #### Basic Info
 
@@ -430,7 +430,7 @@ With his mental resilience and high pain tolerance, his Clear-boosted metabolism
 
 ### From Alpha-01 to the UDA Program
 
-Performance reports from Alpha-01’s deployments inspired the creation of the Unassisted Decisive Asset (UDA) program. The Existence Doctrine brass recognized that:
+Performance reports from Alpha-01’s deployments inspired the creation of [the Unassisted Decisive Asset (UDA) program](../../world/gata/military-and-defense/mavs.md#the-unassisted-decisive-assets). The [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md) brass recognized that:
 
 * A single Clear-enhanced operator with elite training and modern gear could replace entire battalions for certain assignments.
 * Centralized command actually _slowed_ these operators down; they functioned best when given a mission objective and broad rules of engagement.
@@ -442,11 +442,11 @@ When the UDA program was officially chartered as its own Existence Doctrine comp
 
 ### Dissolution and Scattered Afterlives
 
-When the [Clear](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program) and [UDA](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) programs were dissolved at the end of the [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md), all related records were scrubbed from [the General Record](../../world/gata/politics/the-general-record.md) by [Atlan Information Control (AIC)](../../world/gata/institutions/atlan-information-control-aic.md). Alpha-01, never publicly acknowledged in the first place, effectively ceased to exis**t** on paper.
+When the [Clear](../../world/gata/military-and-defense/mavs.md#the-clear-serum-program) and [UDA](../../world/gata/military-and-defense/mavs.md#the-unassisted-decisive-assets) programs were dissolved at the end of the [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md), all related records were scrubbed from [the General Record](../../world/gata/politics/the-general-record.md) by [Atlan Information Control (AIC)](../../world/gata/institutions/atlan-information-control-aic.md). Alpha-01, never publicly acknowledged in the first place, effectively ceased to exis**t** on paper.
 
 Fates of known members varied:
 
-* Some, like Finneas Hughes, transitioned into official [Angelis](../../world/gata/military-and-defense/angelis.md) channels, eventually joining [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) or the [modern Mavericks](../../world/gata/military-and-defense/mavs.md#the-new-mavericks) division, becoming legends in their own right.
+* Some, like Finneas Hughes, transitioned into official [Angelis](../../world/gata/military-and-defense/angelis.md) channels, eventually joining [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) or the [modern MAVERICK division](../../world/gata/military-and-defense/mavs.md#the-maverick-division), becoming legends in their own right.
 * Others are rumored to have been retained by [ALTAR](../../world/gata/institutions/altar.md) in cryostasis or deep-black assignments, however this is completely unsubstantiated.
 * Still more are whispered to have defected or gone to ground as [dark operators](../../world/gata/enterprise/operators.md#dark-operators), mercenaries, or ghosts in [the Free Territories’](../../world/free-territories/the-basics.md) [criminal underworld](../../world/gata/criminal-element/syndicates.md).
 
@@ -458,7 +458,7 @@ For those who survived, the psychological toll of extended youth, decades of vio
 
 Though erased from [the General Record](../../world/gata/politics/the-general-record.md), Alpha-01’s fingerprints are visible across modern GATA military doctrine:
 
-* **Mavericks** – The [modern Maverick division](../../world/gata/military-and-defense/mavs.md#the-new-mavericks) is explicitly described as the culmination of the Reconstruction Era special operations, an indirect nod to the UDAs and, for those who know, Alpha-01.
+* **Mavericks** – The [modern Maverick division](../../world/gata/military-and-defense/mavs.md#the-maverick-division) is explicitly described as the culmination of the Reconstruction Era special operations, an indirect nod to the UDAs and, for those who know, Alpha-01.
 * **Rapid Response Ethos** – [Rapid Response’s](../../world/gata/military-and-defense/rapid-response.md) small, high-trust teams of multi-role operators, often dropped via [Aegis pods](../../world/gata/military-and-defense/angelis.md#aegis-drop-pods) into chaotic disaster zones and warfields, echo very directly the “few against many” design Alpha-01 pioneered—embodied clearly by Finn Hughes, who transitioned into the Rapid Response division after its formation and set its highest of watermarks.
 * **Ethical Caution** – Rumors of Alpha-01’s covert actions and the later scandals associated with UDAs helped shape the strict technological and military constraints encoded into Angelis' policies and procedures, and the eventual dissolution of [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md) programs.
 
