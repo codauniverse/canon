@@ -45,7 +45,21 @@ While Clear was originally conceived by Dr. Koenig with the intention that it co
 
 ***
 
-### Trials and effects
+### Clear therapy
+
+A schedule of multiple compounds and controlled interventions targeting the genome, immune system, nervous system, and endocrine system using a multimodal approach. Central to the therapy is the Clear serum, the driving ingredient in the therapy's transformative effects.
+
+The therapy's administration protocol is as follows:
+
+1. **Screening dose** — Test the subject's tolerance using trace elements of the active serum, followed by a 4-week monitoring period.
+2. **Primer** — Administration of a secretive catalyzing compound that triggers a temporary increase in cell wall permeability, and suppresses immune activity.
+3. **Serum schedule** — 20-50 injections over an 8-12 week period, adjusted as required based on subject's sensitivity to the process.
+4. **Intermittent treatments** — Various interventions using light, sound, and ultra-low frequencies, hot and cold exposure, intensive physical and cognitive training, bounded sleep deprivation exercises, and extended sensory deprivation sessions.\
+   \
+   These treatments stimulate the up and down regulation of different intracellular activities in a closely monitored progression. The subject also is given several other drugs to manage symptoms and stabilize their body's condition.
+5. **Extended monitoring** - Subjects undergo regular psych evaluations and their biometrics, blood and tissue samples are continuously collected and monitored for 6 months to identify any complications or irregularities.
+
+#### Trials and effects
 
 The therapy protocol consisted of an initial test dose of the Clear serum to monitor immune response. If the serum was tolerated, the "primer" was administered to trigger genetic mutations that would induce receptivity. Once cells with that modification were suffused throughout the subject's tissues, the subject would be injected with multiple doses of the serum in increasing concentrations over an 8-12 week window. Shorter schedules can stress the human mind and body, and longer schedules risk triggering an adverse immune response, however as with most Clear therapy effects, there is individual variance.
 

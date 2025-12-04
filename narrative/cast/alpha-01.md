@@ -87,6 +87,8 @@ Though raised as a unit, Alpha-01 rarely deployed as a single squad. More often,
 
 ### Amina “Crown” El-Baz
 
+_Team Leader, master strategist, natural diplomat._
+
 <figure><img src="../../.gitbook/assets/amina-442.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Origin:** Casablanca Breakwater Camp, North African AU–Atla corridor.
@@ -310,9 +312,15 @@ He approaches combat like engineering—find the one joint, bridge, or pylon who
 
 ### Léonie “Lyra” Maurel
 
+_Signal intelligence and reverse engineering specialist._
+
 **Origin:** Brest Garden Annex, first class of the Paris Atlan Academy.
 
-At 12, Léonie could keep her friends from three refugee camps talking over a jury-rigged radio net made of scavenged wire and Manna crates when everyone else’s systems were dead. At 13, she was suddenly transferred from the Garden School to the Paris Atlan Academy on an unexpected Research Corps sponsorship, and was subsequently flagged for the Clear Program during her medical screening; a near perfect template match for the efficacy profile. A few weeks later she was in Greenland with a Research Corps' assigned chaperon, being read into the rest of her life.
+At 12, Léonie could keep her friends from three refugee camps talking over a jury-rigged radio net made of scavenged wire and Manna crates when everyone else’s systems were dead. She could take anything apart and put it back together, often working better than it ever had, and had an uncanny knack for being able to identify what matters, and block out the noise. Her relatively flat affect led some in her life to feel she was disinterested or detached, but she would often later demonstrate she simply had been working everything out internally.
+
+At 13, she was suddenly transferred from the Garden School to the Paris Atlan Academy on an unexpected Research Corps sponsorship where she studied encryption, taking a particular interest in the Daemon virus and the network events precipitating the Crash, curious if there was signal in the noise. This drove her to shift her focus to gaining expertise in legacy tech-forensics and reverse engineering.
+
+Her performance and psychological profile caught the interest of Alpha program recruiters, and she was subsequently flagged for Clear therapy screening. She proved to be a near perfect template match for the Clear serum's efficacy profile. A few weeks later she was in Greenland with a Research Corps' assigned chaperon, being read into the rest of her life.
 
 Early link-like BCI prototypes responded to her with uncanny mental stability, and the Clear treatments only sharpened her high-bandwidth focus. Soft-spoken, with a dry wit, she chose "Lyra" (from the lyre constellation) as her callsign, insisting that signal intelligence is just battlefield music—you don't describe it, you feel it, and if you stop hearing it, something’s gone very wrong.
 
