@@ -35,7 +35,7 @@ Under [the Existence Doctrine](../../world/gata/military-and-defense/existence-d
 
 The Clear therapy dramatically improved qualifying subjects’ reflexes, learning speed, immune function, and healing, at the cost of severe side-effects: runaway metabolism, heat intolerance, and a dependence on constant nutritional intake.
 
-<figure><img src="../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/uda-435.png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/clear-44.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Over [the Dark Decade](../../world/history/the-dark-decade.md) and [early Reconstruction](../../world/history/the-reconstruction.md), as many as \~50,000 refugees and veterans are believed to have received test doses of some variant of Clear, most with negligible or transient effects, and some suffering extreme detrimental reactions. A tiny fraction, however, responded _spectacularly_–exclusively teenagers and adolescents.
 
