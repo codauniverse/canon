@@ -6,6 +6,8 @@
 
 Atla, the [Greater Atlan Territorial Alliance's (GATA's)](../the-basics.md) capitol, as well as its first and most influential district. Technically, Atla remains a state unto itself, but following its ratification of the [New Dawn Accords (NDA)](../law-and-order/new-dawn-accords.md) in 2062, its citizens voted by overwhelming majority to delegate the young nation's sovereignty to [The System](../politics/the-system.md)—a gesture signaling to other nations Atla's absolute commitment to the NDA's vision.
 
+<figure><img src="../../../.gitbook/assets/atlan-flag_2.jpg" alt="" width="375"><figcaption><p>Atla's national and district flag.</p></figcaption></figure>
+
 Originally founded from a [floating colony of naval ships](../history/the-joint-atlantic-command-jac.md) during [the Dark Decade](../../history/the-dark-decade.md), Atla has since transformed into a vast sea-set metropolis reaching above and below the waves roughly 1,600 km West of the Strait of Gibraltar.
 
 Its strategic location in the Atlantic Ocean and its pivotal role in the restoration of global welfare and diplomacy in the later years of the Dark Decade and throughout [the Reconstruction](../../history/the-reconstruction.md) has made it it a focal point of global politics, power and culture.
