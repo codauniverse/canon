@@ -17,7 +17,7 @@ layout:
 
 # 🟦 Alpha-01
 
-<figure><img src="../../.gitbook/assets/alpha01-883.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/alpha01-181.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
@@ -128,6 +128,8 @@ Her callsign "Crown" (from _Corona Borealis_) nods to both the constellation and
 
 ### Rafael “Phoenix” Reyes
 
+_2nd Command, tactical specialist, first contact and battlefield control._
+
 <figure><img src="../../.gitbook/assets/rafael-1121.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Origin:** Bright Mesa refugee camp, ex–California corridor (Southwest North America)
@@ -159,6 +161,8 @@ After joining the program, his Clear-boosted reflexes and eerie knack for readin
 
 ### Finneas “Archer” Hughes
 
+_Weapons specialist, advanced hand-to-hand and weapon systems training._
+
 <figure><img src="../../.gitbook/assets/finn-feature_young-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Origin:** Louisiana Refugee Camp, GATA.
@@ -188,6 +192,8 @@ Clear trials amplified his stamina and focus rather than his aggression, marking
 ***
 
 ### Dante “Scorpio” Newton
+
+_Combat scout, reconnaissance, stealth and silent strike specialist._
 
 <figure><img src="../../.gitbook/assets/dante-331.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -219,6 +225,8 @@ His small size is gravely deceptive. He’s quiet, coiled, and intensely competi
 ***
 
 ### Joana “Swan” Costa
+
+_Aquatic operations, transmedium logistics and support._
 
 <figure><img src="../../.gitbook/assets/joana-434.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -252,6 +260,8 @@ Clear enhancement turned her into an amphibious phantom—graceful in water, let
 
 ### Kwesi “Lion” Mensah
 
+_Security and suppression, logistics, asset protection and escort specialist._
+
 **Origin:** Takoradi–Dakar Joint Resettlement Zone, West Africa.
 
 By 14, Kwesi was hauling Atlan humanitarian supply shipments on the docks and still had breath left to lead work songs that kept morale up when food was thin. By his 16th birthday, it was already clear that he would soon be a formidable physical force, and he soon caught the eye of Atlan recruiters.
@@ -281,6 +291,8 @@ Clear therapy barely seemed to tire him; instructors used him as the benchmark f
 ***
 
 ### Niall “Cross” O’Rourke
+
+_Pilot and cross-domain vehicle specialist, physics and engineering._
 
 **Origin:** Cork Coastal Refit Yard, Atlantic Ireland.
 
@@ -348,6 +360,8 @@ Early link-like BCI prototypes responded to her with uncanny mental stability, a
 
 ### Sami “Gemini” Okafor
 
+_Intelligence and planning, crisis management specialist._
+
 **Origin:** Lagos Evacuation Column to Greater Toronto Refugee Camp, landing in the West End Garden.
 
 Shuffled from convoy to convoy before landing in a Garden in Greater Toronto, Sami learned to juggle roles: student, caretaker, and quiet fixer for kids who didn’t trust adults.
@@ -376,6 +390,8 @@ Psych evals flagged an unusual talent for running simultaneous plans in their he
 ***
 
 ### Inés “Raven” Vidal
+
+_Scout, active surveillance, tracking and sabotage specialist._
 
 **Origin:** Canary Straits Listening Post, former Spanish Atlantic territories.
 
@@ -407,7 +423,11 @@ She’s observant, patient, and hard to read, preferring to win with information
 
 ***
 
+### Brush "
+
 ### Einar “Wolf” Jónsson
+
+_3rd Command, anchor, tactical specialist, defense, extraction, and egress._
 
 **Origin:** Reykjavik North Atlantic Watch Platform.
 

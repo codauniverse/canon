@@ -109,6 +109,8 @@
   * [💼 Enterprise](world/gata/enterprise/README.md)
     * [Systema](world/gata/enterprise/systema.md)
     * [AKICEL](world/gata/enterprise/akicel.md)
+    * [Relic Industries](world/gata/enterprise/relic-industries.md)
+    * [CAVE Defense](world/gata/enterprise/cave-defense.md)
     * [Operators](world/gata/enterprise/operators.md)
   * [🩺 Health & Medicine](world/gata/health-and-medicine/README.md)
     * [Akicel Therapy](world/gata/health-and-medicine/akicel-therapy.md)

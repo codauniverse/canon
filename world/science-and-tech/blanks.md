@@ -4,7 +4,7 @@
 
 ## Overview
 
-Developed by [GATA's](../gata/the-basics.md) leading biomed enterprise, [AKICEL](../gata/enterprise/akicel.md). Blanks are cloned human bodies with near exact replicas of template brains, but provably without consciousness.
+Developed by [GATA's](../gata/the-basics.md) leading bio-tech enterprise, [AKICEL](../gata/enterprise/akicel.md). Blanks are cloned human bodies with near exact replicas of template brains, but provably without consciousness.
 
 Blanks are envisioned as a safe and efficient alternative to robotics and artificially intelligent systems, and a potential source of cheap, reliable labor. There is significant interest to use blanks for research, medicine, military, resource extraction, and off-world applications. However, the prospect of blanks has raised significant controversy.
 
