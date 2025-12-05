@@ -29,7 +29,7 @@ The ultimate stated goal of the document is the eventual unification of Earth in
 
 ### **Ongoing Developments**
 
-Pressure continues to mount on [URSA](../../ursa/the-basics.md) to sign the NDA. URSA resists, as signing would initiate a timeline of obligations that would force them to implement GATA's [Systema-developed](../enterprise/systema-technologies.md) [System Nodes](../politics/the-system.md#system-nodes), and they insist their own long-in-development implementation of The System will be ready soon.
+Pressure continues to mount on [URSA](../../ursa/the-basics.md) to sign the NDA. URSA resists, as signing would initiate a timeline of obligations that would force them to implement GATA's [Systema-developed](../enterprise/systema.md) [System Nodes](../politics/the-system.md#system-nodes), and they insist their own long-in-development implementation of The System will be ready soon.
 
 ### History
 

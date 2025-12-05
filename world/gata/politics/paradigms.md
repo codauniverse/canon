@@ -28,6 +28,6 @@ This non-linear development means two districts with similar standing and incorp
 
 Though uncommon, there have been instances of GATA tightening paradigms, especially in response to emergencies and severe, systemic breaches of the [New Dawn Accords](../law-and-order/new-dawn-accords.md).
 
-These sanctions are determined by the AIC and carried out by [Systema](../enterprise/systema-technologies.md), who can remotely update a district’s [System Node(s)](the-system.md#system-nodes) from its [Lunar](../key-locations/luna.md) headquarters.
+These sanctions are determined by the AIC and carried out by [Systema](../enterprise/systema.md), who can remotely update a district’s [System Node(s)](the-system.md#system-nodes) from its [Lunar](../key-locations/luna.md) headquarters.
 
 <br>

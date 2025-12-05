@@ -12,7 +12,7 @@ To this day, the Research Corps remains one of the driving forces in humanity's 
 
 ## Historical Impact
 
-Many of the Research Corps’ early projects fed into [Existence Doctrine](../../gata/military-and-defense/existence-doctrine.md) programs during the end of the Dark Decade and throughout most of The Reconstruction. Some technologies that resulted from Research Corps work include [LMNL](../../science-and-tech/hard-code.md#lmnl), [links](../../science-and-tech/links.md), [AKICEL therapy](../../gata/enterprise/akicel.md), and [The System](../../gata/politics/the-system.md). Some public institutions born from these programs persist to this day, such as [Systema](../../gata/enterprise/systema-technologies.md) and the Ministry of the Future.
+Many of the Research Corps’ early projects fed into [Existence Doctrine](../../gata/military-and-defense/existence-doctrine.md) programs during the end of the Dark Decade and throughout most of The Reconstruction. Some technologies that resulted from Research Corps work include [LMNL](../../science-and-tech/hard-code.md#lmnl), [links](../../science-and-tech/links.md), [AKICEL therapy](../../gata/enterprise/akicel.md), and [The System](../../gata/politics/the-system.md). Some public institutions born from these programs persist to this day, such as [Systema](../../gata/enterprise/systema.md) and the Ministry of the Future.
 
 ***
 

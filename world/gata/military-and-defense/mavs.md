@@ -10,7 +10,7 @@ The defining attribute of a successful MAV is their ability to operate independe
 
 However, simply being recruited into the MAVERICK division is not enough; recruits must be able to physically and mentally tolerate the battery of training, therapies, and enhancements that separate MAVs from Angelis' other assets.
 
-Among other augmentations, modern MAVs have miniaturized cog implants installed directly in their brainstem, enhancing their reflexes, pain tolerance, and tactical decision-making. These cog implants can be paired with portable external compute that the MAV can strategically conceal, or carry with them throughout an engagement, even further magnifying their combat performance and situational awareness.
+Among other augmentations, modern MAVs have miniaturized [cog implants](../../science-and-tech/cogs.md) installed directly in their brainstem, enhancing their reflexes, pain tolerance, and tactical decision-making. These cog implants can be paired with portable external compute that the MAV can strategically conceal, or carry with them throughout an engagement, even further magnifying their combat performance and situational awareness.
 
 ***
 
@@ -20,13 +20,13 @@ In the crucible of the late [Dark Decade](../../history/the-dark-decade.md), the
 
 ### The Clear Program and Alpha-01
 
-[The Clear Program](../../../narrative/secrets/the-clear-program.md), a compartmentalized Existence Doctrine program, sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an experimental therapy called ["Clear"](mavs.md#clear-serum).
+[The Clear Program](../../../narrative/secrets/the-clear-program.md), a compartmentalized Existence Doctrine program, sought to discover the limit of individual human ability in order to produce the ultimate tactical operative. At its heart was an [experimental therapy called "Clear"](../../../narrative/secrets/the-clear-program.md).
 
 Meticulously selected recruits and students across Atla were injected with a test dose of the Clear serum under the guise of medical screenings and other exams.
 
 Those who proved to tolerate the formula were transferred to a secure base in Greenland where they were administered the complete Clear therapy over 8-12 weeks, and were inducted into an intensive training program where their aptitudes and performance were pushed to superhuman limits, culminating in the formation of an elite collaborative unit known as ["Alpha-01"](../../../narrative/cast/alpha-01.md).
 
-<figure><img src="../../../.gitbook/assets/alpha01-883.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/alpha01-181.png" alt="" width="563"><figcaption></figcaption></figure>
 
 This unit served as a field test for these exceptional soldiers, with the aim of determining the optimal operational style for operatives gifted with their heightened capabilities. Their remarkable performance in the field would, in turn, culminate in the creation of the [Unassisted Decisive Assets](mavs.md#the-unassisted-decisive-assets).
 

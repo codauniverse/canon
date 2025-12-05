@@ -16,7 +16,7 @@ The System’s concerns are sometimes referred to as the 3 R’s: Resources, Ris
 
 ## Technical Description
 
-Under the hood, The System is an advanced, distributed state machine operating on a network of [hardcode](../../science-and-tech/hard-code.md) nodes and clients designed by [Systema](../enterprise/systema-technologies.md) using the [Asimov-complete](../../science-and-tech/asimovian-architecture.md) programming language, [LMNL](../../science-and-tech/hard-code.md#lmnl). [System Nodes](the-system.md#system-nodes) are large, facility-sized computers that house extremely secure, purpose-built [COGs](../../science-and-tech/cogs.md), capable of managing and enforcing the operation of GATA. Its architecture draws inspiration in part from Old World decentralized ledgers such as Bitcoin and Ethereum 8.0.
+Under the hood, The System is an advanced, distributed state machine operating on a network of [hardcode](../../science-and-tech/hard-code.md) nodes and clients designed by [Systema](../enterprise/systema.md) using the [Asimov-complete](../../science-and-tech/asimovian-architecture.md) programming language, [LMNL](../../science-and-tech/hard-code.md#lmnl). [System Nodes](the-system.md#system-nodes) are large, facility-sized computers that house extremely secure, purpose-built [COGs](../../science-and-tech/cogs.md), capable of managing and enforcing the operation of GATA. Its architecture draws inspiration in part from Old World decentralized ledgers such as Bitcoin and Ethereum 8.0.
 
 Most interaction with The System is done through the [System Terminals](the-system.md#system-terminals) that can be found throughout GATA's [districts](districts.md).
 
@@ -60,7 +60,7 @@ All licensed enterprises have their own private System endpoints that allow them
 
 ## **System Sensors**
 
-The System also utilizes an array of sensors installed by Systema's [Infrastructure & Maintenance department](../enterprise/systema-technologies.md#departments). These sensors are installed in districts, in the airspace above Greater Atla with [statics](../../science-and-tech/statics.md), as well as deployed in discrete remote locations around the world.&#x20;
+The System also utilizes an array of sensors installed by Systema's [Infrastructure & Maintenance department](../enterprise/systema.md#departments). These sensors are installed in districts, in the airspace above Greater Atla with [statics](../../science-and-tech/statics.md), as well as deployed in discrete remote locations around the world.&#x20;
 
 These arrays provide real-time insight into things like climate, microbial health, biodiversity, migratory patterns, and other signals that can be factored into The System’s calculations.&#x20;
 

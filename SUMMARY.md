@@ -107,7 +107,7 @@
     * [ALTAR](world/gata/institutions/altar.md)
     * [Ministry of the Future](world/gata/institutions/ministry-of-the-future.md)
   * [💼 Enterprise](world/gata/enterprise/README.md)
-    * [Systema Technologies](world/gata/enterprise/systema-technologies.md)
+    * [Systema Technologies](world/gata/enterprise/systema.md)
     * [AKICEL](world/gata/enterprise/akicel.md)
     * [Relik Industries](world/gata/enterprise/relik-industries.md)
     * [CAVE Defense](world/gata/enterprise/cave-defense.md)
