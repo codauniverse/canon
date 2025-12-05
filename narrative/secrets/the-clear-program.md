@@ -56,17 +56,25 @@ These interventions include: exposure to conditioned light, sound, and ultra-low
 The therapy's administration protocol is as follows:
 
 1. **Screening dose:**  Test the subject's tolerance using trace elements of the active serum, followed by a 4-week monitoring period.
-2. **Primer:**  Administration of a secretive catalyzing compound (created during the development of the Manna flower) that triggers a temporary increase in cell wall permeability, and suppresses immune activity.
+2. **Primer:**  Administration of a secretive catalyzing compound (first synthesized by Dr. Koenig during the development of the Manna flower) that triggers a temporary increase in cell wall permeability, suppresses immune activity, and induces "receptivity" in the cell nucleus.
 3. **Serum schedule:**  20-50 injections over an 8-12 week period, adjusted as required based on subject's sensitivity to the process.
 4. **Intermittent treatments:**  Various interventions timed in conjunction with the serum injection schedule to trigger precise changes in the subject's genetics, physiology, and homeostatic baseline.
 5. **Extended monitoring:**  Subjects undergo regular psych evaluations and their biometrics, blood and tissue samples are continuously collected and monitored for 6 months to identify any complications or irregularities.
 6. **Boosters:**  A single dose of the Clear serum administered annually during a 7-day fast to renew optimal bodily function.
 
+#### The Clear Serum
+
+The central serum for which the Clear Program is a solution derived by controlled cultivation of the Silver Manna flower, exposing specimens to various precise conditions during its lifecycle to induce the synthesis of exotic organic molecules.
+
+<figure><img src="../../.gitbook/assets/clear-44.png" alt="" width="563"><figcaption><p>Vials of the Clear serum.</p></figcaption></figure>
+
+The serum is clear, with a high viscosity and a sweet smell. If left idle for a few moments, crystalized clusters of RNA begin to form and float to the surface; over a few hours, these clusters chain together and hang from the serum's surface, forming nanoscale columns of crystalline structures; eventually the entire volume is filled with these vertical crystal chains. Gentle agitation breaks these delicate structures and they quickly reintegrate in the solution.
+
 #### Trials and effects
 
-The therapy protocol consisted of an initial serum test dose to determine immune response. If the serum was tolerated, the "primer" compound was administered to trigger genetic mutations that would induce receptivity.
+The therapy protocol consisted of an initial serum test dose to determine immune response. If the serum was tolerated, the "primer" compound was administered to trigger very precise genetic mutations that induce a state called "receptivity". Affected cells begin temporarily producing and proliferating new molecular machines and large protein complexes that work to increase cell wall permeability, suppress immune activity, and coordinate epigenetic changes to allow the subject's otherwise normal cells to reproduce exogenous RNA and proteins endogenously by repurposing functions already encoded in human DNA.
 
-Once cells with that modification were suffused throughout the subject's tissues, the subject would begin a schedule of multiple doses of the serum in increasing concentrations over an 8-12 week window. Shorter schedules would stress the human mind and body, and longer schedules risked triggering an adverse immune response (however as with most Clear therapy effects, there is individual variance).
+Once theis molecular infrastructure is suffused throughout the subject's tissues, the subject would then begin a schedule of multiple doses of the serum in increasing concentrations over an 8-12 week window. Shorter schedules stressed the mind and body, and longer schedules risked triggering an adverse immune response (however as with most Clear therapy effects, there was significant individual variance).
 
 In successful trials, subjects demonstrated dramatically improved reflexes, alertness, cognitive bandwidth, salience recognition, short and long-term memory, immune system function, and healing. Skin, muscle, bone, and other tissues throughout the body were modified to improve function and resilience, and they displayed reduced physical and psychological hot, cold, and pain sensitivity. Notably, the serum slowed to a near-halt the accumulation of damage and dysfunction produced during the natural biological aging process.
 
