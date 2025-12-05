@@ -39,7 +39,7 @@ Based on post-Existence Doctrine meta analysis of historic documents, a classifi
 
 After the [New Dawn Declaration](../../world/gata/history/new-dawn-declaration.md) and the founding of [Atla](../../world/gata/key-locations/atla.md), there was pressure from Research Corps and military leadership to get the first Clear-enhanced operatives into the field. A military-led compartment was opened for a special operations training program [called Alpha](../cast/alpha-01.md), which began scouting and cultivating prospective operatives from among the youth.
 
-A year later, and nearly four years since research had begun, the Clear serum was ready, and the first cohort for the Alpha program had been selected. These early test subjects and their remarkable performance in the field as an unacknowledged elite unit designated ["Alpha-01"](../cast/alpha-01.md) later inspired the creation of another [Existence Doctrine Program](../../world/gata/military-and-defense/existence-doctrine.md); the [Unassisted Decisive Assets](the-clear-program.md#unassisted-decisive-assets).
+A year later, and nearly four years since research had begun, the Clear serum was ready, and the first cohort for the Alpha program had been selected. These early test subjects and their remarkable performance in the field as an unacknowledged elite unit designated ["Alpha-01"](../cast/alpha-01.md) later inspired the creation of another [Existence Doctrine Program](../../world/gata/military-and-defense/existence-doctrine.md); the [Unassisted Decisive Assets](../../world/gata/military-and-defense/mavs.md#the-unassisted-decisive-assets).
 
 While Clear was originally conceived by Dr. Koenig with the intention that it could lift up all of humanity, ultimately its complicating side effects narrowed its viability to limited military and intelligence applications.
 
@@ -55,12 +55,12 @@ These interventions include: exposure to conditioned light, sound, and ultra-low
 
 The therapy's administration protocol is as follows:
 
-1. **Screening dose** — Test the subject's tolerance using trace elements of the active serum, followed by a 4-week monitoring period.
-2. **Primer** — Administration of a secretive catalyzing compound (created during the development of the Manna flower) that triggers a temporary increase in cell wall permeability, and suppresses immune activity.
-3. **Serum schedule** — 20-50 injections over an 8-12 week period, adjusted as required based on subject's sensitivity to the process.
-4. **Intermittent treatments** — Various interventions timed in conjunction with the serum injection schedule to trigger precise changes in the subject's genetics, physiology, and homeostatic baseline.
-5. **Extended monitoring** — Subjects undergo regular psych evaluations and their biometrics, blood and tissue samples are continuously collected and monitored for 6 months to identify any complications or irregularities.
-6. **Boosters** — A single dose of the Clear serum administered annually during a 7-day fast to renew optimal bodily function.
+1. **Screening dose:**  Test the subject's tolerance using trace elements of the active serum, followed by a 4-week monitoring period.
+2. **Primer:**  Administration of a secretive catalyzing compound (created during the development of the Manna flower) that triggers a temporary increase in cell wall permeability, and suppresses immune activity.
+3. **Serum schedule:**  20-50 injections over an 8-12 week period, adjusted as required based on subject's sensitivity to the process.
+4. **Intermittent treatments:**  Various interventions timed in conjunction with the serum injection schedule to trigger precise changes in the subject's genetics, physiology, and homeostatic baseline.
+5. **Extended monitoring:**  Subjects undergo regular psych evaluations and their biometrics, blood and tissue samples are continuously collected and monitored for 6 months to identify any complications or irregularities.
+6. **Boosters:**  A single dose of the Clear serum administered annually during a 7-day fast to renew optimal bodily function.
 
 #### Trials and effects
 

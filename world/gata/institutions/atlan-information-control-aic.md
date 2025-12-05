@@ -38,7 +38,7 @@ Responsible for communication and coordination between the First Quorum, Second 
 
 ## **The AIC Courts**
 
-The highest courts of GATA fall under the jurisdiction of the AIC. Only the AIC can establish with any finality what is lawful true in [Greater Atla](../politics/greater-atla.md). Their judgements are matters of Truth that can even alter the [General Record](../politics/the-general-record.md), and serve as direct inputs into [The System](../politics/the-system.md), or can necessitate the design of entirely new System modules by [Systema](../enterprise/systema.md).
+The highest courts of GATA fall under the jurisdiction of the AIC. Only the AIC can establish with any finality what is lawful true in [Greater Atla](../politics/greater-atla.md). Their judgements are matters of Truth that can even alter the [General Record](../politics/the-general-record.md), and serve as direct inputs into [The System](../politics/the-system.md), or can necessitate the design of entirely new System modules by [Systema](../enterprise/systema-technologies.md).
 
 ***
 

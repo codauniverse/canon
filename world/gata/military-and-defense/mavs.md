@@ -4,11 +4,11 @@
 
 ## Overview
 
-Mavericks, also known as MAVs (which is short for Mission-Adaptive Variable) are the pinnacle of [Angelis](angelis.md) and [GATA](../the-basics.md) combat effectiveness. The best of the best, recruited from the ranks of the [Guardians](guardians.md) and [Rapid Response](rapid-response.md).
+The MAVERICK division and its operatives, Mavericks (operationally referred to as MAVs, an acronym for "Mission-Agnostic Variable"), are the pinnacle of [Angelis](angelis.md) and [GATA](../the-basics.md) combat effectiveness. The best of the best, recruited from the ranks of the [Guardians](guardians.md) and [Rapid Response](rapid-response.md).
 
-The defining attribute of a successful MAV is their ability to operate independently and in a wide range of conditions and contexts, the culmination the [Unassisted Decisive Asset](mavs.md#origins) (UDA) program that preceded the modern MAV division.
+The defining attribute of a successful MAV is their ability to operate independently and in a wide range of conditions and contexts, the culmination the [Unassisted Decisive Asset](mavs.md#origins) (UDA) program that preceded the modern MAVERICK division.
 
-However, simply being recruited into the MAV division is not enough; recruits must be able to physically and mentally tolerate the battery of training, therapies, and enhancements that separate MAVs from Angelis' other assets.
+However, simply being recruited into the MAVERICK division is not enough; recruits must be able to physically and mentally tolerate the battery of training, therapies, and enhancements that separate MAVs from Angelis' other assets.
 
 Among other augmentations, modern MAVs have miniaturized cog implants installed directly in their brainstem, enhancing their reflexes, pain tolerance, and tactical decision-making. These cog implants can be paired with portable external compute that the MAV can strategically conceal, or carry with them throughout an engagement, even further magnifying their combat performance and situational awareness.
 
@@ -56,7 +56,7 @@ For over a decade, the Unassisted Decisive Asset (UDA) program had been sealed a
 
 This modern MAVERICK division is an attempt to recover the operational dominance displayed by the original UDA program, however with less emphasis on operator independence and more emphasis on single-mindedness and adaptability. This shift is exemplified in the new program's internal designation: "Mission-Adaptive Variables".
 
-Over this official division's now-ten-year history, these new Mavericks, referred to as "MAVs", have likewise proven themselves to be an invaluable tool in GATA's asymmetrical conflict with [Sovereign forces](../../free-territories/people-and-culture/sovereigns.md). Dropping from orbital [“Watchtowers”](angelis.md#watchtowers) in static-powered [Aegis pods](angelis.md#aegis-drop-pods), MAVs can be deployed anywhere around the world in a matter of minutes, and can quickly turn the tide of any conflict or crisis.
+Over this official division's now-ten-year history, these new Mavericks have likewise proven themselves to be an invaluable tool in GATA's asymmetrical conflict with [Sovereign forces](../../free-territories/people-and-culture/sovereigns.md). Dropping from orbital [“Watchtowers”](angelis.md#watchtowers) in static-assisted [Aegis drop pods](angelis.md#aegis-drop-pods), MAVs can be deployed anywhere around the world in a matter of minutes, and can quickly turn the tide of any conflict or crisis.
 
 Scouting and securing targets, reinforcing [Gate Patrol](../borders-and-travel/gate-patrol.md) and district [local authorities](../law-and-order/local-authority.md), overseeing shipping routes, and dropping into conflict zones in [GATA-allied territories](../law-and-order/new-dawn-accords.md) or [homesteads](../politics/homesteads.md), the MAVs are arguably GATA's most pointed symbol and weapon. Their reputation for precision, discipline, and commitment to mission success makes them a threat few adversaries dare risk.
 
@@ -72,11 +72,11 @@ Angelis refined the UDA “asset development” process, implementing a more mod
 
 <figure><img src="../../../.gitbook/assets/nomoney420_character_in_bulky_armor_suit_sleek_angular_design_m_49ec6427-9f69-48c4-a0b2-fe4e36b9961c.png" alt="" width="563"><figcaption><p>A MAV standing at attention.</p></figcaption></figure>
 
-MAV operatives receive a miniaturized [cog](../../science-and-tech/cogs.md) implant in their brain stem that enhances their senses, reflexes and fine motor control. While small, these clever little devices dramatically increase the signal and bandwidth of its owner's central nervous system. While their cog implant’s [LMNL](../../science-and-tech/hard-code.md#lmnl) architecture prevents remote manipulation, if the implant is damaged or somehow disabled, the asset’s battlefield performance would drop precipitously.
+Modern MAV operatives receive a miniaturized [cog](../../science-and-tech/cogs.md) implant in their brain stem that enhances their senses, reflexes and fine motor control. While small, these clever little devices dramatically increase the signal and bandwidth of its owner's central nervous system. While their cog implant’s [LMNL](../../science-and-tech/hard-code.md#lmnl) architecture prevents remote manipulation, if the implant is damaged or somehow disabled, the asset’s battlefield performance would drop precipitously.
 
-In addition to their cog implant, many modern MAV loadouts include a "vault"; an unwieldy metal case housing a parallel energy cell and a powerful compute platform. Parallel energy is still an experimental and unparadigmed technology being trialed in the field, and the vault's built-in compute is made with Angelis' highly compact raw-code architecture. This external unit provides MAVs with a massive reservoir of power and compute that can be tapped to allow them to rapidly formulate complex plans, or perform incredible feats of reactivity and coordination.
+In addition to their cog implant, many modern MAV loadouts include a "vault"; an unwieldy metal case housing a "miniaturized" [parallel energy cell](../../science-and-tech/parallel-energy.md) and a powerful compute platform. Parallel energy is still an experimental and unparadigmed technology being trialed in the field, and the vault's built-in compute is made with Angelis' highly compact, proprietary hardcode architecture. This external unit provides MAVs with a massive reservoir of power and compute that can be tapped to allow them to rapidly formulate complex plans, or perform incredible feats of reactivity and coordination by overclocking their cog implants.
 
-It is generally acknowledged that, while still extremely effective, modern MAVs are not as singularly potent as the original UDAs, partially due to their more conservative genetic augmentations, and partially due to their reliance on cogs, some would argue making them not truly "unassisted" assets.
+It is generally acknowledged that, while still extremely effective, modern MAVs are not as natively potent as the original UDAs, due to their more conservative genetic augmentations and reliance on cogs and modern weapon platforms, making them not true "unassisted" assets.
 
 ### Operational Profile
 
@@ -90,5 +90,5 @@ However, MAVs aren't without their limitations. They thrive in solitary operatio
 
 Known only among program administrators, personnel, and the elite soldiers themselves, some names rise above the rest as highly notable Mavericks.
 
-* \[Redacted] stands as a testament to the prowess of the original UDAs. With countless deployments to their name, they are best remembered by those in-the-know for facing an entire [Free Territory](../../free-territories/) militia in North Texas to complete their critical mission successfully at the cost of their own life.
-* Finneas "Finn" Hughes was part of the original UDA program whose operatives first carried the unofficial moniker of "Mavericks". After the repartitioning of Atla's military, Finn joined the nascent Angelis' [Rapid Response](rapid-response.md) division where he went on to become one of its most decorated operatives. He was later killed in the process of bringing the ["Butcher of Bright Mesa"](../history/bright-mesa.md#the-bright-mesa-attack) to justice, and this incident is one of the events that precipitated the formation of Angelis' MAV division.
+* \[Redacted] stands as a testament to the prowess of the original UDAs. With countless deployments to their name, they are best remembered by those in-the-know for facing an entire [Free Territory](../../free-territories/) militia in North Texas to complete their critical mission successfully — ultimately at the cost of their own life.
+* Finneas "Finn" Hughes was part of the original UDA program whose operatives first carried the unofficial moniker of "Mavericks". After the nascent Angelis' incorporation of Atla's national military, Finn joined Angelis' [Rapid Response](rapid-response.md) division where he went on to become one of its most esteemed operatives. He was later killed in action bringing the ["Butcher of Bright Mesa"](../history/bright-mesa.md#the-bright-mesa-attack) to justice, one of the events that precipitated Angelis' revival of the MAVERICK division.

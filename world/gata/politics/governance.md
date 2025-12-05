@@ -40,7 +40,7 @@ Their mandate is to ensure the stability, security, and continuing incorporation
 
 They have the exclusive authority to direct [Angelis](../military-and-defense/angelis.md) and approve Angelis support requested by the Second Quorum.
 
-They work closely with the AIC [Chairperson](../institutions/atlan-information-control-aic.md#leadership-and-governance), the Director of [Systema](../enterprise/systema.md), and [ALTAR](../institutions/altar.md) leadership in constructing their projections and plans for the future.
+They work closely with the AIC [Chairperson](../institutions/atlan-information-control-aic.md#leadership-and-governance), the Director of [Systema](../enterprise/systema-technologies.md), and [ALTAR](../institutions/altar.md) leadership in constructing their projections and plans for the future.
 
 The First Quorum is afforded a high degree to autonomy and secrecy in their decision making.
 

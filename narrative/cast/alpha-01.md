@@ -47,9 +47,9 @@ Shortly after the formal founding of [Atla](../../world/gata/key-locations/atla.
 
 Alpha-01 drew its recruits from its newly introduced academy system, as well as training camps and refugee schools scattered across [Greater Atla's](../../world/gata/politics/greater-atla.md) emergent territories. Candidates had to meet three criteria:
 
-1. **Stable Clear response** – Subjects who survived repeated Clear rounds without catastrophic rejection and demonstrated consistent performance gains.
-2. **Cognitive and emotional resilience** – Measured by long-horizon tactical exercises, isolation drills, and exposure to Reconstruction-era conflict zones as intelligence and strategic support.
-3. **Field aptitude** – Demonstrated initiative and performance in training and academic contexts, and eventually, live operations attached to regular JAC units.
+1. **Stable Clear response:**  Subjects who survived repeated Clear rounds without catastrophic rejection and demonstrated consistent performance gains.
+2. **Cognitive and emotional resilience:**  Measured by long-horizon tactical exercises, isolation drills, and exposure to Reconstruction-era conflict zones as intelligence and strategic support.
+3. **Field aptitude:**  Demonstrated initiative and performance in training and academic contexts, and eventually, live operations attached to regular JAC units.
 
 Due to Clear’s side-effects on cellular repair and metabolism, Alpha-01’s operators experienced dramatically slowed biological aging. This effect is apparent in Clear Program veterans such as Finneas Hughes, who appeared perpetually twenty even into his fifties.
 
@@ -61,11 +61,13 @@ Classified rosters differ, but commonly list Dante Newton, Finneas Hughes, and s
 
 Alpha-01’s training blended three threads that would later define both UDAs and modern MAVs:
 
-* **Extreme autonomy** – Operators were drilled to plan, execute, and exfiltrate missions without real-time command oversight, foreshadowing the “Unassisted” doctrine that would later be formalized in the UDA program.
-* **Multi-domain competence** – Alpha-01 trained in urban, desert, and littoral environments, often alongside early war-frame pilots (precursors to Guardians) but with strict constraints on support, forcing them to treat heavy assets as temporary tools rather than crutches.
-* **Prototype integration** – They served as live testbeds for emergent technologies: early combat gear, crude link-driven tactical networks, and medical protocols for managing Clear’s metabolic demands.
+* **Extreme autonomy:** Operators were drilled to plan, execute, and exfiltrate missions without real-time command oversight, foreshadowing the “Unassisted” doctrine that would later be formalized in the UDA program.
+* **Multi-domain competence:** Alpha-01 trained in urban, desert, and littoral environments, often alongside early war-frame pilots (precursors to Guardians) but with strict constraints on support, forcing them to treat heavy assets as temporary tools rather than crutches.
+* **Prototype integration:** They served as live testbeds for emergent technologies: early combat gear, crude link-driven tactical networks, and medical protocols for managing Clear’s metabolic demands.
 
 Informally, instructors referred to Alpha-01 as “ghosts in training”: small, mobile, almost impossible to pin down on a conventional battlefield.
+
+Alpha-01 operatives were equipped with experimental, personalized combat gear called CAVE suits (Combat Armor for Variable Engagement); powered armor suits with customizable loadouts and advanced capabilities and telemetry. When the working group that developed these suits was spun out into a public enterprise after the founding of Atla, they took this product for their namesake, [CAVE Defense](../../world/gata/enterprise/cave-defense.md).
 
 ***
 
@@ -87,7 +89,7 @@ Though raised as a unit, Alpha-01 rarely deployed as a single squad. More often,
 
 ### Amina “Crown” El-Baz
 
-_Team Leader, master strategist, natural diplomat._
+_Team Leader, command specialist, master strategist, natural diplomat._
 
 <figure><img src="../../.gitbook/assets/amina-442.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -423,7 +425,53 @@ She’s observant, patient, and hard to read, preferring to win with information
 
 ***
 
-### Brush "
+### Cameron "Lacerta" Williams
+
+**Origin:** Montreal refugee belt to JAC training camp, coastal Maine (North Atlantic corridor).
+
+Born Bentley Willems to a Belgian father and African American mother with Guyanese–British roots, he was four when the Crash drove his family north along the St. Laurent. Montreal gave them a brief refuge, then a militia seizure and illness took both parents, leaving him alone by six.
+
+He spent much of his time drawing, sketching important events and mapping streets, alleyways, and rooftop routes, marking sightlines and unattended openings in charcoal on whatever surface he could find. His incessant scrawling eventually earning him the nickname “Camera.” When a camp clerk finally wrote him into a ledger at eleven, his legal name became "Cameron Williams" and he guessed his age as “thirteen,” hedging upward to match his older friends who were volunteering to JAC training camp for food and shelter.
+
+Three years at the Maine JAC camp and two years attached to refugee liaison teams hardened him into a disciplined operator with a street rat’s instincts and a marksman’s patience. His Clear screening medical analysis flagged the “late-bloomer” and corrected the record, revealing the young veteran they’d been treating as eighteen was, in fact, likely under sixteen. His callsign Lacerta, the lizard, nods to his effortless navigation over, along, under, and through complex operational terrain.
+
+#### Basic Info
+
+**Age at Clear recruitment:**
+
+* \~16 (official records list 18)
+
+**Origin / ethnicity:**
+
+* Born in NYC to a Belgian student and African American mother (Guyanese / British parents)
+* Light-skinned mixed African American / European
+
+**Height / weight:**
+
+* 1.76 m (5'9")
+* 66 kg (146 lb)
+
+**Appearance:**
+
+* Light brown skin with a warm, golden undertone; usually a bit smudged with dust or graphite.
+* Dark brown eyes; watchful, with a habit of flicking over exits, rooftops, and sightlines before meeting anyone’s gaze.
+* Black hair in short, tight curls, kept close for practicality; sometimes flattened by a beanie or hood.
+* Lean, wiry build—more endurance runner than brawler, with ropy forearms from climbing and carrying.
+* Faint scar at the bridge of his nose and small nicks on his fingers from years of scrambling over broken concrete and fencing.
+
+**Specialty / aptitude:**
+
+* Urban recon sniper, terrain analysis, and long-range support specialist.
+* Exceptional visual acuity and range estimation; can quickly identify firing positions, cover, and escape routes in dense urban terrain.
+* Still sketches routes, building profiles, and perch points from memory, using those maps to plan overwatch and support for the rest of the team.
+
+**Family status at recruitment:**
+
+* Father killed defending the family during a militia seizure of Montreal when Brush was \~5.
+* Mother died of illness shortly after; no known siblings or surviving close relatives.
+* Entered JAC systems and the Clear Program as a true orphan, with only the mis-recorded “Cameron Williams” identity tying his past together.
+
+***
 
 ### Einar “Wolf” Jónsson
 
@@ -488,8 +536,8 @@ For those who survived, the psychological toll of extended youth, decades of vio
 
 Though erased from [the General Record](../../world/gata/politics/the-general-record.md), Alpha-01’s fingerprints are visible across modern GATA military doctrine:
 
-* **Mavericks** – The [modern Maverick division](../../world/gata/military-and-defense/mavs.md#the-maverick-division) is explicitly described as the culmination of the Reconstruction Era special operations, an indirect nod to the UDAs and, for those who know, Alpha-01.
-* **Rapid Response Ethos** – [Rapid Response’s](../../world/gata/military-and-defense/rapid-response.md) small, high-trust teams of multi-role operators, often dropped via [Aegis pods](../../world/gata/military-and-defense/angelis.md#aegis-drop-pods) into chaotic disaster zones and warfields, echo very directly the “few against many” design Alpha-01 pioneered—embodied clearly by Finn Hughes, who transitioned into the Rapid Response division after its formation and set its highest of watermarks.
-* **Ethical Caution** – Rumors of Alpha-01’s covert actions and the later scandals associated with UDAs helped shape the strict technological and military constraints encoded into Angelis' policies and procedures, and the eventual dissolution of [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md) programs.
+* **Mavericks:**  The [modern Maverick division](../../world/gata/military-and-defense/mavs.md#the-maverick-division) is explicitly described as the culmination of the Reconstruction Era special operations, an indirect nod to the UDAs and, for those who know, Alpha-01.
+* **Rapid Response Ethos:**  [Rapid Response’s](../../world/gata/military-and-defense/rapid-response.md) small, high-trust teams of multi-role operators, often dropped via [Aegis pods](../../world/gata/military-and-defense/angelis.md#aegis-drop-pods) into chaotic disaster zones and warfields, echo very directly the “few against many” design Alpha-01 pioneered—embodied clearly by Finn Hughes, who transitioned into the Rapid Response division after its formation and set its highest of watermarks.
+* **Ethical Caution:**  Rumors of Alpha-01’s covert actions and the later scandals associated with UDAs helped shape the strict technological and military constraints encoded into Angelis' policies and procedures, and the eventual dissolution of [Existence Doctrine](../../world/gata/military-and-defense/existence-doctrine.md) programs.
 
 Inside [Angelis](../../world/gata/military-and-defense/angelis.md) and the [Research Corps](../../world/sol/institutions/the-research-corps.md), Alpha-01 is sometimes invoked in hushed tones as “the First Class”—a reminder that the foundations of GATA’s greatest heroes and most terrifying weapons were laid by a handful of teenagers who stopped aging, stepped into the unknown, and never really came back.

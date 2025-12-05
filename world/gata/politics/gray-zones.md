@@ -4,7 +4,7 @@
 
 ## Overview
 
-The term Gray Zone refers to any contiguous region inside of the territory of [Greater Atla](greater-atla.md) where [The System](../enterprise/systema.md) has not been adopted, or its requirements have not been met.&#x20;
+The term Gray Zone refers to any contiguous region inside of the territory of [Greater Atla](greater-atla.md) where [The System](../enterprise/systema-technologies.md) has not been adopted, or its requirements have not been met.&#x20;
 
 Over time, the number of Gray Zones within Greater Atla and [NDA](../law-and-order/new-dawn-accords.md)-compliant states has decreased, however the conflicts over those Gray Zones’ status grow ever sharper. [GATA](../)’s approach with Gray Zones is one of consistent pressure by various non-violent means, and patient absorption.
 

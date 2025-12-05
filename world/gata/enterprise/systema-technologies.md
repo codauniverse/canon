@@ -1,12 +1,12 @@
-# Systema
+# Systema Technologies
 
 <figure><img src="../../../.gitbook/assets/systema.png" alt=""><figcaption><p>Technicians working in a Systema facility.</p></figcaption></figure>
 
 ## Overview
 
-[The System](../politics/the-system.md) is maintained by Systema, a public enterprise based in [Luna](../key-locations/luna.md) that uses its lunar location to maintain and update [System nodes](../politics/the-system.md#system-nodes) with a secure line-of-sight connection.
+[The System](../politics/the-system.md) is maintained by Systema Technologies, a public enterprise based in [Luna](../key-locations/luna.md) that uses its lunar location to maintain and update [System nodes](../politics/the-system.md#system-nodes) with a secure line-of-sight connection.
 
-Systema began as a [Research Corps](../../sol/institutions/the-research-corps.md) project undertaken over the course of [the Dark Decade](../../history/the-dark-decade.md) in a nascent [Atla](../key-locations/atla.md), and was converted into a public enterprise during [GATA's](../the-basics.md) founding.
+Systema began as an open-source [Research Corps](../../sol/institutions/the-research-corps.md) project undertaken over the course of [the Dark Decade](../../history/the-dark-decade.md) under the JAC and continuing in the nascent [Atla](../key-locations/atla.md), and was converted into a public enterprise during [GATA's](../the-basics.md) founding after ratification of the [New Dawn Accords](../law-and-order/new-dawn-accords.md).
 
 Systema's Earth-based technicians make up the bulk of their workforce. Systema's administrative staff live and work on the moon. At the end of their careers, some choose to take advantage of their earned lunar keys, retiring to [Sol’s](../../sol/the-basics.md) [Gemini City](../../sol/key-locations/gemini.md) on the Dark Side of the moon.
 
@@ -16,7 +16,7 @@ Systema's Earth-based technicians make up the bulk of their workforce. Systema's
 
 #### **Headquarters**
 
-* Located on Luna, Systema's headquarters is strategically positioned for secure line-of-sight communications with System nodes on Earth.
+* Located on [Luna](../key-locations/luna.md), Systema's headquarters is strategically positioned for secure line-of-sight communications with System nodes on Earth.
 
 #### **Departments**
 
