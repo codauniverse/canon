@@ -4,9 +4,11 @@
 
 ## Overview
 
-Engineered by [Atlan](../gata/key-locations/atla.md) scientists during the early years of the [Dark Decade](../history/the-dark-decade.md), the Manna flower is not just a marvel of genetic engineering, but also a symbol of hope. Seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal.
+Engineered by Pre-New Dawn [JAC](../gata/history/the-joint-atlantic-command-jac.md) scientists during the early years of the [Dark Decade](../history/the-dark-decade.md). The Manna flower is not just a marvel of genetic engineering, but also a symbol of hope. Seeded around the world during the Dark Decade through an extended campaign of atmospheric dispersal.
 
 Designed to develop through [three stages of maturity](the-manna-flower.md#development-cycle) during which the plant can be induced to produce a [myriad of compounds](the-manna-flower.md#variants-and-uses). These compounds formed the basis of medicines and materials that provided solace and healing to the people of the world throughout the challenging times of the Dark Decade and the subsequent [Reconstruction era](../history/the-reconstruction.md).
+
+The team responsible for developing the Manna Flower was led by Dr. Valter Koenig, a world-renowned evolutionary biologist recovered in Geneva during one of the JAC's early VIP extraction missions following [the Crash](../history/the-crash.md).
 
 The Manna flower's significance extended beyond its medicinal attributes. As Atla's first real political emblem, it played a symbolic role in uniting survivors. New ships wishing to join the growing Atlan flotilla would fly a white flag as a sign of peace. Once accepted, these ships were given a Manna flower as a symbol of unity and were invited to adorn their flags with a blue depiction of the flower.
 
@@ -48,7 +50,7 @@ Produced when Manna seeds are planted into extremely nutrient-dense compost. Bea
 
 ### **Mer or Silver**
 
-Cultivated in cold fresh sea water, it produces vines that, when processed, enhance visual and auditory senses, as well as improving metabolic efficiency and overall stamina. Psychologically addictive due to a general felt-sense of heightened performance.
+Cultivated in cold, fresh sea water, it produces vines that, when processed, enhance visual and auditory senses, as well as improving cellular health, metabolic efficiency and overall stamina. Psychologically addictive due to a general felt-sense of heightened performance.
 
 ***
 
@@ -62,7 +64,7 @@ In this initial phase, the Manna flower's future characteristics are determined 
 
 #### **Growth Phase**
 
-During this phase, the Manna flower's growth can be augmented by specific care techniques. The plant communicates its needs through subtle changes in posture, color, and in some variants, even bioluminescence. Skilled caretakers of the Manna flower study to interpret these signals to provide optimal conditions for growth. Across the world there are many traditions that detail intricate care rituals, which are part science, part custom.
+During this phase, the Manna flower's transcriptome can be modified by applying specific care techniques and soil compositions. The plant communicates its needs through subtle changes in posture, color, and in some variants, even bioluminescence. Skilled caretakers of the Manna flower study to interpret these signals to provide optimal conditions for growth. Across the world there are many traditions that detail intricate care rituals, which are part science, part custom.
 
 #### **Harvest Phase**
 
