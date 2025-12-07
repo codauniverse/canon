@@ -1,5 +1,7 @@
 # Blades
 
+<figure><img src="../../../.gitbook/assets/blades-3311.png" alt=""><figcaption></figcaption></figure>
+
 ## Overview
 
 The Blades are highly trained mercenaries who serve groups across the Free Territories. Blades use advanced Combat Gear that often incorporate a number of technologies that are illegal under the New Dawn Accords, granting them some tactical advantages in direct engagements with Angelis and other NDA-compliant military forces.
