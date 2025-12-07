@@ -59,11 +59,15 @@ Classified rosters differ, but commonly list Dante Newton, Finneas Hughes, and s
 
 ### Training and Doctrine
 
+<figure><img src="../../.gitbook/assets/alpha01-556.png" alt="" width="563"><figcaption><p>Alpha-01 Team leader Amina El-Baz and her unit during a training exercise.</p></figcaption></figure>
+
 Alpha-01’s training blended three threads that would later define both UDAs and modern MAVs:
 
 * **Extreme autonomy:** Operators were drilled to plan, execute, and exfiltrate missions without real-time command oversight, foreshadowing the “Unassisted” doctrine that would later be formalized in the UDA program.
 * **Multi-domain competence:** Alpha-01 trained in urban, desert, and littoral environments, often alongside early war-frame pilots (precursors to Guardians) but with strict constraints on support, forcing them to treat heavy assets as temporary tools rather than crutches.
 * **Prototype integration:** They served as live testbeds for emergent technologies: early combat gear, crude link-driven tactical networks, and medical protocols for managing Clear’s metabolic demands.
+
+<figure><img src="../../.gitbook/assets/alpha-444.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Informally, instructors referred to Alpha-01 as “ghosts in training”: small, mobile, almost impossible to pin down on a conventional battlefield.
 
@@ -77,7 +81,7 @@ Alpha-01 operated primarily during the early [Reconstruction](../../world/histor
 
 Typical assignments included:
 
-* **Decapitation strikes** against [Sovereign warlords and militias](../../world/free-territories/military-defense/sovereign-militias.md) obstructing Reconstruction corridors.
+* **Decapitation strikes:** surgical strikes neutralizing leadership of [Sovereign warlords and militias](../../world/free-territories/military-defense/sovereign-militias.md) obstructing Reconstruction corridors.
 * **Infrastructure sabotage** — disabling logistics networks, comms, or levy systems under cover of natural or engineered disasters, echoing later rumors about [UDA](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) involvement in catastrophic events like the destruction of New Orleans.
 * **Asset retrieval & protection** — securing high-value scientific personnel, data, or [Found Objects](../../world/science-and-tech/found-objects.md) and adjacent materials for [the Research Corps](../../world/sol/institutions/the-research-corps.md) and [ALTAR](../../world/gata/institutions/altar.md).
 
@@ -169,7 +173,7 @@ After being recruited into the Clear program, his heightened reflexes and eerie 
 
 ### Finneas “Archer” Hughes
 
-_Weapons specialist, advanced hand-to-hand and weapon systems training._
+_Weapons specialist, advanced assault and weapon systems training._
 
 <figure><img src="../../.gitbook/assets/finn-feature_young-3.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -437,7 +441,7 @@ She’s observant, patient, and hard to read, preferring to win with information
 
 Born Bentley Willems to a Belgian father and African American mother with Guyanese–British roots, he was four when the Crash drove his family north along the St. Laurent. Montreal gave them a brief refuge, then a militia seizure and illness took both parents, leaving him alone by six.
 
-He spent much of his time drawing, sketching important events and mapping streets, alleyways, and rooftop routes, marking sightlines and unattended openings in charcoal on whatever surface he could find. His incessant scrawling eventually earning him the nickname “Camera.” When a camp clerk finally wrote him into a ledger at eleven, his legal name became "Cameron Williams" and he guessed his age as “thirteen,” hedging upward to match his older friends who were volunteering to JAC training camp for food and shelter.
+He spent much of his time drawing, sketching important events and mapping streets, alleyways, and rooftop routes, marking sightlines and unattended openings in charcoal on whatever surface he could find. His incessant scrawling eventually earning him the nickname “Camera.” When a camp clerk hurriedly recorded him into a ledger at eleven, his legal name became "Cameron Williams" and he guessed his age as “thirteen,” hedging upward to match his older friends who were volunteering to JAC training camp for food and shelter.
 
 Three years at the Maine JAC camp and two years attached to refugee liaison teams hardened him into a disciplined operator with a street rat’s instincts and a marksman’s patience. His Clear screening medical analysis flagged the “late-bloomer” and corrected the record, revealing the young veteran they’d been treating as eighteen was, in fact, likely under sixteen. His callsign Lacerta, the lizard, nods to his effortless navigation over, along, under, and through complex operational terrain.
 
@@ -481,13 +485,13 @@ Three years at the Maine JAC camp and two years attached to refugee liaison team
 
 ### Einar “Wolf” Jónsson
 
-_3rd Command, anchor, tactical specialist, defense, extraction, and egress._
+_3rd Command, anchor, defensive tactics specialist, extraction, and egress._
 
 **Origin:** Reykjavik North Atlantic Watch Platform.
 
-Einar grew up under the shadow of Guardian frames stationed to deter raiders, tracking their patrol paths the way other kids memorized constellations. At 17 he was already unofficially running solo reconnaissance across ice and broken coastline.
+Einar grew up under the shadow of prototype JAC warframes stationed to deter raiders, tracking their patrol paths the way other kids memorized constellations. At 17 he was already unofficially running solo reconnaissance across ice and broken coastline. He grew up hearing stories about JAC naval conflicts in the Arctic corridor, and knew how  and dreamed of one day piloting a warframe.
 
-With his mental resilience and high pain tolerance, his Clear-boosted metabolism let him push through internal and external conditions that would stop nearly anyone in their tracks. Taciturn and self-contained, he earned the callsign "Wolf" (from _Lupus_) for his lone-scout habits and the quiet, absolute loyalty he shows to the few people he considers his pack.
+With his mental resilience and high tolerance for adversity, his Clear-boosted metabolism let him push through internal and external conditions that would stop nearly anyone in their tracks. Taciturn and self-contained, he earned the callsign "Wolf" (from _Lupus_) for his lone-scout habits and the quiet, absolute loyalty he shows to the few people he considers his pack.
 
 #### Basic Info
 
