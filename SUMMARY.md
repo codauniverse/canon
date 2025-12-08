@@ -55,7 +55,6 @@
   * [Quantum Seeds](world/science-and-tech/quantum-seeds.md)
   * [The Astral](world/science-and-tech/the-astral.md)
   * [Pockets](world/science-and-tech/pockets.md)
-  * [Blanks](world/science-and-tech/blanks.md)
 * [📘 GATA](world/gata/README.md)
   * [🔵 The Basics](world/gata/the-basics.md)
   * [🕥 History](world/gata/history/README.md)
@@ -255,6 +254,7 @@
 * [🧩 Secrets](narrative/secrets/README.md)
   * [The Unit](narrative/secrets/the-unit.md)
   * [The Clear Program](narrative/secrets/the-clear-program.md)
+  * [Blanks](narrative/secrets/blanks.md)
   * [Found Objects](narrative/secrets/found-objects.md)
 
 ## Project
