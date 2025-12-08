@@ -32,4 +32,4 @@ Since the end of the Reconstruction at the close of the 21st century, the Existe
 
 As a result, many of the technologies and machinery used during The Reconstruction are no longer permitted for use within GATA, while others have been selectively paradigmed within certain districts. Across [Greater Atla](../politics/greater-atla.md), the abandoned remnants of great constructions and old Decommissioning Yards tell the tale of GATA's relinquished progress, all for the sake of a greater order.
 
-Even still, the specter of its mythologized “secret advanced technology” derived from the mysterious [Found Objects](../../science-and-tech/found-objects.md) has proven immensely useful for GATA in projecting its power politically without having to reveal its true capabilities.
+Even still, the specter of its mythologized “secret advanced technology” derived from the mysterious [Found Objects](../../../narrative/secrets/found-objects.md) has proven immensely useful for GATA in projecting its power politically without having to reveal its true capabilities.

@@ -31,7 +31,7 @@ At a technical level, the Unit combines several components: the Infinity Core it
 
 ### Origins and history
 
-The true origin of the Unit's central component lies in [Soraya Mata’s](../cast/soraya-mata.md) long-standing fascination with a hypothesized [Found Object](../../world/science-and-tech/found-objects.md) referred to speculatively within [ALTAR](../../world/gata/institutions/altar.md) as [“Object X”](../../world/science-and-tech/found-objects.md#object-x).
+The true origin of the Unit's central component lies in [Soraya Mata’s](../cast/soraya-mata.md) long-standing fascination with a hypothesized [Found Object](found-objects.md) referred to speculatively within [ALTAR](../../world/gata/institutions/altar.md) as [“Object X”](found-objects.md#object-x).
 
 <figure><img src="../../.gitbook/assets/objectx-03939.png" alt="" width="563"><figcaption><p>A mysterious depression observed across numerous Found Objects.</p></figcaption></figure>
 
@@ -55,7 +55,7 @@ Soraya’s death in [the Bright Mesa attack](../../world/gata/history/bright-mes
 
 ### Soraya Mata’s research and understanding
 
-Soraya’s central technical insight was that the mysterious "cradle" depressions recurrent across [the Found Objects](../../world/science-and-tech/found-objects.md) she had studied were not just an ergonomic seat for an independent device, but the continuation of a precise crystalline lattice that would naturally extend into a spherical volume.
+Soraya’s central technical insight was that the mysterious "cradle" depressions recurrent across [the Found Objects](found-objects.md) she had studied were not just an ergonomic seat for an independent device, but the continuation of a precise crystalline lattice that would naturally extend into a spherical volume.
 
 From this, she derived the design of a spherical object whose atomic structure continues and completes the pattern begun in the cradle, correcting for exotic electromagnetic and gravitic dynamics produced at the interface surface.
 
@@ -101,7 +101,7 @@ It is unclear if, or how, Soraya's work was discovered, but as a high-profile [R
 
 ### Design and composition of the Unit
 
-The Unit is [Prince Kyote’s](../cast/prince-kyote.md) assembly around Soraya’s core device. At its heart lies the Infinity Core, the holofractal vector node. The Infinity Core is a recreation of the hypothesized ["Object X"](../../world/science-and-tech/found-objects.md#object-x) Soraya reverse-engineered in part based on her previous study of the [Found Object](../../world/science-and-tech/found-objects.md), FO-9.
+The Unit is [Prince Kyote’s](../cast/prince-kyote.md) assembly around Soraya’s core device. At its heart lies the Infinity Core, the holofractal vector node. The Infinity Core is a recreation of the hypothesized ["Object X"](found-objects.md#object-x) Soraya reverse-engineered in part based on her previous study of the [Found Object](found-objects.md), FO-9.
 
 <figure><img src="../../.gitbook/assets/unit-552.png" alt="" width="563"><figcaption></figcaption></figure>
 

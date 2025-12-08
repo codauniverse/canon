@@ -14,7 +14,7 @@ Due to the success of the frame design, many nations and enterprises around the 
 
 <figure><img src="../../.gitbook/assets/guardians-8345.png" alt="" width="563"><figcaption><p>An early frame built in at the end of the Dark Decade.</p></figcaption></figure>
 
-The development of frames began during [the Dark Decade](../history/the-dark-decade.md), with the JAC seeking advanced armored units capable of bridging the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones.
+The development of frames began during [the Dark Decade](../history/the-dark-decade.md), with the JAC seeking advanced armored units capable of bridging the operational gap between ground-based units like tanks and infantry, and aerial units like fighters jets and drones. The engineering projects built on extensive compartmentalized [Pre-Crash](../history/the-crash.md) research and prototype designs.
 
 These early war frames proved invaluable both heavy combat and versatile field operations, and were particularly impactful in holding strategic locations. Their success led to the broader application of frame technology across various sectors, and led to the creation of Angelis' [Guardian](../gata/military-and-defense/guardians.md) branch, an elite war frame fighting force sworn to defend the far corners of Greater Atla.
 
@@ -40,7 +40,7 @@ Frames can be loaded out with a wide range of equipment and technologies, and re
 
 ### Operating a Frame
 
-A frames outer shell opens to reveal its cockpit, called the Operator Cradle, a compact, heavily armored compartment typically concealed within the frame's torso. Modern cradles use a passive static field to provide additional protection and isolate the pilot from impacts and G-force effects, making the cradle a zero gravity environment while in operation.
+A frames outer shell opens to reveal its cockpit, called the "operator cradle", a compact, heavily armored compartment typically concealed within the frame's torso. Modern cradles combine a [passive static field](statics.md#statics-inertia-and-parallel-systems) with compact [inertial dampeners](inertial-dampeners.md) to provide additional protection and isolate the pilot from impacts and G-forces, effectively creating a controlled, near-zero-gravity environment while in operation.
 
 <figure><img src="../../.gitbook/assets/framecradle.png" alt="" width="563"><figcaption><p>A frame operator in the cradle of a larger frame.</p></figcaption></figure>
 
@@ -99,7 +99,7 @@ The strong structural chassis of frames allows them to carry heavy loads and wit
 
 ## Transmedium Capabilities
 
-When equipped with statics and life support systems, frames become highly versatile transmedium vehicles. They can operate in air, land, sea, and space, providing unmatched flexibility in various environments.
+When equipped with [static engines](statics.md#static-engines-and-motion) and life support systems, frames become highly versatile transmedium vehicles. They can operate in air, land, sea, and space, providing unmatched flexibility in various environments.
 
 **Key Technologies:**
 
@@ -121,6 +121,6 @@ Frames can be outfitted with a wide array of weaponry and enhancements, tailored
 
 **Enhancements:**
 
-* **Defensive Systems**: Energy shields, reactive armor, and stealth cloaks for protection and evasion.
+* **Defensive Systems**: Energy shields, [passive inertia dampeners](inertial-dampeners.md) and [active vector dampeners](inertial-dampeners.md#active-vector-dampeners), reactive armor, and stealth cloaks for protection and evasion.
 * **Support Systems**: Drones, medical units, and supply modules for extended operational capability.
 * **Sensor and Communication**: Advanced targeting systems, quantum communication arrays, and holographic displays for enhanced situational awareness and coordination.

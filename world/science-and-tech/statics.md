@@ -16,6 +16,8 @@ By adjusting the **charge input**, the lattice structure of the superconductive 
 
 The torsional field is symmetrical by default but can be biased through asymmetrical pin configurations for specialized effects. Once activated, a node requires no ongoing energy input and has no moving parts. It is a safe, scalable technology used throughout Greater Atla for transit, logistics, architecture, and personal mobility.
 
+Although statics work by twisting spacetime, under normal operating regimes they do **not** meaningfully change the local rate at which time passes. Any “smooth ride” or survivable high-G maneuver in modern static vehicles is usually achieved by layered [inertial dampeners](inertial-dampeners.md) and impact-shaping materials, with statics providing the lift, support, or positional control.
+
 ***
 
 ## **Underlying principles**
@@ -25,6 +27,18 @@ In the standard model, gravity is modeled as a topological displacement in space
 A static node's **ring-shaped superconductive core** forms a stable quantum-coherent loop but remains structurally and electrically neutral during operation. Instead, the **cylindrical superconductive pins** are the active components: their lattices are selectively polarized by applied charge, creating directed electromagnetic responses that twist local spacetime.
 
 These torsional distortions interact with the ambient gravitational field, enabling positional control, lift, or mass cancellation. Once a torsional loop is established, the system does not require continuous energy input to maintain it, thanks to efficient internal recycling of radiated gravity.
+
+#### Statics, inertia, and parallel systems
+
+Statics are part of an expansive family of theoretically-related technologies derived from compartmentalized [Found Objects](../../narrative/secrets/found-objects.md) research. Within that family, statics share key applied concepts with some technologies, resulting in some superficial resemblance between their various effects, however they are functionally very different:
+
+* Statics manipulate _radiated gravity_ for lift, support, and positional control.
+* [Inertial dampeners](inertial-dampeners.md) manipulate local _inertial response_, smoothing acceleration and impact inside a bounded gradient without touching causal dynamics.
+* [Parallel energy](parallel-energy.md) manipulates "thread structure" across near-identical timelines, and in extreme failure modes can induce genuine time-distortion effects during [thread collapse](parallel-energy.md#dangers-and-time-distortion).
+
+In well-designed systems these three regimes are layered: statics move mass, inertial dampeners keep occupants and structures survivable and “ahead” of their own motion, and parallel energy supplies compact, high-throughput power.
+
+While &#x20;
 
 ***
 
@@ -147,10 +161,10 @@ Luxury static vessels used for travel and leisure. Popular among affluent travel
 
 Beyond vehicles, statics also drive complementary technologies:
 
-* **Hand-operated** **"grabbers"** for cargo manipulation
-* **Containment fields** for breathable environments
-* **Inertial dampeners** for high-performance craft
-* **Artificial gravity** for off-world habitation and specialized environments, as in the sport, Gravita
+* Hand-operated ["grabbers"](grabbers.md) for cargo manipulation
+* Containment fields for breathable environments
+* [Active vector control](inertial-dampeners.md#active-vector-dampeners) in [inertial dampeners](inertial-dampeners.md)
+* Artificial gravity for off-world habitation and specialized environments, as in the sport, [Gravita](../gata/people-and-culture/sports-and-games/).
 
 ### Enterprise players
 

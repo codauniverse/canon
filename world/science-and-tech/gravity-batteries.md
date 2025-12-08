@@ -12,7 +12,7 @@ Gravity batteries pair well with renewable energy generation which has variable 
 
 ***
 
-## Mechanism
+### Mechanism
 
 <figure><img src="../../.gitbook/assets/gravitybatteries-9843.png" alt="" width="563"><figcaption><p>Anchors at the end of cables that hold the gravity battery's weights.</p></figcaption></figure>
 
@@ -24,7 +24,7 @@ In the discharging phase, when there is a demand for electricity, these weights 
 
 ***
 
-## Benefits
+### Benefits
 
 Gravity batteries offer several key advantages:
 
@@ -35,8 +35,12 @@ Gravity batteries offer several key advantages:
 
 ***
 
-## Usage
+### Usage
 
 <figure><img src="../../.gitbook/assets/gravitybatteries-935.png" alt="" width="563"><figcaption><p>A rural homestead using a DIY gravity battery to store energy.</p></figcaption></figure>
 
 Gravity batteries are widely adopted in various regions and communities, and are particularly prevalent in the Free Territories, Aryabat, and among Homesteaders in Greater Atla. In these areas, the need for sustainable, low-maintenance, and reliable energy storage solutions has driven the adoption of gravity batteries.
+
+#### Integration with inertial dampeners
+
+In districts where [inertial dampeners](inertial-dampeners.md) are paradigmed, large gravity-battery installations often use dampener grids to precisely regulate loads and ensure safe operation. These grids smooth load transitions on cables, bearings, and generators, reducing mechanical fatigue and allowing more aggressive charge–discharge profiles without increasing maintenance costs.

@@ -36,7 +36,7 @@ Coupling the JAC's wave stabilizers with newly developed statics allowed the uni
 
 ### The Big Talk
 
-During a customary community forum called The Big Talk, the existence of [the Found Objects](../../science-and-tech/found-objects.md) was revealed openly to the inhabitants of the JAC. This revelation spurred curiosity and debate. Leadership expressed the hope to use these objects in a bid to turn the tides of fate. They wished to inspire the population to join an ambitious project to discover a means to rescue human civilization before our collective knowledge was truly lost to time. This was the founding of Atla's [Research Corps](../../sol/institutions/the-research-corps.md) and the planting of the seed for [ALTAR](../institutions/altar.md).
+During a customary community forum called The Big Talk, the existence of [the Found Objects](../../../narrative/secrets/found-objects.md) was revealed openly to the inhabitants of the JAC. This revelation spurred curiosity and debate. Leadership expressed the hope to use these objects in a bid to turn the tides of fate. They wished to inspire the population to join an ambitious project to discover a means to rescue human civilization before our collective knowledge was truly lost to time. This was the founding of Atla's [Research Corps](../../sol/institutions/the-research-corps.md) and the planting of the seed for [ALTAR](../institutions/altar.md).
 
 ***
 

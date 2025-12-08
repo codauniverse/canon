@@ -120,7 +120,9 @@ At each scale, inertial dampeners are usually integrated with other systems: sta
 
 #### Active Vector Dampeners
 
-Most civilian and industrial dampeners are "passive": they enforce a cap on how quickly motion can change and let trajectories evolve naturally inside that constraint. High-end military and security systems sometimes add an **active vector layer** on top of this. By creating and maintaining more exotically shaped gradient in time and space, the field can exert modest **lateral force** along the gradient, effectively _steering_ incoming projectiles and debris into safer paths.
+Most civilian and industrial dampeners are "passive": they enforce a cap on how quickly motion can change and let trajectories evolve naturally inside that constraint. However, high-end military and security systems sometimes incorporate an **active vector control** system.
+
+These "active vector dampeners" use integrated [static nodes](statics.md#static-nodes) to produce and maintain more exotic gradients in time and space, allowing the dampening field to exert modest **lateral force** along the gradient, effectively _steering_ incoming projectiles and debris into safer paths.
 
 In practice, an active dampener does not create a hard invisible wall so much as a **curved “gutter”** where energy dissipates with a directional bias: blunt shrapnel, rubble, and even small-arms fire are slowed and nudged sideways into sacrificial baffles, kill-pockets, or empty corridors instead of continuing in a straight line toward protected occupants. The same dv/dt limits apply—the system still spreads momentum change over time—but here the change is **redirected** as well as softened.
 

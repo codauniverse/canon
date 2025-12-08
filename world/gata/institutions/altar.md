@@ -18,7 +18,7 @@ In GATA's halls of power many secrets lurk beneath the surface, however the unse
 
 Established concurrently with the founding of Atla as an extension of the [Research Corps](../../sol/institutions/the-research-corps.md) intended to handle all programs that were only permitted under the Existence Doctrine. Since its founding, ALTAR's public mandate has always been to protect humanity against the threats posed by unregulated innovation.&#x20;
 
-However, those closer to the seat of power purport to know an unspoken truth; ALTAR's true prime directive is the safeguarding and study of the mysterious ["Found Objects."](../../science-and-tech/found-objects.md)
+However, those closer to the seat of power purport to know an unspoken truth; ALTAR's true prime directive is the safeguarding and study of the mysterious ["Found Objects."](../../../narrative/secrets/found-objects.md)
 
 Believed to have been collected by the [Joint Atlantic Command (JAC)](../history/the-joint-atlantic-command-jac.md) in the tumultuous early days of [the Dark Decade](../../history/the-dark-decade.md), for most people around the world these anomalous objects remain shrouded in myth and fiction. The origins of these rumored artifacts remain uncertain, though many boldly speculate an extraterrestrial connection.
 

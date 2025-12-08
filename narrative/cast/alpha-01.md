@@ -83,7 +83,7 @@ Typical assignments included:
 
 * **Decapitation strikes:** surgical strikes neutralizing leadership of [Sovereign warlords and militias](../../world/free-territories/military-defense/sovereign-militias.md) obstructing Reconstruction corridors.
 * **Infrastructure sabotage** — disabling logistics networks, comms, or levy systems under cover of natural or engineered disasters, echoing later rumors about [UDA](../../world/gata/military-and-defense/mavs.md#unassisted-decisive-assets) involvement in catastrophic events like the destruction of New Orleans.
-* **Asset retrieval & protection** — securing high-value scientific personnel, data, or [Found Objects](../../world/science-and-tech/found-objects.md) and adjacent materials for [the Research Corps](../../world/sol/institutions/the-research-corps.md) and [ALTAR](../../world/gata/institutions/altar.md).
+* **Asset retrieval & protection** — securing high-value scientific personnel, data, or [Found Objects](../secrets/found-objects.md) and adjacent materials for [the Research Corps](../../world/sol/institutions/the-research-corps.md) and [ALTAR](../../world/gata/institutions/altar.md).
 
 Though raised as a unit, Alpha-01 rarely deployed as a single squad. More often, its members were attached singly or in small teams to conventional forces, or as strategic and tactical levers in active conflict zones, trial-running the concept of a one-person “decisive asset.”
 

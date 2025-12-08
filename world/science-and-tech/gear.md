@@ -38,11 +38,11 @@ The prevalence of [Link Jammers](links.md#link-jammers) on the combat field has 
 
 Sprint Gear is a subset of Gear purpose-built to allow humans to reach superhuman ground speed. It branches from early GATA combat gear developed during [The Reconstruction](../history/the-reconstruction.md). Sprint Gear uses joints powered by a kinetic dynamo that recycle kinetic energy into the gear's mechanical movements.
 
-Sprint gear can be tailored to emphasize acceleration, top speed, or agility. While top speed may be the most effective in an open field, acceleration and agility are preferable in urban environments.
+Sprint gear can be tailored to emphasize acceleration, top speed, or agility. While top speed may be the most effective in an open field, acceleration and agility are preferable in urban environments. In nearly all configurations, [inertial dampeners](inertial-dampeners.md) are incorporated to protect the operator from impacts and trauma, and make incoming projectiles and terrain more navigable; the faster they move, the more pronounced the dampener's effects.
 
 In recent decades, [criminal syndicates](../gata/criminal-element/syndicates.md) have improved upon the basic design patterns and supplemented by additional gear and equipment for the purpose of [Wallrunning](../gata/criminal-element/wallrunners.md).
 
-Sprint gear typically takes the form of leg extensions, however more extreme sprint gear can extend to full leg or lower body prosthetics, boosters, and time illegal dilation bombs derived from controlled [parallel collapse](parallel-energy.md#dangers-and-time-distortion) of [parallel reactors](parallel-energy.md).
+Sprint gear typically takes the form of leg extensions, however more extreme sprint gear can extend to full leg or lower body prosthetics, boosters, and illegal time dilation bombs derived from controlled [parallel collapse](parallel-energy.md#dangers-and-time-distortion) of [parallel reactors](parallel-energy.md), a black-market application of parallel energy rather than [inertial technology](inertial-dampeners.md#high-performance-maneuvering).
 
 ***
 
@@ -53,6 +53,8 @@ Sprint gear typically takes the form of leg extensions, however more extreme spr
 Boost Gear is a subset of Gear designed for propulsive movement, especially in emergency and combat scenarios. Boost gear uses propulsive jets instead of static nodes due to the latter's vulnerability to target lock.
 
 Boost Gear's propulsive jets recycle kinetic energy into focused bursts that can propel the runner in any direction, and can even sustain flight for limited durations. Excellent for overcoming obstacles, dodging incoming projectiles, and freeing wallrunners from [Gate Patrol](../gata/borders-and-travel/gate-patrol.md) jelly rounds.
+
+Elite boost rigs often integrate personal-scale [inertial dampeners](inertial-dampeners.md), giving operators crucial split second advantages in high-speed maneuvers. Inside the dampened gradient, their bodies and gear experience reduced effective G-load and slightly “thickened” decision time, even as the outside world continues at its normal pace.
 
 ***
 

@@ -60,7 +60,7 @@ Despite her groundbreaking achievements, Soraya's life ended in the terror attac
 
 * Finish [her secret research](../secrets/the-unit.md#soraya-matas-research-and-understanding) to achieve her ultimate goal.
 * Grief and guilt over her personal sacrifices for her work.
-* Uncover the true purpose of ["Object-X"](../../world/science-and-tech/found-objects.md#object-x).
+* Uncover the true purpose of ["Object-X"](../secrets/found-objects.md#object-x).
 * Battle with a secret, incurable brain disease.
 
 ***
@@ -99,7 +99,7 @@ Despite her groundbreaking achievements, Soraya's life ended in the terror attac
 * Suffers from a rare, incurable brain disease.
 * Created Aida to mitigate her increasing alienation from her personal life.
 * Feels an overwhelming sense of responsibility for the potential consequences and implications of her work for ALTAR.
-* Obsessed with [her secret research](../secrets/the-unit.md#soraya-matas-research-and-understanding) into ["Object-X"](../../world/science-and-tech/found-objects.md#object-x).
+* Obsessed with [her secret research](../secrets/the-unit.md#soraya-matas-research-and-understanding) into ["Object-X"](../secrets/found-objects.md#object-x).
 
 ***
 
