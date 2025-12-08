@@ -72,7 +72,7 @@ As a result, _“robot”_ has become a somewhat dated or cautionary term, often
 
 In technical and legal language within [GATA](../gata/the-basics.md), however, “automata” has replaced “robots” as the standard term for NDA-compliant robotic devices.
 
-#### Everyday usage
+#### Common vernacular
 
 In ordinary speech, people are not always precise:
 
