@@ -46,9 +46,11 @@ When infantry, Rapid Response or Maverick units are deployed on an operation, th
 
 <figure><img src="../../../.gitbook/assets/aegis-4526.png" alt="" width="563"><figcaption><p>An Aegis pod after a controlled impact in an abandoned facility.</p></figcaption></figure>
 
-Armored drop pods that use [Static Field technology](../../science-and-tech/statics.md) to allow for accelerated descent and a decelerated hard-landing. The Aegis drop pod contains mission-relevant equipment, portable external compute, a break-away shield door, and various communication and jamming capabilities.
+Armored drop pods to quickly deploy assets into the field. Static engines handle bulk trajectory: guiding the pod through atmosphere, shaping descent. As the pod nears the ground, inertial dampeners project a catch-well (a downward cone) that reduces downward velocity, spreading deceleration over more time and more distance.
 
-To open an Aegis pod, the shield door must be pushed out from the inside, causing the Aegis’ panels to fan open, allowing the occupant(s) to slowly increase their exposure to hostile targets while preserving some of the protection of the armored pod.
+Occupants feel like the last moments of descent “stretch” slightly, providing a bit more time to brace, orient, and be mentally ready at impact. From outside, the pod seems to impact normally.
+
+The Aegis drop pod contains mission-relevant equipment, portable external compute, a break-away shield door, and various communication and jamming capabilities. To open an Aegis pod, the shield door must be pushed out from the inside, causing the Aegis’ forward-facing articulated panels to fan open, and allowing the occupant(s) to slowly increase their exposure to hostile targets while preserving some of the protection of the armored pod.
 
 Aegis drop pods are used by Angelis infantry, support personnel, Rapid Response, and MAVs. Notably, Guardians in their [frames](../../science-and-tech/frames.md) do not require drop pods as their advanced frames are equipped with their own statics and life support, permitting them to independently traverse land, air, sea, and space.
 
