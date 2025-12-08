@@ -4,23 +4,23 @@
 
 ## Overview
 
-Developed by [GATA's](../gata/the-basics.md) leading bio-tech enterprise, [AKICEL](../gata/enterprise/akicel.md). Blanks are cloned human bodies with near exact replicas of template brains, but provably without consciousness.
+Developed in a compartmentalized project under [GATA's](../gata/the-basics.md) leading bio-tech enterprise, [AKICEL](../gata/enterprise/akicel.md) with oversight from a [Research Corps](../sol/institutions/the-research-corps.md) special committee reporting directly to [the AIC high council](../gata/institutions/atlan-information-control-aic.md#leadership-and-governance). Blanks are cloned human bodies with near exact replicas of template brains, but provably without consciousness.
 
-Blanks are envisioned as a safe and efficient alternative to robotics and artificially intelligent systems, and a potential source of cheap, reliable labor. There is significant interest to use blanks for research, medicine, military, resource extraction, and off-world applications. However, the prospect of blanks has raised significant controversy.
+Blanks are envisioned as a safe and efficient alternative to robotics, [automata](automata.md), and [artificially intelligent systems](artificial-intelligence.md) like [COGs](cogs.md), as a potential source of cheap, reliable labor. There is significant interest to use blanks for research, medicine, military, resource extraction, and off-world applications. However, the prospect of blanks has raised significant controversy among those who have been read in.
 
 ***
 
-## Legal Status
+### Legal Status
 
 As of now, blanks and any other human cloning technologies are illegal under the NDA's strict laws and human rights protections.
 
-The research behind the project has been underway since the Dark Decade, and the blank production process has been carefully designed to satisfy the NDA's constraints, however getting the project to where it is today has taken decades of careful and close collaboration between AKICEL and regulators.
+However, the classified research behind the project has been underway since the [Dark Decade](../history/the-dark-decade.md), and the blank production process has been carefully designed to satisfy the NDA's constraints. Despite the long runway, and careful guard-rails, getting the project to where it is today has taken decades of close collaboration between [AKICEL](../gata/enterprise/akicel.md), the [Research Corps](../sol/institutions/the-research-corps.md), and [AIC regulators](../gata/institutions/atlan-information-control-aic.md).
 
-Blanks are currently in the process of being trialed by [Angelis](../gata/military-and-defense/angelis.md) in a classified program overseen by [the AIC](../gata/institutions/atlan-information-control-aic.md), and have thus far proven to be remarkably safe and reliable according to the filtered reports produced by the AIC's dedicated working group assigned to its trial.
+Blanks are currently in the process of being trialed by [Angelis](../gata/military-and-defense/angelis.md) in a compartmentalized program overseen by [the AIC](../gata/institutions/atlan-information-control-aic.md), and have thus far proven to be remarkably safe and reliable according to the filtered reports produced by the AIC's dedicated working group assigned to its trial.
 
 ***
 
-## Blank Production
+### Blank Production
 
 <figure><img src="../../.gitbook/assets/blanks-994.png" alt="" width="563"><figcaption><p>A completed blank being lifted out of the nanofluid.</p></figcaption></figure>
 
@@ -36,7 +36,7 @@ As per the AIC's developing regulations for blanks, blanks must be visually diff
 
 ***
 
-## Understanding Blanks
+### Understanding Blanks
 
 Blanks are a contentious development, given that they are living human tissue, however a conversation with a blank often softens some of their strongest reservations; blanks are stoic, nearly motionless when at rest, and entirely without affect.
 
