@@ -1,6 +1,6 @@
 # 💭 Themes
 
-<figure><img src="../../.gitbook/assets/oceanofpotential.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/oceanofpotential.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 

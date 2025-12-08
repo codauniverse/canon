@@ -62,6 +62,8 @@ The **CODA Universe** is an experimental IP & storytelling project with an on-ch
 
 ***
 
+<figure><img src=".gitbook/assets/slide1.png" alt=""><figcaption></figcaption></figure>
+
 ## Text-Based Games
 
 <figure><img src=".gitbook/assets/coda_story_souljourner-cover-1.jpg" alt="" width="375"><figcaption></figcaption></figure>

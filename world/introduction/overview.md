@@ -40,6 +40,6 @@ But the human destiny has already been written in the inflexible physical functi
 [about.md](about.md)
 {% endcontent-ref %}
 
-{% content-ref url="themes.md" %}
-[themes.md](themes.md)
+{% content-ref url="themes/" %}
+[themes](themes/)
 {% endcontent-ref %}
