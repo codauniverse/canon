@@ -46,6 +46,7 @@
   * [Scanners](world/science-and-tech/scanners.md)
   * [Emitters](world/science-and-tech/emitters.md)
   * [Grabbers](world/science-and-tech/grabbers.md)
+  * [Inertial Dampeners](world/science-and-tech/inertial-dampeners.md)
   * [Fusion Energy](world/science-and-tech/fusion-energy.md)
   * [Renewable Energy](world/science-and-tech/renewable-energy.md)
   * [Parallel Energy](world/science-and-tech/parallel-energy.md)

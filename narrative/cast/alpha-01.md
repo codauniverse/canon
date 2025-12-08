@@ -21,7 +21,7 @@ layout:
 
 ## Overview
 
-Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../secrets/the-clear-program.md), a compartmentalized carry-over from the [JAC](../../world/gata/history/the-joint-atlantic-command-jac.md) that had begun during [the Dark Decade](../../world/history/the-dark-decade.md).
+Alpha-01 was the first fully field-deployed strike unit composed entirely of subjects from the Atlan [Research Corps’](../../world/sol/institutions/the-research-corps.md) experimental [Clear gene therapy program](../secrets/the-clear-program.md), a compartmentalized carry-over from the [JAC](../../world/gata/history/the-joint-atlantic-command-jac.md)-era that began during [the Dark Decade](../../world/history/the-dark-decade.md).
 
 Operating in the liminal years of the early [Reconstruction Era](../../world/history/the-reconstruction.md), Alpha-01 served as the proof-of-concept for what would become the [Unassisted Decisive Asset (UDA)](../../world/gata/military-and-defense/mavs.md#the-unassisted-decisive-assets) program, and, generations later, [Angelis’](../../world/gata/military-and-defense/angelis.md) modern [Mavericks](../../world/gata/military-and-defense/mavs.md#the-maverick-division) and [Rapid Response](../../world/gata/military-and-defense/rapid-response.md) divisions.
 
