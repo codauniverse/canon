@@ -1,6 +1,6 @@
 # 💭 Themes
 
-<figure><img src="../../../.gitbook/assets/oceanofpotential.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/oceanofpotential.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
@@ -8,14 +8,14 @@ The CODA Universe is just as informed by its rich, thematic undertones as it is 
 
 ## Major Themes
 
-* True Connection
-* Individual vs Collective
-* Freedom vs Security
-* The Role of the Artist
-* Power & Privilege
-* The Human Destiny
-* The End of the World
-* Secrets & Shadows
+* [True Connection](themes/true-connection.md)
+* [Individual vs Collective](themes/individual-vs.-collective.md)
+* [Freedom vs Security](themes/freedom-vs.-security.md)
+* [The Role of the Artist](themes/the-role-of-the-artist.md)
+* [Power & Privilege](themes/power-and-privilege.md)
+* [The Human Destiny](themes/the-human-destiny.md)
+* [The End of the World](themes/the-end-of-the-world.md)
+* [Secrets & Shadows](themes/secrets-and-shadows.md)
 
 ## Minor Themes
 

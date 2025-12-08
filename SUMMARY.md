@@ -10,7 +10,7 @@
   * [🔵 Opening Crawl](world/introduction/opening-crawl.md)
   * [📖 Overview](world/introduction/overview.md)
   * [📄 About](world/introduction/about.md)
-  * [💭 Themes](world/introduction/themes/README.md)
+  * [💭 Themes](world/introduction/themes.md)
     * [🔵 True Connection](world/introduction/themes/true-connection.md)
     * [🔵 Individual vs. Collective](world/introduction/themes/individual-vs.-collective.md)
     * [🔵 Freedom vs. Security](world/introduction/themes/freedom-vs.-security.md)
