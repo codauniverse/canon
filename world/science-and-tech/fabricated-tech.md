@@ -8,6 +8,8 @@ Fabricated tech refers to the recycling of existing [LMNL](hard-code.md#lmnl) mo
 
 Fabricated tech is extremely convenient due to its size (legacy components are smaller than their LMNL counterparts), customizability, and reusability. Fabrication is all about building, breaking down, or recompiling the technology that you need as you need it, reusing the same components and materials. As the practice has matured, standard practices and widely accessible, commoditized specs have promoted interoperability and modularity across a wide range of fabrications.
 
+<figure><img src="../../.gitbook/assets/fabricatedtech-4343.png" alt="" width="563"><figcaption><p>A distict shop selling regulation prefab tech for consumers.</p></figcaption></figure>
+
 Fabricators can be found across Greater Atla and throughout much of the world, making fabrication and common components available to customers—for a price, of course. High-end or black-market "fab labs" generally have higher-grade fabricators, stock rarer components, and may even staff highly skilled compilers who can hand-compile more exotic, bespoke tech, unconstrained by hard-code frameworks like LMNL.
 
 On the market, some components can get quite expensive, such as [legacy components](tech-regulation.md), [COGs](cogs.md), hand-compiled hard-code, and components made with exotic materials, like [static nodes](statics.md#static-nodes).
