@@ -4,9 +4,9 @@
 
 ## Overview
 
-Brain-computer interfaces that allow the user to connect directly with systems via [endpoints](endpoints.md). Link users can ‘push’ their intentions and ‘pull’ information using their mind, analogous to “Write” and “Read” in computers. Skilled link users are called ['conduits'](links.md#conduits).
+Brain-computer interfaces that allow the user to connect directly with systems via [endpoints](endpoints.md). Link users can ‘push’ their intentions and ‘pull’ information using their mind, analogous to “Write” and “Read” in computers. Skilled link users with exceptional control over their ability to enter and maintain the "flow state" while linking are called conduits.&#x20;
 
-The systems that can be engaged with links range from the simple like lights, doors, and appliances, to the more complex like heavy-duty machinery,[ automata](automata.md), and expansive databases.
+The systems a user can link with range from the simple, like lights, doors, and appliances, to the more complex, like heavy-duty machinery, [automata](automata.md) surrogates, and expansive databases like [the General Record](../gata/politics/the-general-record.md).
 
 Links can be implanted subcranially, or worn as accessories. They can be augmented with sensors and other extensions. Links are an increasingly integral part of daily life in the districts where they are legal, and even in the [Free Territories](../free-territories/), where the technology is widely accessible on the black market.
 
@@ -76,9 +76,9 @@ The process is highly invasive and extremely difficult; someone whose mind is be
 
 <figure><img src="../../.gitbook/assets/conduits-894.png" alt="" width="563"><figcaption><p>A conduit preparing to drive an orbital satellite array.</p></figcaption></figure>
 
-Conduits are link users who have highly-developed "signal". They have the ability to drive complex systems, can often learn how to drive new systems very quickly, and are resistant to [breaching](links.md#breaching) and [residual symptoms](constructs.md#residual).
+Conduits are link users who have highly-developed "signal". They have the ability easily enter and direct the "flow state" and maintain coherence over longer periods, allowing them to drive complex systems. Talented conduits can often learn how to drive new systems very quickly, and are typically more resistant to [breaching](links.md#breaching) and [residual symptoms](constructs.md#residual).
 
-Often, talented conduits demonstrate a natural facility with link use very early on, but there are others who have had to work very hard to develop mastery over their signal.
+Often, the most gifted conduits demonstrate a natural facility with link use very quickly, but there are others who have had to work very hard to develop mastery over their signal.
 
 Anyone able to interface proficiently with complex systems would be reasonably considered a conduit, but there are also those who have exceptional skill with simpler systems who might also be considered a conduit.
 
