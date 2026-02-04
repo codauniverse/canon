@@ -31,7 +31,7 @@ After a particularly violent encounter with a group of older boys that was celeb
 
 When he got his link implanted at 16, he proved to be intuitively adept at recognizing traces of other users and other residual imprints, and this led to a nearly-successful string of major heists that landed him in the custody of the Local Authority. Without solid proof, and because of who his father was, he was released.&#x20;
 
-On the way home, he was jumped by thugs representing the gang he had stolen from, and was left with life threatening injuries, dying in the street. A young girl named Lulu discovered him in the alley while walking from school and her intervention saved his life.
+On the way home, he was jumped by thugs representing the gang he had stolen from, and was left with life threatening injuries, dying in the street. A young girl named Lulu discovered him in the alley while walking from school and her intervention saved his life. He wears those injuries and the disfigurements to this day; substantial scarring across his body, prosthetic forearms and hands, and ornamental prosthetic cheek bones and lower jaw.
 
 With his future in the higher academies forfeit and his body severely broken, an embittered Xavier decided he would take control of his future. With single-minded determination, and the care of Lulu, he set out to exact his meticulous revenge. Now, after years of struggle, the gang that had beaten him in the street are gone, and Xavier and his crew stand in their place. However, his rise came at the cost of his relationship with Lulu.
 
@@ -43,13 +43,13 @@ Xavier's gang works with Wallrunners who smuggle drugs, legacy tech and Old Worl
 
 * Maintain his grip on the West End Gray Zone.
 * Don’t lose influence to Hundred Hands.
-* Keep a tight hold on Lulu.
+* Keep a tight hold on Lulu... even at a distance.
 * Exploit Lulu's brother, Fitz, for his talents.
 * Find out who this Prince guy is.
 
 ***
 
-<figure><img src="../../.gitbook/assets/magnific-BhixqRKdm5GcqTKGFvs1-nomoney420_criminal_mastermind_sitting_on_a_makeshift_throne_in_2bed8b36-251a-4e74-84c9-0c65d5b2bb64.jpeg" alt="" width="563"><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xavier-feature-03-WIDE.png" alt="" width="563"><figcaption><p>Xavier delivering some bad news.</p></figcaption></figure>
 
 ## Trivia
 
