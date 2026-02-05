@@ -1,6 +1,6 @@
 # 👤 Xavier Alves
 
-<figure><img src="../../.gitbook/assets/35ee519d60e48e89244b558ba613.jpeg" alt="" width="256"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fitz-prosthetics.png" alt="" width="256"><figcaption></figcaption></figure>
 
 ## Chat
 
