@@ -131,6 +131,7 @@
     * [Sports & Games](world/gata/people-and-culture/sports-and-games/README.md)
       * [Guarda](world/gata/people-and-culture/sports-and-games/guarda.md)
     * [Education](world/gata/people-and-culture/education.md)
+    * [Fashion](world/gata/people-and-culture/fashion.md)
   * [🏴‍☠️ Criminal Element](world/gata/criminal-element/README.md)
     * [Political Corruption](world/gata/criminal-element/political-corruption.md)
     * [Syndicates](world/gata/criminal-element/syndicates.md)
