@@ -63,6 +63,8 @@ In this sense, fashion is not merely a language of style. It is a language of af
 
 ### Transparent Fashion
 
+<figure><img src="../../../.gitbook/assets/fabricatedtech-4343.png" alt="" width="563"><figcaption><p>A shop dedicated to transparency-focused fashion and gear.</p></figcaption></figure>
+
 One of the most recognizable modern Atlan trends is transparent fashion, also called clearwear in some youth scenes.
 
 The trend developed downstream from [GATA’s regulation of technology](../../science-and-tech/tech-regulation.md). Personal [fabricated tech](../../science-and-tech/fabricated-tech.md#an-emergent-style-trend) must often be immediately inspectable, and [translucent casings](../../science-and-tech/fabricated-tech.md#nda-compliance) became common because they allowed authorities, operators, and citizens to verify the internal components of devices without destructive inspection. Over time, clear fabricated bodies became fashionable in their own right, especially among younger people who treated exposed modules, internal lights, colored hard-code pieces, and visible component layouts as ornament.
@@ -79,11 +81,13 @@ Transparent fashion is therefore both practical and political. It is convenience
 
 ### Privacy and Anonymity
 
+<figure><img src="../../../.gitbook/assets/ravescene_02 (1).png" alt="" width="563"><figcaption><p>A sync raver wearing a concealing cowl.</p></figcaption></figure>
+
 Transparent fashion is not the only response to regulated visibility. It is counterbalanced by privacy-informed and anonymity-informed styles that draw boundaries rather than dissolve them.
 
 These styles are shaped by GATA’s contradictory relationship to visibility. [Under the WPP](../law-and-order/whole-privacy-protection-wpp.md), the state protects personal data and privacy in law, while everyday life still requires passage through [scanners](../../science-and-tech/scanners.md), [lockways](../borders-and-travel/lockways.md), permissions, keys, [Collections checkpoints and inspections](../law-and-order/collections.md), and visual assessment. As a result, some fashion emphasizes the right to be inspected only in the ways the law permits.
 
-Privacy-informed dress may include veils, masks, hooded silhouettes, redaction motifs, opaque outer layers, face-obscuring accessories, [sensor-conscious fabrics](fashion.md#materials-and-textiles) and Faraday pockets and bags, or garments that make a distinction between physical scrutability and personal exposure. A bag may be transparent while the face is hidden. A jacket may clearly show that it carries no contraband while still masking the body’s outline. Some garments display legalistic text, consent marks, or stylized redaction bars as a symbolic reminder that visibility is not the same as permission.
+Privacy-informed dress may include veils, masks, cowls, hooded silhouettes, redaction motifs, opaque outer layers, face-obscuring accessories, [sensor-conscious fabrics](fashion.md#materials-and-textiles), and Faraday pockets and bags, or garments that make a distinction between physical scrutability and personal exposure. A bag may be transparent while the face is hidden. A jacket may clearly show that it carries no contraband while still masking the body’s outline. Some garments display legalistic text, consent marks, or stylized redaction bars as a symbolic reminder that visibility is not the same as permission.
 
 In affluent settings, privacy fashion can appear as restrained anonymity: clean veils or masks, abstract eyewear, identity-minimal eveningwear, matte fabrics, and garments that emphasize distance. In youth culture and underground spaces, it is more openly provocative. It communicates awareness of rights, suspicion of institutions, and a refusal to confuse compliance with surrender. In [Gray Zones](../politics/gray-zones.md), it is especially ubiquitous in clothing, but then, so too is the heightened awareness of who is concealing something.
 
@@ -157,7 +161,7 @@ These are just some of the many materials that make fashion responsive, protecti
 
 ### Wearable Gear and Accessories
 
-Accessories in GATA often have practical functions. Links, sights, [slates](../../science-and-tech/slates.md), [slips](../politics/money.md#slips), [paper](../politics/money.md#paper-money), [data sticks](../../science-and-tech/hard-code.md#standard-hard-code-formats), fabricated jewelry, storage charms, medical bands, shields, [filter modules](../../science-and-tech/asimovian-architecture.md#filter-modules), prosthetic housings, hard-code ornaments, and small sensor arrays can all be worn as part of an outfit.
+Accessories in GATA often have practical functions. [Links](../../science-and-tech/links.md), [sights](../../science-and-tech/sights.md), [slates](../../science-and-tech/slates.md), [slips](../politics/money.md#slips), [paper](../politics/money.md#paper-money), [data sticks](../../science-and-tech/hard-code.md#standard-hard-code-formats), fabricated jewelry, storage charms, medical bands, shields, [filter modules](../../science-and-tech/asimovian-architecture.md#filter-modules), prosthetic housings, hard-code ornaments, and small sensor arrays can all be worn as part of an outfit.
 
 Some accessories are primarily decorative. Others imply access to systems, private data, enterprise environments, constructs, or restricted spaces. A pendant may be a family object, a key carrier, a storage device, or a scanner-confusing countermeasure. A bracelet may be jewelry, medical monitor, link extension, faction marker, concealed tool, or [dormant automata](../../science-and-tech/automata.md).
 
