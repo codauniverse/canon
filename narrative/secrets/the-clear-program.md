@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # The Clear Program
 
 <figure><img src="../../.gitbook/assets/uda-435.png" alt=""><figcaption><p>A field lab where the Clear Serum was administered to volunteers.</p></figcaption></figure>

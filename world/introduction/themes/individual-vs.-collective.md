@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 🔵 Individual vs. Collective
 
 **Fragment ID:** `PILLAR_THEME_INDIVIDUAL_VS_COLLECTIVE`\

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 🟦 Alpha-01
 
 <figure><img src="../../.gitbook/assets/alpha01-181.png" alt=""><figcaption></figcaption></figure>

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # The Unit
 
 <figure><img src="../../.gitbook/assets/unit-1222.png" alt=""><figcaption><p>The Unit's box and the Infinity Core.</p></figcaption></figure>

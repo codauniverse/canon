@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # 🔵 The End of the World
 
 **Fragment ID:** `PILLAR_THEME_END_OF_THE_WORLD`\
