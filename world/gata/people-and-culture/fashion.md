@@ -19,11 +19,9 @@ layout:
 
 # Fashion
 
-## Fashion
-
 <figure><img src="../../../.gitbook/assets/fashion-9323.png" alt=""><figcaption><p>A showroom displaying personalized selections.</p></figcaption></figure>
 
-### Overview
+## Overview
 
 Fashion across [GATA](../the-basics.md) is shaped by the same forces that define life in [Greater Atla](../politics/greater-atla.md): district identity, technological regulation, social class, professional access, historical migration patterns, medical privilege, and the unresolved legacy of [the Dark Decade](../../history/the-dark-decade.md) and [the Reconstruction](../../history/the-reconstruction.md).
 
