@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Akicel Therapy
 
 <figure><img src="../../../.gitbook/assets/akiceltherapy.png" alt=""><figcaption><p>A patient waking from their Akicel rejuvenation treatment.</p></figcaption></figure>
@@ -36,10 +57,14 @@ At present, Rejuvenation is considerably expensive, which has made it politicall
 
 ## **Rejection Syndrome**
 
-Some individuals do not respond well to Akicel therapy and Rejuvenation treatments in particular. This is called "rejection syndrome", and the reaction can be severe and even deadly.&#x20;
+Some individuals do not respond well to AKICEL therapy and Rejuvenation treatments in particular. This is called Rejection Syndrome, or simply "Rejection", and the reaction can be severe and even deadly.
 
-Rejection syndrome symptoms are similar to an extremely aggressive cancer or flesh-eating disease. There is no known cure. Once someone with rejection syndrome falls ill, they rarely recover. This is not the cause of AKICEL’s therapy per say, but rather the individual’s immune system responding to the therapy.
+Rejection syndrome is an extremely aggressive degenerative illness that affects the individual's neuronal cells, specifically triggering a deleterious cascade of disorder affecting the microtubules in their synapse.
 
-Patients must be screened before AKICEL's therapies are administered to ensure that their cells are compatible.
+As the disease progresses, the afflicted individual experiences symptoms similar to Alzheimer's or dementia, eventually losing motor control, and becoming "locked in" before the final stages of the disease when their autonomic nervous system completely fails.
 
-Rejection syndrome is not common in GATA where regulations require proper sequencing and blood tests prior to treatment.
+There is no known cure. Once someone with rejection syndrome falls ill, they rarely recover. This is not the cause of AKICEL’s therapy per say, but rather a poorly understood interaction between the template cells and the individual’s immune system.
+
+Rejection syndrome has been recorded in the literature since the Reconstruction Era, connected to early precursors to the AKICEL therapy tested by the [Research Corps](../../sol/institutions/the-research-corps.md) under [the Existence Doctrine](../military-and-defense/existence-doctrine.md). Patients must be screened before AKICEL's therapies are administered to ensure that their cells are compatible. Some believe the condition is intimately tied to the fundamental mechanisms behind consciousness.
+
+Rejection Syndrome is not common in GATA where regulations require proper sequencing and blood tests prior to treatment.
