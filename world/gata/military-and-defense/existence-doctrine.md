@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Existence Doctrine
 
 <figure><img src="../../../.gitbook/assets/existencedoctrine-453.png" alt=""><figcaption><p>One of GATA's top secret facilities used to develop and manufacture protected technologies during the Reconstruction.</p></figcaption></figure>
@@ -12,9 +35,11 @@ When a deliberation's consequences do not threaten humanity’s continued existe
 
 ## History
 
-The Existence Doctrine gave GATA exhaustive flexibility and emergency powers, permitting leadership to act decisively and utilize the full arsenal of technologies, weapons, and human resources at their disposal. Some of the most incredible feats of science and engineering were accomplished during this period.
+The Existence Doctrine gave GATA authorities exhaustive flexibility and emergency powers, permitting leadership to act decisively and utilize the full arsenal of technologies, weapons, and human resources at their disposal. Some of the most incredible feats of science and engineering were accomplished during this period.
 
 Many reported technologies seen during the Existence Doctrine’s time were developed by the [Research Corps](../../sol/institutions/the-research-corps.md) and [ALTAR](../institutions/altar.md) special programs, and have not been seen in action since the end of the Reconstruction era. Some since-[paradigmed](../politics/paradigms.md) technology matches eye-witness accounts from the Dark Decade and Reconstruction, giving historians some sense of just how early some of GATA’s most transformative technologies were really developed.
+
+Over the last two decades, GATA's priorities have broadly shifted from the objectives of the Reconstruction Era into an orientation toward establishing international cooperation and alignment among the super-states, and over that time invocation of existence doctrine authority, as measured in both enforcement and related key-use has decreased broadly — with the notable exception being GATA's unflinching enforcement of [its technology regulations](../../science-and-tech/tech-regulation.md), including the prohibiting possession and use of restricted technology, restricting areas of study and innovation, and prosecuting the unauthorized transfer or communication of existentially-sensitive information.
 
 ***
 

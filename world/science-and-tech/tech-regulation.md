@@ -1,14 +1,39 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Tech Regulation
 
 <figure><img src="../../.gitbook/assets/techregulation-48354.png" alt=""><figcaption><p>Collections officers retrieving Class 1 technology on a static raft.</p></figcaption></figure>
 
 ## Overview
 
-Within GATA, technology is heavily regulated by two of its formative legislative documents; the New Dawn Accords, and the Whole Privacy Act. Authorities investigate, pursue, and prosecute the use of illegal technology, including legacy tech from the [Old World](../history/the-old-world.md), within and without the borders of Greater Atla, and technology is scrutinized particularly closely inside the walls of GATA's districts.
+Within GATA, technology is heavily regulated by two of its formative legislative documents; [the New Dawn Accords](../gata/law-and-order/new-dawn-accords.md), and [the Whole Privacy Act](../gata/law-and-order/whole-privacy-protection-wpp.md). Authorities investigate, pursue, and prosecute the use of illegal technology, including legacy tech from the [Old World](../history/the-old-world.md), within and without the borders of [Greater Atla](../gata/politics/greater-atla.md), and technology is scrutinized particularly closely inside the walls of [GATA's districts](../gata/politics/districts.md).
 
-This heavy-handed regulation of technology is foundational to GATA's vision for a safe and prosperous human future, a bid to never again repeat the tragedies of the Dark Decade. By restraining and constraining the development of novel tech, GATA intends to mitigate sudden and catastrophic failures at both the immediate and existential scope.
+This heavy-handed regulation of technology is foundational to GATA's vision for a safe and prosperous human future, a bid to never again repeat the tragedies of [the Dark Decade](../history/the-dark-decade.md). GATA's leadership's has always maintained that its aggressive enforcement of these regulations is imperative in order to mitigate the threat of sudden and catastrophic failures at both the immediate and existential level.&#x20;
 
-GATA's tech regulation is overseen by Atlan Information Control (AIC). The AIC is a vast institution tasked with classifying safe and unsafe technologies, designing the technological paradigms that differentiate each district's technological regime, and adjudicating on matters that rise to their courts.
+GATA's enforcement of these laws is one of the few areas where [Existence Doctrine authority](../gata/military-and-defense/existence-doctrine.md) is still commonly invoked. With the appropriate existential keys granted by the AIC, and within their defined scope, authorized operators can supersede nearly every other law or right with the broad exemptions and immunity privileges those keys confer.
+
+GATA's tech regulation is overseen by [Atlan Information Control (AIC)](../gata/institutions/atlan-information-control-aic.md). The AIC is a vast institution tasked with classifying safe and unsafe technologies, designing the technological paradigms that differentiate each district's technological regime, and adjudicating on matters that rise to their courts.
 
 Unsurprisingly, this restrictive atmosphere has created a lucrative black market for illegal technology, whether it's exotic tech smuggled from inside a district, or legacy technology that is deemed illegal under the strictures of the NDA.
 
@@ -22,11 +47,15 @@ In GATA, technology is generally classified into three different categories that
 
 ### Class 1 - Red
 
-Class 1 technology, aka "red tech", is universally restricted technology, and includes general purpose processors, legacy military tech, automated weapons, nanotechnology, and hazardous materials or compounds, among others.
+Class 1 technology, aka "red tech", is universally restricted technology, and includes general purpose processors, legacy military tech, legacy software, automated weapons, nanotechnology, and hazardous materials or compounds, among others.
 
-Not only are the functional components illegal, but also the designs and instrumental information about its fabrication or operation.
+Not only are the functional components illegal, but also the designs and instrumental information about its fabrication or operation. In many cases, technology is simply classified as Class 1 because it can't be sufficiently understood or regulated.
 
-Class 1 offenses fall under into the domain of AIC's rigorous court system. Collections must be alerted whenever Class 1 technology is involved. In some cases, restricted Class 1 tech can be licensed to enterprise for study under very stringent conditions. The AIC's courts are responsible for granting or denying these licenses.
+For example, most Late Old World legacy hardware and software is classified Class 1 simply because it was nearly universally written by Pre-Crash artificial intelligence, and can't be fully understood or cleared by human researchers or available expertise.
+
+Class 1 offenses fall under the jurisdiction of AIC's stringent judicial branch and court system. The AIC's enforcement brahc, Collections, must be alerted whenever Class 1 technology or information is suspected or seized.
+
+The AIC can grant or approve keys that permit restricted Class 1 tech to be licensed for research or enterprise. While qualified institutions and enterprises can petition for these exemption keys to exploit specified Class 1 material, the AIC's courts are ultimately the only entity capable of granting or denying them.
 
 ### Class 2 - Green/Gray
 

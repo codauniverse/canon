@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # The Daemon Virus
 
 <figure><img src="../../.gitbook/assets/daemon.png" alt=""><figcaption><p>A computer system infected with the Daemon Virus, aka BODYSNATCHER.</p></figcaption></figure>
@@ -36,6 +59,6 @@ It is believed by some that this could be the mechanism that initiated The Crash
 
 While it has been thus far impossible to design general purpose computers and classical networks that are impervious to Daemon infection, there has been progress in prevention and detection thanks to the ubiquity of modern hard-coded filter modules.
 
-Today, in cases where legacy technology is still in use or being studied, a specialized filter component is attached directly to the user's interface to alert the user that the system in use is infected with the Daemon by shifting all color on the interface's display to red.
+Today, in cases where legacy technology is still in use or being studied, a specialized filter component is attached directly to the user's interface to alert the user that the system in use is infected with the Daemon. This signal uses a dedicated bypass channel that is incorporated into components and devices at the hardware level, and is most commonly done via a display's color output, shifting the color of the interface's display to all red.
 
-It is ill-advised to create large networks of legacy systems, especially without employing these Anti-Daemon filter modules at every opportunity in each node and router.
+Even in the Free Territories, create large networks of legacy systems is highly discouraged or even a catalyst for violent conflicts. It is well known across the world that it is very dangerous to use legacy technology without employing anti-Daemon filters diligently and often.

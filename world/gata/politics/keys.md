@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Keys
 
 <figure><img src="../../../.gitbook/assets/keys-sfs78gf.png" alt=""><figcaption><p>A terminal requiring appropriate keys for access.</p></figcaption></figure>
@@ -6,7 +29,9 @@
 
 Keys are digital signatures that bestow specific privileges on their holder. Every key has its own rules, and while many keys can be bought, or traded, others can only be earned, inherited, or assigned, and some can also be revoked.
 
-Keys are an integral part of every-day life inside of [GATA's](../the-basics.md) [districts](districts.md). Keys are how citizens access the district, their homes, places of work, networks and devices, and exclusive goods and services. Keys also play an important role in [institutions](../institutions/) and [enterprise](../enterprise/), and are of great interest to [operators](../enterprise/operators.md), [criminal syndicates](../criminal-element/syndicates.md) and other motivated parties.
+Keys are an integral part of every-day life inside of [GATA's](../the-basics.md) [districts](districts.md). Keys are how citizens prove their citizenship, claim [their share of yield](yield.md), and access everything from districts, homes, private spaces, networks and devices, or provide attestations and proofs for consequential claims and associations.
+
+Keys also play an important role in [institutions](../institutions/) and [enterprise](../enterprise/), often used to gate access to certain markets, associations, or supply chains, and are of great interest [criminal syndicates](../criminal-element/syndicates.md) and other interested parties. For operators, accumulating valuable keys is as essential for their success as knowing how to use them.
 
 ***
 
